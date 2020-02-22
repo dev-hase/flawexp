@@ -5,7 +5,7 @@ meta:
     content: 'Begriffe, Definitionen, Pädagogik'
 ---
 
-# A
+# Begriffe aus der Pädagogik
 
 ## Affektiv
 
