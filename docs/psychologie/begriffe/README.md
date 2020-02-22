@@ -5,7 +5,7 @@ meta:
     content: 'Begriffe, Definitionen, Psychologie'
 ---
 
-# A
+# Begriffe aus der Psychologie
 
 ## Angststörung
 
@@ -23,8 +23,6 @@ Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) gehört zur Gruppe d
 
 Die weltweite Häufigkeit der ADHS unter Kindern und Jugendlichen wird mit etwa 5,3 % beziffert. Sie gilt heute als häufigste psychiatrische Erkrankung bei Kindern und Jugendlichen. Jungen werden merklich häufiger diagnostiziert als Mädchen.
 
-# B
-
 ## Borderline-Persönlichkeitsstörung (BPS)
 
 Die Borderline-Persönlichkeitsstörung (BPS) oder emotional instabile Persönlichkeitsstörung des Borderline-Typs ist eine psychische Erkrankung. Typisch für sie sind Impulsivität, instabile aber intensive zwischenmenschliche Beziehungen, rasche Stimmungswechsel und ein schwankendes Selbstbild aufgrund von gestörter Selbstwahrnehmung. Hinzu kommen oft selbstschädigendes Verhalten, Gefühle innerer Leere, Dissoziationserlebnisse und Angst vor dem Verlassenwerden.
@@ -33,8 +31,6 @@ Bei dieser Persönlichkeitsstörung sind bestimmte Vorgänge in den Bereichen Ge
 
 Die BPS wird häufig von weiteren psychischen Störungsbildern begleitet. Häufige zusätzliche Störungsbilder sind z. B. Depressionen, die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS), Posttraumatische Belastungsstörungen (PTBS), Essstörungen, Substanzmissbrauch und andere Persönlichkeitsstörungen.
 
-# E
-
 ## Empathie
 
 Empathie bezeichnet die Fähigkeit und Bereitschaft, Empfindungen, Emotionen, Gedanken, Motive und Persönlichkeitsmerkmale einer anderen Person zu erkennen, zu verstehen und nachzuempfinden. Ein damit korrespondierender allgemeinsprachlicher Begriff ist Einfühlungsvermögen.
@@ -42,8 +38,6 @@ Empathie bezeichnet die Fähigkeit und Bereitschaft, Empfindungen, Emotionen, Ge
 Zur Empathie wird gemeinhin auch die Fähigkeit zu angemessenen Reaktionen auf Gefühle anderer Menschen gezählt, zum Beispiel Mitleid, Trauer, Schmerz und Hilfsbereitschaft aus Mitgefühl. Die neuere Hirnforschung legt allerdings eine deutliche Unterscheidbarkeit des empathischen Vermögens vom Mitgefühl nahe.
 
 Grundlage der Empathie ist die Selbstwahrnehmung – je offener eine Person für ihre eigenen Emotionen ist, desto besser kann sie auch die Gefühle anderer deuten.
-
-# N
 
 ## Narzissmus
 
