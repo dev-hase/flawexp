@@ -37,7 +37,7 @@ Die BPS wird häufig von weiteren psychischen Störungsbildern begleitet. Häufi
 
 ## Empathie
 
-Empathie bezeichnet die Fähigkeit und Bereitschaft, Empfindungen, Emotionen, Gedanken, Motive und Persönlichkeitsmerkmale einer anderen Person zu erkennen, zu verstehen und nachzuempfinden.[1][2] Ein damit korrespondierender allgemeinsprachlicher Begriff ist Einfühlungsvermögen.
+Empathie bezeichnet die Fähigkeit und Bereitschaft, Empfindungen, Emotionen, Gedanken, Motive und Persönlichkeitsmerkmale einer anderen Person zu erkennen, zu verstehen und nachzuempfinden. Ein damit korrespondierender allgemeinsprachlicher Begriff ist Einfühlungsvermögen.
 
 Zur Empathie wird gemeinhin auch die Fähigkeit zu angemessenen Reaktionen auf Gefühle anderer Menschen gezählt, zum Beispiel Mitleid, Trauer, Schmerz und Hilfsbereitschaft aus Mitgefühl. Die neuere Hirnforschung legt allerdings eine deutliche Unterscheidbarkeit des empathischen Vermögens vom Mitgefühl nahe.
 
