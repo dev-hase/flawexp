@@ -10,15 +10,13 @@ meta:
 ## Affektiv
 
 ...bedeutet „den Affekt betreffend“. 
-Als affektives Verhalten bezeichnet man ein Verhalten, das überwiegend von kurzen, impulsartigen Gefühlsregungen und nicht von kognitiven Prozessen bestimmt ist. 
+*Als affektives Verhalten bezeichnet man ein Verhalten, das überwiegend von kurzen, impulsartigen Gefühlsregungen und nicht von kognitiven Prozessen bestimmt ist.*
 
-*Begriffserklärung*
+**Begriffserklärung**
 
 Was heißt affektiv? In Wörterbüchern findet man Synonyme von auf Gefühle bezogen über irrational bis hin zu leidenschaftlich. Ein Affekt ist ein Zustand der Erregung. Ein heftiges Gefühl, das aus psychischen Prozessen oder äußeren Begebenheiten entsteht. Die Definition umfasst den Begriff als starke Erregung, starke psychische Anspannung oder Bewegungen des Gemüts mit körperlichen Begleiterscheinungen wie zum Beispiel ein erhöhter Puls. Worte wie Emotion oder Stimmung werden oft als Synonym verwendet, allerdings ist ein Affekt insofern von Stimmungen zu unterscheiden, als dass er nur für eine begrenzte Zeit auftritt. Zunächst könnte man annehmen, es handelt sich bei Affektivität in erster Linie um negative Gefühle. Affekte jedoch befinden sich auf der gesamten emotionalen Skala von Gefühlen wie Hass, Trauer oder Wut bis hin zu Begierde, Freude oder Liebe.
 
 Es handelt sich folglich immer um eine Dominanz von starken Emotionen. Diese Gefühle beeinflussen das Verhalten des Menschen und seine Fähigkeiten. Entscheidend ist, dass bei affektivem Verhalten die Steuerung des Handelns durch das Bewusstsein eingeengt, also für den Betroffenen eingeschränkt sichtbar oder in extremen Fällen ganz ausgeschaltet ist.
-
-# B
 
 ## Behavioristische Lerntheorie
 
@@ -38,24 +36,18 @@ B. F. Skinner hat sich v. a. mit dem operanten Verhalten, also der Rückwirkung 
 
 Diese Lernprinzipien wurden ab den 1960er Jahren in der Psychologie um die Prinzipien des Lernens am Modell und (mit Einschränkungen) des Lernens durch Einsicht ergänzt.
 
-# D
-
 ## Didaktik
 
-Die Didaktik ist die „Kunst“ und die „Wissenschaft“ des Lehrens und Lernens. Sie ist eine zentrale Disziplin der Pädagogik.
+Die *Didaktik ist die „Kunst“ und die „Wissenschaft“ des Lehrens und Lernens.* Sie ist eine zentrale Disziplin der Pädagogik.
 
 Didaktik im engeren Sinn beschäftigt sich mit der Theorie des Unterrichts, im weiteren Sinne mit der Theorie und Praxis des Lehrens und Lernens. Sie befasst sich mit den praktischen Verfahren des Lehrens und Lernens (dem Wie).
-
-# G
 
 ## Ganzheitlichkeit
 
 Ganzheitlichkeit bezieht sich in der Pädagogik auf einen integrativen Bestandteil handlungsorientierter Konzepte. Erste Ansätze sind bereits mit Pestalozzis Idee der Elementarbildung, dem Lernen mit Kopf, Herz und Hand im Rahmen der damaligen Anschauungspädagogik zu verzeichnen. Ausgehend von der Reformpädagogik betont ganzheitliches Lernen neben den traditionell privilegierten kognitiv-intellektuellen Aspekten auch körperliche sowie affektiv-emotionale Aspekte: Ganzheitliches Lernen ist Lernen mit allen Sinnen, Lernen mit Verstand, Gemüt und Körper.
 
-# K
-
 ## Kognition 
-(engl. cognition; lat. cognitio = Erkenntnis, Vorstellung, Begriff, Wiedererkennen) schließt zum einen die Fähigkeit ein, bestimmte Gesetzmäßigkeiten zu erkennen (= Denken). Dieser Prozess umfasst die Aufnahme, Verarbeitung und Bewertung von Informationen. Zum anderen ist das Vorhandensein von sowie der Rückgriff auf Vergleichswissen (= Gedächtnis) inbegriffen. Kurz gesagt handelt es sich hierbei um die Gesamtheit aller Vorgänge, welche der Aufnahme, Verarbeitung und Speicherung von Informationen dienen. Aus diesem Grund werden auch alle Theorien, die ihren Blick auf geistige Vorgänge richten, kognitionstheoretische Modelle genannt. Verwiesen sei an dieser Stelle beispielhafterweise auf das Modell-Lernen von Albert Bandura.
+(engl. cognition; lat. cognitio = Erkenntnis, Vorstellung, Begriff, Wiedererkennen) schließt zum einen die Fähigkeit ein, bestimmte Gesetzmäßigkeiten zu erkennen (= Denken). Dieser Prozess umfasst die Aufnahme, Verarbeitung und Bewertung von Informationen. Zum anderen ist das Vorhandensein von sowie der Rückgriff auf Vergleichswissen (= Gedächtnis) inbegriffen. *Kurz gesagt handelt es sich hierbei um die Gesamtheit aller Vorgänge, welche der Aufnahme, Verarbeitung und Speicherung von Informationen dienen.* Aus diesem Grund werden auch alle Theorien, die ihren Blick auf geistige Vorgänge richten, kognitionstheoretische Modelle genannt. Verwiesen sei an dieser Stelle beispielhafterweise auf das Modell-Lernen von Albert Bandura.
 
 Beispiele für kognitive Prozesse sind nach Holzinger:
 
@@ -71,8 +63,6 @@ Beispiele für kognitive Prozesse sind nach Holzinger:
 ## Konstruktivismus
 
 Der Konstruktivismus in lernpsychologischer Hinsicht postuliert, dass menschliches Erleben und Lernen Konstruktionsprozessen unterworfen ist, die durch sinnesphysiologische, neuronale, kognitive und soziale Prozesse beeinflusst werden. Seine Kernthese besagt, dass Lernende im Lernprozess eine individuelle Repräsentation der Welt schaffen. Was jemand unter bestimmten Bedingungen lernt, hängt somit stark, jedoch nicht ausschließlich, von dem Lernenden selbst und seinen Erfahrungen ab.
-
-# L
 
 ## Lernziele
 
@@ -94,8 +84,6 @@ Bei der Auswahl der geeigneten Lernmethoden ist es wichtig, vorher zu ermitteln,
 
 Wie die Lehrmethoden, sollten auch die gewählten Lernmethoden auf den Erkenntnissen der Lernpsychologie bzw. der Pädagogischen Psychologie aufbauen, um möglichst erfolgreich zu sein. Dies bedeutet, dass effektives Lernen eines längerfristigen systematischen Aufbaus bedarf. Hierzu müssen angestrebten Lernziele präzise gesetzt sowie die schrittweise erreichten Lernergebnisse durch korrespondierende Lernkontrollen überprüft werden.
 
-# M
-
 ## Mehrdimensionales Lernen
 
 Als Mehrdimensionales Lernen bezeichnet man in der Unterrichtslehre seit Warwitz eine Methode des Lernens, die eine Reihe verschiedener Fähigkeiten für den Aneignungsprozess miteinander verknüpft und in unterschiedlichen Lernformen kombiniert. Durch die Verbindung mehrerer Dimensionen des Lernvermögens und mehrerer Lernverfahren wird ein intensiveres und nachhaltigeres Verarbeiten des Lernstoffs möglich.
@@ -115,8 +103,6 @@ Die Sozialkognitive Lerntheorie (auch Sozial-kognitive Lerntheorie oder Modellle
 Andere Bezeichnungen sind Beobachtungslernen, Nachahmungslernen, Imitationslernen, soziales Lernen, Identifikationslernen, Rollenlernen und stellvertretendes Lernen.[1] Die einzelnen Bezeichnungen können je nach Autor auch unterschiedlich verwendet werden. Das „Lernen am Modell“ gilt als dritte Form des menschlichen Lernens, da es zeitlich nach der instrumentellen und operanten Konditionierung und der Klassischen Konditionierung entdeckt wurde.
 
 Banduras Konzept beschreibt einen Lernprozess in vier Prozessen, die sich in die zwei Phasen Aneignung und Ausführung aufteilen. Im Gegensatz zu behavioristischen Lerntheorien – wie dem Operanten Konditionieren – kommen in der sozial-kognitiven Lerntheorie besonders zwei Komponenten zum Tragen. Zum einen wird der Mensch als ein aktiv Lernender gesehen, der sich bewusst mit seiner Umwelt auseinandersetzt und so ein Lernprozess aus einer Wechselwirkung von Person und Umwelt entsteht (soziale Komponente). Zum anderen plant der Mensch nicht nur seine Handlung, sondern er ist auch fähig diese zu reflektieren und sich selbst zu motivieren (kognitive Komponente).
-
-# P
 
 ## Pädagogik
 

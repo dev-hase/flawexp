@@ -5,11 +5,11 @@ meta:
     content: 'Begriffe, Definitionen, Straßenverkehr'
 ---
 
-# A
+# Begriffe rund um den Straßenverkehr
 
 ## Abstellen
 
-Parken ist zulässiger „Gemeingebrauch“, Abstellen ist unzulässige „Sondernutzung“ von öffentlichen Verkehrsraum.
+Parken ist zulässiger „Gemeingebrauch“, *Abstellen ist unzulässige „Sondernutzung“ von öffentlichen Verkehrsraum.*
 
 Abgestellt sind Fz, die aus dem Verkehr gezogen sind und daher aus der Geltung des Straßenverkehrsrechts herausfallen, entweder weil sie nicht zugelassen oder nicht fahrbereit sind oder praktisch nicht als Verkehrsmittel benutzt werden.
 
@@ -29,8 +29,6 @@ sollen Behinderungen des durchgehenden Verkehrs durch Links- oder Rechtsabbieger
 ## Andere Straßenteile
 
 ...sind Flächen, die nicht zur Fahrbahn gehören, wie Seitenstreifen, Sonderwege, Parkplätze, Mittel- oder Schutzstreifen, Grundstückszufahrten über Gehwege, auch für den Verkehr noch nicht freigegebene Flächen, die als Baustellenzufahrten dienen. Grünflächen sind dann öffentlich, wenn sie allgemein zugänglich sind. Sind sie infolge des Bewuchses tatsächlich nichtnutzbar, gelten sie als Privatflächen, selbst wenn sie im Eigentum der öffentlichen Hand stehen (z.B. dicht mit Büschen oder Bäumen bewachsene Mittelstreifen). Wird dort unzulässig geparkt, liegt kein Verstoß nach § 12(4) vor, wohl aber eine Zuwiderhandlung nach den Straßengesetzen oder Landschaftsschutzverordnungen.
-
-# B
 
 ## Behinderung
 ...ist die unzulässige und mehr als verkehrsübliche Beeinträchtigung der Verkehrsteilnahme eines anderen, der sich ordnungsgemäß verhält.
@@ -84,8 +82,6 @@ vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten,
 
 ...ermöglicht ein sofortiges Anhalten, wenn der Fahrer mit einem unbedachten oder verkehrswidrigen Verhalten rechnen muss.
 
-# D
-
 ## Defensives Fahren
 ...bedeutet, dass man seine Rechtsposition im Straßenverkehr nicht voll ausschöpft, sondern aus Sicherheitsgründen (§ 1 (1) StVO) eine über das Normalmaß hinausgehende Sorgfalt walten lässt.
 
@@ -124,13 +120,9 @@ Daraus folgt der Vertrauensgrundsatz. Beide Grundsätze, jeweils sinnvoll einges
 
 Bildungssprachlich = „bestimmender Faktor“
 
-# E
-
 ## Einfädelungsstreifen
 
 (Beschleunigungsstreifen) dienen dem Eingliedern in den durchgehenden Verkehr, meist im Schnellverkehr. Auf ihnen darf schneller als auf den anderen Fahrstreifen gefahren werden (§ 7a (2)).
-
-# F
 
 ## Fahrstreifen
 
@@ -178,8 +170,6 @@ Neben dem Halter ist für das Fahrzeug verantwortlich der beauftragte Fuhrparkle
 
 (2) Als Fahrrad gilt auch ein Fz i.S. Abs. 1, das mit einer elektrischen Trethilfe ausgerüstet ist, die mit einem elektromotorischen Hilfsantrieb mit einer größten Nenndauerleistung von 0,25 kW ausgestattet ist, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder wenn der Fahrer mit dem Treten oder Kurbeln einhält, unterbrochen wird. Die Anforderungen des Satzes 1 sind auch dann erfüllt, wenn das Fahrrad über einen Hilfsantrieb im Sinne des Satzes 1 verfügt, der eine Beschleunigung des Fahrzeugs auf eine Geschwindigkeit von bis zu 6 km/h, auch ohne gleichzeitiges Treten oder Kurbeln des Fahrers, ermöglicht (Anfahr- oder Schiebehilfe).
 
-# G
-
 ## Gefährdung
 
 ...ist ein Zustand, der die Besorgnis begründet, dass ein schädigendes Ereignis unmittelbar bevorsteht, das aber nur durch situationsgerechtes Handeln oder durch Zufall nicht eintritt.
@@ -210,7 +200,6 @@ Gehweg ist der deutlich von der Fahrbahn getrennte für den Fußgänger bestimmt
 
 Grundsätzlich ist jeder Verkehrsteilnehmer zum Verkehr auf öffentlichen Straßen zugelassen (Folge aus der Handlungsfreiheit des Art. 2 GG und der Berufsausübung nach Art. 12 GG). Infolgedessen darf der Staat den individuellen Verkehrszweck nicht zum Gegenstand von Beschränkungen machen. Unzulässig wären Einschränkungen der Aufenthalts- oder Bewegungsfreiheit nur aus sozial- oder verkehrspolitisch für „sinnvoll“ gehaltenen Gründen. Das Verbot des „unnützen Hin- und Herfahrens“ nach § 30(1) S. 2 ist verfassungsrechtlich nur deshalb tragbar, weil es sich nicht auf einen bestimmten Verkehrsnutzen bezieht, sondern der Vermeidung von Lärm und Abgasbelästigungen dient. Zulässig sind allerdings Beeinträchtigungen der Mobilität im Interesse anderer schützenswerter Rechte, insbesondere zu Gunsten der Verkehrssicherheit und des Immissionsschutzes. So kann z. B. ungeeigneten oder verkehrsschwachen Personen das Führen von Fahrzeugen untersagt, eine Fahrerlaubnispflicht vorgeschrieben oder auf bestimmten Straßen Verkehrsverbote erteilt werden.
 
-
 ## Gewidmeter Straßenraum
 
 Eine Straße wird eine öffentliche Straße im Sinne des Straßenrechts durch die Widmung (z. B. gem. § 2 Abs. 1 FernStrG). Jede dem öffentlichen Verkehr ausdrücklich gewidmete Straße ist demnach auch gleichzeitig öffentlicher Straßenraum im Sinne des Straßenverkehrsrechts.
@@ -220,13 +209,9 @@ Bundesfernstraßengesetz (FStrG)
 (1) Eine Straße erhält die Eigenschaft einer Bundesfernstraße durch Widmung.
 (2) Voraussetzung für die Widmung ist, dass der Träger der Straßenbaulast Eigentümer des der Straße dienenden Grundstücks ist, oder der Eigentümer und ein sonst zur Nutzung dinglich Berechtigter der Widmung zugestimmt hat, oder der Träger der Straßenbaulast den Besitz durch Vertrag, durch Einweisung nach § 18f Abs. 1 oder in einem sonstigen gesetzlichen Verfahren erlangt hat.
 
-# H
-
 ## Halten
 
 ...ist eine gewollte Fahrtunterbrechung, die nicht durch die Verkehrslage (z.B. Stau, warten vor Fußgängerüberweg) oder eine Anordnung (z.B. durch Verkehrs- oder Lichtzeichen, durch Polizei) veranlasst wird. (VwV-StVO zu § 12 (1)).
-
-# K
 
 ## Kraftfahrzeuge
 
@@ -256,21 +241,15 @@ Dreirädrige Krafträder („Trikes") mit symmetrisch angeordneten Rädern werde
 
 ...sollen an Steigungsstrecken Behinderungen durch langsame KFZ ausschließen. Verbindlich ist die Benutzung, wenn Z. 211 oder Z. 275 angeordnet ist. Zum Rechtsüberholen darf der Kriechstreifen in der Regel nicht benutzt werden. Am Ende hat sich der Verkehr nach dem Reißverschlussverfahren zu verflechten.
 
-# L
-
 ## Liegenbleiben
 
 ...ist Stillstand eines fahruntüchtigen Kfz aus technischen Gründen (z.B. Panne) oder aus einem anderen Anlass (z.B. Unfall, Schwächeanfall des Fahrers). Liegen bleibt ein Fz, dass sich, gleichgültig weshalb, OLG Düsseldorf VM 74 87, nicht aus eigener Kraft fort- oder aus dem Verkehrsbereich wegbewegen kann.
 
 Unfreiwillige Fahrtunterbrechung. Gehört weder zum ruhenden, noch dem fließenden Verkehr.
 
-# M
-
 ## Mehrzweckstreifen
 
 ...liegen jenseits der Fahrbahnrandlinie und stellen einen außerhalb der Fahrbahn liegenden Seitenstreifen dar. Seitenstreifen dürfen nur benutzt werden, wenn es ausdrücklich vorgesehen ist, z. B. als Parkstreifen, sofern sie als solche deutlich erkennbar sind (§ 12(4) S.1), für den Radfahrverkehr (§ 2(4) S.2), für langsame Fahrzeuge, um anderen das Überholen zu ermöglichen (§ 5(6) S.3), für Fußgänger, auch bei nur einseitig vorhandenen Seitenstreifen (§ 25(1) S.1), für Land- und Forstwirtschaftsfahrzeuge sowie zum Halten oder als „Standspuren“ der Autobahnen zum Halten bei Pannen (§ 18(8)); bei Freigabe der Standspuren für den durchgehenden Verkehr (siehe Z. 223.1). Unzulässige Benutzung der Seitenstreifen ist ein Verstoß gegen die Fahrbahnbenutzungspflicht (§§ 2(1), 49(1) Nr.2).
-
-# N
 
 ## Nässe
 
@@ -281,8 +260,6 @@ Doch selbst wenn dies (noch) nicht der Fall sein sollte, empfehlen Verkehrssiche
 Wer ein Tempolimit „bei Nässe“ ignoriert und dabei in einen Unfall verwickelt wird, kann nicht nur ein Bußgeld aufgebrummt bekommen. Weisen Gutachter ein erhebliches Überschreiten der Geschwindigkeitsbegrenzung nach, dann drohen auch Leistungsbegrenzungen der Kaskoversicherung bis hin zu Regressansprüchen des Haftpflichtversicherers gegen den Unfallverursacher.
 
 Um auch „bei Nässe“ sicherzugehen respektive zu fahren, hilft eine Faustregel: Wird von anderen Fahrzeugen Wasser hochgewirbelt oder schränkt Regen die Sicht ein, dann ist die Fahrbahn so nass, dass schon im eigenen Interesse das Tempo reduziert werden sollte.
-
-# O
 
 ## Öffentlicher Verkehrsraum
 
@@ -301,8 +278,6 @@ Hier gelten in vollem Umfang die straßenverkehrsrechtlichen Vorschriften (VwV-S
 
 Somit verstößt ein Fahrzeugführer, welcher auf einer straßenrechtlich nicht gewidmeten Grünfläche parkt, nicht gegen straßenverkehrsrechtliche Vorschriften. Ist diese Grünfläche Bestandteil einer gewidmeten Fläche, ist ein Verstoß gegen straßenverkehrsrechtliche Vorschriften gegeben und nach der StVO ordnungswidrig.
 
-# P
-
 ## Parken
 
 Wer sein Fz verlässt oder länger als drei Minuten hält, der parkt
@@ -313,8 +288,6 @@ Ausnahme: zum Be- oder Entladen, Ein- oder Aussteigen nur bei VKZ 286, 314 und 3
 
 Bei aufgeweiteten Radaufstellstreifen wird das Einordnen zum Linksabbiegen in
 Fortsetzung einer Radverkehrsanlage dadurch ermöglicht, dass für den Kfz-Verkehr auf der Fahrbahn durch eine zusätzliche vorgelagerte Haltlinie (Zeichen 294) mit räumlichem und verkehrlichem Bezug zur Lichtzeichenanlage das Haltgebot angeordnet wird.
-
-# S
 
 ## Schädigung
 
@@ -361,7 +334,6 @@ Anhänger sind mehrspurige Fahrzeuge, die über keinen Antriebsmotor verfügen u
 
 Zu den sonstigen Fahrzeugen gehören Fahrräder (Fahrrad = muskelbetriebenes einspuriges Fahrzeug), auch Rikschas, Zweiräder mit elektrischer Tretunterstützung, Liegefahrräder.
 
-
 ## Ständige Vorsicht
 
 Der moderne Verkehr steckt voller Gefahren und lässt sich auf Dauer nur dann aufrecht erhalten, wenn sich jeder einfügt. Deshalb ist es notwendig, eine entsprechende Mahnung voranzustellen (amtliche Begründung).
@@ -382,15 +354,11 @@ Soweit die StVO den Begriff „Straße“ verwendet, ist darunter nicht nur die 
 
 „Andere“ Straßenteile (§ 10 S.1) sind Flächen, die nicht zur Fahrbahn gehören, wie Seitenstreifen, Sonderwege, Parkplätze, Mittel- oder Schutzstreifen, Grundstückszufahrten über Gehwege, auch für den Verkehr noch nicht freigegebene Flächen, die als Baustellenzufahrten dienen. Grünflächen sind dann öffentlich, wenn sie allgemein zugänglich sind. Sind sie infolge des Bewuchses tatsächlich nichtnutzbar, gelten sie als Privatflächen, selbst wenn sie im Eigentum der öffentlichen Hand stehen (z.B. dicht mit Büschen oder Bäumen bewachsene Mittelstreifen). Wird dort unzulässig geparkt, liegt kein Verstoß nach § 12(4) vor, wohl aber eine Zuwiderhandlung nach den Straßengesetzen oder Landschaftsschutzverordnungen.
 
-# T
-
 ## Toter Winkel
 
 Als toter Winkel werden Bereiche VOR, HINTER und NEBEN dem Fahrzeug bezeichnet die der Fahrer nicht durch die Spiegel einsehen kann.
 
 Im CE und DE Bereich besteht durch die größeren toten Winkel ein höheres Unfallrisiko als im BE Bereich.
-
-# V
 
 ## Verkehrsteilnehmer
 
@@ -450,8 +418,6 @@ Wenn der Vertrauensgrundsatz nicht anwendbar ist, führt dies zu einer erhöhten
 ## Verkehrsfreiheit, Grundsatz der Verkehrsfreiheit
 
 Grundsätzlich ist jeder Verkehrsteilnehmer zum Verkehr auf öffentlichen Straßen zugelassen (Folge aus der Handlungsfreiheit des Art. 2 GG und der Berufsausübung nach Art. 12 GG). Infolgedessen darf der Staat den individuellen Verkehrszweck nicht zum Gegenstand von Beschränkungen machen. Unzulässig wären Einschränkungen der Aufenthalts- oder Bewegungsfreiheit nur aus sozial- oder verkehrspolitisch für „sinnvoll“ gehaltenen Gründen. Das Verbot des „unnützen Hin- und Herfahrens“ nach § 30(1) S. 2 ist verfassungsrechtlich nur deshalb tragbar, weil es sich nicht auf einen bestimmten Verkehrsnutzen bezieht, sondern der Vermeidung von Lärm und Abgasbelästigungen dient. Zulässig sind allerdings Beeinträchtigungen der Mobilität im Interesse anderer schützenswerter Rechte, insbesondere zu Gunsten der Verkehrssicherheit und des Immissionsschutzes. So kann z. B. ungeeigneten oder verkehrsschwachen Personen das Führen von Fahrzeugen untersagt, eine Fahrerlaubnispflicht vorgeschrieben oder auf bestimmten Straßen Verkehrsverbote erteilt werden. 
-
-# W
 
 ## Warnzeichen
 
