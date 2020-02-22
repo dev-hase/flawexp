@@ -1,0 +1,101 @@
+$fontA = 'Inconsolata', monospace
+$fontB = 'Amatic SC', cursive;
+
+body, html
+    @media (max-width $MQMobile)
+        letter-spacing -1px
+        font-size .95rem !important
+        overflow-wrap: break-word
+
+.home
+
+    padding 0 !important
+    margin 0 !important
+    max-width 100vw !important
+    background #7d7573
+
+    .description, .footer, #main-title
+        color #000 !important
+
+    .footer
+        border-top none !important
+
+    .hero
+        padding 1rem 0
+        background #7d7573
+        background-image url('/img/hero.jpg')
+        background-image linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(103,96,94,0) 75%,rgba(125,117,115,1) 100%), url('/img/hero.jpg')
+        background-size cover
+        background-repeat no-repeat
+
+.inhaltsangabe .page .theme-default-content
+    max-width 100vw
+    
+
+#inhalt
+    padding 2rem
+    padding-top 6rem
+    display grid
+    grid-template-columns: 1fr 1fr
+    grid-gap 2rem
+
+    @media (max-width $MQMobile)
+        grid-template-columns: 1fr
+        grid-gap 1rem
+        padding 1rem
+        padding-top 5rem
+
+.thema
+    h1
+        background #111
+        color white
+        padding 0 1rem
+        margin 0
+        font-size 3rem
+        height 4rem
+        opacity .85
+
+    img
+        min-widht 100%
+        filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%)
+
+.thema-unterpunkt h2
+    background #222
+    color white
+    padding .25rem .5rem 
+    margin 1px 0
+    border-bottom 0 
+    
+.thema-unterpunkt h2:hover
+    background #ddd
+    color black
+
+.thema-unterpunkt h2::before
+    content: ">"
+    
+
+.unterpunkte
+    margin-top -.25rem
+
+.site-name, .sidebar-group, .hero .description
+    font-family $fontB
+
+.sidebar-group
+    font-size 1.25rem
+
+body, html
+    font-family $fontA
+
+h1, h2, h3
+    font-family $fontB
+
+
+iframe
+    display flex
+    min-width 100%
+    max-width 100%
+    width 100%
+    height 50vh
+    min-height 200px
+    @media (max-width $MQMobile)
+        height 25vh
