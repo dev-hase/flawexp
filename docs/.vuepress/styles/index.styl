@@ -1,5 +1,6 @@
 $fontA = 'Inconsolata', monospace
 $fontB = 'Amatic SC', cursive;
+$highlight = #eff7ad
 
 body, html
     @media (max-width $MQMobile)
@@ -8,7 +9,7 @@ body, html
         overflow-wrap: break-word
 
 em
-    background #eff7ad
+    background $highlight
     font-style normal
     padding .2rem
     font-weight bold
@@ -24,10 +25,17 @@ em
     font-family $fontA
     .nav-link
         color #ddd !important
+    .nav-link:hover
+        border-bottom 2px solid $highlight !important
 
     .site-name
         color #ddd !important
         font-size 2.5rem !important
+
+
+    a.nav-link.router-link-exact-active.router-link-active
+        border-bottom 2px solid $highlight !important
+        
 
 .navbar .links
     background-color transparent !important
@@ -48,19 +56,49 @@ em
     opacity .975
 
     span 
-        color #fff 
+        color $highlight
+
+    span:hover
+        color #fff
+        
+
     .sidebar-link
-        color #ddd
+        color $highlight
         border-bottom none !important 
+        
+    .sidebar-link:hover
+        color #fff 
+
+     a.active.sidebar-link 
+        color #fff
+        border none !important 
+        
+
 
 .page
     h2
-        color $accentColor !important
+        color $highlight !important
         display inline-block
         transform rotate(-1.2deg) !important
         border-bottom none !important
-        @media (min-width $MQMobile)
-            margin-left -.75rem !important
+        @media (max-width $MQNarrow)
+            margin-left .75rem !important
+
+    h2:before
+        position absolute
+        bottom .125rem
+        left -2rem
+        width 100%
+        padding 0 2rem
+        display block
+        content '-'
+        background #333
+        color #333
+        z-index -1
+        box-shadow 3px 2px 2px #999
+
+    .header-anchor
+        color $highlight
         
 
 .home
@@ -86,7 +124,7 @@ em
         background-position center
         
         img
-            margin 5rem 0 2rem !important
+            margin-top 7rem !important
 
     #main-title
         font-size 6rem !important

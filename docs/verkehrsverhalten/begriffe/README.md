@@ -15,23 +15,23 @@ Abgestellt sind Fz, die aus dem Verkehr gezogen sind und daher aus der Geltung d
 
 ## Anderer
 
-...ist jeder beliebige Mensch mit Ausnahme des Täters selbst oder eines an der Tat Beteiligten (Anstifter oder Gehilfe); auch der Mitfahrer (Soziusfahrer) oder Insasse eines Kfz ist „anderer“. Es ist unerheblich, ob der andere sich im öffentlichen Verkehrsraum aufhält oder sich zum Zeitpunkt des Erfolgseintritts auf privatem Grundstück befindet.
+...*ist jeder beliebige Mensch mit Ausnahme des Täters selbst oder eines an der Tat Beteiligten* (Anstifter oder Gehilfe); auch der Mitfahrer (Soziusfahrer) oder Insasse eines Kfz ist „anderer“. Es ist unerheblich, ob der andere sich im öffentlichen Verkehrsraum aufhält oder sich zum Zeitpunkt des Erfolgseintritts auf privatem Grundstück befindet.
 
 
 ## Ausfädelungsstreifen
 
-(Verzögerungsstreifen) dienen dem Ausgliedern aus dem durchgehenden Verkehr. Auf ihnen gilt Rechtsüberholverbot, d. h. es darf rechts nicht schneller als auf dem linken Fahrstreifen gefahren werden (§ 7a (3)).
+(Verzögerungsstreifen) *dienen dem Ausgliedern aus dem durchgehenden Verkehr*. Auf ihnen gilt Rechtsüberholverbot, d. h. es darf rechts nicht schneller als auf dem linken Fahrstreifen gefahren werden (§ 7a (3)).
 
 ## Abbiegestreifen
 
-sollen Behinderungen des durchgehenden Verkehrs durch Links- oder Rechtsabbieger vermeiden; eingeordnete Linksabbieger sind rechts zu überholen (§ 5 (7)).
+*sollen Behinderungen des durchgehenden Verkehrs durch Links- oder Rechtsabbieger vermeiden*; eingeordnete Linksabbieger sind rechts zu überholen (§ 5 (7)).
 
 ## Andere Straßenteile
 
-...sind Flächen, die nicht zur Fahrbahn gehören, wie Seitenstreifen, Sonderwege, Parkplätze, Mittel- oder Schutzstreifen, Grundstückszufahrten über Gehwege, auch für den Verkehr noch nicht freigegebene Flächen, die als Baustellenzufahrten dienen. Grünflächen sind dann öffentlich, wenn sie allgemein zugänglich sind. Sind sie infolge des Bewuchses tatsächlich nichtnutzbar, gelten sie als Privatflächen, selbst wenn sie im Eigentum der öffentlichen Hand stehen (z.B. dicht mit Büschen oder Bäumen bewachsene Mittelstreifen). Wird dort unzulässig geparkt, liegt kein Verstoß nach § 12(4) vor, wohl aber eine Zuwiderhandlung nach den Straßengesetzen oder Landschaftsschutzverordnungen.
+...sind *Flächen, die nicht zur Fahrbahn gehören, wie Seitenstreifen, Sonderwege, Parkplätze, Mittel- oder Schutzstreifen, Grundstückszufahrten über Gehwege, auch für den Verkehr noch nicht freigegebene Flächen, die als Baustellenzufahrten dienen*. Grünflächen sind dann öffentlich, wenn sie allgemein zugänglich sind. Sind sie infolge des Bewuchses tatsächlich nichtnutzbar, gelten sie als Privatflächen, selbst wenn sie im Eigentum der öffentlichen Hand stehen (z.B. dicht mit Büschen oder Bäumen bewachsene Mittelstreifen). Wird dort unzulässig geparkt, liegt kein Verstoß nach § 12(4) vor, wohl aber eine Zuwiderhandlung nach den Straßengesetzen oder Landschaftsschutzverordnungen.
 
 ## Behinderung
-...ist die unzulässige und mehr als verkehrsübliche Beeinträchtigung der Verkehrsteilnahme eines anderen, der sich ordnungsgemäß verhält.
+...*ist die unzulässige und mehr als verkehrsübliche Beeinträchtigung der Verkehrsteilnahme eines anderen, der sich ordnungsgemäß verhält*.
 
 ...ist die im Einzelnen festzustellende Beeinträchtigung des zulässigen, beabsichtigten Verhaltens eines anderen, ohne diesen zu gefährden oder zu schädigen. Dies setzt voraus, dass der andere Verkehrsteilnehmer zu einem nicht von ihm beabsichtigten Verkehrsverhalten gezwungen wird. Es recht aus, dass der Andere dadurch unsicher wird.
 
@@ -49,8 +49,8 @@ Der Rechtsbegriff „Behinderung ausgeschlossen“ wird als härteste juristisch
 
 ## Belästigung
 
-...ist die Verursachung körperlichen oder seelischen Unbehagens.
-Die Beeinträchtigung muss nach Art und Maß das Verkehrsbedürfnis übersteigen und nach allgemeiner Anschauung als konkret störend empfunden werden. 
+...*ist die Verursachung körperlichen oder seelischen Unbehagens.
+Die Beeinträchtigung muss nach Art und Maß das Verkehrsbedürfnis übersteigen und nach allgemeiner Anschauung als konkret störend empfunden werden*. 
 Die Behinderung oder Belästigung muss vermeidbar sein. Das ist der Fall, wenn dem Verkehrsteilnehmer ein anderes Verhalten zugemutet werden kann.
 unvermeidbar: z.B. durch Hupen bei Gefahr, Polizei im Einsatz
 vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten, Begrüßen mit Lichthupe, schnelles Fahren auf staubigen Wegen, laute Radiomusik, klappernde Ladung.
@@ -80,10 +80,10 @@ vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten,
 
 ## Bremsbereitschaft (verminderte bremsbereite Geschwindigkeit)
 
-...ermöglicht ein sofortiges Anhalten, wenn der Fahrer mit einem unbedachten oder verkehrswidrigen Verhalten rechnen muss.
+...*ermöglicht ein sofortiges Anhalten, wenn der Fahrer mit einem unbedachten oder verkehrswidrigen Verhalten rechnen muss*.
 
 ## Defensives Fahren
-...bedeutet, dass man seine Rechtsposition im Straßenverkehr nicht voll ausschöpft, sondern aus Sicherheitsgründen (§ 1 (1) StVO) eine über das Normalmaß hinausgehende Sorgfalt walten lässt.
+...*bedeutet, dass man seine Rechtsposition im Straßenverkehr nicht voll ausschöpft, sondern aus Sicherheitsgründen (§ 1 (1) StVO) eine über das Normalmaß hinausgehende Sorgfalt walten lässt*.
 
 - Taktische Regeln
 - zum Fahren fit
@@ -122,11 +122,11 @@ Bildungssprachlich = „bestimmender Faktor“
 
 ## Einfädelungsstreifen
 
-(Beschleunigungsstreifen) dienen dem Eingliedern in den durchgehenden Verkehr, meist im Schnellverkehr. Auf ihnen darf schneller als auf den anderen Fahrstreifen gefahren werden (§ 7a (2)).
+(Beschleunigungsstreifen) *dienen dem Eingliedern in den durchgehenden Verkehr, meist im Schnellverkehr*. Auf ihnen darf schneller als auf den anderen Fahrstreifen gefahren werden (§ 7a (2)).
 
 ## Fahrstreifen
 
-...ist der Teil der Fahrbahn, den ein mehrspuriges Fz zum ungehinderten Fahren im Verlauf der Fahrbahn benötigt (§ 7 (1)), und zwar unabhängig von einer Markierung;
+...*ist der Teil der Fahrbahn, den ein mehrspuriges Fz zum ungehinderten Fahren im Verlauf der Fahrbahn benötigt (§ 7 (1)), und zwar unabhängig von einer Markierung*;
 
 Infolgedessen gibt es markierte und unmarkierte Fahrstreifen. Ein mehrspuriges Fz größter zulässiger Breite benötigt gemäß § 32(1) Nr. 1 StVZO 2,55 m (bei Kühlfahrzeugen 2,60 m) zuzüglich eines geschwindigkeitsabhängigen Sicherheitsabstandes von mindestens 0,50 m, sodass i.g.O. von einer Mindestbreite eines Fahrstreifens von 3 m auszugehen ist. Bei schnellem Verkehr a.g.O. müssen die Sicherheitsabstände nach rechts und links größer sein, sodass die Fahrstreifenbreite 3,5 m bis 3,75 m beträgt. Wird dieses Maß unterschritten, liegt kein Fahrstreifen vor. Die Vorschriften, die auf das Vorhandensein eines Fahrstreifens abheben (§§ 7, 7a). sind dann nicht anwendbar.
 
@@ -134,7 +134,7 @@ Infolgedessen gibt es markierte und unmarkierte Fahrstreifen. Ein mehrspuriges F
 
 ## Fahrbahn
 
-...ist der Teil der Straße, der durch die Art seiner Befestigung (Schwarzdecke, Beton, Pflasterung) für den Fahrzeugverkehr geeignet und für diesen freigegeben ist. 
+...*ist der Teil der Straße, der durch die Art seiner Befestigung (Schwarzdecke, Beton, Pflasterung) für den Fahrzeugverkehr geeignet und für diesen freigegeben ist*. 
 
 Baulich getrennte „Nebenfahrbahnen“ neben der „Hauptfahrbahn“ gelten meist als selbständige Straßen. Nicht zur Fahrbahn gehören Seitenstreifen, Rad- und Gehwege, Parkflächen, Schutzstreifen oder Böschungen. Die durchgezogene Linie in der Form einer „Fahrbahnbegrenzung“ (Z. 295) hat nicht stets eine rechtsbegründende Wirkung in der Weise, dass rechts auch die Fahrbahn an der Markierung enden muss. Entscheidend sind vielmehr die tatsächlichen Verhältnisse, insbesondere die bauliche Ausgestaltung des Verkehrsraums rechts von der durchgezogenen Linie. Ist dieser Raum z.B. eine befestigte Fläche, ähnlich der „Hauptfahrbahn“, so endet die Fahrbahn im Rechtssinn nicht an der Markierung. Welche Bedeutung der rechts von der ununterbrochenen Linie verbleibende Raum hat, hängt von seiner Zuordnung ab. Bei Ausweisung dieser Fläche durch Z. 245 oder 237 handelt es sich um einen Sonderfahrstreifen (dann gilt die durchgezogene Linie nicht als Fahrbahn-, sondern als Fahrstreifenbegrenzung). Normalerweise ist dieser Raum jedoch Seitenstreifen und gehört somit nicht zur Fahrbahn (z. B. Standspuren, Parkbuchten).
 
@@ -149,7 +149,7 @@ Baulich getrennte „Nebenfahrbahnen“ neben der „Hauptfahrbahn“ gelten mei
 
 ## Fahrzeughalter
 
-...ist derjenige, der die Verfügungsgewalt über das Fahrzeug hat, es für eigene Rechnung gebraucht und für die Unterhaltskosten aufkommt (Steuern, Versicherung, Wartung). Bei KFZ ist das der bei der Zulassungsstelle und in den Zulassungsdokumenten eingetragene Halter. Auch mehrere Personen oder juristische Personen (z.B. GmbH) können Halter sein. Die Eintragung in das Fahrzeugregister ist zwar ein wichtiges Indiz für die Haltereigenschaft; entscheidend sind jedoch die faktischen Verhältnisse. Hat ein anderer die Verfügungsgewalt über das Fahrzeug und bestreitet die Unterhaltskosten, ist er trotz fehlender Eintragung Halter.
+...*ist derjenige, der die Verfügungsgewalt über das Fahrzeug hat, es für eigene Rechnung gebraucht und für die Unterhaltskosten aufkommt (Steuern, Versicherung, Wartung)*. Bei KFZ ist das der bei der Zulassungsstelle und in den Zulassungsdokumenten eingetragene Halter. Auch mehrere Personen oder juristische Personen (z.B. GmbH) können Halter sein. Die Eintragung in das Fahrzeugregister ist zwar ein wichtiges Indiz für die Haltereigenschaft; entscheidend sind jedoch die faktischen Verhältnisse. Hat ein anderer die Verfügungsgewalt über das Fahrzeug und bestreitet die Unterhaltskosten, ist er trotz fehlender Eintragung Halter.
 
 Ihn trifft dann die Verantwortung eines Fahrzeughalters (z.B. die Gefährdungshaftung nach § 7 StVG). Stimmen die tatsächlichen Verhältnisse nicht mit der Eintragung im Fahrzeugregister überein, müssen die Zulassungsdokumente berichtigt werden (§ 3 FZV).
 Neben dem Halter ist für das Fahrzeug verantwortlich der beauftragte Fuhrparkleiter, der vom Halter einzuweisen und zu überwachen ist.
@@ -160,7 +160,7 @@ Neben dem Halter ist für das Fahrzeug verantwortlich der beauftragte Fuhrparkle
 
 ## Fahrzeugführer
 
-...ist derjenige, der die tatsächliche Gewalt über das Fahrzeug hat, es lenkt oder dessen Bewegungsabläufe steuert. Bedienen zwei Personen das Fahrzeug gleichzeitig, sind beide auch Fahrzeugführer. Beim Fahrschulunterricht gilt der Fahrlehrer als Fahrzeugführer (§ 2 (15) StVG).
+...*ist derjenige, der die tatsächliche Gewalt über das Fahrzeug hat, es lenkt oder dessen Bewegungsabläufe steuert*. Bedienen zwei Personen das Fahrzeug gleichzeitig, sind beide auch Fahrzeugführer. Beim Fahrschulunterricht gilt der Fahrlehrer als Fahrzeugführer (§ 2 (15) StVG).
 
 ## Fahrrad
 
@@ -174,7 +174,7 @@ Neben dem Halter ist für das Fahrzeug verantwortlich der beauftragte Fuhrparkle
 
 ...ist ein Zustand, der die Besorgnis begründet, dass ein schädigendes Ereignis unmittelbar bevorsteht, das aber nur durch situationsgerechtes Handeln oder durch Zufall nicht eintritt.
 
-...bedeutet das Herbeiführen einer Verkehrslage, die eine Schädigung wahrscheinlich macht, also bereits eine konkrete Gefahr für Leben, Gesundheit und Sachwerte enthält.
+...bedeutet *das Herbeiführen einer Verkehrslage, die eine Schädigung wahrscheinlich macht, also bereits eine konkrete Gefahr für Leben, Gesundheit und Sachwerte enthält*.
 Sie liegt auch dann vor, wenn der Schaden letztendlich durch das Verhalten eines Anderen verhindert worden ist.
 
 ...ist die Herbeiführung einer Lage, in der Leib oder Leben eines anderen wahrscheinlich zu Schaden kommt.
@@ -194,7 +194,7 @@ Die Partnerschaft im Verkehr gebietet es weiterhin, auf schwächere Verkehrsteil
 
 ## Gehweg
 
-Gehweg ist der deutlich von der Fahrbahn getrennte für den Fußgänger bestimmte Teil der Straße.
+*Gehweg ist der deutlich von der Fahrbahn getrennte für den Fußgänger bestimmte Teil der Straße*.
 
 ## Grundsatz der Verkehrsfreiheit
 
@@ -202,7 +202,7 @@ Grundsätzlich ist jeder Verkehrsteilnehmer zum Verkehr auf öffentlichen Straß
 
 ## Gewidmeter Straßenraum
 
-Eine Straße wird eine öffentliche Straße im Sinne des Straßenrechts durch die Widmung (z. B. gem. § 2 Abs. 1 FernStrG). Jede dem öffentlichen Verkehr ausdrücklich gewidmete Straße ist demnach auch gleichzeitig öffentlicher Straßenraum im Sinne des Straßenverkehrsrechts.
+*Eine Straße wird eine öffentliche Straße im Sinne des Straßenrechts durch die Widmung (z. B. gem. § 2 Abs. 1 FernStrG). Jede dem öffentlichen Verkehr ausdrücklich gewidmete Straße ist demnach auch gleichzeitig öffentlicher Straßenraum im Sinne des Straßenverkehrsrechts*.
 
 Bundesfernstraßengesetz (FStrG)
 § 2 Widmung, Umstufung, Einziehung
@@ -211,11 +211,11 @@ Bundesfernstraßengesetz (FStrG)
 
 ## Halten
 
-...ist eine gewollte Fahrtunterbrechung, die nicht durch die Verkehrslage (z.B. Stau, warten vor Fußgängerüberweg) oder eine Anordnung (z.B. durch Verkehrs- oder Lichtzeichen, durch Polizei) veranlasst wird. (VwV-StVO zu § 12 (1)).
+...*ist eine gewollte Fahrtunterbrechung, die nicht durch die Verkehrslage (z.B. Stau, warten vor Fußgängerüberweg) oder eine Anordnung (z.B. durch Verkehrs- oder Lichtzeichen, durch Polizei) veranlasst wird*. (VwV-StVO zu § 12 (1)).
 
 ## Kraftfahrzeuge
 
-…sind maschinell angetriebene, nicht schienengebundene Landfahrzeuge.
+…*sind maschinell angetriebene, nicht schienengebundene Landfahrzeuge*.
 
 …sind Landfahrzeuge, die durch Maschinenkraft bewegt werden, ohne an Bahngleise gebunden zu sein (§ 1 Abs. 2 StVG). Auf die Antriebsart kommt es nicht an (Otto-, Diesel-, Turbinen-, Elektro-, Flüssiggas- und Erdgasmotor).
 
@@ -239,21 +239,21 @@ Dreirädrige Krafträder („Trikes") mit symmetrisch angeordneten Rädern werde
 
 ## Kriechstreifen
 
-...sollen an Steigungsstrecken Behinderungen durch langsame KFZ ausschließen. Verbindlich ist die Benutzung, wenn Z. 211 oder Z. 275 angeordnet ist. Zum Rechtsüberholen darf der Kriechstreifen in der Regel nicht benutzt werden. Am Ende hat sich der Verkehr nach dem Reißverschlussverfahren zu verflechten.
+...*sollen an Steigungsstrecken Behinderungen durch langsame KFZ ausschließen*. Verbindlich ist die Benutzung, wenn Z. 211 oder Z. 275 angeordnet ist. Zum Rechtsüberholen darf der Kriechstreifen in der Regel nicht benutzt werden. Am Ende hat sich der Verkehr nach dem Reißverschlussverfahren zu verflechten.
 
 ## Liegenbleiben
 
-...ist Stillstand eines fahruntüchtigen Kfz aus technischen Gründen (z.B. Panne) oder aus einem anderen Anlass (z.B. Unfall, Schwächeanfall des Fahrers). Liegen bleibt ein Fz, dass sich, gleichgültig weshalb, OLG Düsseldorf VM 74 87, nicht aus eigener Kraft fort- oder aus dem Verkehrsbereich wegbewegen kann.
+...*ist Stillstand eines fahruntüchtigen Kfz aus technischen Gründen (z.B. Panne) oder aus einem anderen Anlass (z.B. Unfall, Schwächeanfall des Fahrers)*. Liegen bleibt ein Fz, dass sich, gleichgültig weshalb, OLG Düsseldorf VM 74 87, nicht aus eigener Kraft fort- oder aus dem Verkehrsbereich wegbewegen kann.
 
 Unfreiwillige Fahrtunterbrechung. Gehört weder zum ruhenden, noch dem fließenden Verkehr.
 
 ## Mehrzweckstreifen
 
-...liegen jenseits der Fahrbahnrandlinie und stellen einen außerhalb der Fahrbahn liegenden Seitenstreifen dar. Seitenstreifen dürfen nur benutzt werden, wenn es ausdrücklich vorgesehen ist, z. B. als Parkstreifen, sofern sie als solche deutlich erkennbar sind (§ 12(4) S.1), für den Radfahrverkehr (§ 2(4) S.2), für langsame Fahrzeuge, um anderen das Überholen zu ermöglichen (§ 5(6) S.3), für Fußgänger, auch bei nur einseitig vorhandenen Seitenstreifen (§ 25(1) S.1), für Land- und Forstwirtschaftsfahrzeuge sowie zum Halten oder als „Standspuren“ der Autobahnen zum Halten bei Pannen (§ 18(8)); bei Freigabe der Standspuren für den durchgehenden Verkehr (siehe Z. 223.1). Unzulässige Benutzung der Seitenstreifen ist ein Verstoß gegen die Fahrbahnbenutzungspflicht (§§ 2(1), 49(1) Nr.2).
+...*liegen jenseits der Fahrbahnrandlinie und stellen einen außerhalb der Fahrbahn liegenden Seitenstreifen dar*. Seitenstreifen dürfen nur benutzt werden, wenn es ausdrücklich vorgesehen ist, z. B. als Parkstreifen, sofern sie als solche deutlich erkennbar sind (§ 12(4) S.1), für den Radfahrverkehr (§ 2(4) S.2), für langsame Fahrzeuge, um anderen das Überholen zu ermöglichen (§ 5(6) S.3), für Fußgänger, auch bei nur einseitig vorhandenen Seitenstreifen (§ 25(1) S.1), für Land- und Forstwirtschaftsfahrzeuge sowie zum Halten oder als „Standspuren“ der Autobahnen zum Halten bei Pannen (§ 18(8)); bei Freigabe der Standspuren für den durchgehenden Verkehr (siehe Z. 223.1). Unzulässige Benutzung der Seitenstreifen ist ein Verstoß gegen die Fahrbahnbenutzungspflicht (§§ 2(1), 49(1) Nr.2).
 
 ## Nässe
 
-Die obersten deutschen Richter haben „Nässe“ gegenüber „Feuchtigkeit“ abgegrenzt. Demnach ist die Straße nass, wenn die gesamte Fahrbahnoberfläche erkennbar ein durchgängiger Wasserfilm bedeckt – so dünn dieser gegebenenfalls auch sein mag. Pfützen, Wasserlachen oder auch Regen setzen demnach die Geschwindigkeitsbegrenzung nicht in Kraft. Dafür muss tatsächlich durchgehend ein Wasserfilm auf der Fahrbahn „stehen“.
+Die obersten deutschen Richter haben „Nässe“ gegenüber „Feuchtigkeit“ abgegrenzt. Demnach ist die Straße nass, *wenn die gesamte Fahrbahnoberfläche erkennbar ein durchgängiger Wasserfilm bedeckt – so dünn dieser gegebenenfalls auch sein mag*. Pfützen, Wasserlachen oder auch Regen setzen demnach die Geschwindigkeitsbegrenzung nicht in Kraft. Dafür muss tatsächlich durchgehend ein Wasserfilm auf der Fahrbahn „stehen“.
 
 Doch selbst wenn dies (noch) nicht der Fall sein sollte, empfehlen Verkehrssicherheitsexperten den Autofahrern, auf Fahrbahnabschnitten mit Tempolimits „bei Nässe“ generell Vorsicht walten zu lassen. Denn diese Schilder werden in der Regel nur dann aufgestellt, wenn auf einer Autobahn oder Landstraße aus baulichen Gründen an diesen Stellen schnell Aquaplaning oder Rutschgefahr drohen. Deshalb ist dort eine vorsichtige Fahrweise grundsätzlich ratsam.
 
@@ -263,7 +263,7 @@ Um auch „bei Nässe“ sicherzugehen respektive zu fahren, hilft eine Faustreg
 
 ## Öffentlicher Verkehrsraum
 
-...ist jeder Teil einer gewidmeten Verkehrsanlage (Radbahn, Gehbahn, Fahrbahn, Grünstreifen). Öffentlicher Verkehr findet auch auf nichtgewidmeten Verkehrsanlagen statt, wenn diese mit Zustimmung oder unter Duldung des Verfügungsberechtigten tatsächlich allgemein benutzt werden, so auch in
+...*ist jeder Teil einer gewidmeten Verkehrsanlage (Radbahn, Gehbahn, Fahrbahn, Grünstreifen)*. Öffentlicher Verkehr findet auch auf nichtgewidmeten Verkehrsanlagen statt, wenn diese mit Zustimmung oder unter Duldung des Verfügungsberechtigten tatsächlich allgemein benutzt werden, so auch in
 
 - Parkhäusern,
 - auf zeitweilig geöffneten Parkplätzen während der Öffnungszeit,
@@ -280,7 +280,7 @@ Somit verstößt ein Fahrzeugführer, welcher auf einer straßenrechtlich nicht 
 
 ## Parken
 
-Wer sein Fz verlässt oder länger als drei Minuten hält, der parkt
+*Wer sein Fz verlässt oder länger als drei Minuten hält, der parkt*
 Ausnahme: zum Be- oder Entladen, Ein- oder Aussteigen nur bei VKZ 286, 314 und 325
 -> Ruhender Verkehr
 
@@ -291,7 +291,7 @@ Fortsetzung einer Radverkehrsanlage dadurch ermöglicht, dass für den Kfz-Verke
 
 ## Schädigung
 
-...ist die Zufügung eines wirtschaftlichen, vermögensrechtlich wägbaren Nachteils (OLG Hamburg DAR 65,329). Darunter fallen sowohl Körper- als auch Sachschäden.
+...*ist die Zufügung eines wirtschaftlichen, vermögensrechtlich wägbaren Nachteils (OLG Hamburg DAR 65,329). Darunter fallen sowohl Körper- als auch Sachschäden*.
 
 Unter Schädigung ist die Zufügung eines wirtschaftlichen, d. h. vermögensrechtlich messbaren (wägbaren) Nachteils zu verstehen. Darunter fallen sowohl Körper- als auch Sachschäden. 
 
