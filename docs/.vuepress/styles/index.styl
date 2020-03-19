@@ -59,49 +59,52 @@ em
     opacity .975
 
     span 
-        color $highlight
+        color #eee
 
     span:hover
-        color #fff
+        color $highlight
         
 
     .sidebar-link
-        color $highlight
+        color #eee
         border-bottom none !important 
         
     .sidebar-link:hover
-        color #fff 
+        color $highlight
 
      a.active.sidebar-link 
-        color #fff
+        color $highlight
         border none !important 
         
 
 
 .page
     h2
-        color $highlight !important
+        color #eee !important
         display inline-block
         transform rotate(-1.2deg) !important
         border-bottom none !important
+        // background #333
+        padding 4.5rem 1rem 0 1rem !important
+        // margin-top 2rem !important
+        margin-left -.75rem !important
         @media (max-width $MQNarrow)
-            margin-left .75rem !important
+            margin-left -.25rem !important
 
-    h2:before
-        position absolute
-        bottom .125rem
-        left -2rem
-        width 100%
-        padding 0 2rem
-        display block
-        content '-'
-        background #333
-        color #333
-        z-index -1
-        box-shadow 3px 2px 2px #999
+.page h2:before
+    position absolute
+    content attr(id)
+    color #333
+    background #333
+    display inline
+    z-index -1
+    width 100%
+    margin-left -1rem
 
     .header-anchor
         color $highlight
+
+
         
 
 .home
