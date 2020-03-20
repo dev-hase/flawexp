@@ -40,7 +40,7 @@ unvermeidbar: z.B. durch Stau, Gegenverkehr, Zugmaschine
 vermeidbar: z.B. durch Einklemmen in Parklücken, Parken vor endenden Radwegen oder gegenüber Straßeneinmündungen, langsames Fahren bei Sehenswürdigkeiten
 
 
-*Begriff:*
+**Begriff:**
 
 Eine Lage herbeiführen, durch die ein fremdes Verkehrsverhalten nachhaltig beeinträchtigt oder verhindert wird. Jemand wird zu einer anderen Verhaltensweise veranlasst, als die, die er geplant hatte (BGHST 34,238.)
 In Zusammenhang mit §1 (2) StVO ist dann zu prüfen, ob es sich um eine vermeidbare oder unvermeidbare Behinderung handelt.
@@ -60,7 +60,7 @@ vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten,
 
 ## Besondere Fortbewegungsmittel
 
-...sind keine Fz (somit gibt es keinen Fahrzeugführer) und dürfen nicht auf der Fahrbahn betrieben werden (§ 24). Da sie den Regeln für Fußgänger unterliegen (§ 25), müssen Gehwege benutzt werden, wenn der Fußgängerverkehr weder behindert noch gefährdet wird, in der Regel nur mit Schrittgeschwindigkeit. Zu den Fortbewegungsmitteln gehören solche Geräte, die wegen ihrer geringen Größe oder ihrer Bauart nicht in erster Linie dem Transport dienen. Infolgedessen dürfen sie auch nicht mit Motorkraft betrieben werden (§ 24(1)). Zu den Fortbewegungsmitteln gehören
+...*sind keine Fz (somit gibt es keinen Fahrzeugführer) und dürfen nicht auf der Fahrbahn betrieben werden (§ 24). Da sie den Regeln für Fußgänger unterliegen (§ 25), müssen Gehwege benutzt werden, wenn der Fußgängerverkehr weder behindert noch gefährdet wird, in der Regel nur mit Schrittgeschwindigkeit*. Zu den Fortbewegungsmitteln gehören solche Geräte, die wegen ihrer geringen Größe oder ihrer Bauart nicht in erster Linie dem Transport dienen. Infolgedessen dürfen sie auch nicht mit Motorkraft betrieben werden (§ 24(1)). Zu den Fortbewegungsmitteln gehören
 - Gehhilfen, wie Schiebe- oder Greifrollstühle
 - Kinderwagen
 - Roller
@@ -75,7 +75,7 @@ vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten,
 
 ## Segway HT 
 
-(Human Transporter) sind nicht zulassungsfähige rollerähnliche Kfz mit Elektroantrieb über 6 km/h; sie verfügen weder über einen Sitz (§ 35a (1) StVZO), noch über Bremsen (§ 41 StVZO). Wegen des Elektroantriebes gehören sie nicht zu den Fortbewegungsmitteln nach § 24.
+*(Human Transporter) sind nicht zulassungsfähige rollerähnliche Kfz mit Elektroantrieb über 6 km/h*; sie verfügen weder über einen Sitz (§ 35a (1) StVZO), noch über Bremsen (§ 41 StVZO). Wegen des Elektroantriebes gehören sie nicht zu den Fortbewegungsmitteln nach § 24.
 
 
 ## Bremsbereitschaft (verminderte bremsbereite Geschwindigkeit)
@@ -100,7 +100,7 @@ vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten,
 ## Doppelte Sicherung
 
 Begriff (aus der Rechtsprechung entstanden).
-Bei gefährlichen Verkehrsvorgängen ist jeder zur Verhütung von Schäden verpflichtet, so dass der infolge des Fehlers des Einen drohenden Unfall noch verhindert wird, wenn der Andere die ihm gebotene Vorsicht beachtet.
+*Bei gefährlichen Verkehrsvorgängen ist jeder zur Verhütung von Schäden verpflichtet, so dass der infolge des Fehlers des Einen drohenden Unfall noch verhindert wird, wenn der Andere die ihm gebotene Vorsicht beachtet*.
 
 Die beiden am Verkehrsvorgang Beteiligten sind also, jeweils unabhängig voneinander, zur Sicherung verpflichtet (BayObLG VRS 16,66).
 
@@ -110,15 +110,15 @@ Ein vorbeifahrende Motorradfahrer, der den geplanten Aussteigevorgang erkannt ha
 
 Verletzt jetzt in dieser Lage einer der beiden seine Pflichten, so ist trotzdem ein Unfall unwahrscheinlich, weil der Andere diese Fehlerquelle einkalkuliert hat und sie durch sein Verhalten ausgleicht.
 
-*Problem*
+**Problem**
 
 Wenn sich alle nach dem Grundsatz der doppelten Sicherung bewegen, ist zwar ein großes Maß an Sicherheit im Straßenverkehr gewährleistet, aber darunter würde die Verkehrsflüssigkeit leiden. Um beide Forderungen der StVO, nämlich Sicherheit und Leichtigkeit zu erfüllen, muss der Verkehrsteilnehmer in gewissen Situationen darauf vertrauen dürfen, dass die Verkehrsregeln eingehalten werden.
 
 Daraus folgt der Vertrauensgrundsatz. Beide Grundsätze, jeweils sinnvoll eingesetzt, garantieren dann sowohl Sicherheit als auch Leichtigkeit im Straßenverkehr.
 
-## Detimernante
+## Determinante
 
-Bildungssprachlich = „bestimmender Faktor“
+Bildungssprachlich = „*bestimmender Faktor*“
 
 ## Einfädelungsstreifen
 
@@ -140,7 +140,7 @@ Baulich getrennte „Nebenfahrbahnen“ neben der „Hauptfahrbahn“ gelten mei
 
 ## Fahrbahnen
 
-2 Fahrbahnen sind nur dann vorhanden wenn durch bauliche Maßnahmen getrennt.
+*2 Fahrbahnen sind nur dann vorhanden, wenn durch bauliche Maßnahmen getrennt*.
 
 - Schutzplanken
 - Insel
@@ -156,7 +156,7 @@ Neben dem Halter ist für das Fahrzeug verantwortlich der beauftragte Fuhrparkle
 
 ## Fußgänger
 
-...sind Verkehrsteilnehmer, die sich zu Fuß oder mit Fortbewegungsmitteln fortbewegen. Auch wenn sie Fortbewegungsmittel benutzen (§§ 24, 31), müssen sie sich nach den Fußgängerregeln richten (§ 25).
+...*sind Verkehrsteilnehmer, die sich zu Fuß oder mit Fortbewegungsmitteln fortbewegen*. Auch wenn sie Fortbewegungsmittel benutzen (§§ 24, 31), müssen sie sich nach den Fußgängerregeln richten (§ 25).
 
 ## Fahrzeugführer
 
@@ -166,7 +166,7 @@ Neben dem Halter ist für das Fahrzeug verantwortlich der beauftragte Fuhrparkle
 
 § 63a StVZO Beschreibung von Fahrrädern.
 
-(1) Ein Fahrrad ist ein Fahrzeug mit mindestens zwei Rädern, das ausschließlich durch die Muskelkraft auf ihm befindlicher Personen mit Hilfe von Pedalen oder Handkurbeln angetrieben wird.
+(1) *Ein Fahrrad ist ein Fahrzeug mit mindestens zwei Rädern, das ausschließlich durch die Muskelkraft auf ihm befindlicher Personen mit Hilfe von Pedalen oder Handkurbeln angetrieben wird*.
 
 (2) Als Fahrrad gilt auch ein Fz i.S. Abs. 1, das mit einer elektrischen Trethilfe ausgerüstet ist, die mit einem elektromotorischen Hilfsantrieb mit einer größten Nenndauerleistung von 0,25 kW ausgestattet ist, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder wenn der Fahrer mit dem Treten oder Kurbeln einhält, unterbrochen wird. Die Anforderungen des Satzes 1 sind auch dann erfüllt, wenn das Fahrrad über einen Hilfsantrieb im Sinne des Satzes 1 verfügt, der eine Beschleunigung des Fahrzeugs auf eine Geschwindigkeit von bis zu 6 km/h, auch ohne gleichzeitiges Treten oder Kurbeln des Fahrers, ermöglicht (Anfahr- oder Schiebehilfe).
 
@@ -181,7 +181,7 @@ Sie liegt auch dann vor, wenn der Schaden letztendlich durch das Verhalten eines
 
 ## Gegenseitige Rücksicht
 
-Das Verhalten des Verkehrsteilnehmers soll nicht allein darauf abgestellt sein, selbst schneller voranzukommen, sondern mehr die jeweilige Verkehrssituation berücksichtigen (amtl. Begründung). Sicherheit geht immer vor, eigene Wünsche und Bedürfnisse müssen ihr gegenüber zurückstehen.
+*Das Verhalten des Verkehrsteilnehmers soll nicht allein darauf abgestellt sein, selbst schneller voranzukommen, sondern mehr die jeweilige Verkehrssituation berücksichtigen* (amtl. Begründung). Sicherheit geht immer vor, eigene Wünsche und Bedürfnisse müssen ihr gegenüber zurückstehen.
 
 Die Partnerschaft im Verkehr gebietet es weiterhin, auf schwächere Verkehrsteilnehmer Rücksicht zu nehmen, die sich aus mangelnder Erfahrung oder aus Regelunkenntnis nicht so sicher bewegen. Dies wären u.a.
 
@@ -198,7 +198,7 @@ Die Partnerschaft im Verkehr gebietet es weiterhin, auf schwächere Verkehrsteil
 
 ## Grundsatz der Verkehrsfreiheit
 
-Grundsätzlich ist jeder Verkehrsteilnehmer zum Verkehr auf öffentlichen Straßen zugelassen (Folge aus der Handlungsfreiheit des Art. 2 GG und der Berufsausübung nach Art. 12 GG). Infolgedessen darf der Staat den individuellen Verkehrszweck nicht zum Gegenstand von Beschränkungen machen. Unzulässig wären Einschränkungen der Aufenthalts- oder Bewegungsfreiheit nur aus sozial- oder verkehrspolitisch für „sinnvoll“ gehaltenen Gründen. Das Verbot des „unnützen Hin- und Herfahrens“ nach § 30(1) S. 2 ist verfassungsrechtlich nur deshalb tragbar, weil es sich nicht auf einen bestimmten Verkehrsnutzen bezieht, sondern der Vermeidung von Lärm und Abgasbelästigungen dient. Zulässig sind allerdings Beeinträchtigungen der Mobilität im Interesse anderer schützenswerter Rechte, insbesondere zu Gunsten der Verkehrssicherheit und des Immissionsschutzes. So kann z. B. ungeeigneten oder verkehrsschwachen Personen das Führen von Fahrzeugen untersagt, eine Fahrerlaubnispflicht vorgeschrieben oder auf bestimmten Straßen Verkehrsverbote erteilt werden.
+*Grundsätzlich ist jeder Verkehrsteilnehmer zum Verkehr auf öffentlichen Straßen zugelassen* (Folge aus der Handlungsfreiheit des Art. 2 GG und der Berufsausübung nach Art. 12 GG). Infolgedessen darf der Staat den individuellen Verkehrszweck nicht zum Gegenstand von Beschränkungen machen. Unzulässig wären Einschränkungen der Aufenthalts- oder Bewegungsfreiheit nur aus sozial- oder verkehrspolitisch für „sinnvoll“ gehaltenen Gründen. Das Verbot des „unnützen Hin- und Herfahrens“ nach § 30(1) S. 2 ist verfassungsrechtlich nur deshalb tragbar, weil es sich nicht auf einen bestimmten Verkehrsnutzen bezieht, sondern der Vermeidung von Lärm und Abgasbelästigungen dient. Zulässig sind allerdings Beeinträchtigungen der Mobilität im Interesse anderer schützenswerter Rechte, insbesondere zu Gunsten der Verkehrssicherheit und des Immissionsschutzes. So kann z. B. ungeeigneten oder verkehrsschwachen Personen das Führen von Fahrzeugen untersagt, eine Fahrerlaubnispflicht vorgeschrieben oder auf bestimmten Straßen Verkehrsverbote erteilt werden.
 
 ## Gewidmeter Straßenraum
 
@@ -233,7 +233,7 @@ Nach dem systematischen Verzeichnis der Fahrzeug- und Aufbauarten werden Kfz in 
 
 ## Krafträder
 
-Zu den Krafträdern gehören Motorräder (über 50 cm³ und 45 km/h), einschließlich Beiwagen, Leichtkrafträder (max. 125 cm³ und 11 kW), Kleinkrafträder (max. 50 cm³ und 45 km/h) einschließlich Mokicks sowie Fahrräder mit Hilfsmotor (max. 50 cm³ und 45 km/h) nebst den Untergruppen Mofas (bis 25 km/h) und Leichtmofas (bis 20 km/h).
+*Zu den Krafträdern gehören Motorräder (über 50 cm³ und 45 km/h), einschließlich Beiwagen, Leichtkrafträder (max. 125 cm³ und 11 kW), Kleinkrafträder (max. 50 cm³ und 45 km/h) einschließlich Mokicks sowie Fahrräder mit Hilfsmotor (max. 50 cm³ und 45 km/h) nebst den Untergruppen Mofas (bis 25 km/h) und Leichtmofas (bis 20 km/h)*.
 
 Dreirädrige Krafträder („Trikes") mit symmetrisch angeordneten Rädern werden zwar den einspurigen KFZ zugeordnet (Richtlinie 92/61/EWG), fahrerlaubnisrechtlich gehören sie jedoch zu den Fahrerlaubnisklasse A oder bis 45 km/h Klasse AM).
 
@@ -286,8 +286,8 @@ Ausnahme: zum Be- oder Entladen, Ein- oder Aussteigen nur bei VKZ 286, 314 und 3
 
 ## Radaufstellstreifen
 
-Bei aufgeweiteten Radaufstellstreifen wird das Einordnen zum Linksabbiegen in
-Fortsetzung einer Radverkehrsanlage dadurch ermöglicht, dass für den Kfz-Verkehr auf der Fahrbahn durch eine zusätzliche vorgelagerte Haltlinie (Zeichen 294) mit räumlichem und verkehrlichem Bezug zur Lichtzeichenanlage das Haltgebot angeordnet wird.
+*Bei aufgeweiteten Radaufstellstreifen wird das Einordnen zum Linksabbiegen in
+Fortsetzung einer Radverkehrsanlage dadurch ermöglicht, dass für den Kfz-Verkehr auf der Fahrbahn durch eine zusätzliche vorgelagerte Haltlinie (Zeichen 294) mit räumlichem und verkehrlichem Bezug zur Lichtzeichenanlage das Haltgebot angeordnet wird*.
 
 ## Schädigung
 
@@ -298,13 +298,13 @@ Unter Schädigung ist die Zufügung eines wirtschaftlichen, d. h. vermögensrech
 
 ## Schienenfahrzeuge
 
-(Straßenbahnen, Industriebahnen, S-/U-Bahnen, Draisinen) gehören begrifflich nicht zu den KFZ, unterliegen aber den für den Fahrzeugverkehr geltenden Regeln der StVO, wenn sie auf „straßenbündigem Gleiskörper“ oder von Schienentrassen über Knotenpunkte fahren. Wegen ihrer Bindung an Gleise gelten teilweise Sonderregeln, insbesondere die §§ 5(7), 9(3), 11(3), 12(1) Nr. 4, 20(1), 26(1). Nehmen Schienenbahnen i.g.O. straßenbündig am allgemeinen Verkehr teil, gelten für sie die allgemeinen Tempogrenzen, wie 50 km/h oder Schrittgeschwindigkeit in Fußgängerzonen. Im Übrigen müssen sie die allgemeinen Verkehrsregeln beachten.
+(*Straßenbahnen, Industriebahnen, S-/U-Bahnen, Draisinen*) gehören begrifflich nicht zu den KFZ, unterliegen aber den für den Fahrzeugverkehr geltenden Regeln der StVO, wenn sie auf „straßenbündigem Gleiskörper“ oder von Schienentrassen über Knotenpunkte fahren. Wegen ihrer Bindung an Gleise gelten teilweise Sonderregeln, insbesondere die §§ 5(7), 9(3), 11(3), 12(1) Nr. 4, 20(1), 26(1). Nehmen Schienenbahnen i.g.O. straßenbündig am allgemeinen Verkehr teil, gelten für sie die allgemeinen Tempogrenzen, wie 50 km/h oder Schrittgeschwindigkeit in Fußgängerzonen. Im Übrigen müssen sie die allgemeinen Verkehrsregeln beachten.
 
 Verkehren Schienenfahrzeuge auf Straßen mit baulich von der Fahrbahn getrennten Gleiskörpern (Schienentrassen), handelt es sich um Sonderwege. Hier gelten die Regeln des § 19 an den gekennzeichneten Bahnübergängen. Abweichend von der Geschwindigkeit i.g.O. dürfen Straßenbahnen dann auch schneller fahren. Auf Schienentrassen nehmen Straßenbahnen nicht am öffentlichen Straßenverkehr teil. Die Höchstgeschwindigkeit wird durch die Technische Aufsichtsbehörde festgelegt (§§ 50 Abs. 2, 55 Abs. 3 BOStrab).
 
 ## Seitenstreifen (Bankette)
 
-…ist der unmittelbar neben der Fahrbahn liegende Teil der Straße – er kann befestigt, oder unbefestigt sein.
+…*ist der unmittelbar neben der Fahrbahn liegende Teil der Straße – er kann befestigt, oder unbefestigt sein*.
 
 …sind beidseitig der Fahrbahn verlaufende, mehr oder weniger befestigte Randstreifen, die nicht für den schweren Fahrzeugverkehr bestimmt und geeignet sind. Sie gehören somit weder zur Fahrbahn, noch unterliegen sie den für die Fahrbahn geltenden Regelungen.
 
@@ -312,7 +312,7 @@ Verkehren Schienenfahrzeuge auf Straßen mit baulich von der Fahrbahn getrennten
 
 ## Sichtweite
 
-Die Sichtweite beim Fahren ist die uneingeschränkt und hindernisfrei zu übersehende Strecke. Der Fahrzeugführer darf, Tag und Nacht, nur so schnell fahren, dass der Anhalteweg immer innerhalb dieser Strecke (Sichtweite) liegt. 
+*Die Sichtweite beim Fahren ist die uneingeschränkt und hindernisfrei zu übersehende Strecke. Der Fahrzeugführer darf, Tag und Nacht, nur so schnell fahren, dass der Anhalteweg immer innerhalb dieser Strecke (Sichtweite) liegt*. 
 
 Bei Dunkelheit bedeutet das: Anhalten innerhalb der Reichweite des Abblendlichtes!
 
@@ -320,15 +320,15 @@ Die Sichtverhältnisse können beeinträchtigt sein durch den Verlauf der Fahrba
 
 ## Sonderwege
 
-...sind Straßenteile, die ausschließlich bestimmten Verkehrsarten dienen (Geh-, Reit-, Radwege, Straßenbahntrassen). Begrifflich gehören sie zu den „sonstigen Straßenteilen“ (§ 10). Die nach Abschnitt 5 der Anl. 2 zu § 41 bezeichneten „Sonderwege“ sind nach der systematischen Einordnung nur dann von der Fahrbahn abgesetzte Sonderwege, wenn sie durch bauliche Trennung räumlich von der Fahrbahn abgegrenzt und durch ihre Ausgestaltung oder Befestigung erkennbar sind; sonst bleiben sie Teil der Fahrbahn. Auch der Bürgersteig ist Sonderweg, weil er nur Fußgängern zur Verfügung steht. Eine Kennzeichnung durch Verkehrszeichen ist entbehrlich, wenn der Gehweg durch seine bauliche Gestaltung eindeutig bestimmt ist (Regelfall), z.B. durch Pflasterung, Plattenbelag. Zum Gehweg gehören auch Bordsteine, deren Überfahren unzulässig ist; wer mit einem Rad dort parkt, verstößt gegen § 12(4).
+...*sind Straßenteile, die ausschließlich bestimmten Verkehrsarten dienen (Geh-, Reit-, Radwege, Straßenbahntrassen). Begrifflich gehören sie zu den „sonstigen Straßenteilen“* (§ 10). Die nach Abschnitt 5 der Anl. 2 zu § 41 bezeichneten „Sonderwege“ sind nach der systematischen Einordnung nur dann von der Fahrbahn abgesetzte Sonderwege, wenn sie durch bauliche Trennung räumlich von der Fahrbahn abgegrenzt und durch ihre Ausgestaltung oder Befestigung erkennbar sind; sonst bleiben sie Teil der Fahrbahn. Auch der Bürgersteig ist Sonderweg, weil er nur Fußgängern zur Verfügung steht. Eine Kennzeichnung durch Verkehrszeichen ist entbehrlich, wenn der Gehweg durch seine bauliche Gestaltung eindeutig bestimmt ist (Regelfall), z.B. durch Pflasterung, Plattenbelag. Zum Gehweg gehören auch Bordsteine, deren Überfahren unzulässig ist; wer mit einem Rad dort parkt, verstößt gegen § 12(4).
 
 ## Sonderfahrstreifen
 
-...sind bestimmten Verkehrsarten zugeordnete und durch Markierungen (Z. 295, 340) und Verkehrszeichen gekennzeichnete Fahrbahnteile, z. B. Bussonderfahrstreifen (Z. 245), Radfahrstreifen (Z. 237).
+...*sind bestimmten Verkehrsarten zugeordnete und durch Markierungen (Z. 295, 340) und Verkehrszeichen gekennzeichnete Fahrbahnteile, z. B. Bussonderfahrstreifen (Z. 245), Radfahrstreifen (Z. 237)*.
 
 ## Sonstige Fahrzeuge
 
-...sind alle Landfahrzeuge ohne maschinellen Antrieb.
+...*sind alle Landfahrzeuge ohne maschinellen Antrieb*.
 
 Anhänger sind mehrspurige Fahrzeuge, die über keinen Antriebsmotor verfügen und der Lastenbeförderung oder als Anhänger-Arbeitsmaschinen dienen. Hierzu zählen auch Kipper, Nachläufer für Langmaterial, Tieflader, Baubuden, Wohnwagen, Sportanhänger (nicht aber „Mobilheime“).
 
@@ -338,31 +338,32 @@ Zu den sonstigen Fahrzeugen gehören Fahrräder (Fahrrad = muskelbetriebenes ein
 
 Der moderne Verkehr steckt voller Gefahren und lässt sich auf Dauer nur dann aufrecht erhalten, wenn sich jeder einfügt. Deshalb ist es notwendig, eine entsprechende Mahnung voranzustellen (amtliche Begründung).
 
-Der Begriff „ständige Vorsicht“ ist dabei mehr im Sinne von vorausschauendem Verhalten, d. h. Voraus-Sicht zu verstehen. Durch Voraussicht lassen sich mögliche Gefahren bereits im Ansatz vermeiden, also schon bevor es „eng“ wird.
+*Der Begriff „ständige Vorsicht“ ist dabei mehr im Sinne von vorausschauendem Verhalten, d. h. Voraus-Sicht zu verstehen. Durch Voraussicht lassen sich mögliche Gefahren bereits im Ansatz vermeiden, also schon bevor es „eng“ wird*.
 
 Im heutigen Straßenverkehr ist es also notwendig, ein Gespür für bestimmte Probleme zu entwickeln  (Verkehrssinn). Durch einen ausgeprägten Verkehrssinn wird es dem Verkehrsteilnehmer dann möglich
+
 - Gefahren in der Entstehung zu erkennen
 - Gefahren zu vermeiden
 - Gefahren zu bewältigen
 
 ## Straße
 
-...sind alle für Verkehrsteilnehmer bestimmte Flächen, unabhängig von den Eigentumsverhältnissen oder einer straßenrechtlichen Widmung.1
-Soweit die StVO den Begriff „Straße“ verwendet, ist darunter nicht nur die Fahrbahn, sondern jeder öffentlich benutzbare Verkehrsraum zu verstehen, auch Parkflächen, Brücken, Tunnel, Dämme, Böschungen.
+...*sind alle für Verkehrsteilnehmer bestimmte Flächen, unabhängig von den Eigentumsverhältnissen oder einer straßenrechtlichen Widmung.
+Soweit die StVO den Begriff „Straße“ verwendet, ist darunter nicht nur die Fahrbahn, sondern jeder öffentlich benutzbare Verkehrsraum zu verstehen, auch Parkflächen, Brücken, Tunnel, Dämme, Böschungen*.
 
 ## Sonstige Straßenteile
 
-„Andere“ Straßenteile (§ 10 S.1) sind Flächen, die nicht zur Fahrbahn gehören, wie Seitenstreifen, Sonderwege, Parkplätze, Mittel- oder Schutzstreifen, Grundstückszufahrten über Gehwege, auch für den Verkehr noch nicht freigegebene Flächen, die als Baustellenzufahrten dienen. Grünflächen sind dann öffentlich, wenn sie allgemein zugänglich sind. Sind sie infolge des Bewuchses tatsächlich nichtnutzbar, gelten sie als Privatflächen, selbst wenn sie im Eigentum der öffentlichen Hand stehen (z.B. dicht mit Büschen oder Bäumen bewachsene Mittelstreifen). Wird dort unzulässig geparkt, liegt kein Verstoß nach § 12(4) vor, wohl aber eine Zuwiderhandlung nach den Straßengesetzen oder Landschaftsschutzverordnungen.
+*„Andere“ Straßenteile (§ 10 S.1) sind Flächen, die nicht zur Fahrbahn gehören, wie Seitenstreifen, Sonderwege, Parkplätze, Mittel- oder Schutzstreifen, Grundstückszufahrten über Gehwege, auch für den Verkehr noch nicht freigegebene Flächen, die als Baustellenzufahrten dienen*. Grünflächen sind dann öffentlich, wenn sie allgemein zugänglich sind. Sind sie infolge des Bewuchses tatsächlich nichtnutzbar, gelten sie als Privatflächen, selbst wenn sie im Eigentum der öffentlichen Hand stehen (z.B. dicht mit Büschen oder Bäumen bewachsene Mittelstreifen). Wird dort unzulässig geparkt, liegt kein Verstoß nach § 12(4) vor, wohl aber eine Zuwiderhandlung nach den Straßengesetzen oder Landschaftsschutzverordnungen.
 
 ## Toter Winkel
 
-Als toter Winkel werden Bereiche VOR, HINTER und NEBEN dem Fahrzeug bezeichnet die der Fahrer nicht durch die Spiegel einsehen kann.
+*Als toter Winkel werden Bereiche VOR, HINTER und NEBEN dem Fahrzeug bezeichnet die der Fahrer nicht durch die Spiegel einsehen kann*.
 
 Im CE und DE Bereich besteht durch die größeren toten Winkel ein höheres Unfallrisiko als im BE Bereich.
 
 ## Verkehrsteilnehmer
 
-...ist, wer sich verkehrserheblich verhält, d.h. körperlich und unmittelbar aktiv oder durch pflichtwidriges Unterlassen auf den Ablauf eines Verkehrsvorganges einwirkt.
+...*ist, wer sich verkehrserheblich verhält, d.h. körperlich und unmittelbar aktiv oder durch pflichtwidriges Unterlassen auf den Ablauf eines Verkehrsvorganges einwirkt*.
 
 Verkehrserheblich (also verkehrsbezogen) ist das Verhalten dann, wenn es sich schon oder noch wenigstens teilweise im öffentliche Verkehrsraum abspielt. 
 
@@ -370,19 +371,19 @@ Das bedeutet grundsätzlich, dass der Verkehrsteilnehmer, der das Verkehrsgesche
 
 § 1 StVO erstreckt sich auch auf den ruhenden Verkehr, sodass derjenige, der sein Fahrzeug im öffentlichen Verkehrsraum abstellt, während der ganzen Dauer des Parkens Verkehrsteilnehmer ist. 
 
-*Verkehrsteilnehmer sind:*
-Fahrzeugführer, Reiter, Fußgänger, Soziusfahrer; der Fahrgast, der den Fahrzeugführer ablenkt; Bediener des Schwenkwerks eines Baggers im öffentlichen Verkehrsraum; 
-Halter eines Hundes (als Verantwortlicher); Abstellen eines Fahrzeugs im öffentlichen Verkehrsraum. 
+**Verkehrsteilnehmer sind:**
+*Fahrzeugführer, Reiter, Fußgänger, Soziusfahrer; der Fahrgast, der den Fahrzeugführer ablenkt; Bediener des Schwenkwerks eines Baggers im öffentlichen Verkehrsraum; 
+Halter eines Hundes (als Verantwortlicher); Abstellen eines Fahrzeugs im öffentlichen Verkehrsraum*. 
 
-*Keine Verkehrsteilnehmer sind:*
+**Keine Verkehrsteilnehmer sind:**
 Fahrgast eines Omnibusses; mitfahrender Müllwerker auf einem Müllwagen; Person, die auf einer Parkbank sitzt etc.; der verkehrsregelnde Polizeibeamte; der Schrankenwärter (OLG Hamm, VkBl 66, 68); Bauunternehmer, der Straßenarbeiten ausführen lässt (OLG Hamm VRS 5, 623), 
 
 ## Verhalten
 
-...ist jede menschliche Handlung, die sich im Tun oder Unterlassen darstellen kann. 
-Dieses Verhalten wird geprägt von der Sorgfaltspflicht, damit die Folgen des § 1 (2) StVO vermieden werden. 
+...*ist jede menschliche Handlung, die sich im Tun oder Unterlassen darstellen kann. 
+Dieses Verhalten wird geprägt von der Sorgfaltspflicht, damit die Folgen des § 1 (2) StVO vermieden werden*. 
 
-*Diese Sorgfaltspflicht beinhaltet:*
+**Diese Sorgfaltspflicht beinhaltet:**
 Vorausschauen- und denken bei Verkehrslageentwicklungen, Analyse des Verhaltens anderer Verkehrsteilnehmer, Verpflichtung zum gefahrmindernden Verhalten, zur Unfallverhütung. 
 
 Dieser Grundsatz der ständigen Sorgfalt kann aber nicht bedeuten, dass der Verkehrsteilnehmer mit jedem denkbaren verkehrswidrigen Verhalten anderer rechnen muss. Er hat aufgrund des Vertrauensgrundsatzes nur mit solchem Fehlverhalten anderer zu rechnen, das nach den Umständen als möglich zu erwarten ist. 
@@ -393,19 +394,19 @@ Mit dem Grundsatz des defensiven Fahrens soll erreicht werden, dass der Fahrzeug
 
 ## Verkehrsmittel
 
-...sind alle straßen- und schienengebundenen Landfahrzeuge, die durch Motor- oder Muskelkraft angetrieben werden. Fahrzeuge sind alle straßengebundenen Verkehrsmittel zur Beförderung von Personen oder Gütern mit oder ohne Motorantrieb. Mit Verkehrsmitteln sind die ihnen zugewiesenen Verkehrsflächen zu benutzen, z.B. mit Fahrzeugen die Fahrbahn (§ 2 (1)). Im Prinzip gibt es keinen Vorrang bestimmter Verkehrsmittel gegenüber anderen (z.B. nicht von Straßenbahnen gegenüber Radfahrern). Die Verkehrsbehörden können jedoch die Benutzung von Flächen unter den Eingriffsvoraussetzungen des § 45 zu Gunsten oder zu Lasten bestimmter Verkehrsarten einschränken oder erweitern.
+...*sind alle straßen- und schienengebundenen Landfahrzeuge, die durch Motor- oder Muskelkraft angetrieben werden. Fahrzeuge sind alle straßengebundenen Verkehrsmittel zur Beförderung von Personen oder Gütern mit oder ohne Motorantrieb*. Mit Verkehrsmitteln sind die ihnen zugewiesenen Verkehrsflächen zu benutzen, z.B. mit Fahrzeugen die Fahrbahn (§ 2 (1)). Im Prinzip gibt es keinen Vorrang bestimmter Verkehrsmittel gegenüber anderen (z.B. nicht von Straßenbahnen gegenüber Radfahrern). Die Verkehrsbehörden können jedoch die Benutzung von Flächen unter den Eingriffsvoraussetzungen des § 45 zu Gunsten oder zu Lasten bestimmter Verkehrsarten einschränken oder erweitern.
 
 ## Vertrauensgrundsatz
 
 (Ein Begriff, welcher aus der Rechtsprechung entstanden ist)
 
-Jeder sich verkehrsgerecht verhaltende Verkehrsteilnehmer kann grundsätzlich darauf vertrauen, dass sich auch andere VT verkehrsgerecht verhalten.
+*Jeder sich verkehrsgerecht verhaltende Verkehrsteilnehmer kann grundsätzlich darauf vertrauen, dass sich auch andere VT verkehrsgerecht verhalten*.
 
-*Oder:*
+**Oder:**
 
 Wer sich selbst verkehrsgerecht verhält, darf bei normalem Verkehrsablauf darauf vertrauen, dass auch die andren VT sich richtig verhalten.
 
-*Dies gilt nicht:*
+**Dies gilt nicht:**
 
 - gegenüber Betrunkenen, Kindern, stark Behinderten sowie Personen im Greisenalter (verkehrsschwache Personen),
 - wenn sich der andere Verkehrsteilnehmer erkennbar verkehrswidrig verhält, 
@@ -417,28 +418,28 @@ Wenn der Vertrauensgrundsatz nicht anwendbar ist, führt dies zu einer erhöhten
 
 ## Verkehrsfreiheit, Grundsatz der Verkehrsfreiheit
 
-Grundsätzlich ist jeder Verkehrsteilnehmer zum Verkehr auf öffentlichen Straßen zugelassen (Folge aus der Handlungsfreiheit des Art. 2 GG und der Berufsausübung nach Art. 12 GG). Infolgedessen darf der Staat den individuellen Verkehrszweck nicht zum Gegenstand von Beschränkungen machen. Unzulässig wären Einschränkungen der Aufenthalts- oder Bewegungsfreiheit nur aus sozial- oder verkehrspolitisch für „sinnvoll“ gehaltenen Gründen. Das Verbot des „unnützen Hin- und Herfahrens“ nach § 30(1) S. 2 ist verfassungsrechtlich nur deshalb tragbar, weil es sich nicht auf einen bestimmten Verkehrsnutzen bezieht, sondern der Vermeidung von Lärm und Abgasbelästigungen dient. Zulässig sind allerdings Beeinträchtigungen der Mobilität im Interesse anderer schützenswerter Rechte, insbesondere zu Gunsten der Verkehrssicherheit und des Immissionsschutzes. So kann z. B. ungeeigneten oder verkehrsschwachen Personen das Führen von Fahrzeugen untersagt, eine Fahrerlaubnispflicht vorgeschrieben oder auf bestimmten Straßen Verkehrsverbote erteilt werden. 
+*Grundsätzlich ist jeder Verkehrsteilnehmer zum Verkehr auf öffentlichen Straßen zugelassen (Folge aus der Handlungsfreiheit des Art. 2 GG und der Berufsausübung nach Art. 12 GG). Infolgedessen darf der Staat den individuellen Verkehrszweck nicht zum Gegenstand von Beschränkungen machen*. Unzulässig wären Einschränkungen der Aufenthalts- oder Bewegungsfreiheit nur aus sozial- oder verkehrspolitisch für „sinnvoll“ gehaltenen Gründen. Das Verbot des „unnützen Hin- und Herfahrens“ nach § 30(1) S. 2 ist verfassungsrechtlich nur deshalb tragbar, weil es sich nicht auf einen bestimmten Verkehrsnutzen bezieht, sondern der Vermeidung von Lärm und Abgasbelästigungen dient. Zulässig sind allerdings Beeinträchtigungen der Mobilität im Interesse anderer schützenswerter Rechte, insbesondere zu Gunsten der Verkehrssicherheit und des Immissionsschutzes. So kann z. B. ungeeigneten oder verkehrsschwachen Personen das Führen von Fahrzeugen untersagt, eine Fahrerlaubnispflicht vorgeschrieben oder auf bestimmten Straßen Verkehrsverbote erteilt werden. 
 
 ## Warnzeichen
 
-Die Abgabe von Warnzeichen1 erfordert eine konkrete Gefahrenlage. Ohne eine solche Gefahrenlage sind Warnzeichen unzulässig, insbesondere um sich „Gehör“ zu verschaffen, zum schnelleren Vorankommen, zum Schneiden von Kurven, um andere zum Verzicht auf ihren Vorrang zu bewegen oder ähnliche Verhaltensweisen. Warnzeichen sind i.g.O. und agO geboten, wenn die Gefahr anders nicht mehr gebannt werden kann (wie Abbremsen, Umfahren, Anhalten) und die Abgabe eines Warnzeichens noch Erfolg verspricht. Insoweit folgt die Pflicht zur Warnung aus § 1(2), nicht aus § 16. Warnzeichen müssen gegeben werden, wenn sich die Fahrt durch einen Motordefekt wesentlich verlangsamt. Warnzeichen dürfen aber nicht gegeben werden, wenn sie die Gefahr lediglich vergrößern, z. B. Erschrecken, Verunsicherung oder falsche Reaktion des Gewarnten. Wer durch ein unrichtiges Warnzeichen andere verwirrt und zu unrichtigen Reaktionen veranlasst, hat für die Folgen einzustehen. Mit Warnblinklicht darf vor einem Falschfahrer gewarnt werden, jedoch nicht durch sonstige Leucht- oder Schallzeichen. Beim Abbiegen ersetzen Warnzeichen nicht die Fahrtrichtungsanzeige.
+*Die Abgabe von Warnzeichen1 erfordert eine konkrete Gefahrenlage. Ohne eine solche Gefahrenlage sind Warnzeichen unzulässig, insbesondere um sich „Gehör“ zu verschaffen, zum schnelleren Vorankommen, zum Schneiden von Kurven, um andere zum Verzicht auf ihren Vorrang zu bewegen oder ähnliche Verhaltensweisen*. Warnzeichen sind i.g.O. und a.g.O. geboten, wenn die Gefahr anders nicht mehr gebannt werden kann (wie Abbremsen, Umfahren, Anhalten) und die Abgabe eines Warnzeichens noch Erfolg verspricht. Insoweit folgt die Pflicht zur Warnung aus § 1(2), nicht aus § 16. Warnzeichen müssen gegeben werden, wenn sich die Fahrt durch einen Motordefekt wesentlich verlangsamt. Warnzeichen dürfen aber nicht gegeben werden, wenn sie die Gefahr lediglich vergrößern, z. B. Erschrecken, Verunsicherung oder falsche Reaktion des Gewarnten. Wer durch ein unrichtiges Warnzeichen andere verwirrt und zu unrichtigen Reaktionen veranlasst, hat für die Folgen einzustehen. Mit Warnblinklicht darf vor einem Falschfahrer gewarnt werden, jedoch nicht durch sonstige Leucht- oder Schallzeichen. Beim Abbiegen ersetzen Warnzeichen nicht die Fahrtrichtungsanzeige.
 
 Das Verbot der Benutzung von Mehrklanghupen nach § 16(3) gilt auch für Ausländer, an deren Fahrzeugen nach den Vorschriften für den internationalen Verkehr Mehrklanghupen zulässig sind.
 
 ## Warnzeichen beim Überholen
 
-Nur agO darf das Überholen durch kurze Schall- oder Leuchtzeichen angekündigt werden. Wird mit Fernlicht geblinkt („Lichthupe“), dürfen entgegenkommende Fahrzeugführer nicht geblendet werden. Wer mehrere vor ihm auf dem Überholstreifen einer Autobahn fahrende KFZ überholen will, braucht die Überholabsicht nicht durch Schall- oder Leuchtzeichen anzukündigen. Wer auf der Autobahn überholen will, darf einen Vordermann, der unzulässig auf dem Überholstreifen fährt, durch kurzes Warnzeichen zur Freigabe auffordern, das Ausweichen damit aber nicht erzwingen. Längeres Aufblenden und dichtes Auffahren kann strafbare Nötigung sein (§ 240 StGB).
+*Nur a.g.O. darf das Überholen durch kurze Schall- oder Leuchtzeichen angekündigt werden. Wird mit Fernlicht geblinkt („Lichthupe“), dürfen entgegenkommende Fahrzeugführer nicht geblendet werden*. Wer mehrere vor ihm auf dem Überholstreifen einer Autobahn fahrende KFZ überholen will, braucht die Überholabsicht nicht durch Schall- oder Leuchtzeichen anzukündigen. Wer auf der Autobahn überholen will, darf einen Vordermann, der unzulässig auf dem Überholstreifen fährt, durch kurzes Warnzeichen zur Freigabe auffordern, das Ausweichen damit aber nicht erzwingen. Längeres Aufblenden und dichtes Auffahren kann strafbare Nötigung sein (§ 240 StGB).
 
 ## Warnzeichen bei Gefährdung
 
-Fährt ein PKW langsam aus einer Grundstücksausfahrt auf die Straßenmitte, muss ein auf der anderen Straßenseite nahender PKW-Fahrer Warnzeichen geben, wenn eine Kollisionsgefahr auch durch eigenes Bremsen nicht mehr verhindert werden kann. Fußgänger dürfen durch „Lichthupe“ nur gewarnt werden, wenn sie gefährdet sind und die Warnung für sie eindeutig ist. Andernfalls muss ein Kraftfahrer damit
+*Fährt ein PKW langsam aus einer Grundstücksausfahrt auf die Straßenmitte, muss ein auf der anderen Straßenseite nahender PKW-Fahrer Warnzeichen geben, wenn eine Kollisionsgefahr auch durch eigenes Bremsen nicht mehr verhindert werden kann. Fußgänger dürfen durch „Lichthupe“ nur gewarnt werden, wenn sie gefährdet sind und die Warnung für sie eindeutig ist*. Andernfalls muss ein Kraftfahrer damit
 rechnen, dass sein Leuchtzeichen als Einräumung des Vorrangs oder Aufforderung
 zum Überqueren der Fahrbahn missdeutet wird.
 
 ## Warnblinklicht
 
-Warnblinklicht kann bereits bei abstrakten Gefahrenlagen eingeschaltet werden.
+*Warnblinklicht kann bereits bei abstrakten Gefahrenlagen eingeschaltet werden*.
 
 ## Warnblinklicht bei Stau oder langsamem Verkehr
 
-Das Gebot zum Einschalten von Warnblinklicht besteht - wie auch bei Schallzeichen - nur bei einer anders nicht mehr vermeidbaren Gefahrsituation. Das „dürfen“ verdichtet sich wegen des Gefährdungsausschlusses dann zur Pflicht. Bei Annäherung an einen Stau liegt nicht immer eine solche Gefahrsituation vor, sondern nur dann, wenn es sich um einen außerörtlichen und schwer erkennbaren Stau.
+*Das Gebot zum Einschalten von Warnblinklicht besteht - wie auch bei Schallzeichen - nur bei einer anders nicht mehr vermeidbaren Gefahrsituation. Das „dürfen“ verdichtet sich wegen des Gefährdungsausschlusses dann zur Pflicht*. Bei Annäherung an einen Stau liegt nicht immer eine solche Gefahrsituation vor, sondern nur dann, wenn es sich um einen außerörtlichen und schwer erkennbaren Stau.

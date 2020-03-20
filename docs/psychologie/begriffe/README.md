@@ -7,6 +7,12 @@ meta:
 
 # Begriffe aus der Psychologie
 
+## Aggression
+
+Aggression (lateinisch aggressiō vom Deponens aggredī sich zubewegen auf etw./jdn.; heranschreiten; sich nähern; angreifen) ist eine feindselig angreifende Verhaltensweise eines Organismus. Sie *ist ein biologisch in Tieren und Menschen verankertes Verhaltensmuster zur Verteidigung oder Gewinnung von Ressourcen und zur Bewältigung potenziell gefährlicher Situationen*. Diese ultimaten Ursachen werden beim Menschen durch proximate Ursachen in der Persönlichkeit oder der Umwelt ausgelöst, aktiviert oder gehemmt und durch verschiedene Emotionen motiviert.
+
+Zur Auslösung von Aggression bedarf es spezifischer Situationen und Reize. *Bei Menschen wird emotionale Aggression häufig durch negative Gefühle hervorgerufen, also als Reaktion zum Beispiel auf Frustration, Hitze, Kälte, Schmerz, Furcht oder Hunger*. Ob und wie Aggressionen im Verhalten zum Ausdruck gebracht werden, unterliegt in hohem Maße den jeweiligen sozialen Normen.
+
 ## Angststörung
 
 *Angststörung ist ein Sammelbegriff für mit Angst verbundene psychische Störungen, deren gemeinsames Merkmal exzessive, übertriebene Angstreaktionen beim Fehlen einer wirklichen äußeren Bedrohung sind*.
@@ -22,6 +28,16 @@ Unterschieden werden dabei grob zwei Formen:
 Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) gehört zur Gruppe der Verhaltens- und emotionalen Störungen mit Beginn in der Kindheit und Jugend. Sie *äußert sich durch Probleme mit Aufmerksamkeit, Impulsivität und Selbstregulation; manchmal kommt zusätzlich starke körperliche Unruhe (Hyperaktivität) hinzu*.
 
 Die weltweite Häufigkeit der ADHS unter Kindern und Jugendlichen wird mit etwa 5,3 % beziffert. Sie gilt heute als häufigste psychiatrische Erkrankung bei Kindern und Jugendlichen. Jungen werden merklich häufiger diagnostiziert als Mädchen.
+
+## Assoziation
+
+*Als Assoziation gilt in der Psychologie, der Psychoanalyse und in der Lernpsychologie die Annahme, dass unter bestimmten Bedingungen Vorstellungen in Form von einfachen, nicht reduzierbaren kognitiven Elementen, von Emotionen oder von Modifikationen einfacher Sinneseindrücke miteinander verknüpft (erlernt) werden*. Denkprozesse seien beispielsweise eine Folge dieser Verknüpfungen.
+
+## Automatismen
+
+Als Automatismus (plural: Automatismen) bezeichnet man in der Verhaltensbiologie *alle Aktivitäten, die ohne erkennbare willentliche oder äußere Steuerung und Kontrolle vollzogen werden*. Dies unterscheidet sie von Reflexen und Instinktverhalten, die zumindest durch äußere Faktoren beeinflusst werden können.
+
+Automatismen können ferner Bestandteil psychiatrischer Krankheitsbilder sein, wie zum Beispiel persönlichkeitsfremde, krankhafte, spontane Handlungen.
 
 ## Borderline-Persönlichkeitsstörung (BPS)
 

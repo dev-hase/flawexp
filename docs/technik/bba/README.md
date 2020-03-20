@@ -1,3 +1,10 @@
+---
+title: 'Betriebsbremsanlage'
+meta:
+  - name: description
+    content: 'Betriebsbremsanlage'
+---
+
 # Betriebsbremsanlage (BBA)
 
 Die Betriebsbremsanlage dient dazu, das Fahrzeug im normalen Betrieb zu verlangsamen und zum Stillstand zu bringen. Sie muss abstufbar sein und auf alle Räder des Fahrzeugs wirken.

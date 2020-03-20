@@ -48,7 +48,7 @@ module.exports = {
             {
               title: 'Kommunikation',
               children: [
-
+                ['/kommunikation/begriffe/', 'Begriffe'],
               ]
             },
             {
@@ -68,12 +68,13 @@ module.exports = {
               children: [
                 ['/technik/kinematische_kette/', 'Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
+                ['/technik/turbolader/', 'Turbolader'],
                 ['/technik/bba/', 'Betriebsbremsanlage (BBA)'],
                 ['/technik/zweikreisbremsanlage/', 'Zweikreisbremsanlage'],
                 ['/technik/auflaufbremse/', 'Auflaufbremse'],
                 ['/technik/fa/', 'Fahrassistenzsysteme'],
                 ['/technik/kammscher_kreis/', 'Kammscher Kreis'],
-                ['/technik/begriffe/', 'begriffe'],
+                ['/technik/begriffe/', 'Begriffe'],
               ]
             },
             {
