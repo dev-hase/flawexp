@@ -1,8 +1,8 @@
 {
- "name": "FlaW",
+ "name": "FlaW2020",
  "short_name": "FlaW",
- "theme_color": "#26769d",
- "background_color": "#2196f3",
+ "theme_color": "#c2180c",
+ "background_color": "#eee",
  "display": "standalone",
  "orientation": "portrait",
  "scope": "/",
