@@ -5,7 +5,7 @@
                 |||
             </button>
 
-            <section class="begriffe pinchView">
+            <section class="begriffe">
                 <Content slot-key="begriffe"/>
             </section>
 
@@ -14,7 +14,6 @@
 
 <script>
 export default {
-    props: ["titel"],
     methods: {
         toggleView: function() {
 
@@ -38,38 +37,34 @@ export default {
             text-align justify
             letter-spacing -.3px
             color #666 
+
         em
             display flex
-            font-size 18px
-            line-height 1.25
+            font-size 17.5px
+            line-height 1.2
             text-align left
             margin .25rem 0
             color #111
 
         h2
-            font-size 2.25rem
+            font-size 1.9rem
             margin-bottom .25rem
 
 
     .flipbtn
         position fixed
-        right 3rem
-        bottom 3rem
+        right 1rem
+        top 4.5rem
         transform rotate(90deg) scale(1.5)
         padding .2rem .35rem .3rem .35rem
-        box-shadow 2px -2px 2px #999
+        box-shadow 1px -1px 2px #999
         background #333
         border none
         color #eee
         border-radius 100%
         outline none
 
-    .flipbtn:hover
-        background $accentColor
-        color #eee  
-        transform rotate(95deg) scale(1.7)  
-        transition .13s
-        outline none
+
 
 
 

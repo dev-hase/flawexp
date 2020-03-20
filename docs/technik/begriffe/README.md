@@ -5,6 +5,10 @@ meta:
     content: 'Begriffe, Definitionen, Technik'
 ---
 
+# Technische Begriffe
+
+::: slot begriffe
+
 ## AdBlue
 
 Das SCR-Verfahren nutzt Ammoniak, welches an Bord des Fahrzeugs aus Harnstoff gewonnen wird. *Die in einem separaten Tank liegende Harnstofflösung wird z. B. mittels Dosierpumpe oder Injektor dosiert in den Abgasstrom eingespritzt und sorgt im SCR-Katalysator für eine chemische Reaktion. Hierbei werden nur die Stickoxide in Stickstoff und Wasserdampf umgewandelt*. Das Verhältnis von Harnstofflösung zu Dieselkraftstoff beträgt etwa 1:20 bis 1:30.
@@ -85,4 +89,8 @@ Die Kraft, die überwunden werden muss, um einen Körper (beispielsweise ein Rad
 *Trommelbremsen sind Reibungsbremsen, bei denen Bremsbeläge auf eine zylindrische Fläche (die Trommel) wirken. In der sich drehenden Bremstrommel werden von innen die beiden auf der Bremsankerplatte beweglich gelagerten Bremsbacken angepresst. Das geschieht mechanisch über eine Nockenwelle, einen Spreizkeil oder über einen Radbremszylinder*.
 
 In Kraftfahrzeugen wurden Trommelbremsen von Scheibenbremsen abgelöst. Bei leistungsschwächeren Pkw werden sie noch an der Hinterachse eingesetzt; bei schweren Nutzfahrzeugen sowie Anhängern ist die Trommelbremse immer noch Stand der Technik.
+
+:::
+
+<pinchView />
 

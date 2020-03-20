@@ -7,6 +7,8 @@ meta:
 
 # Begriffe aus der Psychologie
 
+::: slot begriffe
+
 ## Aggression
 
 Aggression (lateinisch aggressiō vom Deponens aggredī sich zubewegen auf etw./jdn.; heranschreiten; sich nähern; angreifen) ist eine feindselig angreifende Verhaltensweise eines Organismus. Sie *ist ein biologisch in Tieren und Menschen verankertes Verhaltensmuster zur Verteidigung oder Gewinnung von Ressourcen und zur Bewältigung potenziell gefährlicher Situationen*. Diese ultimaten Ursachen werden beim Menschen durch proximate Ursachen in der Persönlichkeit oder der Umwelt ausgelöst, aktiviert oder gehemmt und durch verschiedene Emotionen motiviert.
@@ -59,5 +61,7 @@ Grundlage der Empathie ist die Selbstwahrnehmung – je offener eine Person für
 
 Der Ausdruck Narzissmus steht alltagspsychologisch und umgangssprachlich im weitesten Sinne für *die Selbstverliebtheit und Selbstbewunderung eines Menschen, der sich für wichtiger und wertvoller einschätzt, als urteilende Beobachter ihn charakterisieren*. In der Umgangssprache wird eine stark auf sich selbst bezogene Person, welche anderen Menschen geringere Beachtung als sich selbst schenkt, als Narzisst bezeichnet. Ein derartiger Gebrauch des Wortes „Narzissmus“ schließt meist ein negatives moralisches Werturteil über die betreffende Person ein.
 
+:::
 
+<pinchView />
 

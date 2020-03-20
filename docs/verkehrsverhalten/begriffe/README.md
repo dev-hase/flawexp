@@ -7,6 +7,8 @@ meta:
 
 # Begriffe rund um den Straßenverkehr
 
+::: slot begriffe
+
 ## Abstellen
 
 Parken ist zulässiger „Gemeingebrauch“, *Abstellen ist unzulässige „Sondernutzung“ von öffentlichen Verkehrsraum.*
@@ -443,3 +445,7 @@ zum Überqueren der Fahrbahn missdeutet wird.
 ## Warnblinklicht bei Stau oder langsamem Verkehr
 
 *Das Gebot zum Einschalten von Warnblinklicht besteht - wie auch bei Schallzeichen - nur bei einer anders nicht mehr vermeidbaren Gefahrsituation. Das „dürfen“ verdichtet sich wegen des Gefährdungsausschlusses dann zur Pflicht*. Bei Annäherung an einen Stau liegt nicht immer eine solche Gefahrsituation vor, sondern nur dann, wenn es sich um einen außerörtlichen und schwer erkennbaren Stau.
+
+:::
+
+<pinchView />

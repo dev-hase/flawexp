@@ -7,6 +7,8 @@ meta:
 
 # Begriffe rund um die Kommunikation
 
+::: slot begriffe
+
 ## Adressat
 
 *Als Adressat wird in der Pragmatik der direkte Empfänger einer Äußerung bezeichnet, wie er vom Sender dieser Äußerung intendiert wurde*. 
@@ -14,3 +16,7 @@ meta:
 ## auditiv
 
 ...*vorwiegend über den Gehörsinn ansprechbar, lernend, aufnehmend, begabt*
+
+:::
+
+<pinchView />
