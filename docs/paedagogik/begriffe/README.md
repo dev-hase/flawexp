@@ -7,6 +7,8 @@ meta:
 
 # Begriffe aus der Pädagogik
 
+::: slot begriffe
+
 ## Adoleszens
 
 Als Adoleszenz (lateinisch adolescere „heranwachsen“) wird in der *Entwicklung des Menschen der Zeitraum von der späten Kindheit über die Pubertät bis hin zum vollen Erwachsensein bezeichnet*. Die Adoleszenz unterscheidet sich also qualitativ sowohl von der Kindheit, als auch vom Erwachsenenalter (Wischmann, 2010. S. 32). *Der Begriff steht für den Zeitabschnitt, während dessen eine Person biologisch gesehen zeugungsfähig wird und an deren Ende sie körperlich nahezu ausgewachsen und emotional wie sozial weitgehend gereift ist*.
@@ -133,7 +135,7 @@ Banduras Konzept beschreibt einen Lernprozess in vier Prozessen, die sich in die
 
 *Pädagogik und Erziehungswissenschaft sind Bezeichnungen für eine wissenschaftliche Disziplin, die sich mit der Theorie und Praxis von Bildung und Erziehung hauptsächlich von Kindern und Jugendlichen auseinandersetzt*.
 
+:::
 
-
-
+<pinchView />
 
