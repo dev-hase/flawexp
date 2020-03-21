@@ -2,7 +2,7 @@
       <div>
 
             <button class="flipbtn" v-on:click="toggleView"> 
-                |||
+               
             </button>
 
             <section class="begriffe">
@@ -18,7 +18,7 @@ export default {
         toggleView: function() {
 
             this.$el.querySelector('.begriffe').classList.toggle("pinchView");
-
+            this.$el.querySelector('.flipbtn').classList.toggle("flipbtnactive");
         }
       }
 };
@@ -32,40 +32,60 @@ export default {
     .pinchView
 
         p
-            font-size 12px
+            font-size 10px
             line-height 1.05
-            text-align justify
             letter-spacing -.3px
-            color #666 
+            color #555 
+            margin .25rem 0
+            transition .2s
 
         em
-            display flex
-            font-size 17.5px
+            display inline-block
+            font-size 17.25px
             line-height 1.2
             text-align left
             margin .25rem 0
-            color #111
+            color #333
+
+        ul
+            font-size 13px
+            line-height 1.3
+            margin .25rem 0
+            color #333
 
         h2
-            font-size 1.9rem
+            font-size 1.8rem
             margin-bottom .25rem
+            transition .1s
 
 
     .flipbtn
         position fixed
         right 1rem
         top 4.5rem
-        transform rotate(90deg) scale(1.5)
-        padding .2rem .35rem .3rem .35rem
-        box-shadow 1px -1px 2px #999
-        background #333
-        border none
-        color #eee
-        border-radius 100%
+        padding 1rem
+        border .2rem solid #eee
+        box-shadow 1px 1px 2px #999
+        background #eee
         outline none
+        background-size cover
+        background-image url('/img/compress.svg')
+        transition background-color padding .5s
+        z-index 1000
+        opacity .8
+        background-repeat no-repeat
 
-
-
+    .flipbtnactive
+        padding .8rem
+        right 1.2rem
+        top 4.7rem
+        background #eff7ad
+        background-size cover
+        background-position .15rem 0
+        background-image url('/img/expand.png')
+        transition background-color padding .5s
+        background-repeat no-repeat
+        border .2rem solid #eff7ad
 
 
 
