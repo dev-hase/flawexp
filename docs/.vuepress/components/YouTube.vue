@@ -37,17 +37,18 @@ export default {
 
 <style lang="stylus" scoped>
         
-    .video-box          
+    .video-box        
         filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%)
         cursor pointer
         min-width 100%
+        margin 1.75rem 0
         div
             min-width 100%
             background-size cover
   
     .youtube 
         transition all 200ms ease-out 
-        box-shadow 3px 4px 5px #555 !important  
+        box-shadow 3px 4px 3px #666 !important  
         max-width 100% !important
 
 </style>

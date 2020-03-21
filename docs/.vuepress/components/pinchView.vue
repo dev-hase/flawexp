@@ -37,7 +37,7 @@ export default {
             letter-spacing -.3px
             color #555 
             margin .25rem 0
-            transition .2s
+            transition .4s
 
         em
             display inline-block
@@ -55,10 +55,13 @@ export default {
             margin .25rem 0
             color #333
 
-        h2
+        h2, h1
             font-size 1.8rem
             margin-bottom .25rem
-            transition .1s
+            transition .5s
+
+        img
+            width 55% !important
 
 
     .flipbtn

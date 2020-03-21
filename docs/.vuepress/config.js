@@ -68,6 +68,7 @@ module.exports = {
               children: [
                 ['/technik/kinematische_kette/', 'Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
+                ['/technik/motorschmierung/', 'Motorschmierung'],
                 ['/technik/turbolader/', 'Turbolader'],
                 ['/technik/bba/', 'Betriebsbremsanlage (BBA)'],
                 ['/technik/zweikreisbremsanlage/', 'Zweikreisbremsanlage'],
