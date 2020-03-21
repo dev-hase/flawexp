@@ -46,6 +46,8 @@ export default {
             text-align left
             margin .25rem 0
             color #333
+            background #fff8c4 
+            transition background-color 2.5s
 
         ul
             font-size 13px
@@ -79,13 +81,14 @@ export default {
         padding .8rem
         right 1.2rem
         top 4.7rem
-        background #eff7ad
+        background #fff8c4
         background-size cover
         background-position .15rem 0
         background-image url('/img/expand.png')
-        transition background-color padding .5s
+        transition background-color 3.5s
+        transition border-color .25s
         background-repeat no-repeat
-        border .2rem solid #eff7ad
+        border .2rem solid #fff8c4
 
 
 
