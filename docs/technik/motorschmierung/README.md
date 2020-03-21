@@ -5,7 +5,7 @@ meta:
     content: 'Motorschmierung'
 ---
 
-::: slot begriffe
+::: slot pinchview
 
 # Motorschmierung
 

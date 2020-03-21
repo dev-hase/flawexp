@@ -1,12 +1,12 @@
 <template>
       <div>
 
-            <button class="flipbtn" v-on:click="toggleView"> 
+            <button class="flipbtn flipbtnactive" v-on:click="toggleView"> 
                
             </button>
 
-            <section class="begriffe">
-                <Content slot-key="begriffe"/>
+            <section class="pinchlist pinchView">
+                <Content slot-key="pinchview"/>
             </section>
 
       </div>  
@@ -17,7 +17,7 @@ export default {
     methods: {
         toggleView: function() {
 
-            this.$el.querySelector('.begriffe').classList.toggle("pinchView");
+            this.$el.querySelector('.pinchlist').classList.toggle("pinchView");
             this.$el.querySelector('.flipbtn').classList.toggle("flipbtnactive");
         }
       }
@@ -26,7 +26,7 @@ export default {
 
 <style lang="stylus">
 
-    .begriffe h2
+    .pinchlist h2
         margin-top -3.25rem !important
 
     .pinchView

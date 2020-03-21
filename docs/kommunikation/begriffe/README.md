@@ -5,9 +5,9 @@ meta:
     content: 'Begriffe, Definitionen, Kommunikation'
 ---
 
-# Begriffe rund um die Kommunikation
+::: slot pinchview
 
-::: slot begriffe
+# Begriffe rund um die Kommunikation
 
 ## Adressat
 

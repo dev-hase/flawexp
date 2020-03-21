@@ -5,9 +5,9 @@ meta:
     content: 'Begriffe, Definitionen, Straßenverkehr'
 ---
 
-# Begriffe rund um den Straßenverkehr
+::: slot pinchview
 
-::: slot begriffe
+# Begriffe rund um den Straßenverkehr
 
 ## Abstellen
 

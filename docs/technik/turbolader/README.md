@@ -5,7 +5,7 @@ meta:
     content: 'Turbolader'
 ---
 
-::: slot begriffe
+::: slot pinchview
 
 # Turbolader
 
@@ -47,7 +47,7 @@ Durch den Einsatz eines Turboladers entstehen infolge der besseren Zylinderfüll
 
 - Jede dieser Maßnahmen trägt zu einem höheren Fahrzeuggewicht bei.
 
-<YouTube videoid="KMqv1G7Kt_I" />
+<YouTube videoid="KMqv1G7Kt_I" start="8" />
 
 # Sequenzieller Biturbo
 

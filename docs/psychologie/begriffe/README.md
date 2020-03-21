@@ -5,9 +5,9 @@ meta:
     content: 'Begriffe, Definitionen, Psychologie'
 ---
 
-# Begriffe aus der Psychologie
+::: slot pinchview
 
-::: slot begriffe
+# Begriffe aus der Psychologie
 
 ## Aggression
 

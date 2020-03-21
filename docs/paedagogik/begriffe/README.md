@@ -5,9 +5,9 @@ meta:
     content: 'Begriffe, Definitionen, Pädagogik'
 ---
 
-# Begriffe aus der Pädagogik
+::: slot pinchview
 
-::: slot begriffe
+# Begriffe aus der Pädagogik
 
 ## Adoleszens
 

@@ -5,9 +5,9 @@ meta:
     content: 'Begriffe, Definitionen, Technik'
 ---
 
-# Technische Begriffe
+::: slot pinchview
 
-::: slot begriffe
+# Technische Begriffe
 
 ## AdBlue
 
