@@ -45,6 +45,10 @@ Der US-amerikanische Soziologe Erving Goffman (1922–1982) vertrat die Auffassu
 
 ...*eine Person, die selbstständig, ohne Lehrer lernt, sich etwas beibringt*
 
+## Axiom
+
+...*unbeweisbare, aber in sich einsichtige Wahrheit, die daher nicht bewiesen werden muss und allgemein als gültig und richtig anerkannt wird*.
+
 ## Behavioristische Lerntheorie
 
 *Bei dem Behaviorismus wird das Verhalten (englisch behavior) eines Lebewesens untersucht. Dieses wissenschaftliche, theoretische Konzept stammt aus dem Bereich der Psychologie. Der Mensch als Ergebnis seiner Umgebung oder Umwelt ist der Hauptpunkt des Behaviorismus. Für die Vertreter der behavioristischen Lerntheorie ist der geistige Vorgang nicht von Bedeutung*. Das Verhalten eines Individuums wird ohne diesen Aspekt beobachtet. In den 1960er Jahren entwickelten diese besonderen Vertreter drei unterschiedliche Lerntheorien:

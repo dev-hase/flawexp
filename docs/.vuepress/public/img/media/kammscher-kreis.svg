@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none" stroke="#000">
+<path stroke-width="1" d="m255,3a253,253 0,1,0 2
+0zh1v506V256h253M400,464 256,256l144-208"/>
+<path stroke-dasharray="1,2" d="m400,6v500V48H256v416h144"/>
+<path fill="#000" d="m256,48-2,11h4zm0,416-2-11h4zm144,0-4-10-4
+2zm0-416-4,10-4-2zm0,208-11-2v4z"/>
+<text font-size="22" font-family="Sans" fill="#000" stroke="none" text-anchor="end"
+x="250" y="160">Maximale<tspan
+x="250" y="190">Verzögerung</tspan><tspan
+x="250" y="340">Maximale</tspan><tspan
+x="250" y="370">Beschleunigung</tspan><tspan
+x="390" y="280">Fliehkraft</tspan></text>
+</svg>

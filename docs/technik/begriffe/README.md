@@ -110,6 +110,10 @@ Ein Getriebe (oder Umformerelement) ist ein Maschinenelement, mit dem Bewegungsg
 
 <YouTube videoid="Mj38Ficw2S0" />
 
+## Lidar, Ladar
+
+Lidar (Abkürzung für englisch light detection and ranging), auch Ladar (laser detection and ranging), *ist eine dem Radar verwandte Methode zur optischen Abstands- und Geschwindigkeitsmessung sowie zur Fernmessung atmosphärischer Parameter. Statt der Radiowellen wie beim Radar werden Laserstrahlen verwendet*.
+
 ## Plug-in-Hybrid, PHEV
 
 **Ein Plug-in-Hybrid, auch Steckdosenhybrid genannt, ist ein Kraftfahrzeug mit Hybridantrieb, dessen Akkumulator sowohl über den Verbrennungsmotor als auch am Stromnetz geladen werden kann. Meist hat er einen größeren Akkumulator als ein reiner Hybrid (Vollhybrid) und stellt so eine Mischform zwischen letzterem und einem Elektroauto dar*.

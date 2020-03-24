@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="700" height="300" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="230" y="50" width="200" height="200" style="fill:#ffffff"/>
+ <g style="stroke-linejoin:round;stroke-width:1px;stroke:#000000">
+  <path d="m430 250v-200l40-40v280l-40-40z" style="fill:#e2aca4"/>
+  <path d="m430 50h-200l-40-40h280l-40 40z" style="fill:#abbddb"/>
+  <path d="m230 50v200l-40 40v-280l40 40z" style="fill:#acdbac"/>
+  <path d="m230 250h200l40 40h-280l40-40z" style="fill:#ffff87"/>
+ </g>
+ <g style="font-family:Nimbus Sans L;font-size:24px;text-anchor:middle">
+  <text transform="rotate(-90)" x="-150" y="215" space="preserve">Selbstkundgabe</text>
+  <text x="330" y="40" space="preserve">Sachebene</text>
+  <text transform="rotate(90)" x="150" y="-440" space="preserve">Appellseite</text>
+  <text x="330" y="280" space="preserve">Beziehungsseite</text>
+  <text x="330" y="160" space="preserve">Nachricht</text>
+ </g>
+ <text x="20" y="160" style="font-family:Nimbus Sans L;font-size:24px" space="preserve">Sender</text>
+ <text x="680" y="160" style="font-family:Nimbus Sans L;font-size:24px;text-anchor:end" space="preserve">Empfänger</text>
+ <path d="m157.4375 87.75-3.28125 1.3125-0.03125 0.03125-12.875 5.21875c1.74691 0.373184 3.33602 1.175553 4.625 2.28125l-46.71875 42.46875 1.6875 1.875 46.71875-42.46875c0.97597 1.38208 1.63007 3.02365 1.8125 4.78125l6.34375-12.1875 0.125-0.125-0.03125-0.03125 1.625-3.15625z" style="fill:#0061ff;stroke:#000000"/>
+ <path d="m150.6875 128.40625c1.44496 1.04587 2.54907 2.40787 3.28125 3.9375l-49.375 16.46875 0.8125 2.375 49.375-16.46875c0.3411 1.66752 0.2655 3.43351-0.28125 5.125l10.75-8.59375 0.15625-0.0625-0.03125-0.0625 2.75-2.1875-3.53125-0.09375v-0.03125l-0.0625 0.03125-13.84375-0.4375z" style="fill:#00ff00;stroke:#000000"/>
+ <path d="m105.40625 158.8125-0.8125 2.375 49.375 16.46875c-0.72792 1.52522-1.83928 2.8884-3.28125 3.90625l13.78125-0.40625 0.125 0.03125 0.03125-0.0625 3.53125-0.09375-2.75-2.1875v-0.03125l-0.0625-0.03125-10.84375-8.65625c0.5295 1.70708 0.58432 3.45906 0.25 5.125l-49.34375-16.4375z" style="fill:#ff1e00;stroke:#000000"/>
+ <path d="m100.875 169.125-1.75 1.75 47.09375 47.09375c-1.33812 1.04911-2.96308 1.76409-4.71875 2.03125l12.53125 5.78125 0.09375 0.09375 0.03125-0.03125 3.1875 1.46875-1.46875-3.1875-5.84375-12.65625c-0.29103 1.77096-1.01145 3.40615-2.0625 4.75l-47.09375-47.09375z" style="fill:#fffc00;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"/>
+ <path d="m505.84375 89.0625-1.6875 1.875 46.71875 42.46875c-1.28331 1.10341-2.86092 1.90128-4.59375 2.25l12.75 5.15625 0.125 0.125 0.03125-0.03125 3.28125 1.3125-1.625-3.15625-0.03125-0.03125-6.40625-12.3125c-0.20544 1.77393-0.86604 3.42456-1.84375 4.8125l-46.71875-42.46875z" style="fill:#0061ff;stroke:#000000"/>
+ <path d="m495.40625 128.8125-0.8125 2.375 49.375 16.46875c-0.72792 1.52522-1.83928 2.8884-3.28125 3.90625l13.78125-0.40625 0.125 0.03125 0.03125-0.0625 3.53125-0.09375-2.75-2.1875v-0.03125l-0.0625-0.03125-10.84375-8.65625c0.5295 1.70708 0.58432 3.45906 0.25 5.125l-49.34375-16.4375z" style="fill:#00ff00;stroke:#000000"/>
+ <path d="m540.6875 158.40625c1.44496 1.04587 2.54907 2.40787 3.28125 3.9375l-49.375 16.46875 0.8125 2.375 49.375-16.46875c0.3411 1.66752 0.26551 3.43351-0.28125 5.125l10.75-8.59375 0.15625-0.0625-0.03125-0.0625 2.75-2.1875-3.53125-0.09375v-0.03125l-0.0625 0.03125-13.84375-0.4375z" style="fill:#ff1e00;stroke:#000000"/>
+ <path d="m562.3125 167.65625-3.1875 1.46875-12.65625 5.84375c1.77096 0.29103 3.40615 1.01145 4.75 2.0625l-47.09375 47.09375 1.75 1.75 47.09375-47.09375c1.04911 1.33812 1.76409 2.96308 2.03125 4.71875l5.78125-12.53125 0.09375-0.09375-0.03125-0.03125 1.46875-3.1875z" style="fill:#fffc00;stroke:#000000"/>
+</svg>

@@ -49,6 +49,8 @@ module.exports = {
               title: 'Kommunikation',
               children: [
                 ['/kommunikation/begriffe/', 'Begriffe'],
+                ['/kommunikation/vier-seiten-modell/', 'Vier-Seiten-Modell, Vier-Ohren-Modell'],
+                ['/kommunikation/die-5-axiome/', 'Metakommunikatives Axiom, die fünf Axiome'],
               ]
             },
             {
@@ -66,6 +68,7 @@ module.exports = {
             {
               title: 'Technik',
               children: [
+                ['/technik/begriffe/', 'Begriffe'],
                 ['/technik/kinematische_kette/', 'Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
                 ['/technik/motorschmierung/', 'Motorschmierung'],
@@ -75,7 +78,7 @@ module.exports = {
                 ['/technik/auflaufbremse/', 'Auflaufbremse'],
                 ['/technik/fa/', 'Fahrassistenzsysteme'],
                 ['/technik/kammscher_kreis/', 'Kammscher Kreis'],
-                ['/technik/begriffe/', 'Begriffe'],
+                
               ]
             },
             {
