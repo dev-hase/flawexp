@@ -92,7 +92,19 @@ export default {
         transition border-color .25s
         background-repeat no-repeat
         border .2rem solid #fff8c4
+        animation pulse 2s infinite
+        animation-direction alternate
 
+        @keyframes pulse {
+          0% {
+            background-color #eee
+            border .2rem solid #eee
+          }
+          100% {
+            background-color #fff8c4
+            border .2rem solid #fff8c4
+          }
+        }
 
 
 </style>

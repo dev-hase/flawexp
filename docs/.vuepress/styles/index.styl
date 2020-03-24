@@ -3,6 +3,7 @@ $fontB = 'Amatic SC', cursive;
 $highlight = #eff7ad
 
 body, html
+    background-image url('/img/paper.png')
     @media (max-width $MQMobile)
         letter-spacing -1px
         font-size .95rem !important
@@ -12,10 +13,10 @@ a
     outline none
 
 p
-    transition .5s
+    transition .3s
 
 h2, h1
-    transition .4s
+    transition .2s
 
 .header-anchor
     display none
@@ -27,12 +28,14 @@ em
     font-weight bold
     transition background-color 2.3s
 
+img
+    filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%)
+
 .navbar
     border-bottom none !important
     opacity .975
     box-shadow 2px 0px 3px $textColor
     background-color #222 !important
-
 
 .navbar, .navbar .links
     font-family $fontA
@@ -65,7 +68,7 @@ em
 
 .sidebar
     background-color #222 !important
-    background linear-gradient(135deg, #222 36%, #333 100%) !important
+    background linear-gradient(135deg, #222 36%, #444 100%) !important
     opacity .975
 
     span 
@@ -180,7 +183,7 @@ em
 
     img
         min-widht 100%
-        filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%)
+        filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%) !important
 
 .thema-unterpunkt h2
     background #222
