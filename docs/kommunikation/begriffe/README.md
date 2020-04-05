@@ -17,6 +17,10 @@ meta:
 
 ...*vorwiegend über den Gehörsinn ansprechbar, lernend, aufnehmend, begabt*
 
+## Metakommunikation
+
+*Als Metakommunikation wird „Kommunikation über Kommunikation“ bezeichnet*. Die Kommunikationspartner verlagern ihre Aufmerksamkeit auf eine höhere Ebene und tauschen sich darüber aus, wie sie miteinander umgehen oder was sie im Moment stark beschäftigt. Dabei wird eine Haltung der Distanz, aber auch der Offenheit zum eigenen Kommunikationsverhalten und zu den Motiven für dieses Kommunikationsverhalten eingenommen. *Metakommunikation ist aber auch ein sprachliches Instrument zur Auflösung von Missverständnissen*.
+
 :::
 
 <pinchView />
