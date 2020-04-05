@@ -291,6 +291,18 @@ Ausnahme: zum Be- oder Entladen, Ein- oder Aussteigen nur bei VKZ 286, 314 und 3
 *Bei aufgeweiteten Radaufstellstreifen wird das Einordnen zum Linksabbiegen in
 Fortsetzung einer Radverkehrsanlage dadurch ermöglicht, dass für den Kfz-Verkehr auf der Fahrbahn durch eine zusätzliche vorgelagerte Haltlinie (Zeichen 294) mit räumlichem und verkehrlichem Bezug zur Lichtzeichenanlage das Haltgebot angeordnet wird*.
 
+## Reaktionsweg
+  
+Eine Faustformel für den Reaktionsweg: ${V \over 10} \times 3$
+
+Dies ist eine grobe Annäherung and den Weg, den ein Fahrzeug mit der Geschwindigkeit $V$ in einer Sekunde zurücklegt. 
+
+*Bei einem Autofahrer wird für die Reaktions- und Vorbremszeit die Dauer von einer Sekunde angenommen. Bei aufmerksamen, geübten Fahrern ist sie kürzer. Drogen, Alkohol und Medikamente verlängern sie deutlich*. Die Reaktionszeit bestimmt maßgeblich die Länge des notwendigen Sicherheitsabstands.
+
+## Reaktionszeit
+
+*Die Reaktionszeit ist die Zeitspanne zwischen dem Erkennen eines bestimmten Reaktionsanlasses und dem Beginn der darauf gerichteten (Abwehr-)Handlung*. Sie ist psychologisch und physiologisch bestimmt und liegt bei visuellen Reizen, d. h. 80 % unserer Wahrnehmungsinhalte, zwischen ca. 0,2 und 0,3 Sekunden. Ist eine Blickzuwendung (Saccade) erforderlich, benötigt diese allein weitere ca. 0,35 Sekunden. Die Reaktionszeit ist für visuelle, akustische und taktile Reize verschieden lang.
+
 ## Schädigung
 
 ...*ist die Zufügung eines wirtschaftlichen, vermögensrechtlich wägbaren Nachteils (OLG Hamburg DAR 65,329). Darunter fallen sowohl Körper- als auch Sachschäden*.
@@ -421,6 +433,10 @@ Wenn der Vertrauensgrundsatz nicht anwendbar ist, führt dies zu einer erhöhten
 ## Verkehrsfreiheit, Grundsatz der Verkehrsfreiheit
 
 *Grundsätzlich ist jeder Verkehrsteilnehmer zum Verkehr auf öffentlichen Straßen zugelassen (Folge aus der Handlungsfreiheit des Art. 2 GG und der Berufsausübung nach Art. 12 GG). Infolgedessen darf der Staat den individuellen Verkehrszweck nicht zum Gegenstand von Beschränkungen machen*. Unzulässig wären Einschränkungen der Aufenthalts- oder Bewegungsfreiheit nur aus sozial- oder verkehrspolitisch für „sinnvoll“ gehaltenen Gründen. Das Verbot des „unnützen Hin- und Herfahrens“ nach § 30(1) S. 2 ist verfassungsrechtlich nur deshalb tragbar, weil es sich nicht auf einen bestimmten Verkehrsnutzen bezieht, sondern der Vermeidung von Lärm und Abgasbelästigungen dient. Zulässig sind allerdings Beeinträchtigungen der Mobilität im Interesse anderer schützenswerter Rechte, insbesondere zu Gunsten der Verkehrssicherheit und des Immissionsschutzes. So kann z. B. ungeeigneten oder verkehrsschwachen Personen das Führen von Fahrzeugen untersagt, eine Fahrerlaubnispflicht vorgeschrieben oder auf bestimmten Straßen Verkehrsverbote erteilt werden. 
+
+## Vorbremszeit
+
+...*setzt sich aus Reaktionszeit, Fußumsetzzeit, Ansprechzeit und halber Schwellzeit der Bremsanlage zusammen. Sie dauert ca. 0,8 bis 1 Sekunde und wird umgangssprachlich oft – fälschlich – als Reaktionszeit bezeichnet*.
 
 ## Warnzeichen
 

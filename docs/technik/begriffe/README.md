@@ -9,6 +9,10 @@ meta:
 
 # Technische Begriffe
 
+## Ansprechzeit, Anlegedauer, Schlupfzeit
+
+*Die Ansprechzeit bezeichnet die Zeit von der Betätigung des Bremspedals bis zur ersten Berührung des Bremsbelages mit der Bremsscheibe bzw. -trommel. Während der Ansprechzeit fährt das Fahrzeug mit ungebremster Geschwindigkeit weiter*. Die Ansprechzeit kann durch Verringerung des Lüftspiels sowie durch elektronische Sensoren verkürzt werden. Sensor und Steuergerät können eine Notbremsung am schnellen Wechsel von Gas- zu Bremspedal und der hohen Geschwindigkeit der Bremsbetätigung erkennen. Die Bremsung wird durch diese Bremsassistenzsysteme automatisch eingeleitet, Ansprech- und Schwellzeit werden durch raschen Druckaufbau verkürzt.
+
 ## Antriebsstrang
 
 *Unter dem Antriebsstrang eines Fahrzeuges werden in der Kraftfahrzeugtechnik alle Komponenten verstanden, die im Fahrzeug die Leistung für den Antrieb generieren und bis auf die Straße übertragen*.
@@ -146,6 +150,10 @@ Die Kraft, die überwunden werden muss, um einen Körper (beispielsweise ein Rad
 ## Scheibenbremse
 
 *Die Scheibenbremse ist eine Bauform der Reibungsbremse*. In der Ausführung als Teilscheibenbremse wird die Verzögerung durch eine auf der Radnabe befestigte Bremsscheibe und den im Bremssattel liegenden Bremsklotz mit Bremsbelägen erzeugt, in der Ausführung als Vollscheiben- bzw. Lamellenbremse durch Aufeinanderpressen der Bremsscheiben. *Sie ist in der Ausführung als Teilscheibenbremse vor der Trommelbremse die häufigste Bauart bei Kraftfahrzeugen*.
+
+## Schwellzeit
+
+*Die Schwellzeit (, d. h. die effektive Bremszeit) ist die Zeit, die die Bremsen benötigen, um die maximale Bremswirkung zu entfalten*. Bei einer hydraulischen Bremsanlage liegt die Zeit zwischen 0,1 und 0,2 Sekunden, bei der Druckluftbremsanlage zwischen 0,2 und 0,4 Sekunden. Um die Schwellzeit in Druckluftbremsanlagen zu verringern, werden bremsnah Relaisventile verbaut.
 
 ## Trommelbremse
 

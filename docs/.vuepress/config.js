@@ -13,7 +13,13 @@ module.exports = {
           buttonText: "nachladen..."
         }
       }
-    ]
+    ],
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+      },
+    ],
   ],
 
   head: [
@@ -27,7 +33,8 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com/', crossorigin: 'anonymous' }],
-    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Amatic+SC:700|Inconsolata:400,700&display=swap&subset=latin-ext' }]
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Amatic+SC:700|Inconsolata:400,700&display=swap&subset=latin-ext' }],
+    
   ],
 
     themeConfig: {

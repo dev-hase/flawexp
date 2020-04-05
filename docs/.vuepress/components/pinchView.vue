@@ -48,6 +48,9 @@ export default {
             color #333
             background #fff8c4 
             transition background-color 2.5s
+            
+        mjx-container
+            background #fff8c4
 
         ul
             font-size 13px
