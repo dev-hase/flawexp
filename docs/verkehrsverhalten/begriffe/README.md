@@ -19,6 +19,11 @@ Abgestellt sind Fz, die aus dem Verkehr gezogen sind und daher aus der Geltung d
 
 ...*ist jeder beliebige Mensch mit Ausnahme des Täters selbst oder eines an der Tat Beteiligten* (Anstifter oder Gehilfe); auch der Mitfahrer (Soziusfahrer) oder Insasse eines Kfz ist „anderer“. Es ist unerheblich, ob der andere sich im öffentlichen Verkehrsraum aufhält oder sich zum Zeitpunkt des Erfolgseintritts auf privatem Grundstück befindet.
 
+## Anhalteweg
+
+Der Anhalteweg setzt sich aus *Reaktionsweg und Bremsweg* zusammen.
+
+$({V \over 10} \times 3) + ({V \over 10} \times {V \over 10})$
 
 ## Ausfädelungsstreifen
 
@@ -74,6 +79,12 @@ vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten,
 - Schub- oder Handkarren
 - Kofferroller
 - Bewegungsgeräte, meist im Zuge modischer Trends, wie Trailskater, Kick-Boards, nicht aber Segway.
+
+## Bremsweg
+
+Faustformel für den Bremsweg: ${V \over 10} \times {V \over 10}$
+
+*Bei einer Vollbremsung kann von dem halben Bremsweg ausgegangen werden!*
 
 ## Segway HT 
 
@@ -295,9 +306,9 @@ Fortsetzung einer Radverkehrsanlage dadurch ermöglicht, dass für den Kfz-Verke
   
 Eine Faustformel für den Reaktionsweg: ${V \over 10} \times 3$
 
-Dies ist eine grobe Annäherung and den Weg, den ein Fahrzeug mit der Geschwindigkeit $V$ in einer Sekunde zurücklegt. 
+*Dies ist eine grobe Annäherung and den Weg, den ein Fahrzeug mit der Geschwindigkeit* $V$ *in einer Sekunde zurücklegt*. 
 
-*Bei einem Autofahrer wird für die Reaktions- und Vorbremszeit die Dauer von einer Sekunde angenommen. Bei aufmerksamen, geübten Fahrern ist sie kürzer. Drogen, Alkohol und Medikamente verlängern sie deutlich*. Die Reaktionszeit bestimmt maßgeblich die Länge des notwendigen Sicherheitsabstands.
+*Bei einem Autofahrer wird für die Reaktions- und Vorbremszeit die Dauer von einer Sekunde angenommen*. Bei aufmerksamen, geübten Fahrern ist sie kürzer. Drogen, Alkohol und Medikamente verlängern sie deutlich. Die Reaktionszeit bestimmt maßgeblich die Länge des notwendigen Sicherheitsabstands.
 
 ## Reaktionszeit
 
@@ -374,6 +385,19 @@ Soweit die StVO den Begriff „Straße“ verwendet, ist darunter nicht nur die 
 *Als toter Winkel werden Bereiche VOR, HINTER und NEBEN dem Fahrzeug bezeichnet die der Fahrer nicht durch die Spiegel einsehen kann*.
 
 Im CE und DE Bereich besteht durch die größeren toten Winkel ein höheres Unfallrisiko als im BE Bereich.
+
+## Überholweg
+
+Fromel für den Überholweg: ${V_1 \over V_1 - V_2} \times ({LF_1 + LF_2 + SA_1 + SA_2})$
+
+- $V_1$ Geschwindigkeit des schnelleren Fahrzeugs
+- $V_2$ Geschwindigkeit des langsameren Fahrzeugs
+- $LF_1$ Länge des überholenden Fahrzeugs
+- $LF_2$ Länge des überholten Fahrzeugs
+- $SA_1$ Sicherheitsabstand vor dem Überholen, vom überholenden Fahrzeug
+- $SA_2$ Sicherheitsabstand nach dem Überholen, vom überholten Fahrzeug
+
+Der Sicherheitsabstand wird mit der Faustformel für den Reaktionsweg ermittelt, und mal zwei genommen (2 Sekunden Sicherheitsabstand)!
 
 ## Verkehrsteilnehmer
 

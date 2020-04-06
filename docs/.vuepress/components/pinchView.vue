@@ -51,6 +51,7 @@ export default {
             
         mjx-container
             background #fff8c4
+            padding .2rem
 
         ul
             font-size 13px

@@ -76,7 +76,7 @@ module.exports = {
               title: 'Technik',
               children: [
                 ['/technik/begriffe/', 'Begriffe'],
-                ['/technik/kinematische_kette/', 'Kinematische Kette'],
+                ['/technik/kinematische_kette/', 'Antriebsstrang, Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
                 ['/technik/motorschmierung/', 'Motorschmierung'],
                 ['/technik/turbolader/', 'Turbolader'],
@@ -91,7 +91,7 @@ module.exports = {
             {
               title: 'Recht',
               children: [      
-  
+                ['/recht/GesetzeImInternet/', 'Gesetze im Internet'],
               ]
             }
 

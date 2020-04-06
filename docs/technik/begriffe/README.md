@@ -114,6 +114,8 @@ Ein Getriebe (oder Umformerelement) ist ein Maschinenelement, mit dem Bewegungsg
 
 <YouTube videoid="Mj38Ficw2S0" />
 
+<YouTube videoid="7YF_1j5BH5g" />
+
 ## Lidar, Ladar
 
 Lidar (Abkürzung für englisch light detection and ranging), auch Ladar (laser detection and ranging), *ist eine dem Radar verwandte Methode zur optischen Abstands- und Geschwindigkeitsmessung sowie zur Fernmessung atmosphärischer Parameter. Statt der Radiowellen wie beim Radar werden Laserstrahlen verwendet*.
@@ -153,7 +155,7 @@ Die Kraft, die überwunden werden muss, um einen Körper (beispielsweise ein Rad
 
 ## Schwellzeit
 
-*Die Schwellzeit (, d. h. die effektive Bremszeit) ist die Zeit, die die Bremsen benötigen, um die maximale Bremswirkung zu entfalten*. Bei einer hydraulischen Bremsanlage liegt die Zeit zwischen 0,1 und 0,2 Sekunden, bei der Druckluftbremsanlage zwischen 0,2 und 0,4 Sekunden. Um die Schwellzeit in Druckluftbremsanlagen zu verringern, werden bremsnah Relaisventile verbaut.
+*Die Schwellzeit (d. h. die effektive Bremszeit) ist die Zeit, die die Bremsen benötigen, um die maximale Bremswirkung zu entfalten*. Bei einer hydraulischen Bremsanlage liegt die Zeit zwischen 0,1 und 0,2 Sekunden, bei der Druckluftbremsanlage zwischen 0,2 und 0,4 Sekunden. Um die Schwellzeit in Druckluftbremsanlagen zu verringern, werden bremsnah Relaisventile verbaut.
 
 ## Trommelbremse
 
