@@ -26,8 +26,8 @@ export default {
 
 <style lang="stylus">
 
-    .pinchlist h2
-        margin-top -3.25rem !important
+    /*.pinchlist h2
+        margin-top -.75rem !important*/
 
     .pinchView
 

@@ -104,7 +104,7 @@ Ein Getriebe (oder Umformerelement) ist ein Maschinenelement, mit dem Bewegungsg
 
 ## Kinetische Energie
 
-*Kinetische Energie (Energie der Bewegung) ist die Fähigkeit eines Körpers, aufgrund seiner Bewegung mechanische Arbeit zu verrichten, Wärme abzugeben oder Licht auszusenden*.
+*Kinetische Energie (Energie der Bewegung) ist die Fähigkeit eines Körpers, aufgrund seiner Bewegung mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben oder Licht auszusenden*.
 
 ## Kupplung, Einscheiben-Trockenkupplung
 
@@ -128,7 +128,7 @@ Eine häufig verwendete Abkürzung ist PHEV (für englisch plug-in hybrid electr
 
 ## Potentielle Energie
 
-*Potenzielle Energie (Energie der Lage) ist die Fähigkeit eines Körpers, aufgrund seiner Lage mechanische Arbeit zu verrichten, Wärme abzugeben*.
+*Potenzielle Energie (Energie der Lage) ist die Fähigkeit eines Körpers, aufgrund seiner Lage mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben*.
 
 ## Rekuperation, Rekuperationsbremse, Nutzbremse
 
