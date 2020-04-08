@@ -76,6 +76,7 @@ module.exports = {
               title: 'Technik',
               children: [
                 ['/technik/begriffe/', 'Begriffe'],
+                ['/technik/autonomesFahren/', 'Fünf Level bis zum selbstfahrenden Auto'],
                 ['/technik/kinematische_kette/', 'Antriebsstrang, Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
                 ['/technik/motorschmierung/', 'Motorschmierung'],
