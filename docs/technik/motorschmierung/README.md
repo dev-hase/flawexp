@@ -11,8 +11,6 @@ meta:
 
 *Die Motorschmierung dient der Verringerung von Reibung zwischen beweglichen Motorteilen von Verbrennungsmotoren sowie der Wärmeabführung aus den Lagerstellen und vom Kolben mittels Schmieröl. Darüber hinaus sollen mögliche Verschleißpartikel, Verbrennungsrückstände und sonstige Verschmutzungen in die Ölfilter gespült werden*. Für die Ausführung der Schmiersysteme kommen verschiedene Verfahren zum Einsatz.
 
-# Verbrauchsschmierung
-
 ## Gemischschmierung
 
 *Bei der Gemischschmierung wird das Schmieröl dem Kraftstoff im vorgeschriebenen Mischungsverhältnis (1:25/1:50 etc.) beigegeben. Das im Zweitaktgemisch enthaltende Öl gelangt an die Schmierstellen und wird mit verbrannt*. Die Mischungsschmierung wird heute noch bei kleinen Zweitaktmotoren (z.B. Rasenmäher, Motorsägen, Mofas, oä.) verwendet. Bei Pkw kam dieses System bis Ende der 1980er Jahre zum Einsatz – am bekanntesten sind wohl die DDR-Zweitakter wie Trabante, Wartburg oder Barkas.
@@ -24,11 +22,9 @@ Der Vorteil ist die einfache Zubereitung des Gemisches (einfach Öl zum Treibsto
 
 Die Frischölschmierung wird auch bei großen Zweitakt-Schiffsdieselmotoren für die Zylinderschmierung angewendet. Die Kurbelwelle und die übrigen Schmierstellen werden hierbei mit einer Nasssumpfschmierung (siehe unten) geschmiert.
 
-# Schleuderschmierung
+## Schleuderschmierung
 
 Bei einfachen Viertaktmotoren (sehr häufig Rasenmäher- und Aggregatmotoren) kommt häufig dieses sehr einfache Schmiersystem zur Anwendung. Bei Motoren mit horizontaler Kurbelwelle befindet sich am Pleuellager ein „Finger“. Die Schaufeln bzw. der „Finger“ laufen im Öl und schleudern es durch das Kurbelgehäuse, wodurch eine ausreichende Schmierung sichergestellt wird. Nachteilig ist, dass sich hier kein Ölfilter einsetzen lässt sowie die Schmierung bestimmter Lager (v. a. Kurbelwellen- und Pleuellager) nur durch ein erhöhtes Lagerspiel sicherstellen lässt.
-
-# Umlaufschmierung
 
 ## Druckumlaufschmierung (Nasssumpfschmierung)
 

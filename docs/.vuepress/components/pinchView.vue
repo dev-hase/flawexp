@@ -41,7 +41,7 @@ export default {
 
         em
             display inline-block
-            font-size 17.25px
+            font-size 1rem
             line-height 1.2
             text-align left
             margin .25rem 0
@@ -58,9 +58,12 @@ export default {
             line-height 1.3
             margin .25rem 0
             color #333
+            
+        h1
+            font-size 2rem
 
-        h2, h1
-            font-size 1.8rem
+        h2
+            font-size 1.4rem
             margin-bottom .25rem
             transition .5s
 
