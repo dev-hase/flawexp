@@ -169,11 +169,26 @@ img
             margin-top 7rem !important
 
     #main-title
+        position relative
         font-size 6rem !important
         font-style italic
         text-shadow 2px 3px 3px #777 !important
         @media (max-width $MQMobile)
             font-size 4.5rem !important
+            
+    #main-title:after
+        position absolute
+        margin-left -.75rem
+        margin-top -.25rem
+        content 'BE'
+        color #eee
+        background tint($accentColor, 20%)
+        border-radius 50%
+        padding .5rem
+        font-size 1.75rem
+        text-shadow none
+        border 1px solid #333
+        box-shadow 2px -1px 3px #333
 
     .description
         font-size 2.3rem !important

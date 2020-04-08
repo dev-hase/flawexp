@@ -50,6 +50,7 @@ module.exports = {
               title: 'Pädagogik',
               children: [
                 ['/paedagogik/begriffe/', 'Begriffe'],
+                ['/paedagogik/unterrichtsplanung/', 'Unterrichtsplanung'],
               ]
             },
             {
