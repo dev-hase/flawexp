@@ -16,7 +16,7 @@ Es gibt fünf Klassen, Level oder Stufen autonomen Fahrens, die die Industrie fe
 - *Fahrer führt dauerhaft Längs- und Qeurführung aus*
 - *Kein eingreifendes Fahrzeugsystem aktiv*
 
-Fahrassistenzsysteme haben die meisten Autos – ganz gleich ob Benziner, Diesel oder Elektro – schon heute verbaut. Dazu zählen etwa ein Tempomat, der die Geschwindigkeit hält und gleichzeitig den Abstand zum Vordermann kontrolliert. Dabei soll der Fahrer das Lenkrad immer festhalten und den Verkehr im Blick behalten – denn diese Systeme funktionieren oft bei schlechten Wetterbedingungen nicht zuverlässig.
+[Fahrassistenzsysteme](/technik/fa/#fahrassistenzsysteme) haben die meisten Autos – ganz gleich ob Benziner, Diesel oder Elektro – schon heute verbaut. Dazu zählen etwa ein Tempomat, der die Geschwindigkeit hält und gleichzeitig den Abstand zum Vordermann kontrolliert. Dabei soll der Fahrer das Lenkrad immer festhalten und den Verkehr im Blick behalten – denn diese Systeme funktionieren oft bei schlechten Wetterbedingungen nicht zuverlässig.
 
 ## Stufe 2: Teilautomatisiertes Fahren
 
