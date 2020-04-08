@@ -59,6 +59,7 @@ module.exports = {
                 ['/kommunikation/begriffe/', 'Begriffe'],
                 ['/kommunikation/vier-seiten-modell/', 'Vier-Seiten-Modell, Vier-Ohren-Modell'],
                 ['/kommunikation/die-5-axiome/', 'Metakommunikatives Axiom, die fünf Axiome'],
+                ['/kommunikation/videos/', 'Videos über Kommunikation'],
               ]
             },
             {
@@ -71,6 +72,7 @@ module.exports = {
               title: 'Verkehrsverhalten',
               children: [
                 ['/verkehrsverhalten/begriffe/', 'Begriffe'],
+                ['/verkehrsverhalten/videos/', 'Videos'],
               ]
             },
             {
