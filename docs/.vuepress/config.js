@@ -51,6 +51,7 @@ module.exports = {
               children: [
                 ['/paedagogik/begriffe/', 'Begriffe'],
                 ['/paedagogik/unterrichtsplanung/', 'Unterrichtsplanung'],
+                ['/paedagogik/prinzipien/', 'Unterrichtsprinzipien'],
               ]
             },
             {
@@ -63,7 +64,7 @@ module.exports = {
               ]
             },
             {
-              title: 'psychologie',
+              title: 'Psychologie',
               children: [
                 ['/psychologie/begriffe/', 'Begriffe'],
               ]
