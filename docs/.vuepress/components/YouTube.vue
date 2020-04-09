@@ -51,7 +51,6 @@ export default {
         transition all 200ms ease-out 
         box-shadow 3px 4px 3px #666 !important  
         max-width 100% !important
-        background-image url('/img/technik.png')
-        background-size cover
+        background-color #777
 
 </style>

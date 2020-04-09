@@ -30,9 +30,7 @@ h1
     font-size 2.75rem
     color lighten($textColor, 20%)
     margin-bottom 2.5rem
-    white-space nowrap
-    overflow hidden
-    text-overflow ellipsis
+    word-break break-word
     @media (max-width $MQMobile)
         font-size 2.25rem
         
@@ -171,6 +169,7 @@ img
             
     #main-title:after
         position absolute
+        display inline-block
         margin-left -.75rem
         margin-top -.25rem
         content 'BE'
@@ -183,7 +182,7 @@ img
         border 1px solid #333
         box-shadow 2px -1px 3px #333
         z-index 200
-        transform rotate(-2deg) !important
+        //transform rotate(-2deg) !important
         @media (max-width $MQMobile)
             margin-left -1.5rem
             margin-top -1rem

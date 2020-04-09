@@ -22,7 +22,3 @@ meta:
 ## Verhalten bei Straßenbahnen
 
 <YouTube videoid="_OuQDXudMxs" />
-
-## Verhalten bei Straßenbahnen
-
-<YouTube videoid="_OuQDXudMx" />
