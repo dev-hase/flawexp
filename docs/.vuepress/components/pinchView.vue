@@ -26,8 +26,7 @@ export default {
 
 <style lang="stylus">
 
-    /*.pinchlist h2
-        margin-top -.75rem !important*/
+    $highlightB = #fcdc9a
 
     .pinchView
 
@@ -46,11 +45,11 @@ export default {
             text-align left
             margin .25rem 0
             color #333
-            background #fff8c4 
+            background $highlightB
             transition background-color 2.5s
             
         mjx-container
-            background #fff8c4
+            background $highlightB
             padding .2rem
 
         ul
@@ -91,14 +90,14 @@ export default {
         padding .8rem
         right 1.2rem
         top 4.7rem
-        background #fff8c4
+        background $highlightB
         background-size cover
         background-position .15rem 0
         background-image url('/img/expand.png')
         transition background-color 3.5s
         transition border-color .25s
         background-repeat no-repeat
-        border .2rem solid #fff8c4
+        border .2rem solid $highlightB
         animation pulse 2s infinite
         animation-direction alternate
 
@@ -108,8 +107,8 @@ export default {
             border .2rem solid #eee
           }
           100% {
-            background-color #fff8c4
-            border .2rem solid #fff8c4
+            background-color $highlightB
+            border .2rem solid $highlightB
           }
         }
 
