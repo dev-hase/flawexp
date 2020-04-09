@@ -20,6 +20,8 @@ a
 
 p
     transition .3s
+    @media (max-width $MQMobile)
+        font-size 1.15rem
 
 h2, h1
     transition .2s
@@ -28,8 +30,14 @@ h1
     font-size 2.75rem
     color lighten($textColor, 20%)
     margin-bottom 2.5rem
+    white-space nowrap
+    overflow hidden
+    text-overflow ellipsis
     @media (max-width $MQMobile)
         font-size 2.25rem
+        
+h1:first-child
+    margin-top -.25rem !important
         
     
 h2
@@ -166,7 +174,7 @@ img
         margin-left -.75rem
         margin-top -.25rem
         content 'BE'
-        color #eee
+        color #eee !important
         background tint($accentColor, 20%)
         border-radius 50%
         padding .5rem

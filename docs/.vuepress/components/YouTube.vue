@@ -42,6 +42,8 @@ export default {
         cursor pointer
         min-width 100%
         margin 1.75rem 0
+        background-image url('/img/technik.png')
+        background-size cover
         div
             min-width 100%
             background-size cover
