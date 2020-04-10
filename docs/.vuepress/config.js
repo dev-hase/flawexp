@@ -52,6 +52,7 @@ module.exports = {
                 ['/paedagogik/begriffe/', 'Begriffe'],
                 ['/paedagogik/unterrichtsplanung/', 'Unterrichtsplanung'],
                 ['/paedagogik/prinzipien/', 'Unterrichtsprinzipien'],
+                ['/paedagogik/methoden/', 'Unterrichtsmethoden'],
                 ['/paedagogik/techniken/', 'Unterrichtstechniken'],
                 ['/paedagogik/sozialformen/', 'Sozialformen'],
                 

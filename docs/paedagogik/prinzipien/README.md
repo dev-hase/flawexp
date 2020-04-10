@@ -27,7 +27,7 @@ Das Unterrichten von Kindern, Jugendlichen oder Erwachsenen erfordert unterschie
 
 *Ganzheit oder Ganzheitlichkeit bedeutet im Gegensatz zum zufälligen Nebeneinander oder zur additiven Anhäufung von Lerninhalten eine urtümliche Geschlossenheit, aus der sich die Bedeutung der integrierten Bereiche ableitet* und die sich durch einen unauflösbaren Wirkzusammenhang („Das Ganze ist immer mehr als die Summe seiner Teile“) auszeichnet.
 
-*Das Prinzip der Ganzheit bezieht sich aber auch auf die Person des Lernenden, der nicht nur mit seinem Intellekt lernt und als Mensch mit vielfältigen Anlagen und Interessen wahrgenommen werden soll*. Bereits Pestalozzi forderte in seiner Idee der Elementarbildung *die Beteiligung von „Kopf, Herz und Hand“*, also die nicht isolierte Tätigkeit im kognitiven, emotionalen und praktischen Bereich. *In der Form des Mehrdimensionalen Lernens hat das Prinzip Ganzheit eine zeitgemäße Ausgestaltung gefunden*.
+*Das Prinzip der Ganzheit bezieht sich aber auch auf die Person des Lernenden, der nicht nur mit seinem Intellekt lernt und als Mensch mit vielfältigen Anlagen und Interessen wahrgenommen werden soll*. Bereits Pestalozzi forderte in seiner Idee der Elementarbildung *die Beteiligung von „Kopf, Herz und Hand“*, also die nicht isolierte Tätigkeit im kognitiven, emotionalen und praktischen Bereich. *In der Form des [Mehrdimensionalen Lernens](/paedagogik/methoden/#mehrdimensionales-lernen) hat das Prinzip Ganzheit eine zeitgemäße Ausgestaltung gefunden*.
 
 ## Prinzip der Anschaulichkeit
 
