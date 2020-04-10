@@ -87,6 +87,7 @@ module.exports = {
                 ['/technik/autonomesFahren/', 'Fünf Level bis zum selbstfahrenden Auto'],
                 ['/technik/kinematische_kette/', 'Antriebsstrang, Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
+                ['/technik/reifen/', 'Autoreifen'],
                 ['/technik/motorschmierung/', 'Motorschmierung'],
                 ['/technik/turbolader/', 'Turbolader'],
                 ['/technik/bba/', 'Betriebsbremsanlage (BBA)'],
