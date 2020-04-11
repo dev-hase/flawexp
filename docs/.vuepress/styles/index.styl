@@ -9,7 +9,7 @@ mjx-container
 
 body, html
     background-image url('/img/paper.png')
-    font-size .95rem !important
+    font-size .9rem !important
     @media (max-width $MQMobile)
         letter-spacing -1px
         font-size .85rem !important
@@ -31,8 +31,8 @@ h1
     color lighten($textColor, 20%)
     margin-bottom 2.5rem
     word-break break-word
-    @media (max-width $MQMobile)
-        font-size 2.25rem
+    @media (max-width $MQNarrow)
+        font-size 2rem
         
 h1:first-child
     margin-top -.25rem !important
@@ -226,8 +226,10 @@ img
         font-style italic
         height 3.25rem
         opacity .85
-        @media (max-width $MQMobile)
-            font-size 2.25rem
+        @media (max-width $MQNarrow)
+            font-size 1.8rem
+            padding-bottom 0rem
+            line-height 1.6
 
     img
         min-widht 100%
@@ -241,6 +243,9 @@ img
     border-bottom 0 
     font-size 1.25rem
     font-style normal 
+    @media (max-width $MQNarrow)
+      font-size 1.1rem
+      
     
 .thema-unterpunkt h2:hover
     background #eff7ad

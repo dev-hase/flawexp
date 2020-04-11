@@ -19,6 +19,8 @@ Sie beeinflussen maßgeblich das Fahrverhalten eines Fahrzeugs. Reifen werden in
 
 In Mitteleuropa fahren Autos meist auf asphaltierten Straßen mit einer Oberflächentemperatur zwischen -15 °C und +60 °C. Die Straßen können verschiedene Feuchtigkeitsgrade aufweisen, im Winter können sie von Neuschnee, festgefahrenem Schnee und/oder Eis bedeckt sein. Theoretisch gäbe es für jede Fahrsituation einen eigenen optimierten Reifen. 
 
+<YouTube videoid="lDGGluOwDOw" start="17" end="327" />
+
 Um unter den Randbedingungen Produktionskosten und Lebensdauer ein möglichst breites Spektrum abzudecken, werden die folgenden Reifenarten angeboten:
 
 ## Sommerreifen
@@ -45,6 +47,18 @@ Die Eigenschaften von Ganzjahresreifen sind ein Kompromiss; Auf Schnee kommen si
 
 Einige Ganzjahresreifen-Typen am Markt tragen das Schneeflockensymbol für hinreichende Wintertraktion.
 In Deutschland besteht seit dem 4. Dezember 2010 eine situative Winterreifenpflicht; sie löste eine seit 2006 bestehende, oft als schwammig kritisierte Regelung ab.
+
+## Geländereifen
+
+Diese Reifengruppe wird *vor allem bei Geländewagen, SUVs, ATVs und UTVs* eingesetzt. Es handelt sich um *Reifen mit grobem Profil*, deren Lauffläche mehr oder weniger stark für den Einsatz auf unbefestigten Straßen bis hin zu schwerem Gelände optimiert ist. Auswahlkriterium ist der prozentuale Anteil Asphaltstraße/Gelände sowie die Profilformgebung. *Varianten sind ST (Street-Terrain) mit hohem Straßenanteil und geringerer Geländetauglichkeit, AT (All-Terrain) mit ungefähr gleichen Anteilen Straße und Gelände, MT (Mud-Terrain) mit hohem Geländeanteil*, ggf. auch Schlamm, Felsen und Steine. Extreme Varianten sind Boggers oder Super-Swamper, die speziell grobe Schaufeln und Stollen für den ausschließlichen Einsatz in sehr grobem Gelände aufweisen.
+
+## Reifen mit Notlaufeigenschaften / Runflat-Reifen
+
+Seit den 2000er Jahren gibt es Reifen mit Notlaufeigenschaft. Diese *ermöglichen im Falle eines Reifenschadens die Weiterfahrt mit verminderter Geschwindigkeit (mindestens 80 bis zu 300 Kilometer bei 80 km/h)*. Diese Reifen werden auch als Runflat-Reifen, Run-Flat-Reifen oder RunOnFlat-Reifen bezeichnet. Je nach Hersteller sind sie mit den Kürzeln ROF, RFT, EMT (Extended Mobility Tire), RSC (Runflat System Component), SSR (Self-Supporting Runflat Tire), ZP (Zero Pressure), DSST (Dunlop Self Supporting Technology), BSR (Bridgestone Support Ring) oder PAX (Michelin Stützring) versehen.
+
+*Die Notlaufeigenschaft wird durch verstärkte Seitenwände oder einen Stützring auf der Felge erzielt, die ein Abplatten des Reifens bei Druckverlust oder Platzen verhindern und die ausreichende Übertragung von Lenk-, Brems- und Antriebskräften gewährleisten.* Unterstützt wird dieser Effekt durch *Felgen mit einer speziellen Form des Felgenhorns, den EH2-Felgen (Extended Hump), die ein Abspringen des beschädigten Reifens von der Felge verhindern*. Da Fahrer einen Druckverlust kaum spüren und Drucklosigkeit nicht sicher bemerken, *ist grundsätzlich ein Reifendruckkontrollsystem vorgeschrieben*. Das Mitführen eines Reserverads ist nicht mehr nötig. Viele gepanzerte Pkw sind mit solchen Sicherheitsreifen ausgestattet.
+
+<YouTube videoid="43hVgI3L-R8" />
 
 ## Diagonalreifen
 
@@ -79,9 +93,48 @@ Sie ist der tragende Unterbau (Gerüst) eines Reifens. Die Karkasse ist der ents
 
 Sie sorgt für die feste Verbindung zwischen Reifen und Felge und besteht aus Stahldrähten sowie aus der Wulstzehe, Wulstsohle, Wulstferse und der Wulstkehle.
 
+### Hump 
+
+...verhindert, dass bei schneller Kurvenfahrt die Reifenwulst nach innen in das Tiefbett gedrückt wird.
+
 ### Innenschicht / (Inner-)Liner
 
 *Diese aus einer besonderen Gummimischung hergestellte Schicht sorgt dafür, dass die Luft nicht nach außen diffundiert.*
+
+## Reifengröße, metrische Reifenbezeichnung bzw. -markierung
+
+Ein Radialreifen wird durch folgende Angaben bestimmt:
+
+- *Nennbreite des Reifens in Millimeter*
+- *Verhältnis von Flankenhöhe (Schafthöhe) zur Laufflächenbreite in Prozent*
+- *Bauweise der Karkasse (Diagonal- oder Radialreifen)*
+- *Felgendurchmesser in Zoll*
+- *Tragfähigkeitsindex*
+- *Geschwindigkeitsindex* (Geschwindigkeitskategorie)
+- zusätzliche Bezeichnungen
+
+Alle Daten sind seitlich auf dem Autoreifen angebracht. Die Art der Beschriftung wird durch die ECE 30 (bzw. ECE 54 für LKW ab 80 km/h) geregelt. Dabei bilden Breite, Verhältnis und Felgendurchmesser die Reifengrößenbezeichnung. Tragfähigkeitsindex und Geschwindigkeitskategorie bilden die Betriebskennung.
+
+So bedeutet z. B. die Aufschrift *185/65 R 15 85 H* folgendes:
+
+- 185: Die nominelle Breite des Reifens unbelastet an der breitesten Stelle (nicht der Lauffläche!) beträgt 185 mm.
+- 65: Das prozentuale Verhältnis von Flankenhöhe zu Reifenbreite ist 65 %; in unserem Beispiel beträgt die Flankenhöhe somit 120 mm (= 185 mm × 65 %). Fehlt diese Zahl, wie etwa bei der Reifenbezeichnung „155 - R 15“, so ist dieses Verhältnis 80 Prozent.
+R: Radiale Bauweise der Reifenkarkasse. Ein D kennzeichnet die diagonale Bauweise (diese muss laut ECE 30 nicht gekennzeichnet werden).
+- 15: Der notwendige Felgendurchmesser für diesen Reifen ist 15 Zoll.
+- 85: Angabe der Tragfähigkeit in Form des Lastindex (LI). Der LI 85 indiziert laut Zuordnungstabelle eine maximal zulässige Last von 515 kg.
+- H: Der Geschwindigkeitsindex erlaubt eine maximale Geschwindigkeit von 210 km/h.
+
+### Zusätzliche Bezeichnungen
+
+- DOT-Nummer: Verschlüsselter Herstellercode; zeigt außerdem an, dass der Reifen den Anforderungen des US-amerikanischen Department of Transportation (DOT) genügt; *die vier letzten Ziffern nennen das Produktionsdatum* (DOT xxxx 3204 = 32. Woche 2004)
+
+- M+S: *Matsch + Schnee-Reifen*, Winterreifen (das sagt jedoch nichts über die Wintertauglichkeit aus, da keine geschützte Bezeichnung)
+
+- ROF: „Run on flat“, *Run-Flat-Reifen*
+
+- TWI: *Profilabnutzungsanzeige oder Reifenverschleißanzeige in Hauptprofilrillen* (Tread Wear Indicator)
+
+- ZP: Zero Pressure (*Reifen mit Notlaufeigenschaften*)
 
 :::
 

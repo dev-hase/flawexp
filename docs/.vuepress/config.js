@@ -88,6 +88,7 @@ module.exports = {
                 ['/technik/kinematische_kette/', 'Antriebsstrang, Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
                 ['/technik/reifen/', 'Autoreifen'],
+                ['/technik/felge/', 'Autofelge'],
                 ['/technik/motorschmierung/', 'Motorschmierung'],
                 ['/technik/turbolader/', 'Turbolader'],
                 ['/technik/bba/', 'Betriebsbremsanlage (BBA)'],
