@@ -49,6 +49,14 @@ Bei dieser Persönlichkeitsstörung sind bestimmte Vorgänge in den Bereichen Ge
 
 Die BPS wird häufig von weiteren psychischen Störungsbildern begleitet. Häufige zusätzliche Störungsbilder sind z. B. Depressionen, die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS), Posttraumatische Belastungsstörungen (PTBS), Essstörungen, Substanzmissbrauch und andere Persönlichkeitsstörungen.
 
+## Burn-out
+
+Burn-out oder Burnout (auch Burnout-Syndrom, von englisch burn out, „ausbrennen“) ist ein Oberbegriff für bestimmte Arten von persönlichen Krisen, die als Reaktion auf andauernden Stress und Überlastung am Arbeitsplatz auftreten.
+
+*Burn-out geht mit emotionaler Erschöpfung, einem Gefühl von Überforderung sowie reduzierter Leistungszufriedenheit einher.* Die Symptomatik wird allerdings uneinheitlich beschrieben (Matthias Burisch identifizierte mehr als 130 Symptome) und überlappt mit der diverser anderer Störungsbilder (z. B. Depression). *Burnout-Syndrome können mit eher unauffälligen Frühsymptomen beginnen und bis hin zu völliger Arbeitsunfähigkeit oder Suizid führen.*
+
+*Als Ursachen für Burnout wird häufig auf die Rolle von Stress verwiesen; diskutiert werden dabei sowohl äußere Faktoren der (Arbeits-)Umwelt, als auch persönliche Dispositionen (wie Perfektionismus oder die Unfähigkeit zur Abgrenzung). Burnout kann auch mit Depersonalisation infolge einer Diskrepanz zwischen eigener Erwartung und Realität einhergehen und Endzustand eines Prozesses von idealistischer Begeisterung über Desillusionierung, Frustration und Apathie sein.* Die Lebenszeit-Prävalenz von Burnout in Deutschland beträgt laut der bevölkerungsrepräsentativen „Studie zur Gesundheit Erwachsener in Deutschland (DEGS1)“ 4,2 % und die 12-Monats-Prävalenz 1,5 %.
+
 ## Empathie
 
 Empathie bezeichnet *die Fähigkeit und Bereitschaft, Empfindungen, Emotionen, Gedanken, Motive und Persönlichkeitsmerkmale einer anderen Person zu erkennen, zu verstehen und nachzuempfinden*. Ein damit korrespondierender allgemeinsprachlicher Begriff ist *Einfühlungsvermögen*.

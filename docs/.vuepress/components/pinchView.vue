@@ -37,6 +37,9 @@ export default {
             color #555 
             margin .25rem 0
             transition .4s
+            
+        h2:last-child
+            background red
 
         em
             display inline-block

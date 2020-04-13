@@ -71,6 +71,7 @@ module.exports = {
               title: 'Psychologie',
               children: [
                 ['/psychologie/begriffe/', 'Begriffe'],
+                ['/psychologie/gedächtnis/', 'Gedächtnis'],
               ]
             },
             {
@@ -87,6 +88,8 @@ module.exports = {
                 ['/technik/autonomesFahren/', 'Fünf Level bis zum selbstfahrenden Auto'],
                 ['/technik/kinematische_kette/', 'Antriebsstrang, Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
+                ['/technik/kupplung/', 'Kupplung'],
+                ['/technik/getriebe/', 'Getriebe'],
                 ['/technik/reifen/', 'Autoreifen'],
                 ['/technik/felge/', 'Autofelge'],
                 ['/technik/motorschmierung/', 'Motorschmierung'],

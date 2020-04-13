@@ -73,9 +73,22 @@ Die *Didaktik ist die „Kunst“ und die „Wissenschaft“ des Lehrens und Ler
 
 Didaktik im engeren Sinn beschäftigt sich mit der Theorie des Unterrichts, im weiteren Sinne mit der Theorie und Praxis des Lehrens und Lernens. Sie befasst sich mit den praktischen Verfahren des Lehrens und Lernens (dem Wie).
 
+## Explizites Wissen
+
+Der Begriff Explizites Wissen (explizit = ausdrücklich, ausführlich) wurde 1966 im Klassifikationssystem von Michael Polanyi im Gegensatz zum Begriff Implizites Wissen als *eindeutig kodiertes und deshalb mittels Zeichen (Sprache, Schrift) eindeutig kommunizierbares Wissen* verstanden. *Es ist das versprachlichte Regel- und Faktenwissen, also etwa Anleitungen, Abhandlungen und Dokumentationen im weitesten Sinn.*
+
+Beispiel: Wissenschaftliche Erkenntnisse werden in der Regel in einer systematischen (formalen) Sprache verfasst und über Veröffentlichungen kommuniziert. Dieses explizite Wissen kann aufgrund der kodierten Form durch beliebige Medien gespeichert, verarbeitet und übertragen werden.
+
 ## Ganzheitlichkeit
 
 Ganzheitlichkeit bezieht sich in der Pädagogik auf einen integrativen Bestandteil handlungsorientierter Konzepte. Erste Ansätze sind bereits mit Pestalozzis Idee der Elementarbildung, dem *Lernen mit Kopf, Herz und Hand* im Rahmen der damaligen Anschauungspädagogik zu verzeichnen. Ausgehend von der Reformpädagogik betont ganzheitliches Lernen neben den traditionell privilegierten **kognitiv-intellektuellen** Aspekten auch **körperliche** sowie **affektiv-emotionale** Aspekte: *Ganzheitliches Lernen ist Lernen mit allen Sinnen, Lernen mit Verstand, Gemüt und Körper*.
+
+## Implizites Wissen
+
+*Implizites Wissen oder stilles Wissen bedeutet – vereinfacht ausgedrückt – „können, ohne sagen zu können, wie“. Jemand „weiß, wie es geht“, aber sein Wissen steckt implizit in seinem Können, ihm fehlen die Worte, um dieses Können zu beschreiben oder es anderen verbal zu vermitteln.*
+
+Ein Beispiel dafür ist die Fähigkeit, auf dem Fahrrad das Gleichgewicht zu halten. Wer das vermag, kennt – aber eben nur implizit – eine komplexe physikalische Regel, die Neigungswinkel, aktuelle Geschwindigkeit, Kreiselgesetze und Lenkeinschlag berücksichtigt. Implizites Wissen wird im SECI-Modell dem Expliziten Wissen gegenübergestellt und wird oft durch implizites Lernen erworben. Unter Embodied Knowledge werden weitreichendere Formen und Inhalte impliziten Wissens beschrieben.
+
 
 ## Kognition 
 (engl. cognition; lat. cognitio = Erkenntnis, Vorstellung, Begriff, Wiedererkennen) schließt zum einen die Fähigkeit ein, bestimmte Gesetzmäßigkeiten zu erkennen (= Denken). Dieser Prozess umfasst die Aufnahme, Verarbeitung und Bewertung von Informationen. Zum anderen ist das Vorhandensein von sowie der Rückgriff auf Vergleichswissen (= Gedächtnis) inbegriffen. *Kurz gesagt handelt es sich hierbei um die Gesamtheit aller Vorgänge, welche der Aufnahme, Verarbeitung und Speicherung von Informationen dienen.* Aus diesem Grund werden auch alle Theorien, die ihren Blick auf geistige Vorgänge richten, kognitionstheoretische Modelle genannt. Verwiesen sei an dieser Stelle beispielhafterweise auf das Modell-Lernen von Albert Bandura.

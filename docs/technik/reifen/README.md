@@ -126,15 +126,11 @@ R: Radiale Bauweise der Reifenkarkasse. Ein D kennzeichnet die diagonale Bauweis
 
 ### Zusätzliche Bezeichnungen
 
-- DOT-Nummer: Verschlüsselter Herstellercode; zeigt außerdem an, dass der Reifen den Anforderungen des US-amerikanischen Department of Transportation (DOT) genügt; *die vier letzten Ziffern nennen das Produktionsdatum* (DOT xxxx 3204 = 32. Woche 2004)
-
-- M+S: *Matsch + Schnee-Reifen*, Winterreifen (das sagt jedoch nichts über die Wintertauglichkeit aus, da keine geschützte Bezeichnung)
-
-- ROF: „Run on flat“, *Run-Flat-Reifen*
-
-- TWI: *Profilabnutzungsanzeige oder Reifenverschleißanzeige in Hauptprofilrillen* (Tread Wear Indicator)
-
-- ZP: Zero Pressure (*Reifen mit Notlaufeigenschaften*)
+- *DOT-Nummer*: Verschlüsselter Herstellercode; zeigt außerdem an, dass der Reifen den Anforderungen des US-amerikanischen Department of Transportation (DOT) genügt; *die vier letzten Ziffern nennen das Produktionsdatum* (DOT xxxx 3204 = 32. Woche 2004)
+- *M+S*: *Matsch + Schnee-Reifen*, Winterreifen (das sagt jedoch nichts über die Wintertauglichkeit aus, da keine geschützte Bezeichnung)
+- *ROF*: „Run on flat“, *Run-Flat-Reifen*
+- *TWI*: *Profilabnutzungsanzeige oder Reifenverschleißanzeige in Hauptprofilrillen* (Tread Wear Indicator)
+- *ZP*: Zero Pressure (*Reifen mit Notlaufeigenschaften*)
 
 :::
 

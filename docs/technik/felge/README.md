@@ -44,26 +44,26 @@ Pkw-Humpfelgen sind in *DIN 7817* und Nutzfahrzeug-(Nfz-)Felgen in DIN 7820 geno
 
 *Ob ein Rad an einem Fahrzeug aus technischer Sicht montiert werden kann, hängt ab von Lochzahl und Lochkreis des Lochkranzes, vom Durchmesser der Radnabenbohrung und von der Einpresstiefe:*
 
-- Die Zahl der Löcher, mit denen das Rad festgeschraubt wird, ist mindestens drei, üblicherweise jedoch vier oder fünf; bei Geländewagen oder Lastwagen mehr (Ausnahme: Zentralverschluss durch Flügelmutter wie beim Roadster im Bild weiter oben).
-- Der Lochkreis (LK) bezeichnet den Durchmesser in mm des Kreises, auf dem die Mittelpunkte der Schraubenlöcher liegen.
-- Die Mittenbohrung ist die mittige Bohrung, mit der das Rad auf den Radflansch aufgesteckt wird.
-- Die Einpresstiefe (ET) gibt die Abweichung zwischen der Radmitte und der inneren Anlagefläche der Radscheibe auf der Radnabe (als Spiegel bezeichnet), also der Bremstrommel oder Bremsscheibe, an. Sie wird in mm angegeben. Ist die Einpresstiefe 0 mm, liegt das Rad in der Symmetrieebene des Reifens auf der Bremstrommel auf. Ist sie größer als 0, also eine positive ET, reicht das Rad weiter nach innen, das heißt, die Spurweite (gemessen von Reifenmitte zu Reifenmitte) wird kleiner. Bei einer negativen ET wird die Spurweite vergrößert und das Rad wandert weiter nach außen. Statt des Kürzels ET verwenden einige Hersteller (z. B. Ford) auch die englische Abkürzung OS (=Offset).
--Ebenfalls ist der Durchmesser der Löcher am Lochkreis entscheidend, so verwenden beispielsweise Mercedes-Benz und Volkswagen für ihre Transporter Räder mit identischen Abmessungen, die Montageschrauben haben jedoch in einem Fall 12 mm-, im anderen aber 14 mm-Gewinde.
+- *Die Zahl der Löcher, mit denen das Rad festgeschraubt wird*, ist mindestens drei, üblicherweise jedoch vier oder fünf; bei Geländewagen oder Lastwagen mehr (Ausnahme: Zentralverschluss durch Flügelmutter wie beim Roadster im Bild weiter oben).
+- *Der Lochkreis (LK) bezeichnet den Durchmesser in mm des Kreises, auf dem die Mittelpunkte der Schraubenlöcher liegen*.
+- *Die Mittenbohrung ist die mittige Bohrung, mit der das Rad auf den Radflansch aufgesteckt wird.*
+- *Die Einpresstiefe (ET)* gibt die Abweichung zwischen der Radmitte und der inneren Anlagefläche der Radscheibe auf der Radnabe (als Spiegel bezeichnet), also der Bremstrommel oder Bremsscheibe, an. Sie wird in mm angegeben. Ist die Einpresstiefe 0 mm, liegt das Rad in der Symmetrieebene des Reifens auf der Bremstrommel auf. Ist sie größer als 0, also eine positive ET, reicht das Rad weiter nach innen, das heißt, die Spurweite (gemessen von Reifenmitte zu Reifenmitte) wird kleiner. Bei einer negativen ET wird die Spurweite vergrößert und das Rad wandert weiter nach außen. Statt des Kürzels ET verwenden einige Hersteller (z. B. Ford) auch die englische Abkürzung OS (=Offset).
+- Ebenfalls ist der *Durchmesser der Löcher am Lochkreis* entscheidend, so verwenden beispielsweise Mercedes-Benz und Volkswagen für ihre Transporter Räder mit identischen Abmessungen, die Montageschrauben haben jedoch in einem Fall 12 mm-, im anderen aber 14 mm-Gewinde.
 
 *Beispiel einer Pkw-Räderbezeichnung:*
 
 *7½J× 16 H2 ET15, LK 5×110 MZ57*
 
-- 7½ = Maulweiten-Code (Felgenbreite), entspricht der *Maulweite in Zoll (von Innenseite des Felgenhorns zu Felgenhorn)*
-- J = Bezeichnung für die *Felgenhornausführung* (hier: Form J, entspricht einer Höhe von 17,3 mm), andere Ausführungen: H, P, K, JK etc.
-- × = *Kennzeichnung einer einteiligen Tiefbettfelge* (× wird heute als „mal“ gesprochen, ursprünglich war die Sprechweise „X“ vorgesehen), *andere Ausführung: – (sprich „Strich“) bezeichnet eine mehrteilige Flachbettfelge*
-- 16 = Felgendurchmesser-Code, entspricht etwa dem *Felgendurchmesser in Zoll (gemessen an der Felgenschulter)*
-- H2 = *Hump in diesem Fall beidseitig (2)* (verhindert das Reifenabrutschen ins Tiefbett bei Kurvenfahrt)
-- ET 15 = *Einpresstiefe positiv* (+)15 mm (bei negativer ET steht das Minuszeichen davor, zum Beispiel ET −15)
-- LK = *Lochkreis des Rades*
-- 5× = *Anzahl der Bolzenlöcher*
-- 110 = *Durchmesser des Lochkreises in mm*, der durch die Mitte der Befestigungslöcher verläuft
-- MZ = *Nabenbohrung oder auch Mittellochzentrierung (MZ)* genannt, hier als Beispiel 57 mm Durchmesser
+- *7½* = Maulweiten-Code (Felgenbreite), entspricht der *Maulweite in Zoll (von Innenseite des Felgenhorns zu Felgenhorn)*
+- *J* = Bezeichnung für die *Felgenhornausführung* (hier: Form J, entspricht einer Höhe von 17,3 mm), andere Ausführungen: H, P, K, JK etc.
+- *×* = *Kennzeichnung einer einteiligen Tiefbettfelge* (× wird heute als „mal“ gesprochen, ursprünglich war die Sprechweise „X“ vorgesehen), *andere Ausführung: – (sprich „Strich“) bezeichnet eine mehrteilige Flachbettfelge*
+- *16* = Felgendurchmesser-Code, entspricht etwa dem *Felgendurchmesser in Zoll (gemessen an der Felgenschulter)*
+- *H2* = *Hump in diesem Fall beidseitig (2)* (verhindert das Reifenabrutschen ins Tiefbett bei Kurvenfahrt)
+- *ET 15* = *Einpresstiefe positiv* (+)15 mm (bei negativer ET steht das Minuszeichen davor, zum Beispiel ET −15)
+- *LK* = *Lochkreis des Rades*
+- *5×* = *Anzahl der Bolzenlöcher*
+- *110* = *Durchmesser des Lochkreises in mm*, der durch die Mitte der Befestigungslöcher verläuft
+- *MZ* = *Nabenbohrung oder auch Mittellochzentrierung (MZ)* genannt, hier als Beispiel 57 mm Durchmesser
 
 Fahrzeuge haben unterschiedliche Nabenbohrungen. Leichtmetallräder im Tuningbereich haben in der Regel größere Bohrungen. Mit Hilfe eines Zentrierringes (aus Kunststoff) wird der Unterschied im Durchmesser vom Rad zum Fahrzeug angeglichen. Stahlräder sind nur mit demselben Bohrungsdurchmesser wie beim Fahrzeug erhältlich.
 

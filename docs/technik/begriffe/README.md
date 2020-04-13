@@ -41,7 +41,7 @@ Gelenkwellen dienen:
 
 Das SCR-Verfahren nutzt Ammoniak, welches an Bord des Fahrzeugs aus Harnstoff gewonnen wird. *Die in einem separaten Tank liegende Harnstofflösung wird z. B. mittels Dosierpumpe oder Injektor dosiert in den Abgasstrom eingespritzt und sorgt im SCR-Katalysator für eine chemische Reaktion. Hierbei werden nur die Stickoxide in Stickstoff und Wasserdampf umgewandelt*. Das Verhältnis von Harnstofflösung zu Dieselkraftstoff beträgt etwa 1:20 bis 1:30.
 
-**Vorteile**
+*Vorteile*
 
 - Bedingt geeignet für die Verwendung von Biodiesel
 - Kraftstoffeinsparung bis ca. 8 % durch Einsparung der Abgasrückführung
@@ -50,7 +50,7 @@ Das SCR-Verfahren nutzt Ammoniak, welches an Bord des Fahrzeugs aus Harnstoff ge
 - Kein Einfluss auf Wartungs- und Ölwechselintervalle
 Wassergefährdungsklasse 1 (schwach)
 
-**Nachteile**
+*Nachteile*
 
 - Zusätzlicher Platzbedarf für den Behälter
 - Zusätzliches Gewicht der Anlage und deren Flüssigkeit
@@ -96,25 +96,9 @@ Der Verbrauch eines Verbrennungsmotors hängt bei gleicher Belastung weit überw
 
 Die Verkleinerung soll vor allem zu Effizienzsteigerungen im Teillastbetrieb führen. Unter Volllast wird oft keine Verbesserung erreicht; gelegentlich ergibt sich sogar ein höherer Kraftstoffverbrauch.
 
-## Getriebe
-
-Ein Getriebe (oder Umformerelement) ist ein Maschinenelement, mit dem Bewegungsgrößen geändert werden. Mitunter spielt die Änderung einer Kraft oder eines Drehmoments die entscheidende Rolle. Die zu ändernde Bewegung ist oft eine Drehbewegung. Beim aus dem Automobil bekannten Schalt-Getriebe handelt es sich vorwiegend um Zahnrad-Getriebe.
-
-*Getriebe dienen zur Übertragung und Umformung (Übersetzung) von Bewegungen, Energie und/oder Kräften*.
-
 ## Kinetische Energie
 
 *Kinetische Energie (Energie der Bewegung) ist die Fähigkeit eines Körpers, aufgrund seiner Bewegung mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben oder Licht auszusenden*.
-
-## Kupplung, Einscheiben-Trockenkupplung
-
-*Eine Kupplung ist ein Maschinenelement zur starren, elastischen, beweglichen oder lösbaren Verbindung zweier Wellen*. Eine nicht starre Kupplung kann neben einer formschlüssigen auch eine kraftschlüssige Verbindung sein. *Durch die Verbindung wird es möglich, zwischen beiden Wellen Rotation und damit Drehmoment und letztlich mechanische Arbeit zu übertragen*.
-
-*Bei der in Kraftfahrzeugen meistens verwendeten Einscheiben-Trockenkupplung handelt es sich um eine kraftschlüssige, im Betrieb lösbare Kupplung. Diese dient dazu, den Kraftfluss zwischen Motor und Schaltgetriebe zu unterbrechen, wenn der Gang gewechselt wird oder das Fahrzeug mit laufendem Motor stehen soll*. Beim Anfahren wird mit der „schleifenden“ Kupplung die reibschlüssige Verbindung kontinuierlich erhöht, bis der vollständig eingekuppelte Zustand erreicht ist.
-
-<YouTube videoid="Mj38Ficw2S0" />
-
-<YouTube videoid="7YF_1j5BH5g" />
 
 ## Lidar, Ladar
 
