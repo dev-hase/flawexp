@@ -50,6 +50,7 @@ module.exports = {
               title: 'Pädagogik',
               children: [
                 ['/paedagogik/begriffe/', 'Begriffe'],
+                ['/paedagogik/lerntheorien/', 'Lerntheorien'],
                 ['/paedagogik/unterrichtsplanung/', 'Unterrichtsplanung'],
                 ['/paedagogik/prinzipien/', 'Unterrichtsprinzipien'],
                 ['/paedagogik/methoden/', 'Unterrichtsmethoden'],
@@ -71,6 +72,7 @@ module.exports = {
               title: 'Psychologie',
               children: [
                 ['/psychologie/begriffe/', 'Begriffe'],
+                ['/psychologie/bigFive/', 'Big Five'],
                 ['/psychologie/gedächtnis/', 'Gedächtnis'],
               ]
             },

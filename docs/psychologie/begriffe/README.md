@@ -65,9 +65,38 @@ Zur Empathie wird gemeinhin auch die Fähigkeit zu angemessenen Reaktionen auf G
 
 Grundlage der Empathie ist die Selbstwahrnehmung – je offener eine Person für ihre eigenen Emotionen ist, desto besser kann sie auch die Gefühle anderer deuten.
 
+## Halo-Effekt
+
+Der Halo-Effekt (von englisch halo, Heiligenschein) ist eine aus der Sozialpsychologie bekannte kognitive Verzerrung. *Dabei schließt man von bekannten Eigenschaften einer Person auf unbekannte.* Der Halo-Effekt wurde erstmals 1907 von Frederic L. Wells beobachtet. Der Terminus wurde im 20. Jahrhundert von Edward Lee Thorndike eingeführt.
+
+*Unter dem Effekt wird die Tendenz verstanden, faktisch unabhängige oder nur mäßig korrelierende Eigenschaften von Personen oder Sachen fälschlicherweise als zusammenhängend wahrzunehmen.* Einzelne Eigenschaften einer Person (z. B. Attraktivität, Behinderung, sozialer Status) *erzeugen einen positiven oder negativen Eindruck, der die weitere Wahrnehmung der Person „überstrahlt“ und so den Gesamteindruck unverhältnismäßig beeinflusst.* Ein typisches Beispiel für einen Halo-Effekt ist, wenn ein Lehrer die Leistungen eines gut aussehenden und freundlichen Schülers höher bewertet, als sie es objektiv im Vergleich mit den Leistungen anderer Schüler sind. Auch der Name kann bestimmte Assoziationen und einen entsprechenden Halo-Effekt auslösen.
+
+*Der Effekt tritt häufig dann auf, wenn sich der zu Beurteilende durch hervorstechende, ausgeprägte Eigenschaften oder Verhaltensweisen auszeichnet.* Der Einfluss des Halo-Effekts ist besonders stark, wenn der Beurteiler speziell auf eine Verhaltensweise oder ein Merkmal Wert legt und dieses entsprechend überbewertet. Mangelnde Motivation und Informiertheit der Beurteilenden können den Effekt verstärken.
+
+Bei einer positiven Verzerrung spricht man auch vom Heiligenschein-Effekt, bei einer negativen vom Teufelshörner-Effekt.
+
+*Vermeidung*
+
+*Für eine möglichst objektive Beurteilung müssen Beurteilungsfehler wie Halo-Effekte minimiert werden. Dies ist zum Beispiel durch Sensibilisieren der Wahrnehmung für den Halo-Effekt möglich. Ziel ist es, diese Fehlerquelle besser einschätzen zu lernen. Eine weitere Gegenmaßnahme bei mehreren gleichzeitig zu Beurteilenden ist, Merkmal für Merkmal zu bewerten, d. h. das erste Merkmal bei jedem zu Beurteilenden, dann das zweite usw.* Damit wird verhindert, dass der Beurteiler sich an einem Gesamteindruck orientiert.
+Eine Lehrkraft kann dies bei der Korrektur von Prüfungen erreichen, indem sie diese „quer korrigiert“: Zunächst wird die Aufgabe 1 sämtlicher Schüler korrigiert, anschließend Aufgabe 2 und so weiter. Somit wirkt sich eine außerordentliche Leistung (im positiven oder im negativen Sinne) eines Schülers bei einer einzelnen Aufgabe weniger auf nachfolgend zu korrigierende Aufgaben desselben Schülers aus.
+
+*Da durch Zeitdruck bei der Entscheidung der Halo-Effekt gefördert wird, sollte eine Entscheidung nicht unter Zeitdruck getroffen werden müssen.*
+
 ## Narzissmus
 
 Der Ausdruck Narzissmus steht alltagspsychologisch und umgangssprachlich im weitesten Sinne für *die Selbstverliebtheit und Selbstbewunderung eines Menschen, der sich für wichtiger und wertvoller einschätzt, als urteilende Beobachter ihn charakterisieren*. In der Umgangssprache wird eine stark auf sich selbst bezogene Person, welche anderen Menschen geringere Beachtung als sich selbst schenkt, als Narzisst bezeichnet. Ein derartiger Gebrauch des Wortes „Narzissmus“ schließt meist ein negatives moralisches Werturteil über die betreffende Person ein.
+
+## Priming 
+
+Der Begriff Priming bzw. Bahnung bezeichnet in der Psychologie *die Beeinflussung der Verarbeitung (Kognition) eines Reizes. In den meisten Fällen hat ein vorangegangener Reiz implizite Gedächtnisinhalte aktiviert. Die Verknüpfung des Reizes mit speziellen Assoziationen im Gedächtnis, aufgrund von Vorerfahrungen geschieht häufig und zum allergrößten Teil unbewusst.*
+
+## Resilienz
+
+Resilienz (von lateinisch resilire ‚zurückspringen‘ ‚abprallen‘) oder psychische Widerstandsfähigkeit *ist die Fähigkeit, Krisen zu bewältigen und sie durch Rückgriff auf persönliche und sozial vermittelte Ressourcen als Anlass für Entwicklungen zu nutzen.* Mit Resilienz verwandt sind Entstehung von Gesundheit (Salutogenese), Widerstandsfähigkeit (Hardiness), Bewältigungsstrategie (Coping) und Selbsterhaltung (Autopoiesis). Das Gegenteil von Resilienz ist Verwundbarkeit (Vulnerabilität).
+
+*Ursprünglich wurde mit Resilienz nur die Stärke eines Menschen bezeichnet, Lebenskrisen wie schwere Krankheiten, lange Arbeitslosigkeit, Verlust von nahestehenden Menschen oder Ähnliches ohne anhaltende Beeinträchtigung durchzustehen.* Diese Verwendung des Wortes ist auch heute noch häufig. So werden zum Beispiel Kinder als resilient bezeichnet, die in einem sozialen Umfeld aufwachsen, das durch Risikofaktoren, wie zum Beispiel Armut, Drogenkonsum oder Gewalt, gekennzeichnet ist, und als Erwachsene dennoch zu einer erfolgreichen Lebensführung in der Lage sind. *Resiliente Personen haben gelernt, dass sie selbst es sind, die über ihr eigenes Schicksal bestimmen (sogenannte interne Kontrollüberzeugung).* Sie vertrauen nicht auf Glück oder Zufall, sondern nehmen die Dinge selbst in die Hand und haben ein realistisches Bild von ihren Fähigkeiten.
+
+*In der heutigen Persönlichkeitspsychologie werden auch Menschen als resilient bezeichnet, die eines der drei häufigsten [Big-Five-Persönlichkeitsprofile](/psychologie/bigFive/#big-five) aufweisen, mit niedrigem Neurotizismus-Wert und leicht überdurchschnittlichen Werten in den vier übrigen Dimensionen.* In der Längsschnittstudie von Asendorpf und van Aken wurden resiliente Kinder von ihren Erzieherinnen als anpassungsfähig, belastbar, aufmerksam, tüchtig, gescheit, neugierig und voller Selbstvertrauen beschrieben.
 
 :::
 

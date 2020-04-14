@@ -49,23 +49,14 @@ Der US-amerikanische Soziologe Erving Goffman (1922–1982) vertrat die Auffassu
 
 ...*unbeweisbare, aber in sich einsichtige Wahrheit, die daher nicht bewiesen werden muss und allgemein als gültig und richtig anerkannt wird*.
 
-## Behavioristische Lerntheorie
+## deduktiv
 
-*Bei dem Behaviorismus wird das Verhalten (englisch behavior) eines Lebewesens untersucht. Dieses wissenschaftliche, theoretische Konzept stammt aus dem Bereich der Psychologie. Der Mensch als Ergebnis seiner Umgebung oder Umwelt ist der Hauptpunkt des Behaviorismus. Für die Vertreter der behavioristischen Lerntheorie ist der geistige Vorgang nicht von Bedeutung*. Das Verhalten eines Individuums wird ohne diesen Aspekt beobachtet. In den 1960er Jahren entwickelten diese besonderen Vertreter drei unterschiedliche Lerntheorien:
+*Absteigender Verstehensprozess*
 
-*Klassische Konditionierung* (Koppelung von Reizen)
-Vertreter: Iwan Petrowitsch Pawlow (1849–1936), John B. Watson (1878–1958)
-
-*Operante Konditionierung* (Reaktion auf Reize)
-Vertreter: B.F. Skinner (1904–1990), Edward Lee Thorndike (1874–1949)
-
-Edward Lee Thorndike erforschte am Ende des 19. Jahrhunderts Problemlösen und die Rolle von Einsicht. In seinem paradigmatischen Experiment von 1898 setzte er Katzen in einen Käfig, der von innen durch Ziehen an einer Schnur zu öffnen war, legte außen Futter hin und maß die Zeit, die die Katzen zur Selbstbefreiung benötigten. Seine Beobachtungen und Schlussfolgerungen führten zur Theorie der *instrumentellen Konditionierung*.
-
-Kurze Zeit später entstand die Theorie der *Klassischen Konditionierung*. Zufällig stieß 1905 der Physiologe Iwan Pawlow auf dieses Prinzip (zum Versuch: siehe auch Pawlowscher Hund). Eine klassische Konditionierung erfolgt, wenn ein ursprünglich neutraler Reiz (etwa ein Ton) einen Reflex, zum Beispiel Speichelfluss oder Lidschluss auslöst.
-
-B. F. Skinner hat sich v. a. mit dem *operanten Verhalten*, also der Rückwirkung der Konsequenzen eines Verhaltens auf dasselbe, beschäftigt und das Prinzip der operanten Konditionierung beschrieben.
-
-Diese Lernprinzipien wurden ab den 1960er Jahren in der Psychologie um die Prinzipien des Lernens am Modell und (mit Einschränkungen) des Lernens durch Einsicht ergänzt.
+- *Absteigen vom Allgemeinen zum Besonderen*
+- *Schluss vom Allgemeinen auf das Einzelne*
+- Ausgangspunkt: Regel, Gesetz, Definition
+- Endpunkt: Bestätigung des Gesetzhaften am Einzelnen
 
 ## Didaktik
 
@@ -83,6 +74,15 @@ Beispiel: Wissenschaftliche Erkenntnisse werden in der Regel in einer systematis
 
 Ganzheitlichkeit bezieht sich in der Pädagogik auf einen integrativen Bestandteil handlungsorientierter Konzepte. Erste Ansätze sind bereits mit Pestalozzis Idee der Elementarbildung, dem *Lernen mit Kopf, Herz und Hand* im Rahmen der damaligen Anschauungspädagogik zu verzeichnen. Ausgehend von der Reformpädagogik betont ganzheitliches Lernen neben den traditionell privilegierten **kognitiv-intellektuellen** Aspekten auch **körperliche** sowie **affektiv-emotionale** Aspekte: *Ganzheitliches Lernen ist Lernen mit allen Sinnen, Lernen mit Verstand, Gemüt und Körper*.
 
+## induktiv
+
+*Aufsteigender Verstehensprozess*
+
+- *Aufsteigen vom Besonderen zum Allgemeinen* (Aristoteles)
+- *Gesetzmäßigkeiten erschließen durch Beobachtung - Vergleich - Generalisierung*
+- Ausgangspunkt: Erfahrungen des Einzelnen
+- Endpunkt: induktive Definition, der allgemeine Satz
+
 ## Implizites Wissen
 
 *Implizites Wissen oder stilles Wissen bedeutet – vereinfacht ausgedrückt – „können, ohne sagen zu können, wie“. Jemand „weiß, wie es geht“, aber sein Wissen steckt implizit in seinem Können, ihm fehlen die Worte, um dieses Können zu beschreiben oder es anderen verbal zu vermitteln.*
@@ -91,6 +91,7 @@ Ein Beispiel dafür ist die Fähigkeit, auf dem Fahrrad das Gleichgewicht zu hal
 
 
 ## Kognition 
+
 (engl. cognition; lat. cognitio = Erkenntnis, Vorstellung, Begriff, Wiedererkennen) schließt zum einen die Fähigkeit ein, bestimmte Gesetzmäßigkeiten zu erkennen (= Denken). Dieser Prozess umfasst die Aufnahme, Verarbeitung und Bewertung von Informationen. Zum anderen ist das Vorhandensein von sowie der Rückgriff auf Vergleichswissen (= Gedächtnis) inbegriffen. *Kurz gesagt handelt es sich hierbei um die Gesamtheit aller Vorgänge, welche der Aufnahme, Verarbeitung und Speicherung von Informationen dienen.* Aus diesem Grund werden auch alle Theorien, die ihren Blick auf geistige Vorgänge richten, kognitionstheoretische Modelle genannt. Verwiesen sei an dieser Stelle beispielhafterweise auf das Modell-Lernen von Albert Bandura.
 
 Beispiele für kognitive Prozesse sind nach Holzinger:
@@ -100,19 +101,11 @@ Beispiele für kognitive Prozesse sind nach Holzinger:
 - Wiedererkennung und
 - schlussfolgerndes Denken.
 
-## Kognitivismus 
-
-...bezeichnet *eine Hauptströmung der Lerntheorien*. Sie ist vom Behaviorismus und Konstruktivismus zu unterscheiden und geprägt von den unterschiedlichen Einflüssen der Disziplinen Philosophie, Psychologie und Linguistik. *Im Mittelpunkt des Kognitivismus stehen die individuelle Informationsverarbeitung sowie die dazugehörigen Denk- und Verarbeitungsprozesse der Lernenden*.
-
-## Konstruktivismus
-
-Der Konstruktivismus in lernpsychologischer Hinsicht postuliert, dass menschliches Erleben und Lernen Konstruktionsprozessen unterworfen ist, die durch sinnesphysiologische, neuronale, kognitive und soziale Prozesse beeinflusst werden. *Seine Kernthese besagt, dass Lernende im Lernprozess eine individuelle Repräsentation der Welt schaffen*. Was jemand unter bestimmten Bedingungen lernt, hängt somit stark, jedoch nicht ausschließlich, von dem Lernenden selbst und seinen Erfahrungen ab.
-
 ## Lernziele
 
 *Lernziele beschreiben den angestrebten Lerngewinn eines Lernenden, bezogen auf einen bestimmten Inhalt*. Lehrziele geben an, welche Ziele ein Lehrender mit Hilfe der Unterrichts­themen erreichen will. Die Kombination von Lehr- und Lernziel bezeichnet man als Unterrichtsziel.
 
-## Lernzielkontrolle, Lernkontrolle
+## Lernzielkontrolle, Lernkontrolle, LZK
 
 Lernkontrolle oder Lernerfolgskontrolle ist ein Fachbegriff der Unterrichtslehre. Unter Lernkontrollen versteht man in der Allgemeinen Didaktik mit den projektierten Zielsetzungen eines Unterrichtsprozesses korrespondierende Maßnahmen, die *den Erfolg der Lernvorgaben möglichst objektiv messen und sicherstellen* sollen.
 
@@ -139,14 +132,6 @@ Als Mehrdimensionales Lernen bezeichnet man in der Unterrichtslehre seit Warwitz
 Die Methodik (von griechisch methodikè téchne = die Kunst des Weges zu etwas hin) im Fachgebiet Pädagogik ist die „Wissenschaft“, „Kunst“ bzw. „Lehre“ von den Wegen zu den Zielen, die speziell in der Pädagogik erreicht werden sollen.
 
 *Methodik ist eine Konzeption, Lehrinhalte so zu vermitteln, dass sie möglichst viele Eingangskanäle des Lerners ansprechen. Nur so lässt sich ein nachhaltiger Lerneffekt erzielen, der über eine kurzfristige Lernkontrolle hinaus haften bleibt*.
-
-## Modelllernen, Sozialkognitive Lerntheorie
-
-Die Sozialkognitive Lerntheorie (auch Sozial-kognitive Lerntheorie oder Modelllernen oder Lernen am Modell genannt) ist *eine kognitivistische Lerntheorie*, die von Albert Bandura entwickelt wurde. *Es werden darunter Lernvorgänge verstanden, die auf der Beobachtung des Verhaltens von menschlichen Vorbildern beruhen*. Die persönliche Anwesenheit dieser Vorbilder (Modelle) ist dabei von untergeordneter Bedeutung.
-
-Andere Bezeichnungen sind *Beobachtungslernen, Nachahmungslernen, Imitationslernen, soziales Lernen, Identifikationslernen, Rollenlernen und stellvertretendes Lernen*. Die einzelnen Bezeichnungen können je nach Autor auch unterschiedlich verwendet werden. Das „*Lernen am Modell*“ gilt als dritte Form des menschlichen Lernens, da es zeitlich nach der instrumentellen und operanten Konditionierung und der Klassischen Konditionierung entdeckt wurde.
-
-Banduras Konzept beschreibt einen Lernprozess in vier Prozessen, die sich in die zwei Phasen Aneignung und Ausführung aufteilen. Im Gegensatz zu behavioristischen Lerntheorien – wie dem Operanten Konditionieren – kommen in der sozial-kognitiven Lerntheorie besonders zwei Komponenten zum Tragen. Zum einen wird der Mensch als ein aktiv Lernender gesehen, der sich bewusst mit seiner Umwelt auseinandersetzt und so ein Lernprozess aus einer Wechselwirkung von Person und Umwelt entsteht (soziale Komponente). Zum anderen plant der Mensch nicht nur seine Handlung, sondern er ist auch fähig diese zu reflektieren und sich selbst zu motivieren (kognitive Komponente).
 
 ## Pädagogik
 
