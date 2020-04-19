@@ -35,7 +35,7 @@ Teilweise sind auch Kombinationen mehrerer Sensorsysteme (Sensordatenfusion) not
 
 ## Antiblockiersystem (ABS)
 
-Wird seit 2004 serienmäßig in fast allen Pkw ausgeliefert. *Es verhindert das Blockieren einzelner Räder während des Bremsvorgangs und erhält so die Lenkfähigkeit bei Vollbremsung*.
+Wird seit 2004 serienmäßig in fast allen Pkw ausgeliefert. *Es verhindert das Blockieren einzelner Räder während des Bremsvorgangs und erhält so die Lenkfähigkeit bei Vollbremsung.*
 
 ## Elektronisches Stabilitätsprogramm (ESP)
 
@@ -43,19 +43,19 @@ Wird seit 2004 serienmäßig in fast allen Pkw ausgeliefert. *Es verhindert das 
 
 ## Antriebsschlupfregelung (ASR)
 
-*Dient zur Verbesserung des Anfahrverhaltens und zum Beschleunigen*. Es verteilt das Antriebsmoment auf die Räder und *verhindert auf glattem Untergrund das Durchdrehen*.
+*Dient zur Verbesserung des Anfahrverhaltens und zum Beschleunigen*. Es verteilt das Antriebsmoment auf die Räder und *verhindert auf glattem Untergrund das Durchdrehen.*
 
 ## Bremsassistent (BAS)
 
-Unterstützt den Fahrer durch *Verstärkung des Bremsdruckes zu einer optimalen Vollbremsung, wenn eine Notbremssituation erkannt wird*.
+Unterstützt den Fahrer durch *Verstärkung des Bremsdruckes zu einer optimalen Vollbremsung, wenn eine Notbremssituation erkannt wird.*
 
 ## Berganfahrhilfe
 
-Wirkt als *automatische Handbremse*.
+Wirkt als *automatische Handbremse.*
 
 ## Bergabfahrhilfe (HDC)
 
-*Regelt die Geschwindigkeit beim steilen Bergabfahren*.
+*Regelt die Geschwindigkeit beim steilen Bergabfahren.*
 
 ## Abstandsregeltempomat (ACC, Adaptive Cruise Control)
 
@@ -63,7 +63,7 @@ Wirkt als *automatische Handbremse*.
 
 ## Automatische Notbremssysteme (AEBS)
 
-*Ein System, das einen möglichen Zusammenstoß selbständig erkennt und das Abbremsen des Fahrzeugs veranlassen kann, um einen Zusammenstoß zu verhindern oder abzumildern*.
+*Ein System, das einen möglichen Zusammenstoß selbständig erkennt und das Abbremsen des Fahrzeugs veranlassen kann, um einen Zusammenstoß zu verhindern oder abzumildern.*
 
 ADAC Einschätzung zur verpflichtenden Einführung: Die Ausrüstung von Fahrzeugen mit Notbremssystemen hält der ADAC für unerlässlich. Nur so können in Europa Verkehrsunfälle und somit auch die Unfallfolgen weiterhin effektiv reduziert werden. Eine schrittweise verpflichtende Einführung von Notbremssystemen (mit steigenden Anforderungen bis hin zur Erkennung von Fußgängern und Radfahrern) zur Erhöhung der aktiven Sicherheit von Fahrzeugen und zur weiteren Reduzierung der Verkehrstoten ist aus Sicht des ADAC zu begrüßen.
 
@@ -75,17 +75,17 @@ ADAC Einschätzung zur verpflichtenden Einführung: Die verpflichtende Einführu
 
 ## Spurverlassenswarner (LDW, Lane Departure Warning)
 
-*Ein System, das den Fahrer warnt, wenn das Fahrzeug seine Fahrspur verlässt*.
+*Ein System, das den Fahrer warnt, wenn das Fahrzeug seine Fahrspur verlässt.*
 
 ADAC Einschätzung zur verpflichtenden Einführung: Solche Systeme sind aus Sicht des ADAC ein Sicherheitsgewinn aber während der Spurhalteassistent aktiv und unmittelbar das Fahrzeug in die Spur zurücklenkt, muss bei einem Warnsystem erst der Fahrer reagieren, um ein Abkommen von der Spur zu vermeiden, was nur verzögert geschehen kann.
 
 ## Überholassistenten
 
-*Können ein komplettes Überholmanöver überwachen und unterstützen*.
+*Können ein komplettes Überholmanöver überwachen und unterstützen.*
 
 ## Multikollisionsbremse
 
-*Hier wird mit Hilfe des ESP-Systems nach einer Unfallerkennung die Bremse angesteuert. So kann ein Folge-Crash und damit die Unfallschwere reduziert werden*.
+*Hier wird mit Hilfe des ESP-Systems nach einer Unfallerkennung die Bremse angesteuert. So kann ein Folge-Crash und damit die Unfallschwere reduziert werden.*
 
 ## Fernlichtassistenten
 
@@ -103,7 +103,7 @@ ADAC Einschätzung zur verpflichtenden Einführung: Nach ADAC Erkenntnissen ist 
 
 ## Notbremslicht (Emergency stop signal)
 
-*Bezeichnet eine Lichtsignalfunktion, die hinter dem Fahrzeug befindlichen Verkehrsteilnehmern anzeigt, dass das vor ihnen fahrende Fahrzeug mit einer in Anbetracht der Verkehrssituation vergleichsweise starken Verzögerung abgebremst wird*.
+*Bezeichnet eine Lichtsignalfunktion, die hinter dem Fahrzeug befindlichen Verkehrsteilnehmern anzeigt, dass das vor ihnen fahrende Fahrzeug mit einer in Anbetracht der Verkehrssituation vergleichsweise starken Verzögerung abgebremst wird.*
 
 ADAC Einschätzung zur verpflichtenden Einführung: Der ADAC begrüßt die verpflichtende Einführung eines solchen Systems. Dieses ist zusammen mit dem Notbremsassistenzsystem leicht realisierbar und bietet nachfolgenden Verkehrsteilnehmern eine zeitnahe Warnung, wenn das vorausfahrende Fahrzeug stark abbremsen muss.
 
@@ -115,19 +115,19 @@ ADAC Einschätzung zur verpflichtenden Einführung: Aus Sicht des ADAC erschlie�
 
 ## Abbiegeassistent
 
-Er *erkennt Fußgänger oder Radfahrer, die sich an der Seite des Fahrzeugs befinden oder sich diesem annähern, und gibt eine Warnung an den Fahrer ab*. So kann ein Unfall mit ungeschützen Verkehrsteilnehmern verhindert werden. Immer wieder kommt es insbesondere beim Abbiegen von Lkw oder Bussen ohne Abbiegeassistenten zu schweren Unfällen.
+*... erkennt Fußgänger oder Radfahrer, die sich an der Seite des Fahrzeugs befinden oder sich diesem annähern, und gibt eine Warnung an den Fahrer ab*. So kann ein Unfall mit ungeschützen Verkehrsteilnehmern verhindert werden. Immer wieder kommt es insbesondere beim Abbiegen von Lkw oder Bussen ohne Abbiegeassistenten zu schweren Unfällen.
 
 ADAC Einschätzung zur verpflichtenden Einführung: Sie ist aus ADAC Sicht zu begrüßen, da regelmäßig Radfahrer oder Fußgänger schwer oder gar tödlich verletzt werden, weil sie sich im toten Winkel eines Lkw befanden und vom Fahrer übersehen wurden. Besondere Gefahr droht an Kreuzungen. Die Sicht zur Seite und nach hinten ist in einem Lkw stark eingeschränkt. Der Sicherheitsassistent sollte nicht abschaltbar sein.
 
 ## Fahrermüdigkeitserkennung und -aufmerksamkeitsüberwachung (Driver drowsiness and attention warning)
 
-*Ein System, das die Wachsamkeit des Fahrers durch eine Analyse der Systeme des Fahrzeugs bewertet und den Fahrer erforderlichenfalls warnt*.
+*Ein System, das die Wachsamkeit des Fahrers durch eine Analyse der Systeme des Fahrzeugs bewertet und den Fahrer erforderlichenfalls warnt.*
 
 ADAC Einschätzung zur verpflichtenden Einführung: Aus ADAC Sicht lassen sich, solange keine technischen Spezifikationen vorliegen, insbesondere die Datenschutzimplikationen solcher Systeme nicht bewerten. Obwohl der Gesetzgeber die Weitergabe oder Speicherung der Daten verbietet, wird eine Überwachung des Fahrzeugführers (je nach Systemausgestaltung) möglich. Darüber hinaus wird es Begehrlichkeiten geben, zur Unfallaufklärung auf die Daten dieser Systeme zuzugreifen. Nichtsdestotrotz bestehen große Sicherheitspotenziale in der Fahrerüberwachung, wenn die Eingriffsschwelle und Warnkaskade von FAS entsprechend der aktuellen Fahreraufmerksamkeit angepasst werden. Solche Systeme könnten z.B. einem Unfallbeteiligten Ablenkung oder Sekundenschlaf nachweisen; das würde der Wahrheitsfindung und dem Opferschutz dienen.
 
 ## Vorrichtung zum Einbau einer alkoholempfindlichen Wegfahrsperre (Alcohol interlock installation facilitation)
 
-*Eine standardisierte Schnittstelle in Kraftfahrzeugen zur Erleichterung der Nachrüstung mit alkoholempfindlichen Wegfahrsperren*. 
+*Eine standardisierte Schnittstelle in Kraftfahrzeugen zur Erleichterung der Nachrüstung mit alkoholempfindlichen Wegfahrsperren.*
 
 ADAC Einschätzung zur verpflichtenden Einführung: Eine vorbereitete Schnittstelle in allen Fahrzeugen kann die Montage eines Alkohol-Interlock-Systems im selten erforderlichen Anwendungsfall für den Betroffenen günstiger machen. 20 bis 28 Prozent aller Verkehrsunfälle, -toten und -verletzten in Europa sind auf Alkoholeinfluss zurückzuführen. 
 

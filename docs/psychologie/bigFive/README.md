@@ -33,7 +33,7 @@ Neurotizismus |	selbstsicher, ruhig	| emotional, verletzlich
 
 *Mit diesem Faktor wird das Interesse und das Ausmaß der Beschäftigung mit neuen Erfahrungen, Erlebnissen und Eindrücken beschrieben.*
 
-- Personen mit hohen Offenheitswerten geben häufig an, dass sie eine *rege Fantasie haben, ihre positiven und negativen Gefühle deutlich wahrnehmen sowie an vielen persönlichen und öffentlichen Vorgängen interessiert sind*. Sie beschreiben sich als *wissbegierig, intellektuell, fantasievoll, experimentierfreudig und künstlerisch interessiert*. Sie sind eher bereit, bestehende Normen kritisch zu hinterfragen und auf neuartige soziale, ethische und politische Wertvorstellungen einzugehen. Sie sind *unabhängig in ihrem Urteil, verhalten sich häufig unkonventionell, erproben neue Handlungsweisen und bevorzugen Abwechslung*.
+- Personen mit hohen Offenheitswerten geben häufig an, dass sie eine *rege Fantasie haben, ihre positiven und negativen Gefühle deutlich wahrnehmen sowie an vielen persönlichen und öffentlichen Vorgängen interessiert sind*. Sie beschreiben sich als *wissbegierig, intellektuell, fantasievoll, experimentierfreudig und künstlerisch interessiert*. Sie sind eher bereit, bestehende Normen kritisch zu hinterfragen und auf neuartige soziale, ethische und politische Wertvorstellungen einzugehenbah. Sie sind *unabhängig in ihrem Urteil, verhalten sich häufig unkonventionell, erproben neue Handlungsweisen und bevorzugen Abwechslung*.
 
 - Personen mit niedrigen Offenheitswerten neigen demgegenüber eher zu konventionellem Verhalten und zu konservativen Einstellungen. Sie *ziehen Bekanntes und Bewährtes dem Neuen vor und sie nehmen ihre emotionalen Reaktionen eher gedämpft wahr*.
 

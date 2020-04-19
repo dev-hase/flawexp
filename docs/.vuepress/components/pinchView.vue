@@ -49,6 +49,7 @@ export default {
             margin .25rem 0
             color #333
             background $highlightB
+            background-image url('/img/highlight.png')
             transition background-color 2.5s
             
         mjx-container
@@ -88,6 +89,7 @@ export default {
         z-index 1000
         opacity .8
         background-repeat no-repeat
+        border-radius 20%
 
     .flipbtnactive
         padding .8rem

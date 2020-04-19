@@ -15,36 +15,6 @@ meta:
 
 Es werden Aufgaben an die Schüler verteilt
 
-## Zurufsammlung / Brainstorming
-
-**Phase Eins**: *Ideen finden*
-
-*Die Teilnehmer finden spontan Ideen zur Lösungsfindung, wobei sie sich im optimalen Fall gegenseitig inspirieren* und untereinander Gesichtspunkte in neue Lösungsansätze und Ideen einfließen lassen. *Die Ideen werden protokolliert. Alle Teilnehmenden sollen ohne jede Einschränkung Ideen produzieren und mit anderen Ideen kombinieren. Die Gruppe sollte in eine möglichst produktive und erfindungsreiche Stimmung versetzt werden*. In dieser Phase gelten folgende Grundregeln:
-
-- Keine Kritik an anderen Beiträgen, Ideen, Lösungsvorschlägen (kreative Ansätze können sich auch aus zunächst völlig unsinnigen Vorschlägen entwickeln).
-- Keine Wertung oder Beurteilung der Ideen.
-- Jeder soll seine Gedanken frei äußern können.
-- Keine Totschlagargumente.
-- Je kühner und phantasievoller, desto besser. Dadurch wird das Lösungsfeld vergrößert.
-
-**Phase Zwei**: *Ergebnisse sortieren und bewerten*
-
-*Nach einer Pause werden nun sämtliche Ideen (von der Gruppenleitung) vorgelesen und von den Teilnehmern bewertet und sortiert. Hierbei geht es zunächst nur um bloße thematische Zugehörigkeit und das Aussortieren von problemfernen Ideen*. Die Bewertung und Auswertung kann in derselben Diskussion durch dieselben Teilnehmer erfolgen.
-
-## Diskussion
-
-Zu einem guten Diskussionsstil (siehe auch Streitkultur) gehört neben wechselseitigem Respekt unter anderem, gegenteilige Argumente und Meinungen zuzulassen und genau zu prüfen, anstatt diese vorschnell zu verwerfen. *Ein guter Diskutant hört zu, lässt ausreden und ist konzentriert genug, um auf das vom Gegenüber Gesagte einzugehen und seine eigenen Argumente sachlich darzustellen. Im Idealfall ist er gelassen und höflich.*
-
-Ein wirksames Hilfsmittel der Diskussion ist es, die *Inhalte bildhaft darzustellen (zu visualisieren)*. Für einen sachlichen und geordneten Diskussionsverlauf ist es hilfreich, einzelne Diskussionspunkte *(Stichworte) für alle sichtbar aufzuschreiben oder in Symbolen und durch bildsprachliche Zeichen zu veranschaulichen (z. B. auf Flipchart, Pinnwand, Overheadfolie)*.
-
-*Die Visualisierung wirkt als Gedächtnisstütze, versachlicht die Diskussion, erhöht die Aufmerksamkeit, fördert Gelassenheit auch bei weit auseinanderliegenden Standpunkten, unterstützt eine optische Entwicklung eines Diskussionsfadens, entlastet die Diskutanten psychisch und vermindert Missverständnisse*. Ein unbewusstes oder ein in manipulativer Absicht gesteuertes Springen im Diskussionsfaden wird mittels Visualisierung sichtbar und kann wertschätzend und die Diskussion fördernd aufgefangen werden.
-
-Der Zweck einer Diskussion besteht nicht zwangsläufig darin, das Gegenüber von seinem Standpunkt zu überzeugen. *Hingegen steht am Ende einer Diskussion die Lösung eines Problems, ein für alle Beteiligten annehmbarer Kompromiss oder die beidseitige Erkenntnis, dass verschiedene Meinungen herrschen (Dissens).* Auch im letzteren Fall ist die Diskussion eine wichtige Möglichkeit, den *Standpunkt anderer kennenzulernen und Dinge aus bisher unbekannter Perspektive zu erblicken*.
-
-## Debatte
-
-Eine Debatte ist ein Streitgespräch, *das im Unterschied zur Diskussion formalen Regeln folgt und in der Regel zur inhaltlichen Vorbereitung einer Abstimmung dient*. Thema einer Debatte kann eine Sach- oder eine Personalfrage sein. Die Geschäftsordnung der die Debatte organisierenden Körperschaft bzw. das entsprechende Debattierformat beim wettkampfmäßigen Debattieren (Debating) regelt die Form der Debatte. *In einer Debatte werden die Für- und Gegen-Argumente einer These in kurzen Reden vorgetragen*. Das Ziel des Debattenredners ist es, die Zuhörer bzw. im Wettbewerb die Jury von den eigenen Argumenten zu überzeugen. Deshalb zeichnet sich ein guter Redner nicht nur durch gute Argumente, sondern auch durch überzeugende rhetorische Fähigkeiten aus. *Eine Debatte kann nur in einer guten Streitkultur funktionieren.*
-
 ## Aquarium
 
 *Ziele:*
@@ -76,6 +46,117 @@ Teilnehmer
 
 Als Variante bleibt der Innenkreis offen: Ein Stuhl im Innenkreis bleibt leer. Wer aus dem Außenkreis Lust hat, sich zu beteiligen, kann sich als Besucher in den Innenkreis setzen, seinen Beitrag leisten und wieder in den Außenkreis zurückkehren 
 
+##  Brainstorming / Zurufsammlung
+
+**Phase Eins**: *Ideen finden*
+
+*Die Teilnehmer finden spontan Ideen zur Lösungsfindung, wobei sie sich im optimalen Fall gegenseitig inspirieren* und untereinander Gesichtspunkte in neue Lösungsansätze und Ideen einfließen lassen. *Die Ideen werden protokolliert. Alle Teilnehmenden sollen ohne jede Einschränkung Ideen produzieren und mit anderen Ideen kombinieren. Die Gruppe sollte in eine möglichst produktive und erfindungsreiche Stimmung versetzt werden*. In dieser Phase gelten folgende Grundregeln:
+
+- Keine Kritik an anderen Beiträgen, Ideen, Lösungsvorschlägen (kreative Ansätze können sich auch aus zunächst völlig unsinnigen Vorschlägen entwickeln).
+- Keine Wertung oder Beurteilung der Ideen.
+- Jeder soll seine Gedanken frei äußern können.
+- Keine Totschlagargumente.
+- Je kühner und phantasievoller, desto besser. Dadurch wird das Lösungsfeld vergrößert.
+
+**Phase Zwei**: *Ergebnisse sortieren und bewerten*
+
+*Nach einer Pause werden nun sämtliche Ideen (von der Gruppenleitung) vorgelesen und von den Teilnehmern bewertet und sortiert. Hierbei geht es zunächst nur um bloße thematische Zugehörigkeit und das Aussortieren von problemfernen Ideen*. Die Bewertung und Auswertung kann in derselben Diskussion durch dieselben Teilnehmer erfolgen.
+
+## Diskussion
+
+Zu einem guten Diskussionsstil (siehe auch Streitkultur) gehört neben wechselseitigem Respekt unter anderem, gegenteilige Argumente und Meinungen zuzulassen und genau zu prüfen, anstatt diese vorschnell zu verwerfen. *Ein guter Diskutant hört zu, lässt ausreden und ist konzentriert genug, um auf das vom Gegenüber Gesagte einzugehen und seine eigenen Argumente sachlich darzustellen. Im Idealfall ist er gelassen und höflich.*
+
+Ein wirksames Hilfsmittel der Diskussion ist es, die *Inhalte bildhaft darzustellen (zu visualisieren)*. Für einen sachlichen und geordneten Diskussionsverlauf ist es hilfreich, einzelne Diskussionspunkte *(Stichworte) für alle sichtbar aufzuschreiben oder in Symbolen und durch bildsprachliche Zeichen zu veranschaulichen (z. B. auf Flipchart, Pinnwand, Overheadfolie)*.
+
+*Die Visualisierung wirkt als Gedächtnisstütze, versachlicht die Diskussion, erhöht die Aufmerksamkeit, fördert Gelassenheit auch bei weit auseinanderliegenden Standpunkten, unterstützt eine optische Entwicklung eines Diskussionsfadens, entlastet die Diskutanten psychisch und vermindert Missverständnisse*. Ein unbewusstes oder ein in manipulativer Absicht gesteuertes Springen im Diskussionsfaden wird mittels Visualisierung sichtbar und kann wertschätzend und die Diskussion fördernd aufgefangen werden.
+
+Der Zweck einer Diskussion besteht nicht zwangsläufig darin, das Gegenüber von seinem Standpunkt zu überzeugen. *Hingegen steht am Ende einer Diskussion die Lösung eines Problems, ein für alle Beteiligten annehmbarer Kompromiss oder die beidseitige Erkenntnis, dass verschiedene Meinungen herrschen (Dissens).* Auch im letzteren Fall ist die Diskussion eine wichtige Möglichkeit, den *Standpunkt anderer kennenzulernen und Dinge aus bisher unbekannter Perspektive zu erblicken*.
+
+## Debatte
+
+Eine Debatte ist ein Streitgespräch, *das im Unterschied zur Diskussion formalen Regeln folgt und in der Regel zur inhaltlichen Vorbereitung einer Abstimmung dient*. Thema einer Debatte kann eine Sach- oder eine Personalfrage sein. Die Geschäftsordnung der die Debatte organisierenden Körperschaft bzw. das entsprechende Debattierformat beim wettkampfmäßigen Debattieren (Debating) regelt die Form der Debatte. *In einer Debatte werden die Für- und Gegen-Argumente einer These in kurzen Reden vorgetragen*. Das Ziel des Debattenredners ist es, die Zuhörer bzw. im Wettbewerb die Jury von den eigenen Argumenten zu überzeugen. Deshalb zeichnet sich ein guter Redner nicht nur durch gute Argumente, sondern auch durch überzeugende rhetorische Fähigkeiten aus. *Eine Debatte kann nur in einer guten Streitkultur funktionieren.*
+
+## Dilemma-Diskussion
+
+*Eine Dilemma Situation ist eine Konfliktsituation, in der sich die Schüler zwischen zwei oder mehreren Handlungsalternativen entscheiden muss, die wiederum untereinander im Konflikt stehen (welches ist das geringere Übel?).*
+
+Der Lehrer muss seine Schüler mit dem Dilemma bekannt machen.
+
+*Dann werden in Kleingruppen die unterschiedlichen Handlungsmöglichkeiten gesammelt, begründet und abgewägt. Anschließend wird anhand einer Skala die beste, weniger geeignete und schlechteste Handlungsmöglichkeit aufgezeigt, um aus dem Dilemma herauszukommen.*
+
+Wichtig ist eine gute Unterrichtsvorbereitung, *vor allem die Dilemma-Geschichte muss gut durchdacht sein*. Außerden muss genügend Visualisierungsmaterial zum Sammeln der Argumente bereitgestellt sein.
+
+*Vorteile*
+
+- *hohe Schüleraktivität, insbesondere bei realitätsnahen Situationen*
+- *Erkenntnis über bestehende Handlungsspielräume in selbst ausweglosen Situationen*
+- *Argumentieren kann geübt werden*
+- *Stärkung des Selbstbewusstseins*
+
+## Englische Debatte
+
+*Ist eine Pro und Kontra Diskussion*
+
+*Es werden drei Gruppen gebildet: eine Gruppe, die sich mit den Pro-Argumenten auseinandersetzt, eine 
+Gruppe, die sich mit den Kontra-Argumenten beschäftigt und eine Gruppe, die sich neutral die beiden anderen Gruppen anhört und bewertet. Der Lehrer steuert den Ablauf und kann Impulse geben, sollte sich aber neutral verhalten.*
+
+Wichtig für diese Technik sind klar formulierte Arbeitsaufträge, sowie grundlegende Kenntnisse der Schüler über das behandelte Thema.
+
+Die Englische Debatte eignet sich für Inhalte mit affektiven Lernzielen, wie z.B. bei den Themen Alkohol und Drogen, Gefühle beim Fahren (Zeitdruck, Stress, Ärger, Aggressionen) oder Konflikte beim Autofahren.
+
+*Vorteile*
+
+- *hohe Schüleraktivierung*
+- *Neugier auf die jeweiligen Argumente*
+- *Überdenken der eigenen Sichtweise*
+- *Verständnis für die Sichtweise Anderer sowie das Bilden und Vertreten der eigenen Meinung*
+
+*Nachteile*
+
+- *nur möglich mit genügend Schülern*
+- *möglicherweise nicht genügend gegensätzliche Argumente*
+- *zu passive Beobachtergruppe*
+- *"zähes" Ergebnis bei der Überzahl einer Argumentationsseite*
+
+## Lehrvortrag (Frontalunterricht)
+
+*Beschreibung*
+
+- *vom Lehrer gesteuertes Unterrichtsgespräch*
+- Lerhrer und Schüler wechseln sich beim Fragen und Antworten ab
+- *Interaktion zwischen den Schülern nur sinnvoll, wenn es dem Unterrichtsziel dient*
+- *es gehört nicht nur der Vortrag oder das Referat dazu, sondern auch vormachen und zeigen*
+- didaktisch sinnvoll
+- *Denkschritte des Lerhrers für die Schüler nachvollziehbar*
+- *ergänzt andere Arbeitsformen und ergänzt sie schlüssig*
+
+*Vorraussetzungen*
+
+- überzeugende Präsentationsqualitäten durch Mimik, Gestik, Bewegung und Sprache (lebendiger Unterricht)
+- Zwischenfragen oder kurze Dialoge
+- neue Gesprächskulturen schaffen (ausreden, zuhören, bezugnehmen, sachlich bleiben, argumentieren)
+- positiv unterstützend durch Kommunikationshaltung und Wertschätzung der Schüler
+- immer differenziert begründbar
+- Planung und Einsatz werden bewusst geplant
+- die Grenzen des Einsatzes müssen klar sein
+- nie aus Bequemlichkeit einsetzen
+- passives Ausruhen vermeiden
+
+*Vorteile*
+
+- *ökonomisch und zeitsparend*
+- *eignet sich für abstrakte Schwierigkeitsgrade, wo der Lehrer den Überblick hat*
+- *bestimmte Inhalte (Fakten, Ergebnisse, Strukturen) als Einführung besonders effektiv*
+- *Ergebnisse können relativ leicht präsentiert werden*
+
+*Nachteile*
+
+- *unterschiedliche Lernvorraussetzungen der Schüler können nicht ausgeglichen werden*
+- *Lerntempo und soziales Lernen können nicht aufgefangen / gefördert werden*
+- *selbsständiges, aktives Lernen wird nich gefördert / Behaltensquote gering*
+- *Lernstand nicht transparent*
+- *unbewusste Referentenrolle (mehr Redner statt Moderator)*
+
 ## Stationenlernen
 
 Das Stationenlernen, auch als Lernen an Stationen, Stationenbetrieb, Stationenarbeit rsp. Lernzirkel bzw. Lerntheke (oder Lehrtheke) bezeichnet, *ist eine Lehrtechnik, bei der die Schüler in der Regel selbstgesteuert und eigentätig anhand vorbereiteter Materialien, die in Stationen angeordnet sind, lernen*.
@@ -99,6 +180,34 @@ Dabei sind unterschiedliche Ausmaße der Lenkung durchaus möglich und sinnvoll,
 
 *Eine besondere Form ist der Lernzirkel, bei dem der innere Zusammenhang so gewählt ist, dass die Lernenden alle Stationen durchlaufen müssen, etwa weil sie aufeinander aufbauen und nur als Ganzes dem Erreichen des Lehrzieles dienen.*
 
+## Unterrichtsgespräch
+
+*Beschreibung*
+
+- *am häufigsten angewandt im theoretischen Unterricht*
+- *Rolle des Lehrers vielfältig* (Beobachter, Zuhörer, Berater, Moderator...)
+
+*Vorraussetzungen*
+
+- *Inhalte werden vorher festgelegt* / konkrete Zielvorgabe
+- *Thema muss angemessen und zielführend sein*
+- *gute Vorbereitung und Strukturierung*
+- *terminiert* / Zeitdauer festgelegt
+- *Lehrer muss sein Wissen und seine Kompetenzen gezielt einbringen*
+
+*Vorteile*
+
+- *aktiviert die eigenständige Mitarbeit der Schüler*
+- *entwickelt mehr soziale Kompetenz* durch neue Impulse und Kommunikation
+- *berücksichtigt verschiedene Lerntypen*
+- *lässt sich für nahezu jedes Thema im Theorieunterricht einsetzen*
+
+*Nachteile*
+
+- *Denk- und Lernprozesse der Schüler können den Zielvorgaben widersprechen*
+- *kann zu ergebnislosen Verlauf führen*
+- *Gefahr von langweiligen Monologisieren*
+- *Gefahr von endlosen Zweiergesprächen*
 
 ## weitere Techniken
 

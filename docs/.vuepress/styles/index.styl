@@ -8,7 +8,7 @@ mjx-container
     padding .5rem
 
 body, html
-    background-image url('/img/paper.png')
+    background-image url('/img/grunge.png')
     font-size .9rem !important
     @media (max-width $MQMobile)
         letter-spacing -1px
@@ -51,6 +51,7 @@ h3
 
 em
     background $highlight
+    background-image url('/img/highlight.png')
     font-style normal
     padding .2rem
     font-weight bold
@@ -64,6 +65,10 @@ img
     opacity .925
     box-shadow 2px 0px 3px $textColor
     background-color #222 !important
+    background-image url('/img/chess.png'), linear-gradient(135deg, #222 36%, #444 100%) !important
+    background-position bottom right
+    background-repeat no-repeat
+    background-size 20rem
     z-index 10000
 
 .navbar, .navbar .links
@@ -97,7 +102,11 @@ img
 
 .sidebar
     background-color #222 !important
-    background linear-gradient(135deg, #222 36%, #444 100%) !important
+    // background linear-gradient(135deg, #222 36%, #444 100%) !important
+    background-image url('/img/chess.png'), linear-gradient(135deg, #222 36%, #444 100%) !important
+    background-position bottom right
+    background-repeat no-repeat
+    background-size contain
     opacity .975
 
     span 
