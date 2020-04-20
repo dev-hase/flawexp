@@ -62,14 +62,16 @@ img
 
 .navbar
     border-bottom none !important
-    opacity .925
-    box-shadow 2px 0px 3px $textColor
+    //opacity .925
+    
     background-color #222 !important
     background-image url('/img/chess.png'), linear-gradient(135deg, #222 36%, #444 100%) !important
     background-position bottom right
     background-repeat no-repeat
     background-size 20rem
     z-index 10000
+    @media (max-width $MQMobile)
+      box-shadow -1px 3px 3px $textColor
 
 .navbar, .navbar .links
     font-family $fontA
@@ -98,7 +100,7 @@ img
 
 .navbar
     border-bottom none !important
-    box-shadow none !important
+    
 
 .sidebar
     background-color #222 !important
@@ -107,7 +109,11 @@ img
     background-position bottom right
     background-repeat no-repeat
     background-size contain
-    opacity .975
+    //opacity .975
+    @media (max-width $MQMobile)
+      width 80vw !important
+    @media (min-width 1200px)
+      width 23rem !important
 
     span 
         color #eee
