@@ -15,7 +15,7 @@ meta:
 
 Es werden Aufgaben an die Schüler verteilt
 
-## Aquarium
+## Aquarium / Fishbowl
 
 *Ziele:*
 
@@ -118,6 +118,34 @@ Die Englische Debatte eignet sich für Inhalte mit affektiven Lernzielen, wie z.
 - *zu passive Beobachtergruppe*
 - *"zähes" Ergebnis bei der Überzahl einer Argumentationsseite*
 
+## Kleingruppenarbeit
+
+*Vorraussetzungen*
+
+- *Gruppenmitglieder müssen gemeinsame Ziele haben*
+- *Bereitschaft zur Kooperation*
+- *Zeit und ein Klima, in dem Akzeptanz und Vertrauen vorherrschen*
+- *Gruppe zwischen 3-4 Personen, keinesfalls mehr als 7*
+- *Mitglieder der Gruppe sollten ein ähnliches Leistungsniveau haben*
+- *Arbeitsauftrag für die Gruppe muss klar und konkret sein*
+- *Der Inhalt sollte so gewählt werden, dass es auch tatsächlich auf die Meinungen, Sichtweisen und Erfahrungen der Gruppenmitglieder ankommt und die Aufgabe nicht effizienter allein zu bearbeiten gewesen wäre*
+
+*Vorteile*
+
+- *oft anregender und motivierender als das Lernen allein*
+- *neue Gedanken durch Vorkenntnisse, Ideen und Ansichten Anderer*
+- *das eigene Wisasen wird überprüft, ergänzt, verändert und stabilisiert*
+- *argumentieren, diskutieren und strukturiertes Vortragen werden gefördert*
+- *fördert Toleranz und Konfliktbewältigung*
+
+*Nachteile*
+
+- *sehr zeitaufwendig*
+- *die Vorstellung / Zusammenfassung kann zu kurz kommen*
+- *unter Umständen kein schlüssiges Ergebnis*
+- *Unter- / Überforderung einzelner Schüler möglich*
+- *mangelnde Kooperationsbereitschaft einzelner Schüler*
+
 ## Lehrvortrag (Frontalunterricht)
 
 *Beschreibung*
@@ -156,6 +184,25 @@ Die Englische Debatte eignet sich für Inhalte mit affektiven Lernzielen, wie z.
 - *selbsständiges, aktives Lernen wird nich gefördert / Behaltensquote gering*
 - *Lernstand nicht transparent*
 - *unbewusste Referentenrolle (mehr Redner statt Moderator)*
+
+## Rollenspiel
+
+In der Pädagogik und Psychotherapie sowie im Unterricht (Pädagogik, Erziehungswissenschaften, Sozialpädagogik) ist das Rollenspiel *eine bedeutende Methode der Sozialen Gruppenarbeit. Hierbei werden in der Regel reale Lebenssituationen simuliert. Ein Ziel ist es, dass die Teilnehmer ihre sozialen Handlungskompetenzen erweitern, indem sie kritische bzw. thematisierte Situationen in der simulierten Realität spielen.* Des Weiteren können die Spieler sich in ihrer jeweiligen Rolle ausprobieren, versuchen sich der Rolle entsprechend zu verhalten, und lernen, andere in anderen Rollen zu akzeptieren. Ferner soll eine Kompetenz im Umgang mit entsprechenden Ernstsituationen erworben werden (z. B. Umgang mit Konflikten).
+
+Dabei können die vergebenen Rollen dem Charakter der Personen sehr verschieden sein, oder sehr ähnlich. Entsprechen die Rollen auch den Charakteren der Gruppenteilnehmer, ist durch den Rollentausch die Möglichkeit gegeben, die Gefühle und Gedanken der anderen zu erfahren.
+
+Zusammenfassend und erweiternd können *die Ziele eines Rollenspieles* sein:
+
+- *Kennenlernen der sozialen Möglichkeiten in bestimmten Situationen*
+- *Kennenlernen der eigenen Grenzen*: Zum Beispiel wie lange halte ich Beschimpfungen aus?
+- *Veränderung von Verhaltensmustern*: Zum Beispiel durch Einüben einer Deeskalation-Rhetorik
+- *Entwicklung von Empathie*: Zum Beispiel durch Rollentausch oder als externer Beobachten der eigenen Rolle, gespielt durch jemand Anderen
+- *Öffnung nach außen und Überwindung von Ängsten*: Auf der Grundlage, dass das Rollenspiel einen geschützten Raum bieten kann.
+- *Erfahrungen, die andere gemacht haben, durch das eigene Spiel nachempfinden*: Erfahrungen anderer zu eigenen machen
+- *Erwerb von Kenntnissen/Wissen im Zusammenhang mit entsprechenden sozialen Situationen*
+- *Veranschaulichung komplexer sozialer Situationen*, die schwer/kaum medial reproduziert werden können
+
+Letztendlich ist das Rollenspiel eine pädagogische Möglichkeit, ein Gespür für die Ausdifferenzierung der eigenen Identität zu erlangen. Indem mit anderen interagiert wird, sei es auch nur in den simulierten Situationen des Spiels, verbessert sich die Wahrnehmung und soziale Kompetenzen. Beides hilft, Rolle und Position innerhalb einer Gruppen zu definieren und zu differenzieren.
 
 ## Stationenlernen
 
@@ -211,78 +258,7 @@ Dabei sind unterschiedliche Ausmaße der Lenkung durchaus möglich und sinnvoll,
 
 ## weitere Techniken
 
-- A-B-C-Methode
-- Aktives Zuhören
-- Apollo-Technik
-- Beispiel-Wahl
-- Blitzlicht-Methode
-- Collective-Notebook
-- Parlamentarisches Debattieren / Model United Nations / Parlamentssimulation
-- Deliberative Demokratie / Deliberation / Deliberationsforum
-- Deduktive und induktive Verfahren
-- Diskussion
-- Drei-Schritt-Interview
-- Entscheidungsfindung / Besprechung
-- Erlebnispädagogik
-- Erotematik (Katechetik)
-- Experiment, Versuch
-- Fantasiereise
-- Fragend-entwickelnder Unterricht
-- Fishbowl
-- Gruppenarbeit (Arbeitsorganisation) / Teamarbeit
-- Gruppenpuzzle
-- Impulsreferat
-- Karussellgespräch (auch Kugellager, Zwiebelschale, Innenkreis-Außenkreis)
-- Klassenrat
-- Kreatives Schreiben
-- Learning by Doing
-- Lernen aus Lösungsbeispielen
-- Lernen am Modell
-- Lernen durch Lehren
-- Lehrkunst
-- Leittextmethode
-- Markt der Möglichkeiten, s. a. World-Café
-- Methode 635
-- Microteaching
-- Mind Map
-- Moderation (Gruppenarbeit)
-- Netzplantechnik/Projektplan
-- Offener Unterricht
-- Open Space
-- Outdoortraining
-- Papiercomputer
-- Pinwandmoderation
-- Planspiel
-- Placemat Activity
-- Portfolio
-- PrimarWebQuests
-- Projektunterricht, Projektwoche
-- Redestabrunde
-- Referat (Vortrag)
-- Rollenspiel
-- Rückmeldung
-- Schneeball-Verfahren
-- Schnitzeljagd
-- Schulfahrt, Klassenfahrt, Klassenlager, Schulfreizeit, Schullandheimaufenthalt
-- Selbstbestimmtes Lernen
-- Selbsterfahrungsgruppe
-- Stationenlernen
-- Stegreiftheater, Jeux Dramatiques
-- Storyline-Methode
-- Storytelling
-- Suggestopädie
-- Survey-Feedback
-- Szenario-Plan-Methode
-- Szenario-Technik
-- Teamteaching
-- Training
-- Übung
-- Visualisierung
-- Wandzeitung
-- WebQuest
-- Lehrgang („Workshop“)
-- Zukunftskonferenz
-- Zukunftswerkstatt
+*...eine <a href="https://de.wikipedia.org/wiki/Liste_der_Unterrichtsmethoden#Unterrichtstechniken" target="_blank">Liste verschiedener Techniken</a> (Wikipedia)*
 
 :::
 
