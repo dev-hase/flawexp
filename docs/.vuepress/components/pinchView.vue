@@ -57,10 +57,37 @@ export default {
             padding .2rem
 
         ul
-            font-size 13px
-            line-height 1.3
+            position relative
             margin .25rem 0
             color #333
+            background #444
+            color #eee
+            padding .5rem 1.5rem
+            margin .75rem 0
+            list-style none
+
+            em
+                background #585858
+                color #fff
+                
+            li
+                position relative
+                margin-left 1rem
+                
+            li:before 
+                content ''
+                height 1.5rem
+                width 1.5rem
+                display block
+                position absolute
+                background-image url('/img/list.png')
+                background-size cover
+                background-position center
+                transform translateY(-50%)
+                filter invert(100%)
+                left -2rem
+                top 50%
+
             
         h1
             font-size 2rem
