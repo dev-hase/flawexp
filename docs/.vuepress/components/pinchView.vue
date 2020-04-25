@@ -59,17 +59,17 @@ export default {
         ul
             position relative
             margin .25rem 0
-            color #333
             background #c5c5c5
             color #eee
             padding .5rem 1.5rem
             margin .75rem 0
             list-style none
             border-radius .2rem
+            background-image url('/img/grunge.png')
 
             em
                 background #656565
-                background-image url('/img/grunge.png')
+                background-image url('/img/highlight.png')
                 color #fff
                 
             li
@@ -78,6 +78,8 @@ export default {
                 padding .35rem 0
                 border-bottom 1px solid #989898
                 color $textColor
+                @media (max-width $MQMobile)
+                    font-size .9rem
             li:last-child
                 border-bottom none
                 
