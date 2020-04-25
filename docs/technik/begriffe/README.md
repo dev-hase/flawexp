@@ -50,6 +50,7 @@ Das SCR-Verfahren nutzt Ammoniak, welches an Bord des Fahrzeugs aus Harnstoff ge
 - Kein Einfluss auf Wartungs- und Ölwechselintervalle
 Wassergefährdungsklasse 1 (schwach)
 
+
 *Nachteile*
 
 - Zusätzlicher Platzbedarf für den Behälter
@@ -64,13 +65,10 @@ Wassergefährdungsklasse 1 (schwach)
 
 In der Physik bzw. Mechanik unterscheidet man verschiedene Arten der mechanischen Arbeit:
 
-- **Hubarbeit**:  Wird ein Körper angehoben, so wird Hubarbeit verrichtet. Ein Beispiel dafür wäre ein Kran auf einer Baustelle: Dieser hebt Baumaterial vom Boden der Baustelle auf eine höhere Stelle. 
-
-- **Verformungsarbeit**: Wird ein Körper verformt, so wird Verformungsarbeit verrichtet. Beispiel: Eine Feder, die auseinander gezogen wird.
-
-- **Beschleunigungsarbeit**: Wird ein Körper beschleunigt, so wird Beschleunigungsarbeit verrichtet. Beispiel: Ein stehendes Auto wird in Bewegung gesetzt um los zu fahren.
-
-- **Reibungsarbeit**: Wirken Reibungskräfte auf einen Körper und behindern diesen bei einer Bewegung, so sprich man von Reibungsarbeit. Beispiel: Ein Holzklotz liegt auf einem Tisch. Um diesen auf dem Tisch weiter zu schieben, muss genügend Kraft aufgewendet werden. 
+- *Hubarbeit*:  Wird ein Körper angehoben, so wird Hubarbeit verrichtet. Ein Beispiel dafür wäre ein Kran auf einer Baustelle: Dieser hebt Baumaterial vom Boden der Baustelle auf eine höhere Stelle. 
+- *Verformungsarbeit*: Wird ein Körper verformt, so wird Verformungsarbeit verrichtet. Beispiel: Eine Feder, die auseinander gezogen wird.
+- *Beschleunigungsarbeit*: Wird ein Körper beschleunigt, so wird Beschleunigungsarbeit verrichtet. Beispiel: Ein stehendes Auto wird in Bewegung gesetzt um los zu fahren.
+- *Reibungsarbeit*: Wirken Reibungskräfte auf einen Körper und behindern diesen bei einer Bewegung, so sprich man von Reibungsarbeit. Beispiel: Ein Holzklotz liegt auf einem Tisch. Um diesen auf dem Tisch weiter zu schieben, muss genügend Kraft aufgewendet werden. 
 
 ## Differential, Differentialgetriebe, Ausgleichsgetriebe
 

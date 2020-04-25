@@ -60,19 +60,26 @@ export default {
             position relative
             margin .25rem 0
             color #333
-            background #444
+            background #c5c5c5
             color #eee
             padding .5rem 1.5rem
             margin .75rem 0
             list-style none
+            border-radius .2rem
 
             em
-                background #585858
+                background #656565
+                background-image url('/img/grunge.png')
                 color #fff
                 
             li
                 position relative
                 margin-left 1rem
+                padding .35rem 0
+                border-bottom 1px solid #989898
+                color $textColor
+            li:last-child
+                border-bottom none
                 
             li:before 
                 content ''
@@ -84,7 +91,7 @@ export default {
                 background-size cover
                 background-position center
                 transform translateY(-50%)
-                filter invert(100%)
+                filter invert(40%)
                 left -2rem
                 top 50%
 
