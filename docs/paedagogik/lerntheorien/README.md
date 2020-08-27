@@ -25,8 +25,7 @@ Vertreter: Iwan Petrowitsch Pawlow (1849–1936), John B. Watson (1878–1958)
 Vertreter: B.F. Skinner (1904–1990), Edward Lee Thorndike (1874–1949)
 
 Edward Lee Thorndike erforschte am Ende des 19. Jahrhunderts Problemlösen und die Rolle von Einsicht. In seinem paradigmatischen Experiment von 1898 setzte er Katzen in einen Käfig, der von innen durch Ziehen an einer Schnur zu öffnen war, legte außen Futter hin und maß die Zeit, die die Katzen zur Selbstbefreiung benötigten. Seine Beobachtungen und Schlussfolgerungen führten zur Theorie der *instrumentellen Konditionierung*.
-
-https://youtu.be/uWt6Xyfi0nE?t=378
+s
 <YouTube videoid="uWt6Xyfi0nE" start="19" end="377"/>
 
 Kurze Zeit später entstand die Theorie der *Klassischen Konditionierung*. Zufällig stieß 1905 der Physiologe Iwan Pawlow auf dieses Prinzip (zum Versuch: siehe auch Pawlowscher Hund). Eine klassische Konditionierung erfolgt, wenn ein ursprünglich neutraler Reiz (etwa ein Ton) einen Reflex, zum Beispiel Speichelfluss oder Lidschluss auslöst.

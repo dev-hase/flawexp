@@ -25,6 +25,7 @@ r(function(){
 
 
         videos[i].onclick = function() {
+            
             // Create an iFrame with autoplay set to true
             var iframe = document.createElement("iframe");
             var iframe_url = "https://www.youtube-nocookie.com/embed/" + this.id + "?autoplay=1&autohide=1&modestbranding=1&showinfo=0&iv_load_policy=3";
@@ -41,6 +42,8 @@ r(function(){
 
             // Replace the YouTube thumbnail with YouTube Player
             this.parentNode.replaceChild(iframe, this);
+
+
         }
     }
 });

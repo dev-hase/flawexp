@@ -1,3 +1,7 @@
+---
+title: 'Auflaufbremse'
+---
+
 # Auflaufbremse
 
 Auflaufbremsen werden für PKW-Anhänger, leichtere LKW-Anhänger und Wohnwagen verwendet. Wenn das Zugfahrzeug gebremst wird, läuft der Anhänger auf das Zugfahrzeug auf. Von der Anhängerkupplung wird diese Kraft über mechanische Hebel auf die Bremsen des Anhängers übertragen. Die Bremskraft ist davon abhängig, wie stark das ziehende Kfz verzögert. Der Anhänger drückt also auch dann gegen die Anhängerkupplung, wenn seine Bremsen wirken, weshalb auch hier der Anhänger die Stabilität des Gespannes verschlechtert. Verglichen mit dem ungebremsten Anhänger ist aber die schiebende Wirkung gering und regelt sich über die Bremsverzögerung automatisch ein.

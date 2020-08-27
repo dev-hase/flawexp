@@ -110,6 +110,17 @@ export default {
             width 55% !important
 
 
+
+        .youtube, iframe, .youtube:before
+            min-width 50% !important
+            max-width 75% !important  
+            max-height 25vw !important  
+
+        .video-box 
+            max-width 75% !important
+            margin 2rem 0 !important
+
+
     .flipbtn
         position fixed
         right 1rem
@@ -152,6 +163,7 @@ export default {
             border .2rem solid $highlightB
           }
         }
+
 
 
 </style>

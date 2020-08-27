@@ -104,8 +104,7 @@ Lidar (Abkürzung für englisch light detection and ranging), auch Ladar (laser 
 
 ## Plug-in-Hybrid, PHEV
 
-**Ein Plug-in-Hybrid, auch Steckdosenhybrid genannt, ist ein Kraftfahrzeug mit Hybridantrieb, dessen Akkumulator sowohl über den Verbrennungsmotor als auch am Stromnetz geladen werden kann. Meist hat er einen größeren Akkumulator als ein reiner Hybrid (Vollhybrid) und stellt so eine Mischform zwischen letzterem und einem Elektroauto dar*.
-
+*Ein Plug-in-Hybrid, auch Steckdosenhybrid genannt, ist ein Kraftfahrzeug mit Hybridantrieb, dessen Akkumulator sowohl über den Verbrennungsmotor als auch am Stromnetz geladen werden kann. Meist hat er einen größeren Akkumulator als ein reiner Hybrid (Vollhybrid) und stellt so eine Mischform zwischen letzterem und einem Elektroauto dar*.
 Eine häufig verwendete Abkürzung ist PHEV (für englisch plug-in hybrid electric vehicle).
 
 ## Potentielle Energie
@@ -130,20 +129,9 @@ Die Werte für die Rollwiderstandskoeffizienten sind verglichen mit den passende
 
 Die Kraft, die überwunden werden muss, um einen Körper (beispielsweise ein Rad) aus dem Stillstand in rotierende Bewegung zu versetzen, wird als **Anfahrwiderstand** bezeichnet.
 
-
-## Scheibenbremse
-
-*Die Scheibenbremse ist eine Bauform der Reibungsbremse*. In der Ausführung als Teilscheibenbremse wird die Verzögerung durch eine auf der Radnabe befestigte Bremsscheibe und den im Bremssattel liegenden Bremsklotz mit Bremsbelägen erzeugt, in der Ausführung als Vollscheiben- bzw. Lamellenbremse durch Aufeinanderpressen der Bremsscheiben. *Sie ist in der Ausführung als Teilscheibenbremse vor der Trommelbremse die häufigste Bauart bei Kraftfahrzeugen*.
-
 ## Schwellzeit
 
 *Die Schwellzeit (d. h. die effektive Bremszeit) ist die Zeit, die die Bremsen benötigen, um die maximale Bremswirkung zu entfalten*. Bei einer hydraulischen Bremsanlage liegt die Zeit zwischen 0,1 und 0,2 Sekunden, bei der Druckluftbremsanlage zwischen 0,2 und 0,4 Sekunden. Um die Schwellzeit in Druckluftbremsanlagen zu verringern, werden bremsnah Relaisventile verbaut.
-
-## Trommelbremse
-
-*Trommelbremsen sind Reibungsbremsen, bei denen Bremsbeläge auf eine zylindrische Fläche (die Trommel) wirken. In der sich drehenden Bremstrommel werden von innen die beiden auf der Bremsankerplatte beweglich gelagerten Bremsbacken angepresst. Das geschieht mechanisch über eine Nockenwelle, einen Spreizkeil oder über einen Radbremszylinder*.
-
-In Kraftfahrzeugen wurden Trommelbremsen von Scheibenbremsen abgelöst. Bei leistungsschwächeren Pkw werden sie noch an der Hinterachse eingesetzt; bei schweren Nutzfahrzeugen sowie Anhängern ist die Trommelbremse immer noch Stand der Technik.
 
 :::
 
