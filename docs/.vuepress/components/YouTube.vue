@@ -68,11 +68,17 @@ export default {
         content attr(data-desc)
         color #fff
         top 0
+        left 0
+        right 0
         font-size 1rem
         font-weight bold
         margin .25rem
         position absolute
+        display inline
+        min-width 75%
         padding .25rem
+        background none
+
 
     .youtube 
         max-width 100% 

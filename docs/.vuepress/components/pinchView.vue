@@ -111,14 +111,29 @@ export default {
 
 
 
-        .youtube, iframe, .youtube:before
-            min-width 50% !important
-            max-width 75% !important  
-            max-height 25vw !important  
+        .youtube, iframe, .youtube:before 
+            max-height 30vw !important  
+            height 15vw !important
+
+        .youtube:before
+            background-size 10% !important
 
         .video-box 
-            max-width 75% !important
-            margin 2rem 0 !important
+            margin 1rem 0 !important
+
+        @media (min-width 1200px)
+            .video-box 
+                max-width 75% !important
+                margin 2rem 0 !important
+
+            iframe
+                min-height 33vw
+
+        @media (max-width 1200px)
+
+            iframe
+                min-height 50vh
+
 
 
     .flipbtn
