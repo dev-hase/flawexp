@@ -118,6 +118,11 @@ export default {
         .youtube:before
             background-size 10% !important
 
+        .youtube:after
+            font-size .8rem !important
+            max-width 40%
+            min-width 40% !important
+
         .video-box 
             margin 1rem 0 !important
 
