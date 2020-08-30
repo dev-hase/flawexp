@@ -55,6 +55,7 @@ export default {
     .youtube:before
         content ''
         position absolute
+        display flex
         width 100%
         max-widht 100%
         height 100%
