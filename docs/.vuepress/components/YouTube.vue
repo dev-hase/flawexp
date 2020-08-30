@@ -67,6 +67,8 @@ export default {
         background-repeat no-repeat
         background-size 33%
         background-position center
+        box-sizing border-box
+        overflow hidden
 
     .youtube:after
         content attr(data-desc)
@@ -85,6 +87,7 @@ export default {
 
 
     .youtube 
+        width 100%
         max-width 100% !important
         position relative
 
