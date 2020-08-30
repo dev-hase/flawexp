@@ -81,7 +81,7 @@ export default {
 
 
     .youtube 
-        max-width 100% 
+        max-width 100% !important
 
 
 </style>
