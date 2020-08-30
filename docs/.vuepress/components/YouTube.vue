@@ -53,7 +53,20 @@ export default {
             background-size cover
             background-position center
 
-
+    .youtube:before
+        content ''
+        position absolute
+        display inline-block
+        min-width 100%
+        width 100%
+        max-widht 100%
+        height 100%
+        background #f03a3a
+        opacity .93
+        background-image url('/img/video.svg')
+        background-repeat no-repeat
+        background-size 33%
+        background-position center
 
     .youtube:after
         content attr(data-desc)
@@ -73,6 +86,7 @@ export default {
 
     .youtube 
         max-width 100% !important
+        position relative
 
 
 </style>
