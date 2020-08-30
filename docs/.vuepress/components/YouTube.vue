@@ -56,6 +56,7 @@ export default {
         content ''
         position absolute
         width 100%
+        max-widht 100%
         height 100%
         background #f03a3a
         opacity .93
