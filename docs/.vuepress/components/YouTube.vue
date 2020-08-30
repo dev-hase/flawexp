@@ -49,6 +49,7 @@ export default {
         
         div
             min-width 100%
+            max-width 100%
             background-size cover
             background-position center
 
