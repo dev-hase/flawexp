@@ -1,11 +1,8 @@
 ---
 title: 'Gedächtnis'
-meta:
-  - name: description
-    content: 'Gedächtnis'
 ---
 
-::: slot pinchview
+<infoBox>
 
 # Gedächtnis
 
@@ -13,19 +10,21 @@ meta:
 
 *Im Gedächtnis gespeicherte Informationen sind das Ergebnis von bewussten oder unbewussten Lernprozessen.* Die Gedächtnisbildung wird dabei durch die neuronale Plastizität ermöglicht. Im übertragenen Sinne wird das Wort „Gedächtnis“ auch allgemein für die Speicherung von Informationen in anderen biologischen und technischen Systemen benutzt.
 
-Die verschiedenen Gedächtnisarten können auf psychologischer Ebene nach zwei Aspekten eingeteilt werden: der Dauer der Speicherung oder der Art des Gedächtnisinhalts. Hinsichtlich der Speicherdauer der Information wird zwischen dem sensorischen Gedächtnis (z. B. ikonisches oder echoisches Gedächtnis), dem Kurzzeitgedächtnis und dem Langzeitgedächtnis unterschieden.
-
-*Innerhalb des Langzeitgedächtnisses gibt es weiter eine inhaltliche Unterscheidung zwischen deklarativem und prozeduralem Gedächtnis.Das deklarative Gedächtnis speichert bewusst zugängliche Informationen. Das umfasst Fakten und Ereignisse, die entweder zur eigenen Biographie gehören (episodisches Gedächtnis) oder das so genannte Weltwissen eines Menschen ausmachen* (semantisches Gedächtnis, z. B. berufliche Kenntnisse, Fakten aus Geschichte, Politik, Kochrezepte usw.). *Das prozedurale Gedächtnis umfasst dagegen Fertigkeiten, die in der Regel automatisch und ohne Nachdenken eingesetzt werden. Dazu gehören vor allem motorische Abläufe (Fahrradfahren, Schwimmen, Tanzen, Skifahren).* Prozedurale Gedächtnisinhalte werden überwiegend durch *[implizites Lernen](/paedagogik/begriffe/#implizites-wissen)* erworben, deklarative Inhalte dagegen durch *[explizites Lernen](/paedagogik/begriffe/#explizites-wissen)* angeeignet.
-
 *Das Gedächtnis lässt sich nach der Dauer der Informationsspeicherung in verschiedene Subsysteme einteilen. Unterschieden werden üblicherweise drei Systeme:*
 
 - *Sensorisches Gedächtnis (auch sensorisches Register): Hält Informationen für Millisekunden bis Sekunden*
 - *Arbeitsgedächtnis (auch Kurzzeitgedächtnis): Speichert Informationen etwa 20–45 Sekunden*
 - *Langzeitgedächtnis: Speichert Informationen über Jahre*
 
-### Gedächtnis – Wie funktioniert's?!
+</infoBox>
 
-<YouTube videoid="yOjONXxYWW8" start="21" end="179"/>
+<YouTube videoid="yOjONXxYWW8" start="21" end="179" desc="Funktionsweise"/>
+
+Die verschiedenen Gedächtnisarten können auf psychologischer Ebene nach zwei Aspekten eingeteilt werden: der Dauer der Speicherung oder der Art des Gedächtnisinhalts. Hinsichtlich der Speicherdauer der Information wird zwischen dem sensorischen Gedächtnis (z. B. ikonisches oder echoisches Gedächtnis), dem Kurzzeitgedächtnis und dem Langzeitgedächtnis unterschieden.
+
+*Innerhalb des Langzeitgedächtnisses gibt es weiter eine inhaltliche Unterscheidung zwischen deklarativem und prozeduralem Gedächtnis.* 
+
+<newSection title="Sensorisches Gedächtnis / Ultrakurzzeitgedächtnis">
 
 ## Sensorisches Gedächtnis / Ultrakurzzeitgedächtnis
 
@@ -34,6 +33,10 @@ Neue Informationen erreichen das Gehirn über die Sinnesorgane und werden im sen
 *Im sensorischen Gedächtnis werden weitaus mehr Informationen aufgenommen als im Arbeitsgedächtnis. Allerdings zerfallen diese auch schon nach wenigen Zehntelsekunden.* Eine Möglichkeit, den Zerfall der Informationen in diesem Gedächtnissystems zu untersuchen, ist die sogenannte Teilbericht-Methode (engl. partial-report), die von George Sperling (1960) entwickelt wurde. Bei dieser werden Versuchspersonen mehrere Reihen von Buchstaben (Set) in verschiedenen Zeilen dargeboten, wovon beim späteren Abruf immer nur einzelne Zeilen wiedergegeben werden sollen. Dies soll verhindern, dass in der Zeit wo einzelne Teile aus dem Set wiedergegeben werden, die anderen vergessen werden. Wird in einem Experiment die Zeit zwischen der Darbietung des Sets und dem Hinweis, welche Zeile wiedergegeben werden soll, variiert und die Gedächtnisleistung je nach Zwischenzeit verglichen, wird ein Schätzwert für die Dauer der Speicherung erhalten. Mit dieser Methode konnte gezeigt werden, dass das visuelle sensorische Gedächtnis Informationen über etwa 15 Millisekunden, das auditorische sensorische Gedächtnis hingegen über etwa 2 Sekunden speichern kann.
 
 *Bei dieser Art der Erinnerung spielen zentral gesteuerte Prozesse, wie Bewusstsein oder Aufmerksamkeit, meist keine bedeutende Rolle. Diese können jedoch bei der Übertragung von Information ins Arbeitsgedächtnis einen großen Einfluss haben.*
+
+</newSection>
+
+<newSection title="Kurzzeitgedächtnis / Arbeitsgedächtnis">
 
 ## Kurzzeitgedächtnis / Arbeitsgedächtnis
 
@@ -57,9 +60,13 @@ Delos Wickens (1970) konnte zeigen, dass sich die vorwärts gerichtete Hemmung a
 
 Zuletzt ist das Modell um einen *episodischen Puffer* erweitert worden.
 
+</newSection>
+
+<newSection title="Langzeitgedächtnis">
+
 ## Langzeitgedächtnis
 
-<YouTube videoid="zzmkfy7GxfA" start="28" end="262 "/>
+<YouTube videoid="zzmkfy7GxfA" start="28" end="262" desc="Langzeitgedächtnis"/>
 
 *Das Langzeitgedächtnis ist das dauerhafte Speichersystem des Gehirns. Es handelt sich nicht um ein einheitliches Gebilde, sondern um mehrere Speicherleistungen für verschiedene Arten von Information. Sie kann im Langzeitgedächtnis von Minuten bis zu Jahren gespeichert werden (sekundäres Gedächtnis) oder sogar ein Leben lang (tertiäres Gedächtnis).* Über Begrenzungen der Kapazität des Langzeitgedächtnisses ist nichts bekannt. Allerdings lassen Studien bei sog. Savants (franz.) oder Inselbegabten eine deutlich höhere Gedächtniskapazität vermuten, als die normal genutzte. Vergessen scheint kein Kapazitätsproblem, sondern ein Schutz vor zu viel Wissen zu sein. *Vergessen findet anscheinend weniger durch Informationsverlust wie in den anderen, kurzzeitigen Gedächtnisformen statt, sondern durch löschenden oder verfälschenden Einfluss von anderen, vorher oder nachher gebildeten Inhalten.*
 
@@ -73,30 +80,53 @@ Zuletzt ist das Modell um einen *episodischen Puffer* erweitert worden.
 
 Für die Überführung von neuen Gedächtnisinhalten in das Langzeitgedächtnis und das Bewahren von Information ist Üben oft förderlich, zum Beispiel durch das bewusste Abrufen und Überdenken von Information im Arbeitsgedächtnis. *Die Verankerung im Gedächtnis nimmt zu mit der Bedeutung, dem emotionalen Gewicht und der Anzahl der Assoziationen (Verknüpfung mit anderen Inhalten).*
 
-Eine einzelne gespeicherte und abrufbare Information wird *Engramm (Gedächtnisspur)* genannt. Die Gesamtheit aller Engramme bildet das Gedächtnis.
-
 ### Engrammierung
 
-<YouTube videoid="ti7tzonuDoI" start="19" end="216 "/>
+Eine einzelne gespeicherte und abrufbare Information wird *Engramm (Gedächtnisspur)* genannt. Die Gesamtheit aller Engramme bildet das Gedächtnis.
+
+<YouTube videoid="ti7tzonuDoI" start="19" end="216" desc="Engrammierung"/>
 
 ### Langzeitpotenzierung
 
-<YouTube videoid="rNhBg6_Vny8?t" start="16" end="140 "/>
+<YouTube videoid="rNhBg6_Vny8?t" start="16" end="140" desc="Langzeitpotenzierung"/>
 
 ### Bestandteile des Langzeitgedächtnisses
 
-Grundsätzlich werden zwei Formen des Langzeitgedächtnisses unterschieden, die unterschiedliche Arten von Information speichern: Das deklarative (explizite) und das prozedurale implizite Gedächtnis. Die unterschiedlichen Informationsformen sind unabhängig voneinander und werden in verschiedenen Gehirnarealen gespeichert, so dass zum Beispiel Patienten mit einer Amnesie (Gedächtnisstörung) des deklarativen Gedächtnisses ungestörte prozedurale Gedächtnisleistungen aufweisen können.
+*Grundsätzlich werden zwei Formen des Langzeitgedächtnisses unterschieden, die unterschiedliche Arten von Information speichern: Das deklarative (explizite) und das prozedurale implizite Gedächtnis.* Die unterschiedlichen Informationsformen sind unabhängig voneinander und werden in verschiedenen Gehirnarealen gespeichert, so dass zum Beispiel Patienten mit einer Amnesie (Gedächtnisstörung) des deklarativen Gedächtnisses ungestörte prozedurale Gedächtnisleistungen aufweisen können.
 
-### Deklaratives Gedächtnis
+</newSection>
 
-*Das „deklarative Gedächtnis“, auch Wissensgedächtnis, speichert Tatsachen und Ereignisse, die bewusst wiedergegeben werden können. Das deklarative Gedächtnis wird unterteilt in zwei Bereiche:*
+<newSection title="Deklaratives Gedächtnis">
+
+## Deklaratives Gedächtnis
+
+Das deklarative Gedächtnis speichert bewusst zugängliche Informationen. Das umfasst Fakten und Ereignisse, die entweder zur eigenen Biographie gehören (episodisches Gedächtnis) oder das so genannte Weltwissen eines Menschen ausmachen (semantisches Gedächtnis, z. B. berufliche Kenntnisse, Fakten aus Geschichte, Politik, Kochrezepte usw.).
+
+*Das deklarative Gedächtnis wird in zwei Bereiche unterteilt:*
+
+### Semantisches Gedächtnis
 
 *Das „semantische Gedächtnis“ enthält das Weltwissen, von der Person unabhängige, allgemeine Fakten* („Paris ist die Hauptstadt von Frankreich“, „Man hat eine Mutter und einen Vater“).
+
+### Episodisches Gedächtnis
+
 *Im „episodischen Gedächtnis“ finden sich Episoden, Ereignisse und Tatsachen aus dem eigenen Leben* (Erinnerung an Erlebnisse bei einem Besuch in Paris, das Gesicht und der Name des eigenen Vaters).
 
-### Prozedurales Gedächtnis
+*Deklarative Inhalte werden durch *[explizites Lernen](/paedagogik/begriffe/#explizites-wissen)* angeeignet.*
 
-Das prozedurale Gedächtnis, auch Verhaltensgedächtnis, *speichert automatisierte Handlungsabläufe bzw. Fertigkeiten. Beispiele dafür sind Gehen, Radfahren, Tanzen, Autofahren, Klavierspielen.* Dies sind komplexe Bewegungen, deren Ablauf gelernt und geübt wurde und die dann ohne nachzudenken abgerufen und ausgeführt werden.
+</newSection>
+
+<newSection title="Prozedurales Gedächtnis">
+
+## Prozedurales Gedächtnis
+
+Das prozedurale Gedächtnis, auch Verhaltensgedächtnis, *speichert automatisierte Handlungsabläufe bzw. Fertigkeiten, die in der Regel automatisch und ohne Nachdenken eingesetzt werden. Beispiele dafür sind Gehen, Radfahren, Tanzen, Autofahren, Klavierspielen.* Dies sind komplexe Bewegungen, deren Ablauf gelernt und geübt wurde und die dann ohne nachzudenken abgerufen und ausgeführt werden.
+
+*Prozedurale Gedächtnisinhalte werden überwiegend durch [implizites Lernen](/paedagogik/begriffe/#implizites-wissen) erworben.*
+
+</newSection>
+
+<newSection title="Chunking / Chunks">
 
 ## Chunking / Chunks
 
@@ -110,6 +140,4 @@ Beispielsweise lässt sich folgende Zusammensetzung aus Buchstaben nur schwer le
 
 *Untersuchungen der University of Missouri (2001) lassen annehmen, dass die Kapazität des Kurzzeitgedächtnisses deutlich geringer ist, als von Miller angenommen. Demnach sollte man von 3 bis 4 Chunks ausgehen.* Es stellt sich daher die Frage, ob man den Begriff des Chunking weiterhin verwenden sollte, ist er doch mit der Zahl 7±2 assoziiert.
 
-:::
-
-<pinchView />
+</newSection>

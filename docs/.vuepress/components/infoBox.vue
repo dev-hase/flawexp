@@ -37,9 +37,18 @@ export default {
         p, img
             padding 0 .5rem
 
+        .video-box
+            transform scale(.98)
+
         ul
             margin .5rem
-            background #fff
+            background #6d9171
+
+            em
+                background $accentColor
+                color $highlight
+            li:before
+                filter invert(95%) !important
 
         p
             img

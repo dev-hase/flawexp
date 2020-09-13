@@ -75,6 +75,7 @@ export default {
             display flex
             padding-top 1.75rem !important
             padding-bottom 1.75rem !important
+            padding-right 3rem !important
             background #333
             color #eee
             margin-left 0 !important
