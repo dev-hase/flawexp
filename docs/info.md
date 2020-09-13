@@ -6,14 +6,15 @@ meta:
   - description: 'Impressum'
 ---
 
-# Über FahrlehreranwärterWissen
+<infoBox>
 
-## Was und Wozu?!?
+# Über FahrlehreranwärterWissen
 
 Dies ist eine Sammlung von Informationen die als Lernhilfe für Fahrlehreranwärter/innen dienen soll. Es besteht kein Anspruch auf Vollständigkeit oder Richtigkeit. Dies ist ein Hobbyprojekt!
 
 Die meisten Texte sind Zusammenfassungen von Artikeln und die auf den Seiten verlinkten Videos stammen von Youtube.
 
+</infoBox>
 
 ## Datenschutz
 

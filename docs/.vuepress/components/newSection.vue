@@ -40,6 +40,7 @@ export default {
 <style lang="stylus">
 
     $highlightB = #fcdc9a
+    $accentColor = #006E54
 
     .newSection
 
@@ -92,6 +93,9 @@ export default {
             font-size 2rem
             margin-top -.25rem
             top: 1.75rem
+            font-family 'Montserrat', sans-serif
+            font-style normal
+            font-weight bold
 
         .collapsed .newSectionHeader::after
             transform rotate(0deg)

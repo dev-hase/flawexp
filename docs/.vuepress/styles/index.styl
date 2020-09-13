@@ -67,6 +67,7 @@ em
 
 .theme-default-content
 
+
     ul
         position relative
         margin .25rem 0
@@ -90,6 +91,18 @@ em
             color $textColor
             @media (max-width $MQMobile)
                 font-size .9rem
+
+            p
+                line-height 1.5
+
+            a
+                color $highlightB
+                font-weight bold
+
+            a:hover
+                text-decoration none !important
+                color $highlight
+
         li:last-child
             border-bottom none
             
@@ -107,12 +120,9 @@ em
             left -2.75rem
             top 50%
 
-    @media (max-width: $MQMobile)
-        padding 1rem .75rem !important
+    @media (max-width: $MQNarrow)
+        padding 1rem !important
 
-    
-    @media (min-width: $MQMobile) and (max-width: $MQNarrow)
-        padding 1.5rem .75rem !important
 
 img
     filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%)
@@ -175,6 +185,9 @@ img
         font-weight bold
         box-sizing border-box
         border 1px solid #111 !important
+
+.search-box input
+    transition unset !important
     
 
 .sidebar
