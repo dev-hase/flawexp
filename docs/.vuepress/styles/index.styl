@@ -1,6 +1,7 @@
 $fontA = 'Montserrat', sans-serif
 $fontB = 'Exo', sans-serif
 $highlight = #eff7ad
+$highlightB = #fcdc9a
 
 mjx-container
     font-size 1.5rem
@@ -8,7 +9,8 @@ mjx-container
     padding .5rem
 
 body, html
-    background-image url('/img/grunge.png')
+    //background-image url('/img/grunge.png')
+    //background #eee
     font-size .9rem !important
     @media (max-width $MQMobile)
         letter-spacing -1px
@@ -20,8 +22,6 @@ a
 
 p, li
     transition .3s
-    @media (max-width $MQMobile)
-        font-size 1.15rem
 
 h2, h1
     transition .2s
@@ -50,13 +50,63 @@ h3
     display none
 
 em
-    background $highlight
+    background $highlightB
     background-image url('/img/highlight.png')
     font-style normal
     padding .2rem
     font-weight bold
     transition background-color 2.3s
-    opacity .95
+    opacity .95 
+    display inline-block
+    font-size 1.05rem
+    line-height 1.2
+    text-align left
+    margin .25rem 0
+    color #333
+    transition background-color 2.5s
+
+.theme-default-content
+
+    ul
+        position relative
+        margin .25rem 0
+        color #eee
+        padding .5rem 1.5rem
+        margin .75rem 0
+        list-style none
+        border-radius .2rem
+
+
+        em
+            background #444
+            background-image url('/img/highlight.png')
+            color #fff
+            
+        li
+            position relative
+            margin-left 1.5rem
+            padding .35rem 0
+            border-bottom 1px solid #bbb
+            color $textColor
+            @media (max-width $MQMobile)
+                font-size .9rem
+        li:last-child
+            border-bottom none
+            
+        li:before 
+            content ''
+            height 1.75rem
+            width 1.75rem
+            display block
+            position absolute
+            background-image url('/img/list.png')
+            background-size cover
+            background-position center
+            transform translateY(-50%)
+            filter invert(30%)
+            left -2.75rem
+            top 50%
+
 
 img
     filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%)
@@ -298,8 +348,8 @@ iframe
     min-width 100%
     max-width 100%
     width 100%
-    height 50vh
-    max-height 50vh
+    //height 50vh
+    //max-height 50vh
     min-height 200px
     @media (max-width $MQMobile)
         height 35vh

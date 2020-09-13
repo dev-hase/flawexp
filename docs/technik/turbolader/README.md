@@ -5,15 +5,19 @@ meta:
     content: 'Turbolader'
 ---
 
-::: slot pinchview
+<infoBox>
 
 # Turbolader
 
 ![Turbolader](/img/media/turbolader.jpg "Turbolader")
 
-*Ein Turbolader, auch Abgasturbolader (ATL) oder umgangssprachlich Turbo, dient der Leistungs- oder Effizienzsteigerung von Kolbenmotoren. Die Abgasturbine treibt den Verdichter an und erhöht den Luftdurchsatz*. 
+*Ein Turbolader, auch Abgasturbolader (ATL) oder umgangssprachlich Turbo, dient der Leistungs- oder Effizienzsteigerung von Kolbenmotoren. Die Abgasturbine treibt den Verdichter an und erhöht den Luftdurchsatz.*
 
-**Prinzip und Aufbau**
+</infoBox>
+
+<newSection title="Prinzip und Aufbau">
+
+## Prinzip und Aufbau
 
 Bei nicht aufgeladenen Kolbenmotoren (Saugmotoren) erzeugen die Kolben einen Unterdruck im Ansaugtrakt, in den die unter Atmosphärendruck stehende Luft einströmt. Mit wachsender Drehzahl reicht dieser Unterdruck nicht mehr aus, um die maximal mögliche Menge an Luft oder Kraftstoff-Luft-Gemisch in den Verbrennungsraum zu befördern und begrenzt damit die erreichbare Leistung des Motors. Um dem entgegenzuwirken, kann man den Ansaugquerschnitt an seiner engsten Stelle – der Ventilöffnung – durch ein zweites Ventil vergrößern. Soll jedoch mehr Verbrennungsluft in den Zylindern zur Verfügung stehen, werden diese mit Überdruck befüllt. Dazu dient die Aufladung der Zylinder mittels Turbolader oder Kompressor.
 
@@ -31,13 +35,21 @@ Turbine und Verdichter arbeiten mit Flügel- bzw. Schaufelrädern, um Strömungs
 
 Mittlerweile werden zusätzlich zur Gleitlagerung ein oder zwei keramische Kugellager eingesetzt. Kugelgelagerte Turbolader haben eine geringere Gleitreibfläche, was sie schneller ansprechen lässt. Das beschleunigt den Drehzahlanstieg des Laders und lässt den Ladedruck früher einsetzen.
 
-**Vorteile der Turboaufladung**
+<YouTube videoid="KMqv1G7Kt_I" start="8" desc="Funktionsweise"/>
+
+</newSection>
+
+<newSection title="Vor- und Nachteile">
+
+## Vor- und Nachteile der Turboaufladung
+
+### Vorteile
 
 *Die Abgasturboaufladung ermöglicht die Steigerung von maximalem Drehmoment und maximaler Leistung. Diese Steigerung erlaubt entweder den Einsatz eines leistungsstärkeren Motors mit annähernd gleichen Abmessungen wie beim Ursprungsaggregat oder ermöglicht ein so genanntes Downsizing* des Motors, also das Erzielen einer vergleichbaren Leistung aus einer Maschine mit kleinerem Hubraum. Der vorläufige Höhepunkt des Turbo-Prinzips wurde in den 1980er Jahren in der Formel 1 deutlich, wobei unter Berücksichtigung des damals geltenden Hubraumlimits von 1,5 l für Turbomotoren beeindruckende Leistungen erzielt wurden: Die stärksten Wagen dieser Zeit erreichten im Training Leistungen bis über 750 kW.
 
-**Nachteile der Turboaufladung**
+### Nachteile
 
-Durch den Einsatz eines Turboladers entstehen infolge der besseren Zylinderfüllung sowie des mehr eingespritzten Kraftstoffs bei der Verbrennung höhere Mitteldrücke und höhere Drehmomente mit entsprechenden Mehrbelastungen des Motors; deshalb müssen *viele Baugruppen kostenaufwendig angepasst werden*:
+Durch den Einsatz eines Turboladers entstehen infolge der besseren Zylinderfüllung sowie des mehr eingespritzten Kraftstoffs bei der Verbrennung höhere Mitteldrücke und höhere Drehmomente mit entsprechenden Mehrbelastungen des Motors; deshalb müssen *viele Baugruppen kostenaufwendig angepasst werden:*
 
 - *Motorblock, Zylinder, Zylinderkopf, Ventile, Zylinderkopfdichtung, Kolben und Kolbenringe müssen für die thermische und mechanische Mehrbelastung ausgelegt werden*. Letztere gilt auch für Pleuel und Kurbelwelle sowie den gesamten Antriebsstrang (Getriebe, Kardanwelle, Differential und Antriebswellen) sowie alle Lager.
 
@@ -47,14 +59,13 @@ Durch den Einsatz eines Turboladers entstehen infolge der besseren Zylinderfüll
 
 - Jede dieser Maßnahmen trägt zu einem höheren Fahrzeuggewicht bei.
 
-<YouTube videoid="KMqv1G7Kt_I" start="8" />
+</newSection>
+
+<infoBox>
 
 # Sequenzieller Biturbo
 
-*Bei einem sequenziellen Biturbo werden nicht beide Turbinen ständig durch die Abgase angetrieben, sondern die zweite Turbine wird erst bei entsprechendem Leistungsbedarf zugeschaltet und treibt dann den zweiten Verdichter an*. Ist das geschehen, arbeiten die Lader nach dem Prinzip des Biturbo parallel. *Ziel dieser Technik ist eine bessere Nutzbarkeit des Drehzahlbandes*. Im oberen Drehzahlbereich hat man den Vorteil der größeren Fördermenge zweier Turbolader, während in den niedrigen Drehzahlbereichen die geringe Masseträgheit nur einer Turbine ein schnelles und frühes Aufbauen des Ladedrucks und damit ein gutes Ansprechverhalten bewirkt.
+*Bei einem sequenziellen Biturbo werden nicht beide Turbinen ständig durch die Abgase angetrieben, sondern die zweite Turbine wird erst bei entsprechendem Leistungsbedarf zugeschaltet und treibt dann den zweiten Verdichter an.* Ist das geschehen, arbeiten die Lader nach dem Prinzip des Biturbo parallel. *Ziel dieser Technik ist eine bessere Nutzbarkeit des Drehzahlbandes.* Im oberen Drehzahlbereich hat man den Vorteil der größeren Fördermenge zweier Turbolader, während in den niedrigen Drehzahlbereichen die geringe Masseträgheit nur einer Turbine ein schnelles und frühes Aufbauen des Ladedrucks und damit ein gutes Ansprechverhalten bewirkt.
 
-:::
-
-<pinchView />
-
+</infoBox>
 

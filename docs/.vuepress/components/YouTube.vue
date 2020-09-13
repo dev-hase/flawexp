@@ -92,4 +92,39 @@ export default {
         position relative
 
 
+
+
+    .youtube, iframe, .youtube:before 
+        max-height 35vh !important  
+        height 17vh !important
+
+        @media (min-width 800px)
+            height 35vh !important
+
+
+    .youtube:before
+        background-size 10% !important
+
+    .youtube:after
+        font-size .8rem !important
+        max-width 40%
+        min-width 40% !important
+
+    .video-box 
+        margin 1rem 0 !important
+
+    @media (min-width 1200px)
+        .video-box 
+            max-width 75% !important
+            margin 2rem 0 !important
+
+        iframe
+            min-height 35vh
+
+    @media (max-width 1200px)
+
+        iframe
+            min-height 50vh       
+
+
 </style>
