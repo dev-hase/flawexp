@@ -107,6 +107,12 @@ em
             left -2.75rem
             top 50%
 
+    @media (max-width: $MQMobile)
+        padding 1rem .5rem !important
+
+    
+    @media (min-width: $MQMobile) and (max-width: $MQNarrow)
+        padding 1.5rem .75rem !important
 
 img
     filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%)
@@ -160,6 +166,7 @@ img
     background-position bottom right
     background-repeat no-repeat
     background-size contain
+    z-index 200
     //opacity .975
     @media (max-width $MQMobile)
       width 80vw !important

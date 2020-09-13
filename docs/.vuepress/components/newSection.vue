@@ -82,7 +82,7 @@ export default {
 
         .newSectionHeader::after
             position absolute
-            display block
+            display inline-block
             right 1.25rem
             height inherit
             content '>'
@@ -91,6 +91,7 @@ export default {
             color $highlightB
             font-size 2rem
             margin-top -.25rem
+            top: 1.75rem
 
         .collapsed .newSectionHeader::after
             transform rotate(0deg)
