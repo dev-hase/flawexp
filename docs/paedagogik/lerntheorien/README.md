@@ -1,14 +1,16 @@
 ---
 title: 'Lerntheorien'
-meta:
-  - name: description
-    content: 'Lerntheorien'
 ---
 
-::: slot pinchview
+<infoBox>
 
 # Klassische Lerntheorien
 
+Lerntheorien sind Modelle und Hypothesen, anhand derer Lernvorgänge psychologisch beschrieben und erklärt werden sollen. Der komplexe Vorgang des Lernens wird dabei mit möglichst einfachen Prinzipien und Regeln erklärt.
+
+</infoBox>
+
+<newSection title="Behavioristische Lerntheorie">
 
 ## Behavioristische Lerntheorie
 
@@ -17,22 +19,26 @@ meta:
 *Klassische Konditionierung* (Koppelung von Reizen)
 Vertreter: Iwan Petrowitsch Pawlow (1849–1936), John B. Watson (1878–1958)
 
-<YouTube videoid="_5BjKjgWUxc?t=79" end="79"/>
+<YouTube videoid="_5BjKjgWUxc?t=79" end="79" desc="Der Pawlow'sche Hund"/>
 
-<YouTube videoid="YmmoKThm0jM" start="18" end="324"/>
+<YouTube videoid="YmmoKThm0jM" start="18" end="324" desc="Klassische Konditionierung"/>
 
 *Operante Konditionierung* (Reaktion auf Reize)
 Vertreter: B.F. Skinner (1904–1990), Edward Lee Thorndike (1874–1949)
 
 Edward Lee Thorndike erforschte am Ende des 19. Jahrhunderts Problemlösen und die Rolle von Einsicht. In seinem paradigmatischen Experiment von 1898 setzte er Katzen in einen Käfig, der von innen durch Ziehen an einer Schnur zu öffnen war, legte außen Futter hin und maß die Zeit, die die Katzen zur Selbstbefreiung benötigten. Seine Beobachtungen und Schlussfolgerungen führten zur Theorie der *instrumentellen Konditionierung*.
-s
-<YouTube videoid="uWt6Xyfi0nE" start="19" end="377"/>
+
+<YouTube videoid="uWt6Xyfi0nE" start="19" end="377" desc="Operante und instrumentelle Konditionierung"/>
 
 Kurze Zeit später entstand die Theorie der *Klassischen Konditionierung*. Zufällig stieß 1905 der Physiologe Iwan Pawlow auf dieses Prinzip (zum Versuch: siehe auch Pawlowscher Hund). Eine klassische Konditionierung erfolgt, wenn ein ursprünglich neutraler Reiz (etwa ein Ton) einen Reflex, zum Beispiel Speichelfluss oder Lidschluss auslöst.
 
 B. F. Skinner hat sich v. a. mit dem *operanten Verhalten*, also der Rückwirkung der Konsequenzen eines Verhaltens auf dasselbe, beschäftigt und das Prinzip der operanten Konditionierung beschrieben.
 
 Diese Lernprinzipien wurden ab den 1960er Jahren in der Psychologie um die Prinzipien des Lernens am Modell und (mit Einschränkungen) des Lernens durch Einsicht ergänzt.
+
+</newSection>
+
+<newSection title="Modelllernen, Sozialkognitive Lerntheorie">
 
 ## Modelllernen, Sozialkognitive Lerntheorie
 
@@ -48,15 +54,20 @@ Andere Bezeichnungen sind *Beobachtungslernen, Nachahmungslernen, Imitationslern
 
 Banduras Konzept beschreibt einen Lernprozess in vier Prozessen, die sich in die zwei Phasen Aneignung und Ausführung aufteilen. Im Gegensatz zu behavioristischen Lerntheorien – wie dem Operanten Konditionieren – kommen in der sozial-kognitiven Lerntheorie besonders zwei Komponenten zum Tragen. Zum einen wird der Mensch als ein aktiv Lernender gesehen, der sich bewusst mit seiner Umwelt auseinandersetzt und so ein Lernprozess aus einer Wechselwirkung von Person und Umwelt entsteht (soziale Komponente). Zum anderen plant der Mensch nicht nur seine Handlung, sondern er ist auch fähig diese zu reflektieren und sich selbst zu motivieren (kognitive Komponente).
 
-## Kognitivismus 
+</newSection>
+
+<newSection title="Kognitivismus"> 
+
+## Kognitivismus
 
 ...bezeichnet *eine Hauptströmung der Lerntheorien*. Sie ist vom Behaviorismus und Konstruktivismus zu unterscheiden und geprägt von den unterschiedlichen Einflüssen der Disziplinen Philosophie, Psychologie und Linguistik. *Im Mittelpunkt des Kognitivismus stehen die individuelle Informationsverarbeitung sowie die dazugehörigen Denk- und Verarbeitungsprozesse der Lernenden*.
 
+</newSection>
+
+<newSection title="Konstruktivismus"> 
 
 ## Konstruktivismus
 
 Der Konstruktivismus in lernpsychologischer Hinsicht postuliert, dass menschliches Erleben und Lernen Konstruktionsprozessen unterworfen ist, die durch sinnesphysiologische, neuronale, kognitive und soziale Prozesse beeinflusst werden. *Seine Kernthese besagt, dass Lernende im Lernprozess eine individuelle Repräsentation der Welt schaffen*. Was jemand unter bestimmten Bedingungen lernt, hängt somit stark, jedoch nicht ausschließlich, von dem Lernenden selbst und seinen Erfahrungen ab.
 
-:::
-
-<pinchView />
+</newSection>

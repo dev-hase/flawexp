@@ -1,19 +1,16 @@
 ---
 title: 'Unterrichtstechniken'
-meta:
-  - name: description
-    content: 'Unterrichtstechniken'
 ---
 
-::: slot pinchview
+<infoBox>
 
 # Unterrichtstechniken
 
 *Unterrichtstechniken dienen dazu, unterrichtliche Prinzipien in der Realität umzusetzen.*
 
-## Aufgaben (erarbeiten)
+</infoBox>
 
-Es werden Aufgaben an die Schüler verteilt
+<newSection title="Aquarium / Fishbowl">
 
 ## Aquarium / Fishbowl
 
@@ -46,6 +43,10 @@ Teilnehmer
 
 Als Variante bleibt der Innenkreis offen: Ein Stuhl im Innenkreis bleibt leer. Wer aus dem Außenkreis Lust hat, sich zu beteiligen, kann sich als Besucher in den Innenkreis setzen, seinen Beitrag leisten und wieder in den Außenkreis zurückkehren 
 
+</newSection>
+
+<newSection title="Brainstorming / Zurufsammlung">
+
 ##  Brainstorming / Zurufsammlung
 
 **Phase Eins**: *Ideen finden*
@@ -60,21 +61,25 @@ Als Variante bleibt der Innenkreis offen: Ein Stuhl im Innenkreis bleibt leer. W
 
 **Phase Zwei**: *Ergebnisse sortieren und bewerten*
 
-*Nach einer Pause werden nun sämtliche Ideen (von der Gruppenleitung) vorgelesen und von den Teilnehmern bewertet und sortiert. Hierbei geht es zunächst nur um bloße thematische Zugehörigkeit und das Aussortieren von problemfernen Ideen*. Die Bewertung und Auswertung kann in derselben Diskussion durch dieselben Teilnehmer erfolgen.
+*Nach einer Pause werden nun sämtliche Ideen (von der Gruppenleitung) vorgelesen und von den Teilnehmern bewertet und sortiert. Hierbei geht es zunächst nur um bloße thematische Zugehörigkeit und das Aussortieren von problemfernen Ideen.* Die Bewertung und Auswertung kann in derselben Diskussion durch dieselben Teilnehmer erfolgen.
+
+</newSection>
+
+<newSection title="Diskussion">
 
 ## Diskussion
 
 Zu einem guten Diskussionsstil (siehe auch Streitkultur) gehört neben wechselseitigem Respekt unter anderem, gegenteilige Argumente und Meinungen zuzulassen und genau zu prüfen, anstatt diese vorschnell zu verwerfen. *Ein guter Diskutant hört zu, lässt ausreden und ist konzentriert genug, um auf das vom Gegenüber Gesagte einzugehen und seine eigenen Argumente sachlich darzustellen. Im Idealfall ist er gelassen und höflich.*
 
-Ein wirksames Hilfsmittel der Diskussion ist es, die *Inhalte bildhaft darzustellen (zu visualisieren)*. Für einen sachlichen und geordneten Diskussionsverlauf ist es hilfreich, einzelne Diskussionspunkte *(Stichworte) für alle sichtbar aufzuschreiben oder in Symbolen und durch bildsprachliche Zeichen zu veranschaulichen (z. B. auf Flipchart, Pinnwand, Overheadfolie)*.
+Ein wirksames Hilfsmittel der Diskussion ist es, die *Inhalte bildhaft darzustellen (zu visualisieren)*. Für einen sachlichen und geordneten Diskussionsverlauf ist es hilfreich, einzelne Diskussionspunkte *(Stichworte) für alle sichtbar aufzuschreiben oder in Symbolen und durch bildsprachliche Zeichen zu veranschaulichen (z. B. auf Flipchart, Pinnwand, Overheadfolie).*
 
-*Die Visualisierung wirkt als Gedächtnisstütze, versachlicht die Diskussion, erhöht die Aufmerksamkeit, fördert Gelassenheit auch bei weit auseinanderliegenden Standpunkten, unterstützt eine optische Entwicklung eines Diskussionsfadens, entlastet die Diskutanten psychisch und vermindert Missverständnisse*. Ein unbewusstes oder ein in manipulativer Absicht gesteuertes Springen im Diskussionsfaden wird mittels Visualisierung sichtbar und kann wertschätzend und die Diskussion fördernd aufgefangen werden.
+*Die Visualisierung wirkt als Gedächtnisstütze, versachlicht die Diskussion, erhöht die Aufmerksamkeit, fördert Gelassenheit auch bei weit auseinanderliegenden Standpunkten, unterstützt eine optische Entwicklung eines Diskussionsfadens, entlastet die Diskutanten psychisch und vermindert Missverständnisse.* Ein unbewusstes oder ein in manipulativer Absicht gesteuertes Springen im Diskussionsfaden wird mittels Visualisierung sichtbar und kann wertschätzend und die Diskussion fördernd aufgefangen werden.
 
-Der Zweck einer Diskussion besteht nicht zwangsläufig darin, das Gegenüber von seinem Standpunkt zu überzeugen. *Hingegen steht am Ende einer Diskussion die Lösung eines Problems, ein für alle Beteiligten annehmbarer Kompromiss oder die beidseitige Erkenntnis, dass verschiedene Meinungen herrschen (Dissens).* Auch im letzteren Fall ist die Diskussion eine wichtige Möglichkeit, den *Standpunkt anderer kennenzulernen und Dinge aus bisher unbekannter Perspektive zu erblicken*.
+Der Zweck einer Diskussion besteht nicht zwangsläufig darin, das Gegenüber von seinem Standpunkt zu überzeugen. *Hingegen steht am Ende einer Diskussion die Lösung eines Problems, ein für alle Beteiligten annehmbarer Kompromiss oder die beidseitige Erkenntnis, dass verschiedene Meinungen herrschen (Dissens).* Auch im letzteren Fall ist die Diskussion eine wichtige Möglichkeit, den *Standpunkt anderer kennenzulernen und Dinge aus bisher unbekannter Perspektive zu erblicken.*
 
-## Debatte
+</newSection>
 
-Eine Debatte ist ein Streitgespräch, *das im Unterschied zur Diskussion formalen Regeln folgt und in der Regel zur inhaltlichen Vorbereitung einer Abstimmung dient*. Thema einer Debatte kann eine Sach- oder eine Personalfrage sein. Die Geschäftsordnung der die Debatte organisierenden Körperschaft bzw. das entsprechende Debattierformat beim wettkampfmäßigen Debattieren (Debating) regelt die Form der Debatte. *In einer Debatte werden die Für- und Gegen-Argumente einer These in kurzen Reden vorgetragen*. Das Ziel des Debattenredners ist es, die Zuhörer bzw. im Wettbewerb die Jury von den eigenen Argumenten zu überzeugen. Deshalb zeichnet sich ein guter Redner nicht nur durch gute Argumente, sondern auch durch überzeugende rhetorische Fähigkeiten aus. *Eine Debatte kann nur in einer guten Streitkultur funktionieren.*
+<newSection title="Dilemma-Diskussion">
 
 ## Dilemma-Diskussion
 
@@ -92,6 +97,18 @@ Wichtig ist eine gute Unterrichtsvorbereitung, *vor allem die Dilemma-Geschichte
 - *Erkenntnis über bestehende Handlungsspielräume in selbst ausweglosen Situationen*
 - *Argumentieren kann geübt werden*
 - *Stärkung des Selbstbewusstseins*
+
+</newSection>
+
+<newSection title="Debatte">
+
+## Debatte
+
+*Eine Debatte ist ein Streitgespräch, das im Unterschied zur Diskussion formalen Regeln folgt und in der Regel zur inhaltlichen Vorbereitung einer Abstimmung dient.* Thema einer Debatte kann eine Sach- oder eine Personalfrage sein. Die Geschäftsordnung der die Debatte organisierenden Körperschaft bzw. das entsprechende Debattierformat beim wettkampfmäßigen Debattieren (Debating) regelt die Form der Debatte. *In einer Debatte werden die Für- und Gegen-Argumente einer These in kurzen Reden vorgetragen.* Das Ziel des Debattenredners ist es, die Zuhörer bzw. im Wettbewerb die Jury von den eigenen Argumenten zu überzeugen. Deshalb zeichnet sich ein guter Redner nicht nur durch gute Argumente, sondern auch durch überzeugende rhetorische Fähigkeiten aus. *Eine Debatte kann nur in einer guten Streitkultur funktionieren.*
+
+</newSection>
+
+<newSection title="Englische Debatte">
 
 ## Englische Debatte
 
@@ -117,6 +134,10 @@ Die Englische Debatte eignet sich für Inhalte mit affektiven Lernzielen, wie z.
 - *möglicherweise nicht genügend gegensätzliche Argumente*
 - *zu passive Beobachtergruppe*
 - *"zähes" Ergebnis bei der Überzahl einer Argumentationsseite*
+
+</newSection>
+
+<newSection title="Kleingruppenarbeit">
 
 ## Kleingruppenarbeit
 
@@ -145,6 +166,10 @@ Die Englische Debatte eignet sich für Inhalte mit affektiven Lernzielen, wie z.
 - *unter Umständen kein schlüssiges Ergebnis*
 - *Unter- / Überforderung einzelner Schüler möglich*
 - *mangelnde Kooperationsbereitschaft einzelner Schüler*
+
+</newSection>
+
+<newSection title="Lehrvortrag (Frontalunterricht)">
 
 ## Lehrvortrag (Frontalunterricht)
 
@@ -185,6 +210,10 @@ Die Englische Debatte eignet sich für Inhalte mit affektiven Lernzielen, wie z.
 - *Lernstand nicht transparent*
 - *unbewusste Referentenrolle (mehr Redner statt Moderator)*
 
+</newSection>
+
+<newSection title="Rollenspiel">
+
 ## Rollenspiel
 
 In der Pädagogik und Psychotherapie sowie im Unterricht (Pädagogik, Erziehungswissenschaften, Sozialpädagogik) ist das Rollenspiel *eine bedeutende Methode der Sozialen Gruppenarbeit. Hierbei werden in der Regel reale Lebenssituationen simuliert. Ein Ziel ist es, dass die Teilnehmer ihre sozialen Handlungskompetenzen erweitern, indem sie kritische bzw. thematisierte Situationen in der simulierten Realität spielen.* Des Weiteren können die Spieler sich in ihrer jeweiligen Rolle ausprobieren, versuchen sich der Rolle entsprechend zu verhalten, und lernen, andere in anderen Rollen zu akzeptieren. Ferner soll eine Kompetenz im Umgang mit entsprechenden Ernstsituationen erworben werden (z. B. Umgang mit Konflikten).
@@ -204,20 +233,24 @@ Zusammenfassend und erweiternd können *die Ziele eines Rollenspieles* sein:
 
 Letztendlich ist das Rollenspiel eine pädagogische Möglichkeit, ein Gespür für die Ausdifferenzierung der eigenen Identität zu erlangen. Indem mit anderen interagiert wird, sei es auch nur in den simulierten Situationen des Spiels, verbessert sich die Wahrnehmung und soziale Kompetenzen. Beides hilft, Rolle und Position innerhalb einer Gruppen zu definieren und zu differenzieren.
 
+</newSection>
+
+<newSection title="Stationenlernen">
+
 ## Stationenlernen
 
-Das Stationenlernen, auch als Lernen an Stationen, Stationenbetrieb, Stationenarbeit rsp. Lernzirkel bzw. Lerntheke (oder Lehrtheke) bezeichnet, *ist eine Lehrtechnik, bei der die Schüler in der Regel selbstgesteuert und eigentätig anhand vorbereiteter Materialien, die in Stationen angeordnet sind, lernen*.
+Das Stationenlernen, auch als Lernen an Stationen, Stationenbetrieb, Stationenarbeit rsp. Lernzirkel bzw. Lerntheke (oder Lehrtheke) bezeichnet, *ist eine Lehrtechnik, bei der die Schüler in der Regel selbstgesteuert und eigentätig anhand vorbereiteter Materialien, die in Stationen angeordnet sind, lernen.*
 
-Beim Stationenlernen erhalten die Schüler Arbeitspläne mit Pflicht- und Wahlaufgaben, die Stationen genannt werden. *Die Schüler haben Wahlmöglichkeiten hinsichtlich Zeiteinteilung, Reihenfolge der Aufgaben und Sozialform (Einzel-, Paar-, Gruppenarbeit), um die Aufgabe in einer bestimmten Zeit zu erledigen*. Die Arbeitsaufträge umfassen:
+Beim Stationenlernen erhalten die Schüler Arbeitspläne mit Pflicht- und Wahlaufgaben, die Stationen genannt werden. *Die Schüler haben Wahlmöglichkeiten hinsichtlich Zeiteinteilung, Reihenfolge der Aufgaben und Sozialform (Einzel-, Paar-, Gruppenarbeit), um die Aufgabe in einer bestimmten Zeit zu erledigen.* Die Arbeitsaufträge umfassen:
 
 - Pflichtaufgaben: Diese müssen gemacht werden und dienen der Erarbeitung neuen Stoffs oder der Festigung und Übung sowie
 - Wahlaufgaben: Sie können bearbeitet werden und dienen der Erweiterung sowie Vertiefung oder Wiederholung.
 
 Unterschiedliche Arbeitsformen wie Basteln, Schreiben, Lesen, Hören, Sehen, Riechen, Computerarbeit, Spielen, Bewegen usw. sorgen für Abwechslung. Der Lehrer begleitet die Schüler bei ihrem Lernprozess und gibt gezielte Hilfestellungen für die Planung der nächsten Lernschritte. Die Schüler lernen im Offenen Lernen die Durchführung von Selbstkontrollen (Genauigkeit, Erkennen von Fehlern), Zeitplanung, Selbsteinschätzung und Reflexion des eigenen Lernfortschritts, Erkennen der eigenen Lernbedürfnisse, Planung und Durchführung der jeweiligen nächsten Schritte und Übernahme von Verantwortung, so dass selbstständige Gestaltung und Planung des eigenen Lernprozesses möglich werden.
 
-*Ziele des Unterrichtes mit Offenem Lernen sind die Erarbeitung von Inhalten, soziales Verhalten, Selbstorganisation, freudvolles Lernen mit allen Sinnen*, Einführung neuer Unterrichtsformen unter den Gesichtspunkten Learning by Doing, Erziehung zu Eigenverantwortung und Selbstständigkeit. *Lernpsychologisch betrachtet liegt die Wurzel des Erfolgs im Ansprechen aller Wahrnehmungstypen*. Daher müssen die Materialien *mehrere Sinne ansprechen, optische, akustische und taktile Reize liefern, motorische Elemente enthalten und durch Greifen zum „Begreifen“ führen*.
+*Ziele des Unterrichtes mit Offenem Lernen sind die Erarbeitung von Inhalten, soziales Verhalten, Selbstorganisation, freudvolles Lernen mit allen Sinnen,* Einführung neuer Unterrichtsformen unter den Gesichtspunkten Learning by Doing, Erziehung zu Eigenverantwortung und Selbstständigkeit. *Lernpsychologisch betrachtet liegt die Wurzel des Erfolgs im Ansprechen aller Wahrnehmungstypen.* Daher müssen die Materialien *mehrere Sinne ansprechen, optische, akustische und taktile Reize liefern, motorische Elemente enthalten und durch Greifen zum „Begreifen“ führen.*
 
-In ihrer Gesamtheit bilden Arbeitsaufträge und Materialien *Differenzierungsmöglichkeiten hinsichtlich Schwierigkeitsgrad, Neigungen und Interessen*. Tragendes Element im Offenen Lernen ist die *Selbstkontrolle, d. h., die eingesetzten Materialien ermöglichen es den Schülern, ihre Arbeitsergebnisse selbst zu überprüfen. Die Lehrer sind dadurch frei, die Schüler einzeln oder gruppenweise zu betreuen und auf individuelle Fragestellungen und Probleme einzugehen.*
+In ihrer Gesamtheit bilden Arbeitsaufträge und Materialien *Differenzierungsmöglichkeiten hinsichtlich Schwierigkeitsgrad, Neigungen und Interessen.* Tragendes Element im Offenen Lernen ist die *Selbstkontrolle, d. h., die eingesetzten Materialien ermöglichen es den Schülern, ihre Arbeitsergebnisse selbst zu überprüfen. Die Lehrer sind dadurch frei, die Schüler einzeln oder gruppenweise zu betreuen und auf individuelle Fragestellungen und Probleme einzugehen.*
 
 Dabei sind unterschiedliche Ausmaße der Lenkung durchaus möglich und sinnvoll, etwa
 
@@ -226,6 +259,10 @@ Dabei sind unterschiedliche Ausmaße der Lenkung durchaus möglich und sinnvoll,
 - welche Stationen bauen aufeinander auf etc.
 
 *Eine besondere Form ist der Lernzirkel, bei dem der innere Zusammenhang so gewählt ist, dass die Lernenden alle Stationen durchlaufen müssen, etwa weil sie aufeinander aufbauen und nur als Ganzes dem Erreichen des Lehrzieles dienen.*
+
+</newSection>
+
+<newSection title="Unterrichtsgespräch">
 
 ## Unterrichtsgespräch
 
@@ -256,10 +293,9 @@ Dabei sind unterschiedliche Ausmaße der Lenkung durchaus möglich und sinnvoll,
 - *Gefahr von langweiligen Monologisieren*
 - *Gefahr von endlosen Zweiergesprächen*
 
+</newSection>
+
 ## weitere Techniken
 
-*...eine <a href="https://de.wikipedia.org/wiki/Liste_der_Unterrichtsmethoden#Unterrichtstechniken" target="_blank">Liste verschiedener Techniken</a> (Wikipedia)*
+...eine <a href="https://de.wikipedia.org/wiki/Liste_der_Unterrichtsmethoden#Unterrichtstechniken" target="_blank">Liste verschiedener Techniken</a> (Wikipedia)
 
-:::
-
-<pinchView />
