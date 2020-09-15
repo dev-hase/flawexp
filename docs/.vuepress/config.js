@@ -106,7 +106,8 @@ module.exports = {
             },
             {
               title: 'Recht',
-              children: [      
+              children: [
+                ['/recht/wichtig/', 'Wichtiges auf einen Blick'],      
                 ['/recht/GesetzeImInternet/', 'Gesetze im Internet'],
               ]
             }

@@ -44,6 +44,7 @@ export default {
 
     .newSection
 
+
         article h2:first-of-type
             font-size 0
             z-index -100

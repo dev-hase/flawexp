@@ -67,7 +67,6 @@ em
 
 .theme-default-content
 
-
     ul
         position relative
         margin .25rem 0
@@ -119,6 +118,50 @@ em
             filter invert(30%)
             left -2.75rem
             top 50%
+
+
+    ol
+        position relative
+        margin .25rem 0
+        color #eee
+        padding .5rem 1.5rem
+        margin .75rem 0
+        //list-style none
+        border-radius .2rem
+
+
+        em
+            background #444
+            background-image url('/img/highlight.png')
+            color #fff
+            
+        li
+            position relative
+            margin-left .5rem
+            padding .35rem 0
+            border-bottom 1px solid #bbb
+            color $textColor
+            text-indent .5rem
+            @media (max-width $MQMobile)
+                font-size .9rem
+
+            p
+                line-height 1.5
+
+            a
+                color $highlightB
+                font-weight bold
+
+            a:hover
+                text-decoration none !important
+                color $highlight
+
+
+        li:last-child
+            border-bottom none
+            
+        
+
 
     @media (max-width: $MQNarrow)
         padding 1rem !important
