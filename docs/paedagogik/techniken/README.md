@@ -51,7 +51,7 @@ Als Variante bleibt der Innenkreis offen: Ein Stuhl im Innenkreis bleibt leer. W
 
 **Phase Eins**: *Ideen finden*
 
-*Die Teilnehmer finden spontan Ideen zur Lösungsfindung, wobei sie sich im optimalen Fall gegenseitig inspirieren* und untereinander Gesichtspunkte in neue Lösungsansätze und Ideen einfließen lassen. *Die Ideen werden protokolliert. Alle Teilnehmenden sollen ohne jede Einschränkung Ideen produzieren und mit anderen Ideen kombinieren. Die Gruppe sollte in eine möglichst produktive und erfindungsreiche Stimmung versetzt werden*. In dieser Phase gelten folgende Grundregeln:
+*Die Teilnehmer finden spontan Ideen zur Lösungsfindung, wobei sie sich im optimalen Fall gegenseitig inspirieren* und untereinander Gesichtspunkte in neue Lösungsansätze und Ideen einfließen lassen. *Die Ideen werden protokolliert. Alle Teilnehmenden sollen ohne jede Einschränkung Ideen produzieren und mit anderen Ideen kombinieren. Die Gruppe sollte in eine möglichst produktive und erfindungsreiche Stimmung versetzt werden.* In dieser Phase gelten folgende Grundregeln:
 
 - Keine Kritik an anderen Beiträgen, Ideen, Lösungsvorschlägen (kreative Ansätze können sich auch aus zunächst völlig unsinnigen Vorschlägen entwickeln).
 - Keine Wertung oder Beurteilung der Ideen.

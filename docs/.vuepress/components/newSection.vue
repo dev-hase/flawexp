@@ -9,7 +9,7 @@
             </h2>
         </header>
 
-        <article>
+        <article :class="addClass">
             <slot></slot>
         </article>
 
@@ -19,7 +19,7 @@
 
 <script>
 export default {
-    props: ["title"],
+    props: ["title", "addClass"],
     mounted() {
         //alert('hiiii');
 
@@ -55,6 +55,14 @@ export default {
             border 1px solid #333
             padding 0 .5rem
             box-shadow 4px 3px 5px #aaa
+
+        .law 
+            ul
+                li:before
+                    display none
+
+            strong
+                color #bbb
 
         .collapsed ~ article
             //font-size 0 !important
