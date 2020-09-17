@@ -32,24 +32,24 @@ Die gängisten Paragraphen im Überblick
 
 - *(3a) Der Führer eines Kraftfahrzeuges darf dies bei Glatteis, Schneeglätte, Schneematsch, Eisglätte oder Reifglätte nur fahren, wenn alle Räder mit Reifen ausgerüstet sind, die unbeschadet der allgemeinen Anforderungen an die Bereifung den Anforderungen des § 36 Absatz 4 der Straßenverkehrs-Zulassungs-Ordnung genügen.* Satz 1 gilt nicht für
 
-	1. Nutzfahrzeuge der Land- und Forstwirtschaft,
-	2. einspurige Kraftfahrzeuge,
-	3. Stapler im Sinne des § 2 Nummer 18 der Fahrzeug-Zulassungsverordnung,
-	4. motorisierte Krankenfahrstühle im Sinne des § 2 Nummer 13 der Fahrzeug-Zulassungs-Verordnung,
-	5. **Einsatzfahrzeuge der in § 35 Absatz 1 genannten Organisationen, soweit für diese Fahrzeuge bauartbedingt keine Reifen verfügbar sind, die den Anforderungen des § 36 Absatz 4 der Straßenverkehrs-Zulassungs-Ordnung genügen und**
-	6. **Spezialfahrzeuge, für die bauartbedingt keine Reifen der Kategorien C1, C2 oder C3 verfügbar sind.**
+	- 1. Nutzfahrzeuge der Land- und Forstwirtschaft,
+	- 2. einspurige Kraftfahrzeuge,
+	- 3. Stapler im Sinne des § 2 Nummer 18 der Fahrzeug-Zulassungsverordnung,
+	- 4. motorisierte Krankenfahrstühle im Sinne des § 2 Nummer 13 der Fahrzeug-Zulassungs-Verordnung,
+	- **5. Einsatzfahrzeuge der in § 35 Absatz 1 genannten Organisationen, soweit für diese Fahrzeuge bauartbedingt keine Reifen verfügbar sind, die den Anforderungen des § 36 Absatz 4 der Straßenverkehrs-Zulassungs-Ordnung genügen und**
+	- **6. Spezialfahrzeuge, für die bauartbedingt keine Reifen der Kategorien C1, C2 oder C3 verfügbar sind.**
 
 - **Kraftfahrzeuge der Klassen M2, M3, N2, N3 dürfen bei solchen Wetterbedingungen auch gefahren werden, wenn mindestens die Räder**
 
-	1. **der permanent angetriebenen Achsen und**
-	2. **der vorderen Lenkachsen**
+	- **1. der permanent angetriebenen Achsen und**
+	- **2. der vorderen Lenkachsen**
 
 - **mit Reifen ausgerüstet sind, die unbeschadet der allgemeinen Anforderungen an die Bereifung den Anforderungen des § 36 Absatz 4 der Straßenverkehrs-Zulassungs-Ordnung genügen. Soweit ein Kraftfahrzeug während einer der in Satz 1 bezeichneten Witterungslagen ohne eine den Anforderungen des § 36 Absatz 4 der Straßenverkehrs-Zulassungs-Ordnung genügende Bereifung geführt werden darf, hat der Führer des Kraftfahrzeuges über seine allgemeinen Verpflichtungen hinaus**
 
-	1. **vor Antritt jeder Fahrt zu prüfen, ob es erforderlich ist, die Fahrt durchzuführen, da das Ziel mit anderen Verkehrsmitteln nicht erreichbar ist,**
-	2. **während der Fahrt**
-		- a) **einen Abstand in Metern zu einem vorausfahrenden Fahrzeug von mindestens der Hälfte des auf dem Geschwindigkeitsmesser in km/h angezeigten Zahlenwertes der gefahrenen Geschwindigkeit einzuhalten,**
-		- b) **nicht schneller als 50 km/h zu fahren, wenn nicht eine geringere Geschwindigkeit geboten ist.**
+	- **1. vor Antritt jeder Fahrt zu prüfen, ob es erforderlich ist, die Fahrt durchzuführen, da das Ziel mit anderen Verkehrsmitteln nicht erreichbar ist,**
+	- **2. während der Fahrt**
+		- **a) einen Abstand in Metern zu einem vorausfahrenden Fahrzeug von mindestens der Hälfte des auf dem Geschwindigkeitsmesser in km/h angezeigten Zahlenwertes der gefahrenen Geschwindigkeit einzuhalten,**
+		- **b) Nicht schneller als 50 km/h zu fahren, wenn nicht eine geringere Geschwindigkeit geboten ist.**
 
 - **Wer ein kennzeichnungspflichtiges Fahrzeug mit gefährlichen Gütern führt, muss bei einer Sichtweite unter 50 m, bei Schneeglätte oder Glatteis jede Gefährdung Anderer ausschließen und wenn nötig den nächsten geeigneten Platz zum Parken aufsuchen.**
 
@@ -71,26 +71,26 @@ Die gängisten Paragraphen im Überblick
 
 - (3) Die zulässige Höchstgeschwindigkeit beträgt auch unter günstigsten Umständen
 
-	1. *innerhalb geschlossener Ortschaften für alle Kraftfahrzeuge 50 km/h,*
-	2. außerhalb geschlossener Ortschaften
-	- a) für
+	- *1. innerhalb geschlossener Ortschaften für alle Kraftfahrzeuge 50 km/h,*
+	- 2. außerhalb geschlossener Ortschaften
+		- a) für
 
-		- aa) Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t bis 7,5 t, ausgenommen Personenkraftwagen,
-		- bb) Personenkraftwagen mit Anhänger,
-		- cc) Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t mit Anhänger sowie
-		- dd) Kraftomnibusse, auch mit Gepäckanhänger, 
+			- aa) Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t bis 7,5 t, ausgenommen Personenkraftwagen,
+			- bb) Personenkraftwagen mit Anhänger,
+			- cc) Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t mit Anhänger sowie
+			- dd) Kraftomnibusse, auch mit Gepäckanhänger, 
 
-		*80 km/h,*
-	- b) für
+			*80 km/h,*
+		- b) für
 
-		- aa) Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 7,5 t,
-		- bb) alle Kraftfahrzeuge mit Anhänger, ausgenommen Personenkraftwagen, Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t, sowie
-		- cc) Kraftomnibusse mit Fahrgästen, für die keine Sitzplätze mehr zur Verfügung stehen,
+			- aa) Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 7,5 t,
+			- bb) alle Kraftfahrzeuge mit Anhänger, ausgenommen Personenkraftwagen, Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t, sowie
+			- cc) Kraftomnibusse mit Fahrgästen, für die keine Sitzplätze mehr zur Verfügung stehen,
 
-		- *60 km/h,*
-	- c) für Personenkraftwagen sowie für andere Kraftfahrzeuge mit einer zulässigen Gesamtmasse bis 3,5 t
+			- *60 km/h,*
+		- c) für Personenkraftwagen sowie für andere Kraftfahrzeuge mit einer zulässigen Gesamtmasse bis 3,5 t
 
-		- *100 km/h.*
+			- *100 km/h.*
 
 - Diese Geschwindigkeitsbeschränkung gilt nicht auf Autobahnen (Zeichen 330.1) sowie auf anderen Straßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind. Sie gilt ferner nicht auf Straßen, die mindestens zwei durch Fahrstreifenbegrenzung (Zeichen 295) oder durch Leitlinien (Zeichen 340) markierte Fahrstreifen für jede Richtung haben.
 
@@ -100,7 +100,7 @@ Die gängisten Paragraphen im Überblick
 
 <infoBox>
 
-## AutobahnRichtgeschwindigkeits-V
+## Autobahn-Richtgeschwindigkeits-V
 
 Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen
 
@@ -113,10 +113,10 @@ Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlic
 Den Führern von Personenkraftwagen sowie von anderen Kraftfahrzeugen mit einem zulässigen Gesamtgewicht
 bis zu 3,5 t wird empfohlen, auch bei günstigen Straßen-, Verkehrs-, Sicht- und Wetterverhältnissen
 
-1. auf Autobahnen (Zeichen 330.1),
-2. *außerhalb geschlossener Ortschaften auf anderen Straßen mit Fahrbahnen für eine Richtung, die durch
+- *1. auf Autobahnen (Zeichen 330.1),*
+- *2. außerhalb geschlossener Ortschaften auf anderen Straßen mit Fahrbahnen für eine Richtung, die durch
 Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind, und*
-3. *außerhalb geschlossener Ortschaften auf Straßen, die mindestens zwei durch Fahrstreifenbegrenzung
+- *3. außerhalb geschlossener Ortschaften auf Straßen, die mindestens zwei durch Fahrstreifenbegrenzung
 (Zeichen 295) oder durch Leitlinien (Zeichen 340) markierte Fahrstreifen für jede Richtung haben,*
 
 nicht schneller als *130 km/h* zu fahren (Autobahn-Richtgeschwindigkeit). Das gilt nicht, soweit nach der StVO
@@ -186,9 +186,9 @@ Anwendung der Kenntnisse einzubeziehen, die zur Beurteilung der Verkehrs- und Be
 Fahrzeuges erforderlich sind. *Er ist systematisch aufzubauen. Der praktische Unterricht besteht aus einer
 Grundausbildung und besonderen Ausbildungsfahrten.* Zum praktischen Unterricht gehören auch
 
-	1.   die Unterweisung nach Absatz 5,
-	2.   Anleitung und Hinweise vor, während und nach der Durchführung der Fahraufgaben sowie
-	3.   Nachbesprechung und Erörterung des jeweiligen Ausbildungsstandes.
+	- 1. die Unterweisung nach Absatz 5,
+	- 2. Anleitung und Hinweise vor, während und nach der Durchführung der Fahraufgaben sowie
+	- 3. Nachbesprechung und Erörterung des jeweiligen Ausbildungsstandes.
 
 - *Der Fahrlehrer hat den jeweiligen Ausbildungsstand durch Aufzeichnungen zu dokumentieren.* Diese sollen
 erkennen lassen, welche Inhalte behandelt wurden.
@@ -199,7 +199,7 @@ ohne Vorbesitz der Klasse A2 sowie der Klasse A2 ohne Vorbesitz der Klasse A1. B
 die besonderen Ausbildungsfahrten erst gegen Ende der praktischen Ausbildung durchgeführt werden.
 
 - (3) Die besonderen Ausbildungsfahrten zu je 45 Minuten sind – ausgenommen für die Klassen D, D1, DE und D1E
-– nach Anlage 4 durchzuführen.
+	- nach Anlage 4 durchzuführen.
 
 - (4) Die Grundausbildung und die besonderen Ausbildungsfahrten für die Klassen D, D1, DE und D1E sind nach
 Anlage 5 durchzuführen.
@@ -239,241 +239,241 @@ Fahrschule bekannt zu geben.*
 
 ## Anlage 1 (zu § 4)
 
-1. *Persönliche Voraussetzungen*
+- *1. Persönliche Voraussetzungen*
 
-- a)
-	- Körperliche Fähigkeiten
-	- Sehfähigkeit – Sehtest
-	- Bedeutung von Gesundheit und Fitness
-- b)
-	- Einschränkungen der körperlichen Fähigkeiten
-	- Krankheiten und Gebrechen
-	- Aufmerksamkeitsdefizite
-	- Konzentrationsmängel
-	- Alkohol, Drogen und Medikamente
-	- Ermüden und Ablenkung
-- c)
-	- Psychische und soziale Voraussetzungen
-	- Einstellung und Werthaltungen gegenüber Fahrzeugen, Fahren und Straßenverkehr
-	- Orientierung an Leitbildern des Verkehrsverhaltens.
+	- a)
+		- Körperliche Fähigkeiten
+		- Sehfähigkeit – Sehtest
+		- Bedeutung von Gesundheit und Fitness
+	- b)
+		- Einschränkungen der körperlichen Fähigkeiten
+		- Krankheiten und Gebrechen
+		- Aufmerksamkeitsdefizite
+		- Konzentrationsmängel
+		- Alkohol, Drogen und Medikamente
+		- Ermüden und Ablenkung
+	- c)
+		- Psychische und soziale Voraussetzungen
+		- Einstellung und Werthaltungen gegenüber Fahrzeugen, Fahren und Straßenverkehr
+		- Orientierung an Leitbildern des Verkehrsverhaltens.
 
-2. *Risikofaktor Mensch*
+- *2. Risikofaktor Mensch*
 
-- a)
-	- Beeinflussung des Verkehrsverhaltens durch
-		- Aggression, Angst, Fahrfreude, Stress, weitere Emotionen
-		- Auffälliges Fahren kann verschiedene Gründe haben, Reaktion auf aggressives Fahren
-		- Aggression nicht mit Gegenaggression beantworten; Lernen, wie man seinen Ärger kontrolliert
-		- Ursachen von Stress; Lernen, Stress wahrzunehmen
-		- Erfahrung, dass Stress Risikofaktor ist
-		- Lernen, wie Stress zu vermeiden und zu bewältigen ist
-		- Gefühle können Fahrer positiv oder negativ beeinflussen
-		- Risiken durch Angst, Panik, Überlegenheitsgefühle
-		- Lernen, Gefühle zu beherrschen und zu kontrollieren
-- b)
-	- Selbstbilder
-		- realistische Einschätzung: Über- und Unterschätzung
-- c)
-	- Fahrideale und Fahrerrollen.
+	- a)
+		- Beeinflussung des Verkehrsverhaltens durch
+			- Aggression, Angst, Fahrfreude, Stress, weitere Emotionen
+			- Auffälliges Fahren kann verschiedene Gründe haben, Reaktion auf aggressives Fahren
+			- Aggression nicht mit Gegenaggression beantworten; Lernen, wie man seinen Ärger kontrolliert
+			- Ursachen von Stress; Lernen, Stress wahrzunehmen
+			- Erfahrung, dass Stress Risikofaktor ist
+			- Lernen, wie Stress zu vermeiden und zu bewältigen ist
+			- Gefühle können Fahrer positiv oder negativ beeinflussen
+			- Risiken durch Angst, Panik, Überlegenheitsgefühle
+			- Lernen, Gefühle zu beherrschen und zu kontrollieren
+	- b)
+		- Selbstbilder
+			- realistische Einschätzung: Über- und Unterschätzung
+	- c)
+		- Fahrideale und Fahrerrollen.
 
-3. *Rechtliche Rahmenbedingungen*
+- *3. Rechtliche Rahmenbedingungen*
 
-- a)
-	- Führen von Kraftfahrzeugen
-	- Fahrerlaubnisklassen
-	- Führerschein auf Probe
-- b)
-	- Zulassung von Fahrzeugen
-	- zulassungspflichtige und zulassungsfreie Fahrzeuge
-	- Erlöschen der Betriebserlaubnis
-- c)
-	- Fahrzeuguntersuchungen
-- d)
-	- Versicherungen
-	- Haftpflicht, Teilkasko und Vollkasko
-	- Insassenunfall
-	- Rechtsschutz
-- e)
-	- Fahrzeugpapiere und Führerschein
-	- Fahrzeugbrief, Fahrzeugschein, Betriebserlaubnis, Versicherungsnachweis
-	- Nachweis über Abgasuntersuchung
-	- Änderungsabnahmebericht nach § 19 Absatz 3 StVZO
-- f)
-	- Internationaler Kraftfahrzeugverkehr.
+	- a)
+		- Führen von Kraftfahrzeugen
+		- Fahrerlaubnisklassen
+		- Führerschein auf Probe
+	- b)
+		- Zulassung von Fahrzeugen
+		- zulassungspflichtige und zulassungsfreie Fahrzeuge
+		- Erlöschen der Betriebserlaubnis
+	- c)
+		- Fahrzeuguntersuchungen
+	- d)
+		- Versicherungen
+		- Haftpflicht, Teilkasko und Vollkasko
+		- Insassenunfall
+		- Rechtsschutz
+	- e)
+		- Fahrzeugpapiere und Führerschein
+		- Fahrzeugbrief, Fahrzeugschein, Betriebserlaubnis, Versicherungsnachweis
+		- Nachweis über Abgasuntersuchung
+		- Änderungsabnahmebericht nach § 19 Absatz 3 StVZO
+	- f)
+		- Internationaler Kraftfahrzeugverkehr.
 
-4. *Straßenverkehrssystem und seine Nutzung*
+- *4. Straßenverkehrssystem und seine Nutzung*
 
-- a)
-	- Verkehrswege und ihre Bedeutung
-	- Straße, Fahrbahn, Fahrstreifen, Seitenstreifen, Sonderfahrstreifen, Sonderwege, Autobahn- und Kraftfahrstraße
-- b)
-	- Grundregel § 1 (StVO)
-- c)
-	- Gefahrenwahrnehmung bei Benutzung der Verkehrswege (z. B. Alleen)
-	- Verkehrsbeobachtung, Gefahrenkontrolle beim Fahrstreifenwechsel
-	- Stau.
+	- a)
+		- Verkehrswege und ihre Bedeutung
+		- Straße, Fahrbahn, Fahrstreifen, Seitenstreifen, Sonderfahrstreifen, Sonderwege, Autobahn- und Kraftfahrstraße
+	- b)
+		- Grundregel § 1 (StVO)
+	- c)
+		- Gefahrenwahrnehmung bei Benutzung der Verkehrswege (z. B. Alleen)
+		- Verkehrsbeobachtung, Gefahrenkontrolle beim Fahrstreifenwechsel
+		- Stau.
 
-5. *Vorfahrt und Verkehrsregelungen*
+- *5. Vorfahrt und Verkehrsregelungen*
 
-- Verhalten
+	- Verhalten
 
-	- bei besonderen Verkehrslagen
-	- an Kreuzungen und Einmündungen
-	- bei Verkehrsregelungen durch Lichtzeichen und Polizeibeamte
+		- bei besonderen Verkehrslagen
+		- an Kreuzungen und Einmündungen
+		- bei Verkehrsregelungen durch Lichtzeichen und Polizeibeamte
 
-- insbesondere durch
+	- insbesondere durch
 
-	- Handeln in der richtigen Reihenfolge (u. a. Bremsen, Schalten, Beschleunigen)
-	- Spurtstärke, Bedarf an Straßenraum und Zeit beim Überqueren einer Kreuzung einschätzen lernen
-	- Gefährlichkeit einer Kreuzung beurteilen, Notwendigkeit der Verständigung und Verständnis beim Kreuzungsverkehr
-	- Lernen, für die anderen Verkehrsteilnehmer mitzudenken
-	- Bedeutung von Gelassenheit und Geduld, gegebenenfalls auch einmal auf Vorfahrt verzichten
-	- Umweltbewusstes Befahren von Kreuzungen und Einmündungen.
+		- Handeln in der richtigen Reihenfolge (u. a. Bremsen, Schalten, Beschleunigen)
+		- Spurtstärke, Bedarf an Straßenraum und Zeit beim Überqueren einer Kreuzung einschätzen lernen
+		- Gefährlichkeit einer Kreuzung beurteilen, Notwendigkeit der Verständigung und Verständnis beim Kreuzungsverkehr
+		- Lernen, für die anderen Verkehrsteilnehmer mitzudenken
+		- Bedeutung von Gelassenheit und Geduld, gegebenenfalls auch einmal auf Vorfahrt verzichten
+		- Umweltbewusstes Befahren von Kreuzungen und Einmündungen.
 
-6. *Verkehrszeichen und Verkehrseinrichtungen sowie Bahnübergänge*
+- *6. Verkehrszeichen und Verkehrseinrichtungen sowie Bahnübergänge*
 
-- a) 
-	- Verkehrszeichen und -einrichtungen
-	- Gefahrzeichen, Vorschriftzeichen, Richtzeichen
-	- sonstige Zeichen (Zusatzschilder), Verkehrseinrichtungen
-	- Wissen um die Systematik und Logik
-	- Formen, Farben, Piktogramme, Schrift der Verkehrszeichen, „Lesen“ von Verkehrseinrichtungen und Folgerungen für das eigene angemessene Verhalten
-- b) 
-	- Bahnübergänge
-	- Sicherheits- und Umweltbewusstsein – Verhalten an Bahnübergängen.
+	- a) 
+		- Verkehrszeichen und -einrichtungen
+		- Gefahrzeichen, Vorschriftzeichen, Richtzeichen
+		- sonstige Zeichen (Zusatzschilder), Verkehrseinrichtungen
+		- Wissen um die Systematik und Logik
+		- Formen, Farben, Piktogramme, Schrift der Verkehrszeichen, „Lesen“ von Verkehrseinrichtungen und Folgerungen für das eigene angemessene Verhalten
+	- b) 
+		- Bahnübergänge
+		- Sicherheits- und Umweltbewusstsein – Verhalten an Bahnübergängen.
 
-7. *Andere Teilnehmer im Straßenverkehr*
+- *7. Andere Teilnehmer im Straßenverkehr*
 
-- a)
-	- Besonderheiten und Verhalten gegenüber
-		- öffentlichen Verkehrsmitteln
-		- Bussen/Schulbussen
-		- Taxen
-		- Pkw und Motorradfahrern
-		- Radfahrern
-		- großen und schweren Fahrzeugen
-		- Fußgängern
-		- Kindern und älteren Menschen
-		- Behinderten
-- b)
-	- Verhalten an Fußgängerüberwegen und -furten
-- c)
-	- Maßnahmen zur Verkehrsberuhigung
-		- verkehrsberuhigter Bereich und Zone 30
-		- bauliche Maßnahmen.
+	- a)
+		- Besonderheiten und Verhalten gegenüber
+			- öffentlichen Verkehrsmitteln
+			- Bussen/Schulbussen
+			- Taxen
+			- Pkw und Motorradfahrern
+			- Radfahrern
+			- großen und schweren Fahrzeugen
+			- Fußgängern
+			- Kindern und älteren Menschen
+			- Behinderten
+	- b)
+		- Verhalten an Fußgängerüberwegen und -furten
+	- c)
+		- Maßnahmen zur Verkehrsberuhigung
+			- verkehrsberuhigter Bereich und Zone 30
+			- bauliche Maßnahmen.
 
-8. *Geschwindigkeit, Abstand und umweltschonende Fahrweise*
+- *8. Geschwindigkeit, Abstand und umweltschonende Fahrweise*
 
-- a)
-	- Bedeutung der Geschwindigkeit
-	- situationsangepasste Geschwindigkeit
-	- Zusammenhänge zwischen Geschwindigkeit, Abstand und Anhalteweg
-	- Einschätzung des Anhalteweges bei verschiedenen Geschwindigkeiten
-	- Gewöhnung an ausreichende Sicherheitsabstände
-	- Erkenntnis der Gefahren von zu hohen Geschwindigkeiten
-	- Ständige Kontrolle der Geschwindigkeit durch Anpassung an Verkehrsverhältnisse, Straßenverhältnisse, Witterungs -und Sichtverhältnisse
-	- Kenntnisse und Akzeptanz der Geschwindigkeitsregelungen
-	- Kenntnis der Zusammenhänge zwischen Geschwindigkeit und Schadstoffemissionen
-	- Wahl umweltschonender Geschwindigkeiten
-	- Realistische Selbsteinschätzung des eigenen Geschwindigkeitsverhaltens
-	- Wissen um das Risiko von Geschwindigkeitsrausch und Geschwindigkeitsgewohnheiten
-- b)
-	- Vorausschauendes Verhalten
-- c)
-	- Sicherheitsabstände
-- d)
-	- Wahl der Geschwindigkeit in Abhängigkeit von Straße, Verkehr, Witterungs- und Sichtverhältnissen
-- e)
-	- Lärmschutz
-- f)
-	- Geschwindigkeitsvorschriften
-- g)
-	- Warnzeichen.
+	- a)
+		- Bedeutung der Geschwindigkeit
+		- situationsangepasste Geschwindigkeit
+		- Zusammenhänge zwischen Geschwindigkeit, Abstand und Anhalteweg
+		- Einschätzung des Anhalteweges bei verschiedenen Geschwindigkeiten
+		- Gewöhnung an ausreichende Sicherheitsabstände
+		- Erkenntnis der Gefahren von zu hohen Geschwindigkeiten
+		- Ständige Kontrolle der Geschwindigkeit durch Anpassung an Verkehrsverhältnisse, Straßenverhältnisse, Witterungs -und Sichtverhältnisse
+		- Kenntnisse und Akzeptanz der Geschwindigkeitsregelungen
+		- Kenntnis der Zusammenhänge zwischen Geschwindigkeit und Schadstoffemissionen
+		- Wahl umweltschonender Geschwindigkeiten
+		- Realistische Selbsteinschätzung des eigenen Geschwindigkeitsverhaltens
+		- Wissen um das Risiko von Geschwindigkeitsrausch und Geschwindigkeitsgewohnheiten
+	- b)
+		- Vorausschauendes Verhalten
+	- c)
+		- Sicherheitsabstände
+	- d)
+		- Wahl der Geschwindigkeit in Abhängigkeit von Straße, Verkehr, Witterungs- und Sichtverhältnissen
+	- e)
+		- Lärmschutz
+	- f)
+		- Geschwindigkeitsvorschriften
+	- g)
+		- Warnzeichen.
 
-9. *Verkehrsverhalten bei Fahrmanövern, Verkehrsbeobachtung*
+- *9. Verkehrsverhalten bei Fahrmanövern, Verkehrsbeobachtung*
 
-- a)
-	- Einfahren, Anfahren
-- b)
-	- Überholen, Vorbeifahren, Ausweichen
-- c)
-	- Nebeneinanderfahren
-- d)
-	- Abbiegen
-- e)
-	- Wenden
-- f)
-	- Rückwärtsfahren
-- g)
-	- Kenntnis der Verkehrsregelungen bei verschiedenen Fahrmanövern. Insbesondere durch
-		- Kennen und Wahrnehmen von Gefahren bei Fahrmanövern
-		- Verkehrsbeobachtung üben
-		- Erfahrung, dass sie erhöhte Konzentration erfordern
-		- Lernen, verantwortungsvoll zu entscheiden, ob und wo man Fahrmanöver ausführen kann oder davon absehen soll.
+	- a)
+		- Einfahren, Anfahren
+	- b)
+		- Überholen, Vorbeifahren, Ausweichen
+	- c)
+		- Nebeneinanderfahren
+	- d)
+		- Abbiegen
+	- e)
+		- Wenden
+	- f)
+		- Rückwärtsfahren
+	- g)
+		- Kenntnis der Verkehrsregelungen bei verschiedenen Fahrmanövern. Insbesondere durch
+			- Kennen und Wahrnehmen von Gefahren bei Fahrmanövern
+			- Verkehrsbeobachtung üben
+			- Erfahrung, dass sie erhöhte Konzentration erfordern
+			- Lernen, verantwortungsvoll zu entscheiden, ob und wo man Fahrmanöver ausführen kann oder davon absehen soll.
 
-10. *Ruhender Verkehr*
+- *10. Ruhender Verkehr*
 
 - Zu wenig Straßenraum – zu viele Autos
 
-- a)
-	- Ruhender Verkehr
-	- Halten und Parken
-	- Einrichtungen zur Überwachung des ruhenden Verkehrs
-- b)
-	- Ein- und Aussteigen
-	- Sichern des Fahrzeugs
-- c)
-	- Absichern liegen gebliebener Fahrzeuge
-- d)
-	- Anschleppen, Abschleppen und Schleppen.
+	- a)
+		- Ruhender Verkehr
+		- Halten und Parken
+		- Einrichtungen zur Überwachung des ruhenden Verkehrs
+	- b)
+		- Ein- und Aussteigen
+		- Sichern des Fahrzeugs
+	- c)
+		- Absichern liegen gebliebener Fahrzeuge
+	- d)
+		- Anschleppen, Abschleppen und Schleppen.
 
-11. *Verhalten in besonderen Situationen, Folgen von Verstößen gegen Verkehrsvorschriften*
+- *11. Verhalten in besonderen Situationen, Folgen von Verstößen gegen Verkehrsvorschriften*
 
-- a)
-	- Benutzung von Beleuchtungseinrichtungen
-- b)
-	- Verhalten gegenüber Sonderfahrzeugen
-	- Blaues und gelbes Blinklicht
-	- Sonderrechte
-- c)
-	- Verhalten nach Verkehrsunfall
-	- Absichern und Hilfeleistung für Verletzte
-	- Verpflichtungen
-- d)
-	- Ahndung von Fehlverhalten
-	- Verwarnung, Bußgeld, Fahrverbot, Strafe
-- e)
-	- Fahreignungsregister
-	- Fahreignungs-Bewertungssystem
-- f)
-	- Entzug der Fahrerlaubnis
-- g)
-	- Verlust des Versicherungsschutzes
-	- Schadenersatz, Regress
-- h)
-	- Begutachtungsstelle für Fahreignung
-	- Medizinisch-psychologische Untersuchung.
+	- a)
+		- Benutzung von Beleuchtungseinrichtungen
+	- b)
+		- Verhalten gegenüber Sonderfahrzeugen
+		- Blaues und gelbes Blinklicht
+		- Sonderrechte
+	- c)
+		- Verhalten nach Verkehrsunfall
+		- Absichern und Hilfeleistung für Verletzte
+		- Verpflichtungen
+	- d)
+		- Ahndung von Fehlverhalten
+		- Verwarnung, Bußgeld, Fahrverbot, Strafe
+	- e)
+		- Fahreignungsregister
+		- Fahreignungs-Bewertungssystem
+	- f)
+		- Entzug der Fahrerlaubnis
+	- g)
+		- Verlust des Versicherungsschutzes
+		- Schadenersatz, Regress
+	- h)
+		- Begutachtungsstelle für Fahreignung
+		- Medizinisch-psychologische Untersuchung.
 
-12. *Lebenslanges Lernen*
+- *12. Lebenslanges Lernen*
 
-- a)
-	- Besondere Risikofaktoren bei
-		- Fahranfängern
-		- Jungen Fahrern
-		- Älteren Fahrern
-- b)
-	- Hilfen
-	- insbesondere durch
-		- Aufbauseminare, besondere Aufbauseminare und verkehrspsychologische Beratungsgespräche (Führerschein auf Probe)
-		- Fahreignungsseminare (Fahreignungs-Bewertungssystem)
-		- Erfahrungsaustausch für Fahranfänger
-- c)
-	- Risiken durch Informations- und Kommunikationsdefizite im Straßenverkehr
-- d)
-	- Verkehrssicherheit durch Weiterbildung
-- e)
-	- Sicherheitstraining
-- f)
-	- Kurse zur umweltschonenden Fahrweise.
+	- a)
+		- Besondere Risikofaktoren bei
+			- Fahranfängern
+			- Jungen Fahrern
+			- Älteren Fahrern
+	- b)
+		- Hilfen
+		- insbesondere durch
+			- Aufbauseminare, besondere Aufbauseminare und verkehrspsychologische Beratungsgespräche (Führerschein auf Probe)
+			- Fahreignungsseminare (Fahreignungs-Bewertungssystem)
+			- Erfahrungsaustausch für Fahranfänger
+	- c)
+		- Risiken durch Informations- und Kommunikationsdefizite im Straßenverkehr
+	- d)
+		- Verkehrssicherheit durch Weiterbildung
+	- e)
+		- Sicherheitstraining
+	- f)
+		- Kurse zur umweltschonenden Fahrweise.
 
 </newSection>

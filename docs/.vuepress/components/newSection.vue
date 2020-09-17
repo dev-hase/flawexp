@@ -50,6 +50,7 @@ export default {
             z-index -100
             position relative
             top -5rem
+            word-break break-word
 
         article
             border 1px solid #333
