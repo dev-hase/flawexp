@@ -350,60 +350,7 @@ img
     max-width 100vw
     
 
-#inhalt
-    padding 2rem
-    padding-top 4rem
-    display grid
-    grid-template-columns: 1fr 1fr
-    grid-gap 2rem
 
-    @media (max-width $MQMobile)
-        grid-template-columns: 1fr
-        grid-gap 1rem
-        padding .5rem
-        padding-top 5rem
-
-.thema
-    h1
-        background #111
-        color white
-        padding .5rem 1.5rem
-        margin 0
-        font-size 2.5rem
-        font-style italic
-        height 3.25rem
-        opacity .85
-        @media (max-width $MQNarrow)
-            font-size 1.8rem
-            padding-bottom 0rem
-            line-height 1.6
-
-    img
-        min-widht 100%
-        filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%) !important
-
-.thema-unterpunkt h2
-    background #222
-    color white
-    padding .5rem .75rem 
-    margin 1px 0
-    border-bottom 0 
-    font-size 1.25rem
-    font-style normal 
-    @media (max-width $MQNarrow)
-      font-size 1.1rem
-      
-    
-.thema-unterpunkt h2:hover
-    background #eff7ad
-    color black
-
-.thema-unterpunkt h2::before
-    content: ">"
-    
-
-.unterpunkte
-    margin-top -.25rem
 
 .site-name, .sidebar-group, .hero .description
     font-family $fontB

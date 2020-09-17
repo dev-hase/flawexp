@@ -30,7 +30,7 @@ export default {
             display flex
             color #eee
             padding 1.5rem 1rem
-            font-size 2.25rem
+            font-size 2.1rem
             padding 3.5rem .5rem 1rem .5rem !important
             margin 0 !important
 

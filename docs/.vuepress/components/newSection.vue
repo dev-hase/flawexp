@@ -115,6 +115,9 @@ export default {
             box-shadow 4px 3px 5px #aaa
             cursor pointer
 
+            font-size 1.4rem 
+
+
         .newSectionHeader:hover
             background-color $accentColor
 
