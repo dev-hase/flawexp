@@ -39,7 +39,7 @@ export default {
 
 <style lang="stylus">
 
-    $highlightB = #fcdc9a
+    $highlightB = #ffff66
     $accentColor = #006E54
 
     .newSection
@@ -61,8 +61,30 @@ export default {
                 li:before
                     display none
 
+            ul, ol
+
+                line-height 1.2
+                margin 0.1rem 0
+
+
+                li
+                    em
+                        background $highlightB
+                        color #333
+
+                    border-bottom unset
+                    padding .25rem 0
+
+
+            ul
+                margin-left -1.5rem !important
+
+            ol
+                margin-left -.5rem !important
+
             strong
-                color #bbb
+                opacity .4
+                font-weight normal
 
         .collapsed ~ article
             //font-size 0 !important
@@ -90,6 +112,10 @@ export default {
             margin-left 0 !important
             z-index 100
             box-shadow 4px 3px 5px #aaa
+            cursor pointer
+
+        .newSectionHeader:hover
+            background-color $accentColor
 
         .newSectionHeader::after
             position absolute
@@ -106,6 +132,7 @@ export default {
             font-family 'Montserrat', sans-serif
             font-style normal
             font-weight bold
+            transition .3s
 
         .collapsed .newSectionHeader::after
             transform rotate(0deg)

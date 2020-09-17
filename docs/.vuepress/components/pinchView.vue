@@ -26,7 +26,7 @@ export default {
 
 <style lang="stylus">
 
-    $highlightB = #fcdc9a
+    $highlightB = #ffff66
 
     .pinchView
 
