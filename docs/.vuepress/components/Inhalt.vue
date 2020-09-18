@@ -51,7 +51,7 @@ $highlightB = #ffff66
             h2 
                 font-size 0
                 opacity 0
-                transition .2s
+                transition .6s
 
 
 #inhalt 
