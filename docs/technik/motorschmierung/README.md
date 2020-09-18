@@ -1,38 +1,55 @@
 ---
 title: 'Motorschmierung'
-meta:
-  - name: description
-    content: 'Motorschmierung'
 ---
 
-::: slot pinchview
+<infoBox>
 
 # Motorschmierung
 
-*Die Motorschmierung dient der Verringerung von Reibung zwischen beweglichen Motorteilen von Verbrennungsmotoren sowie der Wärmeabführung aus den Lagerstellen und vom Kolben mittels Schmieröl. Darüber hinaus sollen mögliche Verschleißpartikel, Verbrennungsrückstände und sonstige Verschmutzungen in die Ölfilter gespült werden*. Für die Ausführung der Schmiersysteme kommen verschiedene Verfahren zum Einsatz.
+*Die Motorschmierung dient der Verringerung von Reibung zwischen beweglichen Motorteilen von Verbrennungsmotoren sowie der Wärmeabführung aus den Lagerstellen und vom Kolben mittels Schmieröl. Darüber hinaus sollen mögliche Verschleißpartikel, Verbrennungsrückstände und sonstige Verschmutzungen in die Ölfilter gespült werden.* Für die Ausführung der Schmiersysteme kommen verschiedene Verfahren zum Einsatz.
+
+</infoBox>
+
+<newSection title="Gemischschmierung">
 
 ## Gemischschmierung
 
-*Bei der Gemischschmierung wird das Schmieröl dem Kraftstoff im vorgeschriebenen Mischungsverhältnis (1:25/1:50 etc.) beigegeben. Das im Zweitaktgemisch enthaltende Öl gelangt an die Schmierstellen und wird mit verbrannt*. Die Mischungsschmierung wird heute noch bei kleinen Zweitaktmotoren (z.B. Rasenmäher, Motorsägen, Mofas, oä.) verwendet. Bei Pkw kam dieses System bis Ende der 1980er Jahre zum Einsatz – am bekanntesten sind wohl die DDR-Zweitakter wie Trabante, Wartburg oder Barkas.
-Der Vorteil ist die einfache Zubereitung des Gemisches (einfach Öl zum Treibstoff geben und etwas schütteln). *Nachteilig ist die Entmischung der beiden Komponenten bei langen Standzeiten*, welche auch durch dem Schmieröl zugesetzte spezielle Additive nicht vollständig verhindert werden kann. Eine Entmischung kann zwar durch erneutes Schütteln oder Durchrühren behoben werden; wird dies aber vergessen oder übersehen, können daraus Start- und Rundlaufprobleme bis hin zu Motorschäden resultieren.
+*Bei der Gemischschmierung wird das Schmieröl dem Kraftstoff im vorgeschriebenen Mischungsverhältnis (1:25/1:50 etc.) beigegeben. Das im Zweitaktgemisch enthaltende Öl gelangt an die Schmierstellen und wird mit verbrannt.* Die Mischungsschmierung wird heute noch bei kleinen Zweitaktmotoren (z.B. Rasenmäher, Motorsägen, Mofas, oä.) verwendet. Bei Pkw kam dieses System bis Ende der 1980er Jahre zum Einsatz – am bekanntesten sind wohl die DDR-Zweitakter wie Trabante, Wartburg oder Barkas.
+Der Vorteil ist die einfache Zubereitung des Gemisches (einfach Öl zum Treibstoff geben und etwas schütteln). *Nachteilig ist die Entmischung der beiden Komponenten bei langen Standzeiten,* welche auch durch dem Schmieröl zugesetzte spezielle Additive nicht vollständig verhindert werden kann. Eine Entmischung kann zwar durch erneutes Schütteln oder Durchrühren behoben werden; wird dies aber vergessen oder übersehen, können daraus Start- und Rundlaufprobleme bis hin zu Motorschäden resultieren.
+
+</newSection>
+
+<newSection title="Frischölschmierung">
 
 ## Frischölschmierung
 
-*Schmiermittel wird dem Kraftstoff durch eine Pumpe beigemischt und anschließend ebenfalls mit verbrannt* (Frischölautomatik, z. B. im DKW F102 verwendet). *Vorteile sind die immer frische Zubereitung des Gemisches sowie die exaktere Dosierung im Vergleich zur Gemischschmierung, wodurch die Schmierungseigenschaften immer konstant gehalten werden können sowie der Ölverbrauch reduziert und die Abgasqualität verbessert wird*. Nachteilig sind die etwas höheren Systemkosten. 
+*Schmiermittel wird dem Kraftstoff durch eine Pumpe beigemischt und anschließend ebenfalls mit verbrannt* (Frischölautomatik, z. B. im DKW F102 verwendet). *Vorteile sind die immer frische Zubereitung des Gemisches sowie die exaktere Dosierung im Vergleich zur Gemischschmierung, wodurch die Schmierungseigenschaften immer konstant gehalten werden können sowie der Ölverbrauch reduziert und die Abgasqualität verbessert wird.* Nachteilig sind die etwas höheren Systemkosten. 
 
 Die Frischölschmierung wird auch bei großen Zweitakt-Schiffsdieselmotoren für die Zylinderschmierung angewendet. Die Kurbelwelle und die übrigen Schmierstellen werden hierbei mit einer Nasssumpfschmierung (siehe unten) geschmiert.
+
+</newSection>
+
+<newSection title="Schleuderschmierung">
 
 ## Schleuderschmierung
 
 Bei einfachen Viertaktmotoren (sehr häufig Rasenmäher- und Aggregatmotoren) kommt häufig dieses sehr einfache Schmiersystem zur Anwendung. Bei Motoren mit horizontaler Kurbelwelle befindet sich am Pleuellager ein „Finger“. Die Schaufeln bzw. der „Finger“ laufen im Öl und schleudern es durch das Kurbelgehäuse, wodurch eine ausreichende Schmierung sichergestellt wird. Nachteilig ist, dass sich hier kein Ölfilter einsetzen lässt sowie die Schmierung bestimmter Lager (v. a. Kurbelwellen- und Pleuellager) nur durch ein erhöhtes Lagerspiel sicherstellen lässt.
 
+</newSection>
+
+<newSection title="Druckumlaufschmierung (Nasssumpfschmierung)">
+
 ## Druckumlaufschmierung (Nasssumpfschmierung)
 
-**Anwendung**: Viertaktmotor; *bei der großen Mehrheit der heute üblichen Auto- und Motorradmotoren wird dieses Schmiersystem verwendet. Hier wird das notwendige Schmiermittel unterhalb der Kurbelwelle in der Ölwanne mitgeführt. Die Ölpumpe saugt das Öl an, befördert es zum Ölfilter und von dort durch Kanäle an die Schmierstellen*; Bei Fahrzeugen, die hohe Längs- und Querbeschleunigungen erreichen können, werden auch mehrere in der Ölwanne verteilte Ölpumpen eingesetzt, damit in jeder Fahrsituation Öl angesaugt werden kann. Überschüssiges Öl tritt aus den Lagerstellen des unteren Pleuellagers aus und gelangt durch die Rotation der Kurbelwelle an die Zylinderlaufbahn und dem oberen Pleuellager. Die Kurbelwelle sorgt durch ihre Drehbewegung für eine zusätzliche Verwirbelung des Ölnebels im Zylinder-Kurbelgehäuse und damit zur Kühlung des Kolbens und Aufrechterhaltung des Ölfilms auf der Kolbenlaufbahn des Zylinders. Das abtropfende Öl wird wieder in der Ölwanne gesammelt. *Die Druckumlaufschmierung ist auch unter dem Namen Nasssumpfschmierung bekannt, als Abgrenzung zur Trockensumpfschmierung*.
+**Anwendung**: Viertaktmotor; *bei der großen Mehrheit der heute üblichen Auto- und Motorradmotoren wird dieses Schmiersystem verwendet. Hier wird das notwendige Schmiermittel unterhalb der Kurbelwelle in der Ölwanne mitgeführt. Die Ölpumpe saugt das Öl an, befördert es zum Ölfilter und von dort durch Kanäle an die Schmierstellen;* Bei Fahrzeugen, die hohe Längs- und Querbeschleunigungen erreichen können, werden auch mehrere in der Ölwanne verteilte Ölpumpen eingesetzt, damit in jeder Fahrsituation Öl angesaugt werden kann. Überschüssiges Öl tritt aus den Lagerstellen des unteren Pleuellagers aus und gelangt durch die Rotation der Kurbelwelle an die Zylinderlaufbahn und dem oberen Pleuellager. Die Kurbelwelle sorgt durch ihre Drehbewegung für eine zusätzliche Verwirbelung des Ölnebels im Zylinder-Kurbelgehäuse und damit zur Kühlung des Kolbens und Aufrechterhaltung des Ölfilms auf der Kolbenlaufbahn des Zylinders. Das abtropfende Öl wird wieder in der Ölwanne gesammelt. *Die Druckumlaufschmierung ist auch unter dem Namen Nasssumpfschmierung bekannt, als Abgrenzung zur Trockensumpfschmierung.*
 
-<YouTube videoid="-opsiUG12_8" />
+<YouTube videoid="-opsiUG12_8" desc="Druckumlaufschmierung"/>
 
-<YouTube videoid="Hh1isOWzCr8" />
+<YouTube videoid="Hh1isOWzCr8" desc="Motorschmierung"/>
+
+</newSection>
+
+<newSection title="Trockensumpfschmierung">
 
 ## Trockensumpfschmierung
 
@@ -52,9 +69,6 @@ Anwendung: Viertaktmotor; Ähnlich wie bei der Frischölschmierung wird hier das
 
 **Der Nachteil** der Trockensumpfschmierung ist, dass sie durch die zweite Ölpumpe und den separaten Behälter konstruktiv aufwendiger ist als die Druckumlaufschmierung. Daher wird sie meist nur in flachen Sportwagen, Motorrädern oder Geländefahrzeugen verwendet.
 
-<YouTube videoid="IU8-LauKK7g" start="20" />
+<YouTube videoid="IU8-LauKK7g" start="20" desc="Trockensumpfschmierung"/>
 
-:::
-
-<pinchView />
-
+</newSection>

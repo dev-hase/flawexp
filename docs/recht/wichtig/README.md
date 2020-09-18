@@ -87,10 +87,10 @@ Die gängisten Paragraphen im Überblick
 			- bb) alle Kraftfahrzeuge mit Anhänger, ausgenommen Personenkraftwagen, Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t, sowie
 			- cc) Kraftomnibusse mit Fahrgästen, für die keine Sitzplätze mehr zur Verfügung stehen,
 
-			- *60 km/h,*
+			*60 km/h,*
 		- c) für Personenkraftwagen sowie für andere Kraftfahrzeuge mit einer zulässigen Gesamtmasse bis 3,5 t
 
-			- *100 km/h.*
+			*100 km/h.*
 
 - Diese Geschwindigkeitsbeschränkung gilt nicht auf Autobahnen (Zeichen 330.1) sowie auf anderen Straßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind. Sie gilt ferner nicht auf Straßen, die mindestens zwei durch Fahrstreifenbegrenzung (Zeichen 295) oder durch Leitlinien (Zeichen 340) markierte Fahrstreifen für jede Richtung haben.
 
@@ -129,6 +129,22 @@ oder nach deren Zeichen Höchstgeschwindigkeiten (Zeichen 274) bestehen.
 ## Fahrschüler-Ausbildungsordnung
 
 </infoBox>
+
+<newSection title="§ 1 Ziel und Inhalt der Ausbildung" addClass="law">
+
+## § 1 Ziel und Inhalt der Ausbildung
+ 
+- *(1) Ziel der Ausbildung ist die Befähigung zum sicheren, verantwortungsvollen und umweltbewussten Verkehrsteilnehmer. Ziel der Ausbildung ist außerdem die Vorbereitung auf die Fahrerlaubnisprüfung.*
+- (2) Die Ausbildung hat ein Verkehrsverhalten zu vermitteln, das
+	- 1. Fähigkeiten und Fertigkeiten, um das Fahrzeug auch in schwierigen Verkehrssituationen zu beherrschen,
+	- 2. Kenntnis, Verständnis und Anwendung der Verkehrsvorschriften,
+	- 3. Fähigkeiten und Fertigkeiten zur Wahrnehmung und Kontrolle von Gefahren einschließlich ihrer Vermeidung und Abwehr,
+	- 4. Wissen über die Auswirkungen von Fahrfehlern und eine realistische Selbsteinschätzung,
+	- 5. Bereitschaft und Fähigkeit zum rücksichtsvollen und partnerschaftlichen Verhalten und das Bewusstsein für die Bedeutung von Emotionen beim Fahren und
+	- 6. Verantwortung für Leben und Gesundheit, Umwelt und Eigentum
+- einschließt.
+
+</newSection>
 
 <newSection title="§ 3 Allgemeine Ausbildungsgrundsätze" addClass="law">
 
