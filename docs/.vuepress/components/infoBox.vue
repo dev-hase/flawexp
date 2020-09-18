@@ -16,13 +16,13 @@ export default {
 <style lang="stylus">
   
     $highlight = #eff7ad
-    $accentColor = #006E54
+    $accentColor = #375555
 
     .infoBox
         border 1px solid #333
         box-shadow 4px 3px 5px #aaa
         background-color $accentColor
-        background linear-gradient(0deg, $accentColor 10%, darken($accentColor, 25%) 100%)
+        background linear-gradient(125deg, darken($accentColor, 20%) 75%, lighten($accentColor, 5%) 100%)
         color #eee
 
 
@@ -42,11 +42,14 @@ export default {
 
         ul
             margin .5rem
-            background #6d9171
+            background #99a393
 
             em
                 background $accentColor
                 color $highlight
+            li
+                border-bottom none
+
             li:before
                 filter invert(95%) !important
 

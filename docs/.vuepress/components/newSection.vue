@@ -40,7 +40,10 @@ export default {
 <style lang="stylus">
 
     $highlightB = #ffff66
-    $accentColor = #006E54
+    $accentColor = #375555
+
+    .newSection:last-of-type
+        margin-bottom 2rem
 
     .newSection
 
@@ -56,6 +59,7 @@ export default {
             border 1px solid #333
             padding 0 .5rem
             box-shadow 4px 3px 5px #aaa
+            background #fff
 
         .law 
             ul
@@ -109,6 +113,8 @@ export default {
             padding-bottom 1.75rem !important
             padding-right 3rem !important
             background #333
+            background-image linear-gradient(120deg, #222 80%, #444 100%)
+            background-image linear-gradient(120deg, $accentColor 80%, lighten($accentColor, 20%) 100%)
             color #eee
             margin-left 0 !important
             z-index 100
@@ -120,7 +126,8 @@ export default {
 
         .newSectionHeader:hover
             background-color $accentColor
-
+            background-image linear-gradient(120deg, darken($accentColor, 15%) 80%, lighten($accentColor, 10%) 100%)
+            //background-image linear-gradient(120deg, #222 80%, #444 100%)
         .newSectionHeader::after
             position absolute
             display inline-block

@@ -10,7 +10,7 @@ mjx-container
 
 body, html
     //background-image url('/img/grunge.png')
-    //background #eee
+    background #eee
     font-size .9rem !important
     @media (max-width $MQMobile)
         letter-spacing -1px
@@ -78,7 +78,8 @@ em
 
 
         em
-            background #444
+            //background #444
+            background darken($accentColor, 5%)
             background-image url('/img/highlight.png')
             color #fff
             
@@ -286,68 +287,7 @@ img
 
         
 
-.home
 
-    padding 0 !important
-    margin 0 !important
-    max-width 100vw !important
-    background #7d7573
-
-    .description, .footer, #main-title
-        color #000 !important
-
-    .footer
-        border-top none !important
-
-    .hero
-        padding 1rem 0
-        background #7d7573
-        background-image url('/img/hero.jpg')
-        background-image linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(103,96,94,0) 75%,rgba(125,117,115,1) 100%), url('/img/hero.jpg')
-        background-size cover
-        background-repeat no-repeat
-        background-position center
-        
-        img
-            margin-top 7rem !important
-
-    #main-title
-        position relative
-        font-size 6rem !important
-        font-style italic
-        text-shadow 2px 3px 3px #777 !important
-        @media (max-width $MQMobile)
-            font-size 4.5rem !important
-            
-    #main-title:after
-        position absolute
-        display inline-block
-        margin-left -.75rem
-        margin-top -.25rem
-        content 'BE'
-        color #eee !important
-        background tint($accentColor, 20%)
-        border-radius 50%
-        padding .5rem
-        font-size 1.75rem
-        text-shadow none
-        border 1px solid #333
-        box-shadow 2px -1px 3px #333
-        z-index 200
-        //transform rotate(-2deg) !important
-        @media (max-width $MQMobile)
-            margin-left -1.5rem
-            margin-top -1rem
-
-    .description
-        font-size 2.3rem !important
-        text-shadow 2px 3px 3px #777 !important
-        margin-top -2rem !important
-        @media (max-width $MQMobile)
-            font-size 1.8rem !important
-
-.inhaltsangabe .page .theme-default-content
-    max-width 100vw
     
 
 

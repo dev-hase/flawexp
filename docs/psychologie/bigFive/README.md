@@ -6,10 +6,6 @@ title: 'Big Five'
 
 # Big Five / Fünf-Faktoren-Modell (FFM)
 
-Die Entwicklung der Big Five begann bereits in den 1930er Jahren mit dem lexikalischen Ansatz, den Louis Thurstone, Gordon Allport und Henry Sebastian Odbert verfolgten. Diesem liegt die Auffassung zugrunde, dass sich Persönlichkeitsmerkmale in der Sprache niederschlagen; d. h. es wird angenommen, dass alle wesentlichen Unterschiede zwischen Personen bereits im Wörterbuch durch entsprechende Begriffe repräsentiert sind. Auf der Basis von Listen mit über 18.000 Begriffen wurden durch Faktorenanalyse fünf sehr stabile, unabhängige und weitgehend kulturstabile Faktoren gefunden: die Big Five.
-
-Die Big Five wurden später durch eine Vielzahl von Studien belegt und gelten heute international als das universelle Standardmodell in der Persönlichkeitsforschung. Sie wurden innerhalb der letzten zwanzig Jahre in über 3.000 wissenschaftlichen Studien verwendet.
-
 *Bei den Big Five handelt es sich um ein Modell der Persönlichkeitspsychologie. Im Englischen wird es auch als OCEAN-Modell bezeichnet (nach den entsprechenden Anfangsbuchstaben Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism).*
 
 Ihm zufolge existieren *fünf Hauptdimensionen der Persönlichkeit* und jeder Mensch lässt sich auf folgenden Skalen einordnen:
@@ -77,3 +73,7 @@ Die verträgliche Seite der Dimension scheint sozial erwünschter zu sein. Denno
 - schwach ausgeprägt: *eher ruhig, zufrieden, stabil, entspannt und selbstsicher, erleben seltener negative Gefühle.* 
 
 </newSection>
+
+Die Entwicklung der Big Five begann bereits in den 1930er Jahren mit dem lexikalischen Ansatz, den Louis Thurstone, Gordon Allport und Henry Sebastian Odbert verfolgten. Diesem liegt die Auffassung zugrunde, dass sich Persönlichkeitsmerkmale in der Sprache niederschlagen; d. h. es wird angenommen, dass alle wesentlichen Unterschiede zwischen Personen bereits im Wörterbuch durch entsprechende Begriffe repräsentiert sind. Auf der Basis von Listen mit über 18.000 Begriffen wurden durch Faktorenanalyse fünf sehr stabile, unabhängige und weitgehend kulturstabile Faktoren gefunden: die Big Five.
+
+Die Big Five wurden später durch eine Vielzahl von Studien belegt und gelten heute international als das universelle Standardmodell in der Persönlichkeitsforschung. Sie wurden innerhalb der letzten zwanzig Jahre in über 3.000 wissenschaftlichen Studien verwendet.

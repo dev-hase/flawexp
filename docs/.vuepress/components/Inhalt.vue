@@ -43,7 +43,15 @@ $highlightB = #ffff66
 
 @media (max-width $MQMobile)
     .hideTopic > .unterpunkte
-        display none
+        .thema-unterpunkt
+            //display none
+            height 0
+            padding 0
+            margin 0
+            h2 
+                font-size 0
+                opacity 0
+                transition .2s
 
 
 #inhalt 
@@ -91,6 +99,8 @@ $highlightB = #ffff66
             display grid
             grid-template-columns 1fr 1fr
             background #222
+            //background-color #222 !important
+        
 
             h1
                 grid-row 1
@@ -101,6 +111,7 @@ $highlightB = #ffff66
 
             .unterpunkte
                 padding 1.5rem
+
 
 
 #inhalt
@@ -120,7 +131,10 @@ $highlightB = #ffff66
 .thema
 
     h1
-        background #111
+
+        background-color #222 !important
+        background linear-gradient(-95deg, #222 70%, #444 100%) !important
+
         color white
         padding 1rem 1.5rem .25rem
         margin 0
@@ -135,7 +149,7 @@ $highlightB = #ffff66
 
     img
         min-widht 100%
-        transition 1.3s
+        transition 2s
 
         @media (max-width $MQMobile)
             filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%) !important
@@ -154,6 +168,7 @@ $highlightB = #ffff66
     border-bottom 0 
     font-size 1.25rem
     font-style normal 
+    transition .7s
     @media (max-width $MQNarrow)
       font-size 1.1rem
       
@@ -168,6 +183,72 @@ $highlightB = #ffff66
 
 .unterpunkte
     margin-top -.25rem
+
+
+
+.home
+
+    padding 0 !important
+    margin 0 !important
+    max-width 100vw !important
+    background #7d7573
+    background linear-gradient(180deg, #7d7573 30%, darken(#7d7573, 20%) 100%) !important
+
+    .description, .footer, #main-title
+        color #000 !important
+
+    .footer
+        border-top none !important
+
+    .hero
+        padding 1rem 0
+        background #7d7573
+        background-image url('/img/hero.jpg')
+        background-image linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(103,96,94,0) 75%,rgba(125,117,115,1) 100%), url('/img/hero.jpg')
+        background-size cover
+        background-repeat no-repeat
+        background-position center
+        
+        img
+            margin-top 7rem !important
+
+    #main-title
+        position relative
+        font-size 6rem !important
+        font-style italic
+        text-shadow 2px 3px 3px #777 !important
+        @media (max-width $MQMobile)
+            font-size 4.5rem !important
+            
+    #main-title:after
+        position absolute
+        display inline-block
+        margin-left -.75rem
+        margin-top -.25rem
+        content 'BE'
+        color #eee !important
+        background tint($accentColor, 20%)
+        border-radius 50%
+        padding .5rem
+        font-size 1.75rem
+        text-shadow none
+        border 1px solid #333
+        box-shadow 2px -1px 3px #333
+        z-index 200
+        //transform rotate(-2deg) !important
+        @media (max-width $MQMobile)
+            margin-left -1.5rem
+            margin-top -1rem
+
+    .description
+        font-size 2.3rem !important
+        text-shadow 2px 3px 3px #777 !important
+        margin-top -2rem !important
+        @media (max-width $MQMobile)
+            font-size 1.8rem !important
+
+.inhaltsangabe .page .theme-default-content
+    max-width 100vw
 
 
 </style>
