@@ -98,7 +98,7 @@ export default {
             p, ul, ol, li, em
                 font-size 0 !important
 
-            ul, ol, li, em
+            ul, ol, li, em, img
                 display none
 
             .video-box, h3, iframe

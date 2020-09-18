@@ -18,6 +18,18 @@ Sie beeinflussen maßgeblich das Fahrverhalten eines Fahrzeugs. Reifen werden in
 
 </infoBox>
 
+<newSection title="7-Grad-Empfehlung">
+
+## 7-Grad-Empfehlung
+
+Jahrzehntelang wurde in den Medien die These vertreten, Winterreifen hätten bei Temperaturen unter 7 °C bessere Eigenschaften als Sommerreifen (sogenannte „Sieben-Grad-Empfehlung“). Diese Aussage wurde jedoch durch Tests widerlegt.
+
+*Auch bei Temperaturen knapp über dem Gefrierpunkt können mit Sommerreifen sowohl auf nasser als auch auf trockener Fahrbahn kürzere Bremswege erzielt werden als mit vergleichbaren Winterreifen. Der Bremsweg von Winterreifen auf Schnee und Eis ist dagegen deutlich kürzer als der von Sommerreifen. Die Griffigkeit des Straßenbelags hat also einen größeren Einfluss auf die Traktionseigenschaften der Reifen als die reine Umgebungstemperatur. Besonders in Kombination mit einer verschmutzten oder staubigen Straßenoberfläche können Niederschläge die Straßenhaftung zu allen Jahreszeiten deutlich herabsetzen.*
+
+Die 7-Grad-Empfehlung (und ebenso die „O-bis-O-Regel“ – „von Oktober bis Ostern“) kann bzw. soll Autofahrer daran erinnern, ihre Reifen rechtzeitig vor den ersten Schneefällen und dem winterlichen Kälteeinbruch zu wechseln. Zu diesem Zeitpunkt sind KFZ-Werkstätten und der Reifenhandel vielerorts überlastet und es bedarf zum Reifenwechsel der Vereinbarung eines Termins.	
+
+</newSection>
+
 <YouTube videoid="lDGGluOwDOw" start="17" end="327" desc="Kennungen und Maßeinheiten"/>
 
 In Mitteleuropa fahren Autos meist auf asphaltierten Straßen mit einer Oberflächentemperatur zwischen -15 °C und +60 °C. Die Straßen können verschiedene Feuchtigkeitsgrade aufweisen, im Winter können sie von Neuschnee, festgefahrenem Schnee und/oder Eis bedeckt sein. Theoretisch gäbe es für jede Fahrsituation einen eigenen optimierten Reifen. 
@@ -175,9 +187,9 @@ Ein Radialreifen wird durch folgende Angaben bestimmt:
 
 </infoBox>
 
-<newSection title="Reifenbezeichnungen">
+<newSection title="Beispiel für Reifenbezeichnungen">
 
-## Reifenbezeichnungen
+## Beispiel für Reifenbezeichnungen
 
 Alle Daten sind seitlich auf dem Autoreifen angebracht. Die Art der Beschriftung wird durch die ECE 30 (bzw. ECE 54 für LKW ab 80 km/h) geregelt. Dabei bilden Breite, Verhältnis und Felgendurchmesser die Reifengrößenbezeichnung. Tragfähigkeitsindex und Geschwindigkeitskategorie bilden die Betriebskennung.
 
@@ -199,7 +211,12 @@ R: Radiale Bauweise der Reifenkarkasse. Ein D kennzeichnet die diagonale Bauweis
 - *DOT-Nummer:* Verschlüsselter Herstellercode; zeigt außerdem an, dass der Reifen den Anforderungen des US-amerikanischen Department of Transportation (DOT) genügt; die vier letzten Ziffern nennen das Produktionsdatum (DOT xxxx 3204 = 32. Woche 2004)
 - *M+S:* Matsch + Schnee-Reifen, Winterreifen (das sagt jedoch nichts über die Wintertauglichkeit aus, da keine geschützte Bezeichnung)
 - *ROF:* „Run on flat“, Run-Flat-Reifen
+- *SST:* Self Supporting Tire = Run-Flat-Reifen (mit verstärkter Seitenwand)
+- *T:* Abk. „Temporär“ für: Noträder
+- *Tubeless:* (TL) schlauchlos
+- *s:* „Sound“, Reifen mit Zertifikat für verminderte Lärmemissionen
 - *TWI:* Profilabnutzungsanzeige oder Reifenverschleißanzeige in Hauptprofilrillen (Tread Wear Indicator)
 - *ZP:* Zero Pressure (Reifen mit Notlaufeigenschaften)
+- *ZR:* Verstärkter Radialreifen für Geschwindigkeiten über 240 km/h
 
 </newSection>

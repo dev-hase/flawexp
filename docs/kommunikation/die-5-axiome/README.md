@@ -1,19 +1,20 @@
 ---
 title: 'Metakommunikatives Axiom'
-meta:
-  - name: description
-    content: 'Metakommunikatives Axiom, Die fünf Axiome'
 ---
 
-::: slot pinchview
+<infoBox>
 
 # Metakommunikatives Axiom, die fünf Axiome
 
-*Die fünf metakommunikativen Axiome der Psychologen Paul Watzlawick, Janet H. Beavin und Don D. Jackson fassen einige grundsätzliche Erkenntnisse zur zwischenmenschlichen Kommunikation zusammen*. Die Axiome gehen insbesondere auf den Beziehungsaspekt der Kommunikation ein und sind dem Begriff der Metakommunikation zuzuordnen. 
+*Die fünf metakommunikativen Axiome der Psychologen Paul Watzlawick, Janet H. Beavin und Don D. Jackson fassen einige grundsätzliche Erkenntnisse zur zwischenmenschlichen Kommunikation zusammen.* Die Axiome gehen insbesondere auf den Beziehungsaspekt der Kommunikation ein und sind dem Begriff der Metakommunikation zuzuordnen. 
 
-## Die fünf Axiome
+</infoBox>
 
-1. *Nicht kommunizieren ist unmöglich*
+<YouTube videoid="GydVGIDyEQ0" desc="Die fünf Axiome"/>
+
+<newSection title="1. Nicht kommunizieren ist unmöglich">
+
+## 1. Nicht kommunizieren ist unmöglich
 
 *„Man kann nicht nicht kommunizieren!“*
 
@@ -21,7 +22,11 @@ Sobald zwei Personen eine Situation teilen, sich am gleichen Ort aufhalten, komm
 
 Menschen, die trotzdem versuchen Kommunikation zu vermeiden, tun ungefähr Folgendes: Sie verändern ihre Kommunikation bzw. ihr Verhalten, indem sie unübliches Verhalten praktizieren. Beispielsweise schweigen sie hartnäckig, sondern sich ab oder verharren regungslos. Wenn sie etwas mitteilen, dann so, dass der andere irritiert ist oder die Bedeutung ihrer Mitteilung nicht versteht. Dieser Zusammenhang mit Vermeiden von Kommunikation ist der Schlüssel zu mancher Kommunikation von Schizophrenen.
 
-2. *Inhalt und Beziehung*
+</newSection>
+
+<newSection title="2. Inhalt und Beziehung">
+
+## 2. Inhalt und Beziehung
 
 *„Jede Kommunikation hat einen Inhalts- und einen Beziehungsaspekt, wobei Letzterer den Ersteren bestimmt.“*
 
@@ -31,11 +36,15 @@ Folgende Mitteilungen können den Unterschied veranschaulichen: „Es ist wichti
 
 Der Inhaltsaspekt stellt das ‚Was‘ einer Mitteilung dar. Der Beziehungsaspekt sagt etwas darüber aus, wie der Sender diese Mitteilung vom Empfänger verstanden haben möchte und wie die emotionale Beziehung zwischen den Kommunikationspartnern aus Sicht des Senders beschaffen ist. Daraus wird gefolgert, dass der Beziehungsaspekt bestimmt, wie der Inhalt zu interpretieren ist. Kommunikation gelingt, wenn Inhalts- und Beziehungsaspekt ein funktionierendes Ganzes ergeben und kongruent sind, also übereinstimmen. Sie misslingt, wenn ein Kommunikationspartner auf den beiden Ebenen verschiedene oder gegensätzliche Botschaften sendet, oder wenn sein Gesprächspartner die Botschaften anders interpretiert.
 
-3. *Interpunktion*
+</newSection>
+
+<newSection title="3. Interpunktion">
+
+## 3. Interpunktion
 
 *„Die Natur einer Beziehung ist durch die Interpunktionen der Kommunikationsabläufe seitens der Partner bedingt.“*
 
-Außer den Sachverhalten, dass kommunizieren unvermeidlich ist und die persönliche Beziehung die Interpretation von Inhalten steuert, ist die 'Interpunktion' einer Kommunikation mit einzubeziehen. *Mit 'Interpunktion' bezeichnet die Kommunikationswissenschaft den Startpunkt einer kreisförmigen, sich wiederholenden Kommunikation*.
+Außer den Sachverhalten, dass kommunizieren unvermeidlich ist und die persönliche Beziehung die Interpretation von Inhalten steuert, ist die 'Interpunktion' einer Kommunikation mit einzubeziehen. *Mit 'Interpunktion' bezeichnet die Kommunikationswissenschaft den Startpunkt einer kreisförmigen, sich wiederholenden Kommunikation.*
 
 Die Gesprächspartner gliedern den Kommunikationsablauf unterschiedlich, indem sie z. B. den Anfang eines Konfliktes zu jeweils verschiedenen Zeitpunkten setzen. Ihr eigenes Verhalten interpretieren sie dann, als Reaktion auf den von ihnen gesetzten Anfang. So wird es möglich, die Ursache für die eigene Reaktion dem anderen zuzuschieben. Dieses Verhalten ist „die Wurzel vieler Beziehungskonflikte“.
 
@@ -45,13 +54,17 @@ Beide gehen davon aus, dass das Verhalten des anderen und die eigene Reaktion ur
 
 Die Anwendung des Kausalprinzips wie im erwähnten Beispiel führt zur Feststellung eines gegenseitigen Abhängigkeitsverhältnisses (Interdependenz). Es ergibt sich eine Patt-Situation. Es wird nicht gemerkt, was wirklich los ist. Gelingende Kommunikation findet statt, wenn beide Partner sie 'kreisförmig' als 'unendliches Spiel' vollziehen können. Sie misslingt, wenn die Partner an unterschiedlichen Punkten des Kommunikationsablaufes einen Einschnitt vornehmen und jeweils für sich sagen: „Hier hat es angefangen, das ist die Ursache.
 
-4. *Digital und analog*
+</newSection>
+
+<newSection title="4. Digital und analog">
+
+## 4. Digital und analog
 
 *„Menschliche Kommunikation ist digital und analog.“*
 
 „Wir dürfen … vermuten, dass der Inhaltsaspekt digital übermittelt wird, der Beziehungsaspekt dagegen vorwiegend analoger Natur ist.“
 
-Anders gesagt: *Nicht nur das gesprochene Wort, sondern auch die nonverbalen Äußerungen (z. B. Lächeln, Wegblicken,…) teilen etwas mit*.
+Anders gesagt: *Nicht nur das gesprochene Wort, sondern auch die nonverbalen Äußerungen (z. B. Lächeln, Wegblicken,…) teilen etwas mit.*
 
 Von dem Psychologen Robert Rosenthal stammt folgende Begebenheit, die 'digitale' und 'analoge' Mitteilungen illustriert: Es geht um den Klugen Hans, ein Pferd, berühmt dafür, dass es Rechenaufgaben lösen konnte. Wurde ihm eine solche gestellt, so klopfte es das Ergebnis mit dem Huf auf den Boden. Rosenthal, der davon ausging, dass dies ohne Signale nicht funktionieren könne, sah genauer hin. Er beobachtete, dass das Pferd erst zu klopfen anfing, wenn sein Besitzer auf dessen Huf blickte. Es hörte wieder auf, wenn dieser seinen Kopf unmerklich hob und nach oben sah. „Die nie ausbleibende Verblüffung und der Stolz seines Herrn dürften für den Klugen Hans höchste wirksame Verhaltensverstärkungen gewesen sein.“ Die Redlichkeit des Besitzers stand außer Frage.
 
@@ -61,13 +74,18 @@ Die Bezeichnungen 'digital' bzw. 'analog' können auch mit den Merkmalen künstl
 
 „Es besteht kein Zweifel, dass die meisten, wenn nicht alle menschlichen Errungenschaften ohne die Entwicklung digitaler Kommunikation undenkbar wären. Das gilt ganz besonders für die Übermittlung von Wissen von einer Person zu anderen und von einer Generation zur nächsten.“
 
-*Die digitale Kommunikation umfasst komplexeres, vielseitigeres und abstrakteres Material, als die analoge. Die logische Syntax als Mittel der Eindeutigkeit gibt es nur in digitalen Kommunikationen. Die Analogiesprache bzw. alles was nonverbal, auch zeichnerisch kommuniziert wird, besitzt derartige Eigenschaften nicht. Sie ist mehrdeutig, sie muss in jeder Situation neu interpretiert werden*. Es gibt Tränen des Schmerzes und Tränen der Freude, eine geballte Faust kann Drohung oder Selbstbeherrschung bedeuten, ein Lächeln Sympathie oder Verachtung ausdrücken. Die Analogiesprache gibt keine Hinweise darauf, welche Bedeutung gemeint ist. Mit analogen Elementen werde häufig die Beziehungsebene vermittelt, mit digitalen die Inhaltsebene.
+*Die digitale Kommunikation umfasst komplexeres, vielseitigeres und abstrakteres Material, als die analoge. Die logische Syntax als Mittel der Eindeutigkeit gibt es nur in digitalen Kommunikationen. Die Analogiesprache bzw. alles was nonverbal, auch zeichnerisch kommuniziert wird, besitzt derartige Eigenschaften nicht. Sie ist mehrdeutig, sie muss in jeder Situation neu interpretiert werden.* Es gibt Tränen des Schmerzes und Tränen der Freude, eine geballte Faust kann Drohung oder Selbstbeherrschung bedeuten, ein Lächeln Sympathie oder Verachtung ausdrücken. Die Analogiesprache gibt keine Hinweise darauf, welche Bedeutung gemeint ist. Mit analogen Elementen werde häufig die Beziehungsebene vermittelt, mit digitalen die Inhaltsebene.
 
-5. *Symmetrisch oder komplementär*
+
+</newSection>
+
+<newSection title="5. Symmetrisch oder komplementär">
+
+## 5. Symmetrisch oder komplementär
 
 *„Zwischenmenschliche Kommunikationsabläufe sind entweder symmetrisch oder komplementär.“*
 
-*Beziehungen zwischen Partnern basieren entweder darauf, dass sie diese gleichrangig oder nicht gleichrangig gestalten. Die unterschiedlichen Beziehungsmuster steuern auch ihre Kommunikation. Gleichrangige Beziehungen werden als 'symmetrisch', nicht gleichrangige als 'komplementär' bezeichnet*. In Beziehungen unter Gleichrangigen (Freunden, Ehepartnern, Kollegen, Nachbarn …) wird überwiegend symmetrisch kommuniziert. In Beziehungen zwischen nicht gleichrangigen Gesprächspartnern (Eltern-Kind, Vorgesetzter-Untergebener, Arzt-Patient, Lehrer-Schüler …) überwiegen komplementäre Kommunikationsformen. Welche Kommunikationsform jeweils wirksam ist, lässt sich in der Praxis – vor allem bei Ehepaaren – nicht immer eindeutig identifizieren. Auch Fachleute kommen zu unterschiedlichen Bewertungen über die zutreffende Kommunikationsform.
+*Beziehungen zwischen Partnern basieren entweder darauf, dass sie diese gleichrangig oder nicht gleichrangig gestalten. Die unterschiedlichen Beziehungsmuster steuern auch ihre Kommunikation. Gleichrangige Beziehungen werden als 'symmetrisch', nicht gleichrangige als 'komplementär' bezeichnet.* In Beziehungen unter Gleichrangigen (Freunden, Ehepartnern, Kollegen, Nachbarn …) wird überwiegend symmetrisch kommuniziert. In Beziehungen zwischen nicht gleichrangigen Gesprächspartnern (Eltern-Kind, Vorgesetzter-Untergebener, Arzt-Patient, Lehrer-Schüler …) überwiegen komplementäre Kommunikationsformen. Welche Kommunikationsform jeweils wirksam ist, lässt sich in der Praxis – vor allem bei Ehepaaren – nicht immer eindeutig identifizieren. Auch Fachleute kommen zu unterschiedlichen Bewertungen über die zutreffende Kommunikationsform.
 
 Jede Kommunikationsform hat ihre eigenen Merkmale. In symmetrischen Kommunikationen streben die Partner, während sie sich aufeinander beziehen, nach gleichwertiger Aktivität im Gesprächsablauf und nach inhaltlich gleichwertigen Mitteilungen. Dies kann in beruflichen, wie in privaten Kommunikationen beobachtet werden, wenn es z. B. darum geht, gemeinsam eine Aufgabe bzw. ein Problem zu lösen.
 
@@ -87,8 +105,6 @@ Komplementäres Kommunizieren zwischen Eltern und Kindern ist für Kinder im Fr�
 
 Symmetrisch bzw. komplementär – wie auch die anderen Axiome – gelten als heuristische Prinzipien. Heuristische Prinzipien sind Annahmen, bzw. problemlösende Hypothesen für wissenschaftliche Projekte. Im vorliegenden Fall soll mit diesen Axiomen die menschliche Kommunikation erforscht werden.
 
-<YouTube videoid="GydVGIDyEQ0" />
+</newSection>
 
-:::
 
-<pinchView />
