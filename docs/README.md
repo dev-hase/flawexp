@@ -17,6 +17,8 @@ footer: Copyright © 2020-present Daniel Schmidt
 
 <Inhalt pfad="/verkehrsverhalten/" bild="verkehrsverhalten.jpg" titel="Verkehrsverhalten" />
 
+<Inhalt pfad="/anhaenger/" bild="anhaenger.jpg" titel="Anhänger" />
+
 <Inhalt pfad="/technik/" bild="technik.jpg" titel="Technik" />
 
 <Inhalt pfad="/recht/" bild="recht.jpg" titel="Recht" />

@@ -84,6 +84,12 @@ module.exports = {
               ]
             },
             {
+              title: 'Anhänger',
+              children: [
+                ['/anhaenger/wichtiges/', 'Wichtiges zum Anhänger'],
+              ]
+            },            
+            {
               title: 'Technik',
               children: [
                 ['/technik/begriffe/', 'Begriffe'],
