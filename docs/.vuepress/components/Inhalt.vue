@@ -158,13 +158,16 @@ $highlightB = #ffff66
         @media (min-width $MQMobile)
             filter unset !important
             transition 1s
-        
+
+.thema-unterpunkt a
+    padding 0 !important
+    background none !important 
 
 .thema-unterpunkt h2
     background #222
     color white
     padding .5rem .75rem 
-    margin 1px 0
+    margin 1px 0 !important
     border-bottom 0 
     font-size 1.25rem
     font-style normal 
