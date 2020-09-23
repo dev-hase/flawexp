@@ -80,6 +80,7 @@ module.exports = {
               title: 'Verkehrsverhalten',
               children: [
                 ['/verkehrsverhalten/begriffe/', 'Begriffe'],
+                ['/verkehrsverhalten/unfall/', 'Verkersunfall'],
                 ['/verkehrsverhalten/bf17/', 'BF 17'],
                 ['/verkehrsverhalten/videos/', 'Videos'],
               ]
