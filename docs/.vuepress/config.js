@@ -87,6 +87,7 @@ module.exports = {
               title: 'Anhänger',
               children: [
                 ['/anhaenger/wichtiges/', 'Wichtiges zum Anhänger'],
+                ['/anhaenger/ladung/', 'Ladungssicherung'],
               ]
             },            
             {
@@ -104,7 +105,6 @@ module.exports = {
                 ['/technik/motorschmierung/', 'Motorschmierung'],
                 ['/technik/turbolader/', 'Turbolader'],
                 ['/technik/bba/', 'Betriebsbremsanlage (BBA)'],
-                ['/technik/auflaufbremse/', 'Auflaufbremse'],
                 ['/technik/fa/', 'Fahrassistenzsysteme'],
                 ['/technik/kammscher_kreis/', 'Kammscher Kreis'],
                 

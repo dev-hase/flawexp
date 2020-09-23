@@ -66,7 +66,7 @@ Die Fahrzeugkombination mit höchstens 1m Abstand des breiteren Fahrzeugs parall
 - Zugfahrzeug max. 3500 Kg und Anhänger mehr als 750 Kg > Kombination max. 3500 Kg
 - Zugfahrzeug max. 3500 Kg und Anhänger max. 750 Kg > Kombination max. 4250 Kg
 
-### B96
+### B mit Schlüsselzahl 96
 
 - Zugfahrzeug max. 3500 Kg und Anhänger mehr als 750 Kg > Kombination max. 4250 Kg
 
@@ -124,9 +124,44 @@ Wenn der Anhänger übermäßig auf die Anhängerkupplung drückt, dann erkennt 
 
 </newSection>
 
-<newSection title="Verbinden, Trennen, Abfahrtkontrolle">
+<newSection title="Verbinden">
 
-## Verbinden, Trennen, Abfahrtkontrolle
+## Verbinden
+
+- Einweiser einteilen / Das Zugfahrzeug heranfahren
+- Die Feststellbremse am Anhänger lösen und ggf. die Unterlegkeile verschieben
+- Den Anhänger ankuppeln
+- Sichereung der Kupplung prüfen, ggf. Deichsel anheben (das Stützrad herunterdrehen), um zu kontrollieren, ob die Kupplungsklaue den Kupplungskopf sicher umschlossen hat und die Sicherung eingerastet ist.
+- Das Abreißseil einhängen
+- Das Stützrad einfahren und ggf. sichern
+- Die elektrische Verbindung herstellen
+- Die Unterlegkeile wegnehmen und befestigen
+- Funktion der Beleuchtungseinrichtung des Anhängers prüfen
+- Bremsprobe (ab ca. 20-25 km/h funktioniert das Bremssystem, der Anhänger darf max. 2/3 des Auflaufweges auflaufen!)
+
+*Nicht zwischen Anhänger und Pkw durchgehen! Handschuhe und Warnweste sind aus Sicherheitsgründen zu tragen.*
+
+<YouTube start="8" videoid="0aqTFGRJydI" desc="Verbinden"/>
+
+</newSection>
+
+<newSection title="Trennen">
+
+## Trennen
+
+- Zugfahrzeug sichern
+- Anhänger sichern (Feststellbremse, Unterlegkeile)
+- Stützrad ausfahren
+- Kupplung öffnen / Elektroanschluss trennen / Abreißseil aushängen
+- Deichsel hochkurbeln
+
+<YouTube start="8" videoid="1Ux9ZPmqjZg" desc="Trennen"/>
+
+</newSection>
+
+<newSection title="Abfahrtkontrolle">
+
+## Abfahrtkontrolle
 
 ### Reifenkontrolle
 
@@ -158,10 +193,19 @@ Massefehler lassen sich erkennen, indem man alle Lichter nacheinander einschalte
 - Dach auf Schnee, Wasser, Äste oder andere Fremdkörper kontrollieren und ggf. entfernen
 - sind Spriegelbretter und Planengestell verbogen, beschädigt oder fehlen?
 
-<YouTube start="8" videoid="0aqTFGRJydI" desc="Verbinden"/>
-
-<YouTube start="8" videoid="1Ux9ZPmqjZg" desc="Trennen"/>
-
 <YouTube start="8" videoid="uBOd2DSvY9g" desc="Abfahrtkontrolle"/>
 
 </newSection>
+
+<newSection title="Auflaufbremse">
+
+## Auflaufbremse
+
+Auflaufbremsen werden für PKW-Anhänger, leichtere LKW-Anhänger und Wohnwagen verwendet. *Wenn das Zugfahrzeug gebremst wird, läuft der Anhänger auf das Zugfahrzeug auf. Von der Anhängerkupplung wird diese Kraft über mechanische Hebel auf die Bremsen des Anhängers übertragen. Die Bremskraft ist davon abhängig, wie stark das ziehende Kfz verzögert.* Der Anhänger drückt also auch dann gegen die Anhängerkupplung, wenn seine Bremsen wirken, weshalb auch hier der Anhänger die Stabilität des Gespannes verschlechtert. Verglichen mit dem ungebremsten Anhänger ist aber die schiebende Wirkung gering und regelt sich über die Bremsverzögerung automatisch ein.
+
+Ein Problem ergibt sich jedoch beim Rückwärtsfahren. Da in diesem Fall das Zugfahrzeug den Anhänger schiebt, also die Anhängerkupplung unter Druckspannung steht, würde ohne weitere Maßnahmen auch die Auflaufbremse aktiviert. Dies wird durch eine sogenannte Rückfahrsperre verhindert. *Früher waren manuelle Rückfahrsperren gebräuchlich, bei denen ein Bolzen, ein Stift oder eine Sperrklinke eingelegt werden mussten, um das Betätigen der Bremse bei der Rückwärtsfahrt zu verhindern. Seit dem 1. Januar 1991 (Datum der Erstzulassung) muss diese Rückfahrsperre automatisch erfolgen (Rückfahrautomatik).*
+
+Die zulässigen Gesamtmassen von Anhängern mit Auflaufbremse sind ebenfalls gesetzlich beschränkt, sind aber höher als bei ungebremsten Anhängern. In Europa sind Auflaufbremsen bei Anhängern hinter PKW und LKW generell bis 3,5 t zulässiger Gesamtmasse des Anhängers zulässig. (EG-Richtlinie 71/320/EWG). 
+
+</newSection>
+
