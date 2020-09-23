@@ -34,6 +34,7 @@ r(function(){
             iframe.setAttribute("frameborder",'0');
             iframe.setAttribute("allow",'accelerometer; encrypted-media; gyroscope; picture-in-picture;');
             iframe.setAttribute('allowFullScreen', '');
+            iframe.setAttribute('autoplay', '');
 
             // The height and width of the iFrame should be the same as parent
             iframe.style.width  = this.style.width;

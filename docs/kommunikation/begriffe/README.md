@@ -1,13 +1,14 @@
 ---
 title: 'Begriffe rund um die Kommunikation'
-meta:
-  - name: description
-    content: 'Begriffe, Definitionen, Kommunikation'
 ---
 
 ::: slot pinchview
 
+<infoBox>
+
 # Begriffe rund um die Kommunikation
+
+</infoBox>
 
 ## Adressat
 

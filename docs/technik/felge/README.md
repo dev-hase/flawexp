@@ -33,7 +33,13 @@ Pkw-Humpfelgen sind in *DIN 7817* und Nutzfahrzeug-(Nfz-)Felgen in DIN 7820 geno
 - *Die Einpresstiefe (ET)* gibt die Abweichung zwischen der Radmitte und der inneren Anlagefläche der Radscheibe auf der Radnabe (als Spiegel bezeichnet), also der Bremstrommel oder Bremsscheibe, an. Sie wird in mm angegeben. Ist die Einpresstiefe 0 mm, liegt das Rad in der Symmetrieebene des Reifens auf der Bremstrommel auf. Ist sie größer als 0, also eine positive ET, reicht das Rad weiter nach innen, das heißt, die Spurweite (gemessen von Reifenmitte zu Reifenmitte) wird kleiner. Bei einer negativen ET wird die Spurweite vergrößert und das Rad wandert weiter nach außen. Statt des Kürzels ET verwenden einige Hersteller (z. B. Ford) auch die englische Abkürzung OS (=Offset).
 - Ebenfalls ist der *Durchmesser der Löcher am Lochkreis* entscheidend, so verwenden beispielsweise Mercedes-Benz und Volkswagen für ihre Transporter Räder mit identischen Abmessungen, die Montageschrauben haben jedoch in einem Fall 12 mm-, im anderen aber 14 mm-Gewinde.
 
-*Beispiel einer Pkw-Räderbezeichnung:*
+Fahrzeuge haben unterschiedliche Nabenbohrungen. Leichtmetallräder im Tuningbereich haben in der Regel größere Bohrungen. Mit Hilfe eines Zentrierringes (aus Kunststoff) wird der Unterschied im Durchmesser vom Rad zum Fahrzeug angeglichen. Stahlräder sind nur mit demselben Bohrungsdurchmesser wie beim Fahrzeug erhältlich.
+
+</newSection>
+
+<newSection title="Beispiel einer Felgenbezeichnung">
+
+## Beispiel einer Felgenbezeichnung
 
 *7½J× 16 H2 ET15, LK 5×110 MZ57*
 
@@ -47,8 +53,6 @@ Pkw-Humpfelgen sind in *DIN 7817* und Nutzfahrzeug-(Nfz-)Felgen in DIN 7820 geno
 - 5× = Anzahl der Bolzenlöcher
 - 110 = Durchmesser des Lochkreises in mm, der durch die Mitte der Befestigungslöcher verläuft
 - MZ = Nabenbohrung oder auch Mittellochzentrierung (MZ) genannt, hier als Beispiel 57 mm Durchmesser
-
-Fahrzeuge haben unterschiedliche Nabenbohrungen. Leichtmetallräder im Tuningbereich haben in der Regel größere Bohrungen. Mit Hilfe eines Zentrierringes (aus Kunststoff) wird der Unterschied im Durchmesser vom Rad zum Fahrzeug angeglichen. Stahlräder sind nur mit demselben Bohrungsdurchmesser wie beim Fahrzeug erhältlich.
 
 Die Angabe bezeichnet also ein Rad mit einteiliger Tiefbettfelge mit Doppelhump, 7,5" Maulweite, 16" Durchmesser, einem Felgenhorn in J-Ausführung, einer positiven Einpresstiefe von 15 mm und 5 Befestigungslöchern auf einem Kreis mit 110 mm Durchmesser verteilt. Die Humpausführung lässt auf die Verwendbarkeit von schlauchlosen Reifen schließen, ist aber nicht zwingend.
 

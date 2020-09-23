@@ -1,13 +1,14 @@
 ---
 title: 'Begriffe aus der Technik'
-meta:
-  - name: description
-    content: 'Begriffe, Definitionen, Technik'
 ---
 
 ::: slot pinchview
 
+<infoBox>
+
 # Technische Begriffe
+
+</infoBox>
 
 ## Ansprechzeit, Anlegedauer, Schlupfzeit
 

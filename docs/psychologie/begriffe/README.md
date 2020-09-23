@@ -1,13 +1,14 @@
 ---
 title: 'Begriffe aus der Psychologie'
-meta:
-  - name: description
-    content: 'Begriffe, Definitionen, Psychologie'
 ---
 
 ::: slot pinchview
 
+<infoBox>
+
 # Begriffe aus der Psychologie
+
+</infoBox>
 
 ## Aggression
 

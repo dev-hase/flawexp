@@ -8,13 +8,13 @@ title: 'Fahrassistenzsysteme'
 
 *Fahrerassistenzsysteme (FAS; englisch Advanced Driver Assistance Systems, ADAS) sind elektronische Zusatzeinrichtungen in Kraftfahrzeugen zur Unterstützung des Fahrers in bestimmten Fahrsituationen.* Hierbei stehen oft Sicherheitsaspekte, aber auch die Steigerung des Fahrkomforts im Vordergrund. Ein weiterer Aspekt ist die Verbesserung der Wirtschaftlichkeit.
 
-Die Fahraufgabe wird im weitesten Sinne in die 3 Ebenen der Planung, Führung & Stabilisierung eingeteilt. Für die Führungs- & Stabilisierungsebenen sind meistens nur Handlungszeiträume von (Milli-)Sekunden verfügbar, die nur mithilfe von Fahrdynamiksystemen erreicht werden können, da diese die Handlungsfähigkeiten des Menschen bei weitem übertreffen.
-
 </infoBox>
 
 <newSection title="Aufbau und Funktion">
 
 ## Aufbau und Funktion
+
+Die Fahraufgabe wird im weitesten Sinne in die 3 Ebenen der Planung, Führung & Stabilisierung eingeteilt. Für die Führungs- & Stabilisierungsebenen sind meistens nur Handlungszeiträume von (Milli-)Sekunden verfügbar, die nur mithilfe von Fahrdynamiksystemen erreicht werden können, da diese die Handlungsfähigkeiten des Menschen bei weitem übertreffen.
 
 *Fahrerassistenzsysteme greifen teilautonom oder autonom in Antrieb (z. B. Gas, Bremse), Steuerung (z. B. Park-Lenk-Assistent) oder Signalisierungseinrichtungen des Fahrzeuges ein oder warnen durch geeignete Mensch-Maschine-Schnittstellen den Fahrer kurz vor oder während kritischer Situationen. Derzeit sind die meisten Fahrerassistenzsysteme so konzipiert, dass die Verantwortung beim Fahrer bleibt* (er also autonome Eingriffe in der Regel „übersteuern“ kann) und der damit nicht entmündigt wird. Gründe hierfür sind vor allem:
 

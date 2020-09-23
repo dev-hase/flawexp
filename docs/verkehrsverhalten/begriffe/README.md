@@ -1,13 +1,14 @@
 ---
 title: 'Begriffe rund um den Straßenverkehr'
-meta:
-  - name: description
-    content: 'Begriffe, Definitionen, Straßenverkehr'
 ---
 
 ::: slot pinchview
 
+<infoBox>
+
 # Begriffe rund um den Straßenverkehr
+
+</infoBox>
 
 ## Abstellen
 

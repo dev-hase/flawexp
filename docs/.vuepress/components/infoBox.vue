@@ -16,7 +16,7 @@ export default {
 <style lang="stylus">
   
     $highlight = #eff7ad
-    $accentColor = #375555
+    $accentColor = #3c936a
 
     .infoBox
         border 1px solid #333

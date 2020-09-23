@@ -1,13 +1,14 @@
 ---
 title: 'Begriffe aus der Pädagogik'
-meta:
-  - name: description
-    content: 'Begriffe, Definitionen, Pädagogik'
 ---
 
 ::: slot pinchview
 
+<infoBox>
+
 # Begriffe aus der Pädagogik
+
+</infoBox>
 
 ## Adoleszens
 
