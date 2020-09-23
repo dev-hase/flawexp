@@ -1,11 +1,12 @@
 ---
 title: 'Gesetze im Internet'
-meta:
-  - name: description
-    content: 'Gesetze im Internet'
 ---
 
+<infoBox>
+
 # Gesetze im Internet
+
+</infoBox>
 
 ## Die Klassiker für Fahrlehreranwärter
 
@@ -28,4 +29,4 @@ meta:
 
 ## Aktuell vom Bundesministerium für Justiz und Verbraucherschutz
 
-<a href="https://www.gesetze-im-internet.de/index.html" target="_blank">...hier</a> geht's zu allen aktuellen Gesetzen
+<a href="https://www.gesetze-im-internet.de/index.html" target="_blank">...hier geht's zu allen aktuellen Gesetzen</a>

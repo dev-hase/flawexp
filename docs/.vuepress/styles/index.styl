@@ -17,8 +17,22 @@ body, html
         font-size .85rem !important
         overflow-wrap: break-word
 
-a
-    outline none
+
+.theme-default-content
+    a
+        outline none
+        
+        padding .1rem .25rem
+        font-weight bold
+        color $accentColor
+        background $highlightB
+
+
+
+    a:hover
+        text-decoration none !important
+        color $highlightB
+        background $accentColor
 
 p, li
     transition .3s
@@ -95,13 +109,6 @@ em
             p
                 line-height 1.5
 
-            a
-                color $highlightB
-                font-weight bold
-
-            a:hover
-                text-decoration none !important
-                color $highlight
 
         li:last-child
             border-bottom none

@@ -80,7 +80,7 @@ Eine weitere Voraussetzung für selbstfahrende Autos ohne Fahrer ist die fläche
 
 Autonomes Fahren setzt den Einbau verschiedener Sensoren im Automobil voraus. Dabei sind vor allem folgende Sensoren zu unterscheiden:
 
-- *[LiDAR](/technik/begriffe/#lidar-ladar) (Light Detection and Ranging):* Diese LiDAR-Sensoren dienen zur Messung von Abständen und Relativgeschwindigkeit, basierend auf ultravioletten oder infraroten Strahlen oder sichtbarem Licht.
+- *LiDAR (Light Detection and Ranging):* Diese LiDAR-Sensoren dienen zur Messung von Abständen und Relativgeschwindigkeit, basierend auf ultravioletten oder infraroten Strahlen oder sichtbarem Licht.
 
 - *Radar:* Messung von Abstand und Relativgeschwindigkeit, basierend auf Mikrowellen.
 

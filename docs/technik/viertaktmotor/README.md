@@ -10,6 +10,8 @@ title: 'Viertaktmotor'
 
 </infoBox>
 
+<YouTube videoid="C0unbau0yXc" desc="4-Takt-Motor"/>
+
 Die inneren Vorgänge lassen sich als rechtslaufender Thermodynamischen Kreisprozess beschreiben (Otto- oder Diesel-Kreisprozess). Für einen Kreisprozess-Umlauf (ein „Arbeitsspiel“) benötigt die Maschine vier „Takte“ genannte Arbeitsschritte. Bei einem Hubkolbenmotor ist ein Takt die Bewegung des Kolbens von einem Endpunkt des Hubes zum anderen. Die Kurbelwelle vollführt daher während eines Taktes eine halbe Umdrehung.
 
-<YouTube videoid="C0unbau0yXc" desc="4-Takt-Motor"/>
+
