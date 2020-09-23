@@ -6,6 +6,8 @@ title: 'Verkehrsunfall'
 
 # Verkehrsunfall
 
+![Unfall](/img/media/unfall.jpg "Unfall")
+
 </infoBox>
 
 <newSection title="§ 34 Unfall (StVO)" addClass="law">
