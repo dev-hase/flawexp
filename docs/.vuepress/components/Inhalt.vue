@@ -270,13 +270,13 @@ export default {
         margin-left -.75rem
         margin-top -.25rem
         content 'BE'
-        color #eee !important
-        background $accentColor
+        color #fff !important
+        background #7d7573
         border-radius 50%
         padding .5rem
         font-size 1.75rem
         text-shadow none
-        border 1px solid #333
+        border 1px solid #7d7573
         box-shadow 2px -1px 3px #333
         z-index 200
         //transform rotate(-2deg) !important
