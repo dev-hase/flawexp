@@ -1,5 +1,6 @@
 ---
 title: 'Ladungssicherung'
+pageClass: anhänger
 ---
 
 <infoBox>

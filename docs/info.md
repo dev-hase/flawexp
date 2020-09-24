@@ -8,7 +8,7 @@ meta:
 
 <infoBox>
 
-# Über FahrlehreranwärterWissen
+# Über Fahrlehreranwärter-Wissen
 
 Dies ist eine Sammlung von Informationen die als Lernhilfe für Fahrlehreranwärter/innen dienen soll. Es besteht kein Anspruch auf Vollständigkeit oder Richtigkeit. Dies ist ein Hobbyprojekt!
 

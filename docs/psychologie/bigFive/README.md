@@ -1,5 +1,6 @@
 ---
 title: 'Big Five'
+pageClass: psychologie
 ---
 
 <infoBox>

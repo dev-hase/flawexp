@@ -1,5 +1,6 @@
 ---
 title: 'Fünf Level bis zum selbstfahrenden Auto'
+pageClass: technik
 ---
 
 <infoBox>

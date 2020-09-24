@@ -1,11 +1,11 @@
 <template>
 
-      <article class="thema hideTopic">
+      <article :class="'thema hideTopic ' + topic">
 
         <h1 v-on:click='hideTopic'>{{ titel }}</h1>
         <img v-on:click='hideTopic' :src=" $withBase(`/img/` + bild) " />
         <div class="unterpunkte">
-            <div class="thema-unterpunkt" v-for="post in posts">
+            <div class="thema-unterpunkt"  v-for="post in posts">
                     <router-link :to="{ path: post.path }">
                             <h2> {{ post.title }} </h2>
                     </router-link>   
@@ -17,7 +17,7 @@
 
 <script>
 export default {
-    props: ["pfad", "bild", "titel"],
+    props: ["pfad", "bild", "titel", "topic"],
     computed: {
         
         posts() {
@@ -43,6 +43,7 @@ $highlightB = #ffff66
 
 @media (max-width $MQMobile)
     .hideTopic > .unterpunkte
+
         .thema-unterpunkt
             //display none
             height 0
@@ -50,8 +51,15 @@ $highlightB = #ffff66
             margin 0
             h2 
                 font-size 0
-                opacity 0
                 transition .6s
+
+
+    .hideTopic
+        .unterpunkte
+            height 0 !important
+            //padding-bottom 2rem
+        img
+            opacity .85
 
 
 #inhalt 
@@ -60,6 +68,9 @@ $highlightB = #ffff66
         position relative
 
     @media (max-width $MQMobile)
+
+        article
+            margin-bottom 1.5rem
 
         article:not(.hideTopic)::after
             transform rotate(90deg)
@@ -110,8 +121,7 @@ $highlightB = #ffff66
                 grid-row 2
 
             .unterpunkte
-                padding 1.5rem
-
+                padding 1.5rem 
 
 
 #inhalt
@@ -132,8 +142,8 @@ $highlightB = #ffff66
 
     h1
 
-        background-color #222 !important
-        background linear-gradient(-95deg, #222 70%, #444 100%) !important
+        //background-color #222 !important
+        //background linear-gradient(-95deg, #222 70%, #444 100%) !important
 
         color white
         padding 1rem 1.5rem .25rem
@@ -141,7 +151,6 @@ $highlightB = #ffff66
         font-size 2rem
         font-style italic
         height 3.25rem
-        opacity .85
         @media (max-width $MQNarrow)
             font-size 1.8rem
             padding-bottom 0rem
@@ -155,16 +164,47 @@ $highlightB = #ffff66
             filter grayscale(100%) sepia(30%) contrast(90%) brightness(90%) !important
             cursor pointer
 
+
         @media (min-width $MQMobile)
             filter unset !important
             transition 1s
+
+#inhalt .anhänger
+    background $C-anhaenger !important
+    background linear-gradient(-55deg, $C-anhaenger 10%, darken($C-anhaenger, 50%) 100%) !important
+
+#inhalt .technik
+    background $C-technik !important
+    background linear-gradient(-55deg, $C-technik 10%, darken($C-technik, 50%) 100%) !important
+
+#inhalt .kommunikation
+    background $C-kommunikation !important
+    background linear-gradient(-55deg, $C-kommunikation 10%, darken($C-kommunikation, 50%) 100%) !important    
+
+#inhalt .pädagogik
+    background $C-paedagogik !important
+    background linear-gradient(-55deg, $C-paedagogik 10%, darken($C-paedagogik, 50%) 100%) !important
+
+#inhalt .psychologie
+    background $C-technik !important
+    background linear-gradient(-55deg, $C-psychologie 10%, darken($C-psychologie, 50%) 100%) !important
+
+#inhalt .verkehrsverhalten
+    background $C-verkehrsverhalten !important
+    background linear-gradient(-55deg, $C-verkehrsverhalten 10%, darken($C-verkehrsverhalten, 50%) 100%) !important
+
+#inhalt .undefined
+    background #222 !important
+    background linear-gradient(-55deg, #222 10%, darken(#222, 50%) 100%) !important
+
+
 
 .thema-unterpunkt a
     padding 0 !important
     background none !important 
 
 .thema-unterpunkt h2
-    background #222
+    //background #222
     color white
     padding .5rem .75rem 
     margin 1px 0 !important
@@ -184,9 +224,11 @@ $highlightB = #ffff66
     content: ">"
     
 
+@media (max-width $MQMobile)
+    .unterpunkte
+        margin-top -.25rem !important
 .unterpunkte
-    margin-top -.25rem
-
+    margin-top -1.75rem
 
 
 .home

@@ -1,5 +1,6 @@
 ---
 title: 'Autoreifen'
+pageClass: technik
 ---
 
 <infoBox>

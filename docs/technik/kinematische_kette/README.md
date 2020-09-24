@@ -1,5 +1,6 @@
 ---
 title: 'Kinematische Kette'
+pageClass: technik
 ---
 
 <infoBox>

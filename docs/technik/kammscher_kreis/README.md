@@ -1,5 +1,6 @@
 ---
 title: 'Kammscher Kreis'
+pageClass: technik
 ---
 
 <infoBox>

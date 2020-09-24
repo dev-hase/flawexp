@@ -1,5 +1,6 @@
 ---
 title: 'Viertaktmotor'
+pageClass: technik
 ---
 
 <infoBox>

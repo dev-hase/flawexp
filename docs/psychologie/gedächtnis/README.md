@@ -1,5 +1,6 @@
 ---
 title: 'Gedächtnis'
+pageClass: psychologie
 ---
 
 <infoBox>

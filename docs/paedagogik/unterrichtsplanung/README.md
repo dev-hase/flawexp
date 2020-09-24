@@ -1,5 +1,6 @@
 ---
 title: 'Unterrichtsplanung'
+pageClass: pädagogik
 ---
 
 <infoBox>

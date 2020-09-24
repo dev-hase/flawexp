@@ -39,8 +39,6 @@ export default {
 
 <style lang="stylus">
 
-    $highlightB = #ffff66
-    $accentColor = #375555
 
     .newSection:last-of-type
         margin-bottom 2rem
@@ -112,9 +110,9 @@ export default {
             padding-top 1.75rem !important
             padding-bottom 1.75rem !important
             padding-right 3rem !important
-            background #333
-            background-image linear-gradient(120deg, #222 80%, #444 100%)
-            background-image linear-gradient(120deg, $accentColor 80%, lighten($accentColor, 20%) 100%)
+            background #444
+            background-image linear-gradient(120deg, #444 80%, #666 100%)
+            //background-image linear-gradient(120deg, $accentColor 80%, lighten($accentColor, 20%) 100%)
             color #eee
             margin-left 0 !important
             z-index 100
@@ -125,8 +123,7 @@ export default {
 
 
         .newSectionHeader:hover
-            background-color $accentColor
-            background-image linear-gradient(120deg, darken($accentColor, 15%) 80%, lighten($accentColor, 10%) 100%)
+            background-image linear-gradient(120deg, #666 80%, #888 100%)
             //background-image linear-gradient(120deg, #222 80%, #444 100%)
         .newSectionHeader::after
             position absolute
@@ -148,6 +145,53 @@ export default {
         .collapsed .newSectionHeader::after
             transform rotate(0deg)
             color #eee
+
+    .verkehrsverhalten .newSectionHeader
+        background $C-verkehrsverhalten
+        background-image linear-gradient(120deg, $C-verkehrsverhalten 80%, $C-verkehrsverhalten 100%)
+
+    .verkehrsverhalten .newSectionHeader:hover
+        background-color lighten($C-verkehrsverhalten, 20%)
+        background-image linear-gradient(120deg, lighten($C-verkehrsverhalten, 20%) 80%, lighten($C-verkehrsverhalten, 40%) 100%)
+
+    .psychologie .newSectionHeader
+        background $C-psychologie
+        background-image linear-gradient(120deg, $C-psychologie 80%, $C-psychologie 100%)
+
+    .psychologie .newSectionHeader:hover
+        background-color lighten($C-psychologie, 20%)
+        background-image linear-gradient(120deg, lighten($C-psychologie, 20%) 80%, lighten($C-psychologie, 40%) 100%)
+
+    .kommunikation .newSectionHeader
+        background $C-kommunikation
+        background-image linear-gradient(120deg, $C-kommunikation 80%, $C-kommunikation 100%)
+
+    .kommunikation .newSectionHeader:hover
+        background-color lighten($C-kommunikation, 20%)
+        background-image linear-gradient(120deg, lighten($C-kommunikation, 20%) 80%, lighten($C-kommunikation, 40%) 100%)
   
+    .pädagogik .newSectionHeader
+        background $C-paedagogik
+        background-image linear-gradient(120deg, $C-paedagogik 80%, $C-paedagogik 100%)
+
+    .pädagogik .newSectionHeader:hover
+        background-color lighten($C-paedagogik, 20%)
+        background-image linear-gradient(120deg, lighten($C-paedagogik, 20%) 80%, lighten($C-paedagogik, 40%) 100%)
+
+    .anhänger .newSectionHeader
+        background $C-anhaenger
+        background-image linear-gradient(120deg, $C-anhaenger 80%, $C-anhaenger 100%)
+
+    .anhänger .newSectionHeader:hover
+        background-color lighten($C-anhaenger, 20%)
+        background-image linear-gradient(120deg, lighten($C-anhaenger, 20%) 80%, lighten($C-anhaenger, 40%) 100%)
+
+    .technik .newSectionHeader
+        background $C-technik
+        background-image linear-gradient(120deg, $C-technik 80%, $C-technik 100%)
+
+    .technik .newSectionHeader:hover
+        background-color lighten($C-technik, 20%)
+        background-image linear-gradient(120deg, lighten($C-technik, 20%) 80%, lighten($C-technik, 40%) 100%)       
 
 </style>

@@ -1,8 +1,6 @@
 ---
 title: 'Turbolader'
-meta:
-  - name: description
-    content: 'Turbolader'
+pageClass: technik
 ---
 
 <infoBox>

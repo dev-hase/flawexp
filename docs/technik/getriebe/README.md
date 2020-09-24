@@ -1,5 +1,6 @@
 ---
 title: 'Getriebe'
+pageClass: technik
 ---
 
 <infoBox>

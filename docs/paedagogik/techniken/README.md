@@ -1,5 +1,6 @@
 ---
 title: 'Unterrichtstechniken'
+pageClass: pädagogik
 ---
 
 <infoBox>

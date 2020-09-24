@@ -1,5 +1,6 @@
 ---
 title: 'Betriebsbremsanlage'
+pageClass: technik
 ---
 
 <infoBox>

@@ -1,5 +1,6 @@
 ---
 title: 'Metakommunikatives Axiom'
+pageClass: kommunikation
 ---
 
 <infoBox>

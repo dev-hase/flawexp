@@ -1,5 +1,6 @@
 ---
 title: 'Begriffe rund um die Kommunikation'
+pageClass: kommunikation
 ---
 
 ::: slot pinchview

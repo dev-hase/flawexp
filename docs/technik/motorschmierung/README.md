@@ -1,5 +1,6 @@
 ---
 title: 'Motorschmierung'
+pageClass: technik
 ---
 
 <infoBox>

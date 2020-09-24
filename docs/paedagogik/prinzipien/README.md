@@ -1,5 +1,6 @@
 ---
 title: 'Unterrichtsprinzipien'
+pageClass: pädagogik
 ---
 
 <infoBox>

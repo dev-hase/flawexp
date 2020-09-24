@@ -1,5 +1,6 @@
 ---
 title: 'Verkehrsunfall'
+pageClass: verkehrsverhalten
 ---
 
 <infoBox>
@@ -45,3 +46,4 @@ title: 'Verkehrsunfall'
 - (2) *Ebenso wird bestraft, wer in diesen Situationen eine Person behindert, die einem Dritten Hilfe leistet oder leisten will.*
 
 </newSection>
+

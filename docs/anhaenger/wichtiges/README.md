@@ -1,5 +1,6 @@
 ---
 title: 'Wichtiges zum Anhänger'
+pageClass: anhänger
 ---
 
 <infoBox>

@@ -1,5 +1,6 @@
 ---
 title: 'Begriffe rund um den Straßenverkehr'
+pageClass: verkehrsverhalten
 ---
 
 ::: slot pinchview

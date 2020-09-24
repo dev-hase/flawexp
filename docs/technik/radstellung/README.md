@@ -1,8 +1,6 @@
 ---
 title: 'Radstellungsgrößen'
-meta:
-  - name: description
-    content: 'Radstellungsgrößen'
+pageClass: technik
 ---
 
 <infoBox>

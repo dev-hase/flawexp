@@ -1,5 +1,6 @@
 ---
 title: 'Vier-Seiten-Modell'
+pageClass: kommunikation
 ---
 
 <infoBox>

@@ -1,5 +1,6 @@
 ---
 title: 'Unterrichtsmethoden'
+pageClass: pädagogik
 ---
 
 <infoBox>

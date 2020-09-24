@@ -1,5 +1,6 @@
 ---
 title: 'Fahrassistenzsysteme'
+pageClass: technik
 ---
 
 <infoBox>

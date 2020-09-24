@@ -1,5 +1,6 @@
 ---
 title: 'Begriffe aus der Pädagogik'
+pageClass: pädagogik
 ---
 
 ::: slot pinchview

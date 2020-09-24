@@ -1,5 +1,6 @@
 ---
 title: 'Videos über Kommunikation'
+pageClass: kommunikation
 ---
 
 <infoBox>

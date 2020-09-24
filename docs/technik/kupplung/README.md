@@ -1,5 +1,6 @@
 ---
 title: 'Kupplung'
+pageClass: technik
 ---
 
 <infoBox>

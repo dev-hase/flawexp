@@ -1,5 +1,6 @@
 ---
 title: 'Begleitetes Fahren (BF 17)'
+pageClass: verkehrsverhalten
 ---
 
 <infoBox>

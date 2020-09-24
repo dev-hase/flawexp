@@ -1,5 +1,6 @@
 ---
 title: 'Begriffe aus der Technik'
+pageClass: technik
 ---
 
 ::: slot pinchview

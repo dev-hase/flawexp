@@ -15,14 +15,11 @@ export default {
 
 <style lang="stylus">
   
-    $highlight = #eff7ad
-    $accentColor = #3c936a
 
     .infoBox
         border 1px solid #333
         box-shadow 4px 3px 5px #aaa
-        background-color $accentColor
-        background linear-gradient(125deg, darken($accentColor, 20%) 75%, lighten($accentColor, 5%) 100%)
+        background-color #444
         color #eee
 
 
@@ -42,16 +39,16 @@ export default {
 
         ul
             margin .5rem
-            background #99a393
+            background #222
 
             em
-                background $accentColor
-                color $highlight
+                background #555
+                color #fff
             li
                 border-bottom none
 
             li:before
-                filter invert(95%) !important
+                filter invert(50%) !important
 
         p
             img
@@ -59,5 +56,30 @@ export default {
 
     .infoBox:not(:first-child)
         margin-top 3.5rem
+
+
+    .verkehrsverhalten .infoBox
+        background-color $C-verkehrsverhalten
+        background linear-gradient(125deg, darken($C-verkehrsverhalten, 20%) 75%, lighten($C-verkehrsverhalten, 5%) 100%)
+
+    .psychologie .infoBox
+        background-color $C-psychologie
+        background linear-gradient(125deg, darken($C-psychologie, 20%) 75%, lighten($C-psychologie, 5%) 100%)
+
+    .kommunikation .infoBox
+        background-color $C-kommunikation
+        background linear-gradient(125deg, darken($C-kommunikation, 20%) 75%, lighten($C-kommunikation, 5%) 100%)
+
+    .pädagogik .infoBox
+        background-color $C-paedagogik
+        background linear-gradient(125deg, darken($C-paedagogik, 20%) 75%, lighten($C-paedagogik, 5%) 100%)
+
+    .anhänger .infoBox
+        background-color $C-anhaenger
+        background linear-gradient(125deg, darken($C-anhaenger, 20%) 75%, lighten($C-anhaenger, 5%) 100%)
+   
+    .technik .infoBox
+        background-color $C-technik
+        background linear-gradient(125deg, darken($C-technik, 20%) 75%, lighten($C-technik, 5%) 100%)
 
 </style>

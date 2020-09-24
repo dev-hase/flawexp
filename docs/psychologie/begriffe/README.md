@@ -1,5 +1,6 @@
 ---
 title: 'Begriffe aus der Psychologie'
+pageClass: psychologie
 ---
 
 ::: slot pinchview

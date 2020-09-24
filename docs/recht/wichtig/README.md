@@ -4,7 +4,7 @@ title: Wichtiges auf einen Blick
 
 <infoBox>
 
-## StvO
+## StVO
 
 Die gängisten Paragraphen im Überblick
 

@@ -1,5 +1,6 @@
 ---
 title: 'Sozialformen'
+pageClass: pädagogik
 ---
 
 <infoBox>
