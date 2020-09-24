@@ -13,11 +13,15 @@ Ein Getriebe (oder Umformerelement) ist ein Maschinenelement, mit dem Bewegungsg
 
 </infoBox>
 
+<YouTube videoid="kC2arhnlA48" desc="Vergleich Schalt- Automatikgetriebe"/>
+
 <newSection title="Schaltgetriebe / Fahrzeuggetriebe - Funktion und Aufbau">
 
 ## Schaltgetriebe / Fahrzeuggetriebe - Funktion und Aufbau
 
-<YouTube videoid="b1XWKR36K8c" />
+<YouTube videoid="b1XWKR36K8c" desc="Schaltgetriebe"/>
+
+<YouTube videoid="0bq-WcRK1Bk" desc="Schaltgetriebe"/>
 
 </newSection>
 
@@ -29,11 +33,13 @@ Ein Getriebe (oder Umformerelement) ist ein Maschinenelement, mit dem Bewegungsg
 
 </newSection>
 
-<newSection title="Automatikgetriebe (4-Gang) / Ravigneaux-Satz">
+<newSection title="Automatikgetriebe">
 
-## Automatikgetriebe (4-Gang) / Ravigneaux-Satz
+## Automatikgetriebe
 
-<YouTube videoid="qcq4dZf_46c" />
+<YouTube videoid="qcq4dZf_46c" desc="Automatikgetriebe (4-Gang) / Ravigneaux-Satz"/>
+
+<YouTube videoid="6wpzrbl7C5M" desc="Automatikgetriebe"/>
 
 </newSection>
 
@@ -53,6 +59,8 @@ Der Begriff Regelbereich entspricht der Spreizung beim Stufengetriebe, also dem 
 
 *Eine weitere Form der stufenlosen Getriebe sind elektrische Getriebe (Motor/Generator),* beispielsweise bei dieselelektrischen Antrieben der Bahn.
 
-<YouTube videoid="KR-q0OKe5II" start="8" />
+<YouTube videoid="KR-q0OKe5II" start="8" desc="CVT" />
+
+<YouTube videoid="Excnb3ELS2E" desc="CVT" />
 
 </newSection>

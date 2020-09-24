@@ -98,6 +98,7 @@ module.exports = {
               children: [
                 ['/technik/begriffe/', 'Begriffe'],
                 ['/technik/autonomesFahren/', 'Fünf Level bis zum selbstfahrenden Auto'],
+                ['/technik/elektroauto/', 'Elektroauto'],
                 ['/technik/kinematische_kette/', 'Antriebsstrang, Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
                 ['/technik/kupplung/', 'Kupplung'],
