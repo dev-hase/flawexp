@@ -1,5 +1,6 @@
 ---
 title: 'Videos zum Verkehrsverhalten'
+pageClass: verkehrsverhalten
 ---
 
 <infoBox>

@@ -61,8 +61,8 @@ export default {
         width 100%
         max-widht 100%
         height 100%
-        background #f03a3a
-        opacity .93
+        background #3f2088
+        opacity .75
         background-image url('/img/video.svg')
         background-repeat no-repeat
         background-size 33%
