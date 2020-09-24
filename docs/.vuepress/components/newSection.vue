@@ -155,7 +155,7 @@ export default {
         background-image linear-gradient(120deg, lighten($C-verkehrsverhalten, 20%) 80%, lighten($C-verkehrsverhalten, 40%) 100%)
     .verkehrsverhalten ul
         em
-            background $C-verkehrsverhalten 
+            background tint($C-verkehrsverhalten, 15%)
         li:before
             filter invert(60%) 
 
@@ -168,7 +168,7 @@ export default {
         background-image linear-gradient(120deg, lighten($C-psychologie, 20%) 80%, lighten($C-psychologie, 40%) 100%)
     .psychologie ul
         em
-            background $C-psychologie  
+            background tint($C-psychologie, 15%)
         li:before
             filter invert(60%) 
 
@@ -182,7 +182,7 @@ export default {
         background-image linear-gradient(120deg, lighten($C-kommunikation, 20%) 80%, lighten($C-kommunikation, 40%) 100%)
     .kommunikation ul
         em
-            background $C-kommunikation  
+            background tint($C-kommunikation, 15%)
         li:before
             filter invert(60%) 
   
@@ -195,7 +195,7 @@ export default {
         background-image linear-gradient(120deg, lighten($C-paedagogik, 20%) 80%, lighten($C-paedagogik, 40%) 100%)
     .pädagogik ul
         em
-            background $C-paedagogik 
+            background tint($C-paedagogik, 15%)
         li:before
             filter invert(60%) 
 
@@ -208,7 +208,7 @@ export default {
         background-image linear-gradient(120deg, lighten($C-anhaenger, 20%) 80%, lighten($C-anhaenger, 40%) 100%)
     .anhänger ul
         em
-            background $C-anhaenger
+            background tint($C-anhaenger, 15%)
         li:before
             filter invert(60%) 
 
@@ -222,7 +222,7 @@ export default {
 
     .technik ul
         em
-            background $C-technik 
+            background tint($C-technik, 15%) 
         li:before
             filter invert(60%) 
 
