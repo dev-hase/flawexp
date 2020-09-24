@@ -153,6 +153,11 @@ export default {
     .verkehrsverhalten .newSectionHeader:hover
         background-color lighten($C-verkehrsverhalten, 20%)
         background-image linear-gradient(120deg, lighten($C-verkehrsverhalten, 20%) 80%, lighten($C-verkehrsverhalten, 40%) 100%)
+    .verkehrsverhalten ul
+        em
+            background $C-verkehrsverhalten 
+        li:before
+            filter invert(60%) 
 
     .psychologie .newSectionHeader
         background $C-psychologie
@@ -161,6 +166,12 @@ export default {
     .psychologie .newSectionHeader:hover
         background-color lighten($C-psychologie, 20%)
         background-image linear-gradient(120deg, lighten($C-psychologie, 20%) 80%, lighten($C-psychologie, 40%) 100%)
+    .psychologie ul
+        em
+            background $C-psychologie  
+        li:before
+            filter invert(60%) 
+
 
     .kommunikation .newSectionHeader
         background $C-kommunikation
@@ -169,6 +180,11 @@ export default {
     .kommunikation .newSectionHeader:hover
         background-color lighten($C-kommunikation, 20%)
         background-image linear-gradient(120deg, lighten($C-kommunikation, 20%) 80%, lighten($C-kommunikation, 40%) 100%)
+    .kommunikation ul
+        em
+            background $C-kommunikation  
+        li:before
+            filter invert(60%) 
   
     .pädagogik .newSectionHeader
         background $C-paedagogik
@@ -177,6 +193,11 @@ export default {
     .pädagogik .newSectionHeader:hover
         background-color lighten($C-paedagogik, 20%)
         background-image linear-gradient(120deg, lighten($C-paedagogik, 20%) 80%, lighten($C-paedagogik, 40%) 100%)
+    .pädagogik ul
+        em
+            background $C-paedagogik 
+        li:before
+            filter invert(60%) 
 
     .anhänger .newSectionHeader
         background $C-anhaenger
@@ -185,6 +206,11 @@ export default {
     .anhänger .newSectionHeader:hover
         background-color lighten($C-anhaenger, 20%)
         background-image linear-gradient(120deg, lighten($C-anhaenger, 20%) 80%, lighten($C-anhaenger, 40%) 100%)
+    .anhänger ul
+        em
+            background $C-anhaenger
+        li:before
+            filter invert(60%) 
 
     .technik .newSectionHeader
         background $C-technik
@@ -192,6 +218,12 @@ export default {
 
     .technik .newSectionHeader:hover
         background-color lighten($C-technik, 20%)
-        background-image linear-gradient(120deg, lighten($C-technik, 20%) 80%, lighten($C-technik, 40%) 100%)       
+        background-image linear-gradient(120deg, lighten($C-technik, 20%) 80%, lighten($C-technik, 40%) 100%)     
+
+    .technik ul
+        em
+            background $C-technik 
+        li:before
+            filter invert(60%) 
 
 </style>

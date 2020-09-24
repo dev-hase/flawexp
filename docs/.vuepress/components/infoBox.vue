@@ -39,20 +39,27 @@ export default {
 
         ul
             margin .5rem
-            background #222
+            //background #222
+
+            p
+                color #eee
+
 
             em
-                background #555
+                //background #555
                 color #fff
             li
                 border-bottom none
 
             li:before
-                filter invert(50%) !important
+                filter invert(100%) !important
+                opacity .9
 
         p
             img
                 margin-left -.5rem
+
+
 
     .infoBox:not(:first-child)
         margin-top 3.5rem
@@ -61,25 +68,50 @@ export default {
     .verkehrsverhalten .infoBox
         background-color $C-verkehrsverhalten
         background linear-gradient(125deg, darken($C-verkehrsverhalten, 20%) 75%, lighten($C-verkehrsverhalten, 5%) 100%)
+        ul
+            background lighten($C-verkehrsverhalten, 30%)
+            em
+                background darken($C-verkehrsverhalten, 10%)          
 
     .psychologie .infoBox
         background-color $C-psychologie
         background linear-gradient(125deg, darken($C-psychologie, 20%) 75%, lighten($C-psychologie, 5%) 100%)
+        ul
+            background lighten($C-psychologie, 30%)
+            em
+                background darken($C-psychologie, 10%)   
 
     .kommunikation .infoBox
         background-color $C-kommunikation
         background linear-gradient(125deg, darken($C-kommunikation, 20%) 75%, lighten($C-kommunikation, 5%) 100%)
+        ul
+            background lighten($C-kommunikation, 30%)
+            em
+                background darken($C-kommunikation, 10%)   
 
     .pädagogik .infoBox
         background-color $C-paedagogik
         background linear-gradient(125deg, darken($C-paedagogik, 20%) 75%, lighten($C-paedagogik, 5%) 100%)
+        ul
+            background lighten($C-paedagogik, 30%)
+            em
+                background darken($C-paedagogik, 10%)        
 
     .anhänger .infoBox
         background-color $C-anhaenger
         background linear-gradient(125deg, darken($C-anhaenger, 20%) 75%, lighten($C-anhaenger, 5%) 100%)
+        ul
+            background lighten($C-anhaenger, 30%)
+            em
+                background darken($C-anhaenger, 10%)
    
     .technik .infoBox
         background-color $C-technik
         background linear-gradient(125deg, darken($C-technik, 20%) 75%, lighten($C-technik, 5%) 100%)
+        ul
+            background lighten($C-technik, 30%)
+            em
+                background darken($C-technik, 10%)
+            
 
 </style>
