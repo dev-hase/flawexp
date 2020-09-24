@@ -34,6 +34,12 @@ export default {
         p, img
             padding 0 .5rem
 
+        img
+            max-height 60vh
+            min-width 100%
+            object-fit cover
+            object-position center left
+
         .video-box
             transform scale(.98)
 

@@ -74,6 +74,7 @@ module.exports = {
                 ['/psychologie/begriffe/', 'Begriffe'],
                 ['/psychologie/bigFive/', 'Big Five'],
                 ['/psychologie/gedächtnis/', 'Gedächtnis'],
+                ['/psychologie/stress/', 'Stress'],
               ]
             },
             {
