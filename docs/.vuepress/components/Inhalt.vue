@@ -39,7 +39,6 @@ export default {
 
 <style lang="stylus">
 
-$highlightB = #ffff66
 
 @media (max-width $MQMobile)
     .hideTopic > .unterpunkte
@@ -272,7 +271,7 @@ $highlightB = #ffff66
         margin-top -.25rem
         content 'BE'
         color #eee !important
-        background tint($accentColor, 20%)
+        background $accentColor
         border-radius 50%
         padding .5rem
         font-size 1.75rem
