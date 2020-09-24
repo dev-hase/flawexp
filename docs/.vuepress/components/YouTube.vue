@@ -42,7 +42,7 @@ export default {
 <style lang="stylus" scoped>
         
     .video-box        
-        filter grayscale(70%) sepia(30%) contrast(90%) brightness(90%)
+        //filter grayscale(70%) sepia(30%) contrast(90%) brightness(90%)
         cursor pointer
         min-width 100%
         margin 2.75rem 0
@@ -53,6 +53,7 @@ export default {
             background-size cover
             background-position center
 
+
     .youtube:before
         content ''
         position absolute
@@ -61,14 +62,39 @@ export default {
         width 100%
         max-widht 100%
         height 100%
-        background #3f2088
-        opacity .75
+        background #444
+        opacity .85
         background-image url('/img/video.svg')
         background-repeat no-repeat
         background-size 33%
         background-position center
         box-sizing border-box
         overflow hidden
+
+    .pädagogik
+        .youtube:before
+            background-color shade($C-paedagogik, 5%)   
+
+    .kommunikation
+        .youtube:before
+            background-color shade($C-kommunikation, 5%)  
+
+    .psychologie
+        .youtube:before
+            background-color shade($C-psychologie, 5%)  
+
+    .verkehrsverhalten
+        .youtube:before
+            background-color shade($C-verkehrsverhalten, 5%)
+
+    .anhänger
+        .youtube:before
+            background-color shade($C-anhaenger, 5%)
+
+    .technik
+        .youtube:before
+            background-color shade($C-technik, 5%)
+
 
     .youtube:after
         content attr(data-desc)

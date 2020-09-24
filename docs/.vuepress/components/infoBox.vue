@@ -50,6 +50,7 @@ export default {
                 color #fff
             li
                 border-bottom none
+                color #eee
 
             li:before
                 filter invert(100%) !important
