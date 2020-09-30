@@ -237,9 +237,9 @@ täglich nicht überschreiten.
 
 </newSection>
 
-<newSection title="§  5 Praktischer Unterricht" addClass="law">
+<newSection title="§ 5 Praktischer Unterricht" addClass="law">
 
-## §  5 Praktischer Unterricht
+## § 5 Praktischer Unterricht
 
 - *(1) Der praktische Unterricht ist auf die theoretische Ausbildung zu beziehen und inhaltlich mit dieser zu
 verzahnen.* Er hat sich an den in den Anlagen 3 bis 6 aufgeführten Inhalten zu orientieren und die praktische
@@ -254,10 +254,7 @@ Grundausbildung und besonderen Ausbildungsfahrten.* Zum praktischen Unterricht g
 - *Der Fahrlehrer hat den jeweiligen Ausbildungsstand durch Aufzeichnungen zu dokumentieren.* Diese sollen
 erkennen lassen, welche Inhalte behandelt wurden.
 
-- (2) Die Grundausbildung soll beim jeweiligen Ersterwerb der Klassen A1 und B möglichst abgeschlossen sein,
-bevor mit den besonderen Ausbildungsfahrten begonnen wird. Dies gilt auch für den Ersterwerb der Klasse A
-ohne Vorbesitz der Klasse A2 sowie der Klasse A2 ohne Vorbesitz der Klasse A1. Bei den übrigen Klassen dürfen
-die besonderen Ausbildungsfahrten erst gegen Ende der praktischen Ausbildung durchgeführt werden.
+- *(2) Die Grundausbildung soll beim jeweiligen Ersterwerb der Klassen A1 und B möglichst abgeschlossen sein, bevor mit den besonderen Ausbildungsfahrten begonnen wird.* Dies gilt auch für den Ersterwerb der Klasse A ohne Vorbesitz der Klasse A2 sowie der Klasse A2 ohne Vorbesitz der Klasse A1. Bei den übrigen Klassen dürfen die besonderen Ausbildungsfahrten erst gegen Ende der praktischen Ausbildung durchgeführt werden.
 
 - (3) Die besonderen Ausbildungsfahrten zu je 45 Minuten sind – ausgenommen für die Klassen D, D1, DE und D1E
 	- nach Anlage 4 durchzuführen.

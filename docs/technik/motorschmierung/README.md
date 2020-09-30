@@ -7,6 +7,8 @@ pageClass: technik
 
 # Motorschmierung
 
+![Schmierung](/img/media/oel.jpg "Schmierung")
+
 *Die Motorschmierung dient der Verringerung von Reibung zwischen beweglichen Motorteilen von Verbrennungsmotoren sowie der Wärmeabführung aus den Lagerstellen und vom Kolben mittels Schmieröl. Darüber hinaus sollen mögliche Verschleißpartikel, Verbrennungsrückstände und sonstige Verschmutzungen in die Ölfilter gespült werden.* Für die Ausführung der Schmiersysteme kommen verschiedene Verfahren zum Einsatz.
 
 </infoBox>
@@ -71,5 +73,108 @@ Anwendung: Viertaktmotor; Ähnlich wie bei der Frischölschmierung wird hier das
 **Der Nachteil** der Trockensumpfschmierung ist, dass sie durch die zweite Ölpumpe und den separaten Behälter konstruktiv aufwendiger ist als die Druckumlaufschmierung. Daher wird sie meist nur in flachen Sportwagen, Motorrädern oder Geländefahrzeugen verwendet.
 
 <YouTube videoid="IU8-LauKK7g" start="20" desc="Trockensumpfschmierung"/>
+
+</newSection>
+
+<infoBox>
+
+## Motoröl
+
+![Motoröl](/img/media/oel2.jpg "Motoröl")
+
+Unter Motoröl versteht man alltagssprachlich jede Sorte von Schmieröl, die dazu geeignet ist, einen Verbrennungsmotor zu schmieren.
+
+*Herstellungsarten*
+
+- Mineralöl: Mineralölbasiertes Motoröl wird aus Grundölen hergestellt, die direkt aus Erdöldestillaten gewonnen wurden.
+- Teilsynthetik-Öl: Teilsynthetisches Motoröl wird aus einer Mischung von Mineralölen und synthetischer Grundöle hergestellt.
+- Synthetik-Öl: Synthetisches Motoröl wird ausschließlich aus Grundölen hergestellt, die synthetisch oder nicht direkt aus Erdöldestillaten gewonnen wurden.
+
+</infoBox>
+
+<newSection title="Videos über Motoröle">
+
+## Videos über Motoröle
+
+<YouTube videoid="I2bsNRTa0VI" desc="Viskosität, Freigaben, Funktion, Qualität"/>
+
+<YouTube videoid="GaL623ZTy5I" start="8" desc="synthetisch, mineralisch, LongLife"/>
+
+<YouTube videoid="FljjLTkkDDA" start="7" desc="FAQ, Rezeptur, Additive"/>
+
+</newSection>
+
+
+<newSection title="Viskositätsklassen / SAE-Klassifikation" addClass="law">
+
+## Viskositätsklassen / SAE-Klassifikation
+
+Motoröle für Kraftfahrzeuge werden in Sommer- und Winteröle unterteilt. Das ist historisch zu verstehen, da früher Motoröle je nach Jahreszeit gewechselt wurden. *Heute sind Mehrbereichsöle üblich, die Eigenschaften von Sommer- und Winteröl in sich vereinen.* Der technische Fortschritt macht es möglich, mit demselben Motoröl alle Jahreszeiten abzudecken. Für Sonderfälle, wie Rennsport oder Polarexpeditionen, sind aber weiterhin Einbereichsöle erhältlich.
+
+- *Sommeröle* erhalten nach der SAE J300 (Stand Januar 2015) eine der Viskositätsklassen 8 (sehr dünnflüssig), 12, 16, 20, 30, 40, 50 oder 60 (sehr dickflüssig). Das hauptsächliche Unterscheidungsmerkmal ist das Fließverhalten bei hohen Öltemperaturen. Die Tragfähigkeit des Schmierfilms ist bei höherer Viskosität besser als bei niedriger, ein Qualitätsmerkmal ist die Viskosität an sich jedoch nicht. Die Bezugstemperatur für heißes Motoröl ist 100 °C, obwohl im Motor noch höhere Öltemperaturen (bis maximal etwa 120 °C, teilweise bis 130 °C) auftreten können.
+
+- *Winteröle* erhalten nach der SAE J300 eine der Viskositätsklassen 0W (sehr dünnflüssig), 5W, 10W, 15W, 20W oder 25W, wobei das „W“ für „Wintereignung“ steht. Als Zahlenwert wird die Tieftemperatur-Pump-Viskosität bei einer bestimmten Temperatur nach folgendem Schema verschlüsselt:
+
+	- SAE 0W - 40 °C
+	- SAE 5W - 35 °C
+	- SAE 10W - 30 °C
+	- SAE 15W - 25 °C
+	- SAE 20W - 20 °C
+	- SAE 25W - 15 °C
+
+- *Mehrbereichsöle* können die Viskositätsklassen von zwei oder mehr Einbereichsölen überbrücken. Sie sind daher im Gegensatz zu Einbereichsölen für den kombinierten Sommer- und Winterbetrieb geeignet. *Bei der Benennung von Mehrbereichsölen wird immer zuerst die Niedrigtemperatur-Viskosität mit Zusatz W genannt und nach dem Bindestrich die Hochtemperatur-Viskosität.* Diese Öle müssen die Anforderungen der SAE J300 beider Viskositätsklassen erfüllen. Beispiele:
+
+	- Mehrbereichsöl > Niedrigtemperatur-Viskosität	/ Hochtemperatur-Viskosität
+	- SAE 0W-40	> SAE 0W / SAE 40
+	- SAE 5W-40	> SAE 5W / SAE 40
+	- SAE 10W-40 > SAE 10W / SAE 40
+	- SAE 10W-60 > SAE 10W / SAE 60
+	- SAE 20W-60 > SAE 20W /SAE 60
+	- SAE 15W-40 > SAE 15W / SAE 40
+	- SAE 20W-50 > SAE 20W / SAE 50
+
+</newSection>
+
+<newSection title="Einbereichsöle">
+
+## Einbereichsöle
+
+Bis in die 1970er Jahre war das Einbereichsöl marktbeherrschend. Jedes angebotene Öl hatte seine fest zugeordnete Fließzähigkeit und wurde mit dieser auch bezeichnet. Kraftfahrzeugmotoren wurden mit Ölen der Viskositätsklassen SAE 20, SAE 30, SAE 40 oder SAE 50 betrieben. Für besondere Anwendungen oder extreme Kältegrade kam noch das dünnflüssige SAE 10 in Frage, im Rennsport oder für den Einsatz in extrem heißen Gegenden konnte man Einbereichsöle der fast honigartig zähfließenden Viskositätsklasse SAE 60 bekommen. Insbesondere bei Motoren älterer Baureihen, die mit teilweise großen Toleranzen und Laufspielen konstruiert sind, werden Einbereichsöle mit ihrer garantierten Mindestzähflüssigkeit auch heute noch genutzt.
+
+</newSection>
+
+<newSection title="Mehrbereichsöl">
+
+## Mehrbereichsöl
+
+*Die weitaus meisten heute üblichen Motoröle sind so genannte Mehrbereichsöle.* Diese basieren auf dünnflüssigen Grundölen und werden mit speziellen Additiven (z. B. Polymere wie Polyester oder Polyisobutylen) versehen, so dass ihre Viskosität bei höheren Temperaturen zunimmt. Damit erreicht man eine schnelle Durchölung des Motors beim Kaltstart, eine geringere Belastung des Anlassers bei tiefen Temperaturen und eine ausreichend hohe Schmiersicherheit bei höheren Außen- und Motortemperaturen. So kann dasselbe Öl im Sommer- wie im Winterbetrieb verwendet werden, was bei den früher üblichen Einbereichsölen nicht möglich war. Die verwendeten Additive werden auch VI-Verbesserer genannt, sie verbessern also den Viskositätsindex (VI) und verringern somit die Temperaturabhängigkeit der Viskosität.
+
+Die größte Schwäche der Mehrbereichsöle liegt allerdings genau in ihrer Stärke: *Mehrbereichsöle verlieren im Betrieb zunehmend an Viskosität – und zwar umso schneller, je höher der Anteil der Polymere in ihnen ist.* Das heißt im Klartext: *Je größer der überbrückte Viskositätsbereich ist, desto stärker und schneller „altert“ das Öl.* Die Viskosität fällt praktisch auf das Niveau des Ausgangsproduktes zurück, welches in der Regel ein eher dünnflüssiges Öl ist. Aufgrund dieser Eigenschaft schwören viele Rennmechaniker, Motortuner und vor allem Flugsportler bis heute auf das klassische Einbereichsöl.
+
+Andererseits haben die Ölhersteller das Problem der schnellen Alterung ihrer Mehrbereichsöle seit Erfindung der synthetischen Öle immer besser in den Griff bekommen. Moderne kraftstoffsparende Leichtlauföle mit sehr langen Wechselintervallen (mancherorts wird schon die „lebenslange Ölfüllung“ ab Werk getestet) wären ohne die Mehrbereichstechnologie gar nicht denkbar.
+
+</newSection>
+
+<newSection title="Öle mit abgesenkter Hochtemperaturviskosität">
+
+## Öle mit abgesenkter Hochtemperaturviskosität
+
+Heutige Motorkonstrukteure arbeiten mit allen Tricks, um den Kraftstoffverbrauch noch weiter zu senken. Einer dieser Tricks hat auch mit der Viskosität des Motoröls zu tun. *Senkt man nämlich im Hochtemperaturbereich die Fließzähigkeit des Motoröls, sinkt gleichzeitig der Reibungsverlust im Motor. Es wird weniger Kraftstoff in Wärme umgewandelt, die Leistung steigt oder der Kraftstoffverbrauch bei gleicher abgeforderter Leistung sinkt.* Diese so genannte High-Temperature-High-Shear-Viskosität (HTHS) des Motoröls wird bei hoher Öltemperatur und hoher Motordrehzahl gemessen. Die hohe Drehzahl sorgt dabei für eine hohe Schergeschwindigkeit (Schergefälle). Diese Effekte lassen sich jedoch nur erzielen, wenn die gesamte Motorkonstruktion darauf ausgelegt ist. Bei älteren, ungeeigneten Motorkonstruktionen können solche Öle mit abgesenkter HTHS-Viskosität im Extremfall sogar zu Motorschäden führen. Sie werden daher nur in Fahrzeugen eingesetzt, deren Hersteller eine entsprechende Freigabe erteilt haben.
+
+</newSection>
+
+<newSection title="Leichtlauföl">
+
+## Leichtlauföl
+
+*Leichtlauf-Motorenöle sind auf geringere mechanische Reibungsverluste hin entwickelt, um Energie, also Kraftstoff zu sparen.* Dazu werden extrem dünnflüssige Motoröle mit hochwertigen Additiven so kombiniert, dass trotz der niedrigen Motoröl-Viskosität eine ausreichende Schmierstoffversorgung des Motors sichergestellt werden kann. Praktisch alle Mehrbereichsöle mit der Tieftemperatur-Viskosität 0W oder 5W sind als synthetisches oder teilsynthetisches Leichtlauföl konzipiert. Leichtlauf-Motorenöle können in Verbindung mit der darauf abgestimmten Motortechnologie tatsächlich Treibstoff sparen. *Um Motorschäden zu vermeiden, sollte der Einsatz solcher Leichtlauföle jedoch auf Motoren beschränkt bleiben, deren Hersteller eine entsprechende Freigabe erteilt haben.* Oft ist die Herstellerfreigabe auf der Umverpackung des Leichtlauföles abgedruckt. Wenn der Motoren- oder Fahrzeughersteller Motoröle mit der Tieftemperatur-Viskosität 0W oder 5W in der Betriebsanleitung vorschreibt oder vorschlägt, kann man davon ausgehen, dass er die Schmierfähigkeit solcher Leichtlauföle getestet und für gut befunden hat.
+
+</newSection>
+
+<newSection title="Longlife-Öl">
+
+## Longlife-Öl
+
+Longlife-Motorenöle sind synthetische Leichtlauföle. *Sie sind für Fahrzeuge mit computerberechnetem Longlife-Service vorgeschrieben und dürfen keinesfalls mit anderen Motorölen ergänzt oder aufgefüllt werden, sollen die Serviceintervalle und Garantiebedingungen eingehalten werden.* Soll in einem Fahrzeug, das für den Longlife-Service konstruiert wurde, „normales“ Motoröl gefahren werden, muss das Motorsteuergerät auf feste Ölwechselintervalle eingestellt werden. „Longlife“ ist auch der Name einer Öl-Spezifikation.
 
 </newSection>

@@ -15,7 +15,7 @@ Lerntheorien sind Modelle und Hypothesen, anhand derer Lernvorgänge psychologis
 
 ## Behavioristische Lerntheorie
 
-*Bei dem Behaviorismus wird das Verhalten (englisch behavior) eines Lebewesens untersucht. Dieses wissenschaftliche, theoretische Konzept stammt aus dem Bereich der Psychologie. Der Mensch als Ergebnis seiner Umgebung oder Umwelt ist der Hauptpunkt des Behaviorismus. Für die Vertreter der behavioristischen Lerntheorie ist der geistige Vorgang nicht von Bedeutung*. Das Verhalten eines Individuums wird ohne diesen Aspekt beobachtet. In den 1960er Jahren entwickelten diese besonderen Vertreter drei unterschiedliche Lerntheorien:
+*Bei dem Behaviorismus wird das Verhalten (englisch behavior) eines Lebewesens untersucht. Dieses wissenschaftliche, theoretische Konzept stammt aus dem Bereich der Psychologie. Der Mensch als Ergebnis seiner Umgebung oder Umwelt ist der Hauptpunkt des Behaviorismus. Für die Vertreter der behavioristischen Lerntheorie ist der geistige Vorgang nicht von Bedeutung.* Das Verhalten eines Individuums wird ohne diesen Aspekt beobachtet. In den 1960er Jahren entwickelten diese besonderen Vertreter drei unterschiedliche Lerntheorien:
 
 *Klassische Konditionierung* (Koppelung von Reizen)
 Vertreter: Iwan Petrowitsch Pawlow (1849–1936), John B. Watson (1878–1958)
@@ -27,7 +27,7 @@ Vertreter: Iwan Petrowitsch Pawlow (1849–1936), John B. Watson (1878–1958)
 *Operante Konditionierung* (Reaktion auf Reize)
 Vertreter: B.F. Skinner (1904–1990), Edward Lee Thorndike (1874–1949)
 
-Edward Lee Thorndike erforschte am Ende des 19. Jahrhunderts Problemlösen und die Rolle von Einsicht. In seinem paradigmatischen Experiment von 1898 setzte er Katzen in einen Käfig, der von innen durch Ziehen an einer Schnur zu öffnen war, legte außen Futter hin und maß die Zeit, die die Katzen zur Selbstbefreiung benötigten. Seine Beobachtungen und Schlussfolgerungen führten zur Theorie der *instrumentellen Konditionierung*.
+Edward Lee Thorndike erforschte am Ende des 19. Jahrhunderts Problemlösen und die Rolle von Einsicht. In seinem paradigmatischen Experiment von 1898 setzte er Katzen in einen Käfig, der von innen durch Ziehen an einer Schnur zu öffnen war, legte außen Futter hin und maß die Zeit, die die Katzen zur Selbstbefreiung benötigten. Seine Beobachtungen und Schlussfolgerungen führten zur Theorie der *instrumentellen Konditionierung.*
 
 <YouTube videoid="uWt6Xyfi0nE" start="19" end="377" desc="Operante und instrumentelle Konditionierung"/>
 
@@ -43,9 +43,9 @@ Diese Lernprinzipien wurden ab den 1960er Jahren in der Psychologie um die Prinz
 
 ## Modelllernen, Sozialkognitive Lerntheorie
 
-Die Sozialkognitive Lerntheorie (auch Sozial-kognitive Lerntheorie oder Modelllernen oder Lernen am Modell genannt) ist *eine kognitivistische Lerntheorie*, die von Albert Bandura entwickelt wurde. *Es werden darunter Lernvorgänge verstanden, die auf der Beobachtung des Verhaltens von menschlichen Vorbildern beruhen*. Die persönliche Anwesenheit dieser Vorbilder (Modelle) ist dabei von untergeordneter Bedeutung.
+Die Sozialkognitive Lerntheorie (auch Sozial-kognitive Lerntheorie oder Modelllernen oder Lernen am Modell genannt) ist *eine kognitivistische Lerntheorie*, die von Albert Bandura entwickelt wurde. *Es werden darunter Lernvorgänge verstanden, die auf der Beobachtung des Verhaltens von menschlichen Vorbildern beruhen.* Die persönliche Anwesenheit dieser Vorbilder (Modelle) ist dabei von untergeordneter Bedeutung.
 
-Andere Bezeichnungen sind *Beobachtungslernen, Nachahmungslernen, Imitationslernen, soziales Lernen, Identifikationslernen, Rollenlernen und stellvertretendes Lernen*. Die einzelnen Bezeichnungen können je nach Autor auch unterschiedlich verwendet werden. Das „*Lernen am Modell*“ gilt als dritte Form des menschlichen Lernens, da es zeitlich nach der instrumentellen und operanten Konditionierung und der Klassischen Konditionierung entdeckt wurde.
+Andere Bezeichnungen sind *Beobachtungslernen, Nachahmungslernen, Imitationslernen, soziales Lernen, Identifikationslernen, Rollenlernen und stellvertretendes Lernen.* Die einzelnen Bezeichnungen können je nach Autor auch unterschiedlich verwendet werden. Das „*Lernen am Modell*“ gilt als dritte Form des menschlichen Lernens, da es zeitlich nach der instrumentellen und operanten Konditionierung und der Klassischen Konditionierung entdeckt wurde.
 
 *Lernen am Modell, Imitationslernen und Identifikationslernen sind Formen des sozialen Lernens.*
 
@@ -61,7 +61,7 @@ Banduras Konzept beschreibt einen Lernprozess in vier Prozessen, die sich in die
 
 ## Kognitivismus
 
-...bezeichnet *eine Hauptströmung der Lerntheorien*. Sie ist vom Behaviorismus und Konstruktivismus zu unterscheiden und geprägt von den unterschiedlichen Einflüssen der Disziplinen Philosophie, Psychologie und Linguistik. *Im Mittelpunkt des Kognitivismus stehen die individuelle Informationsverarbeitung sowie die dazugehörigen Denk- und Verarbeitungsprozesse der Lernenden*.
+*...bezeichnet eine Hauptströmung der Lerntheorien.* Sie ist vom Behaviorismus und Konstruktivismus zu unterscheiden und geprägt von den unterschiedlichen Einflüssen der Disziplinen Philosophie, Psychologie und Linguistik. *Im Mittelpunkt des Kognitivismus stehen die individuelle Informationsverarbeitung sowie die dazugehörigen Denk- und Verarbeitungsprozesse der Lernenden.*
 
 </newSection>
 
@@ -69,6 +69,6 @@ Banduras Konzept beschreibt einen Lernprozess in vier Prozessen, die sich in die
 
 ## Konstruktivismus
 
-Der Konstruktivismus in lernpsychologischer Hinsicht postuliert, dass menschliches Erleben und Lernen Konstruktionsprozessen unterworfen ist, die durch sinnesphysiologische, neuronale, kognitive und soziale Prozesse beeinflusst werden. *Seine Kernthese besagt, dass Lernende im Lernprozess eine individuelle Repräsentation der Welt schaffen*. Was jemand unter bestimmten Bedingungen lernt, hängt somit stark, jedoch nicht ausschließlich, von dem Lernenden selbst und seinen Erfahrungen ab.
+Der Konstruktivismus in lernpsychologischer Hinsicht postuliert, dass menschliches Erleben und Lernen Konstruktionsprozessen unterworfen ist, die durch sinnesphysiologische, neuronale, kognitive und soziale Prozesse beeinflusst werden. *Seine Kernthese besagt, dass Lernende im Lernprozess eine individuelle Repräsentation der Welt schaffen.* Was jemand unter bestimmten Bedingungen lernt, hängt somit stark, jedoch nicht ausschließlich, von dem Lernenden selbst und seinen Erfahrungen ab.
 
 </newSection>

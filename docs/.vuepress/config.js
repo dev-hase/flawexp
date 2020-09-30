@@ -56,6 +56,7 @@ module.exports = {
                 ['/paedagogik/methoden/', 'Unterrichtsmethoden'],
                 ['/paedagogik/techniken/', 'Unterrichtstechniken'],
                 ['/paedagogik/sozialformen/', 'Sozialformen'],
+                ['/paedagogik/stufenausbildung/', 'Stufenausbildung'],
                 
               ]
             },
