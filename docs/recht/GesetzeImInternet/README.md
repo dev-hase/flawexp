@@ -6,6 +6,8 @@ title: 'Gesetze im Internet'
 
 # Gesetze im Internet
 
+![recht](/img/media/recht.jpg "Recht")
+
 </infoBox>
 
 ## Die Klassiker für Fahrlehreranwärter

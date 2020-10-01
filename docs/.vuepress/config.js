@@ -120,6 +120,9 @@ module.exports = {
               children: [
                 ['/recht/wichtig/', 'Wichtiges auf einen Blick'],      
                 ['/recht/GesetzeImInternet/', 'Gesetze im Internet'],
+                ['/recht/strassen_wegerecht/', 'Straßen- und Wegerecht'],
+                ['/recht/strafrecht/', 'Strafrecht'],
+                ['/recht/straftaten_stv/', 'Straftaten im Straßenverkehr'],
               ]
             }
 

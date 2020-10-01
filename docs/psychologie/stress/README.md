@@ -75,3 +75,5 @@ auch (unausgleichbare) Unterforderung, Langeweile und Lethargie
 - Tod eines nahen Mitmenschen und die Trennung durch eine Ehescheidung
 
 </newSection>
+
+<YouTube videoid="Fqnrk6NbB6w"  desc="Auswirkungen von Stress im Körper"/>
