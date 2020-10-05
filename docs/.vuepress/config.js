@@ -123,6 +123,7 @@ module.exports = {
                 ['/recht/strassen_wegerecht/', 'Straßen- und Wegerecht'],
                 ['/recht/strafrecht/', 'Strafrecht'],
                 ['/recht/straftaten_stv/', 'Straftaten im Straßenverkehr'],
+                ['/recht/versicherung/', 'Versicherung'],
               ]
             }
 

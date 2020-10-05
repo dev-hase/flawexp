@@ -53,6 +53,9 @@ export default {
             background-size cover
             background-position center
 
+    .theme-default-content:not(.newSection) > .video-box
+        box-shadow 4px 3px 5px #aaa
+
 
     .youtube:before
         content ''
