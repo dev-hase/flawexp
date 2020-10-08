@@ -11,6 +11,15 @@ pageClass: verkehrsverhalten
 
 </infoBox>
 
+## 3-A-Training
+
+Beim so genannten 3-A-Training gibt es drei Beobachtungskriterien, anhand derer künftige Verkehrsteilnehmer lernen sollen, ihre Partner im Sraßenverkehr einzuschätzen:
+
+- *Alter*
+- *Absicht*
+- *Aufmerksamkeit*
+- (kann durch *Art der Verkehrsteilnahme* ergänzt werden)
+
 ## Abstellen
 
 Parken ist zulässiger „Gemeingebrauch“, *Abstellen ist unzulässige „Sondernutzung“ von öffentlichen Verkehrsraum.*
