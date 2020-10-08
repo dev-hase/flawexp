@@ -16,8 +16,8 @@ title: 'zivilrechtliche Schadenshaftung'
 
 ### Haftungsarten:
 
-- *Verschuldenshaftung:* Haftung aus unerlaubter Handlung, $ 823 BGB. Schaden muß schuldhaft herbeigeführt sein.
-- *Gefährdungshaftung:* Haftung ohne Verschulden, $ 7 ff. StVG. Es genügt die Ursächlichkeit eines bestimmten Verhaltens für den entstandenen Schaden.
+- *Verschuldenshaftung:* Haftung aus unerlaubter Handlung, § 823 BGB. Schaden muß schuldhaft herbeigeführt sein.
+- *Gefährdungshaftung:* Haftung ohne Verschulden, § 7 ff. StVG. Es genügt die Ursächlichkeit eines bestimmten Verhaltens für den entstandenen Schaden.
 - *Vertagshaftung:* Haftung auf Erfülllung des Vertrages. Schadensersatz wegen Nichterfüllung oder Verzugsschaden.
 
 ### Schadensarten:
@@ -25,7 +25,7 @@ title: 'zivilrechtliche Schadenshaftung'
 - *Personenschäden:* Körperschäden. die eine Heilbehandlung erforderlich machen. Eine nicht völlig unerhebliche Beeinträchtigung des Wohlbefindens eines anderen Menschen.
 - *Sachschäden:* Der Ersatz des Sachschadens umfaßt die Beschädigung. Zerstörung oder das Abhandenkommen einer Sache. Daneben werden Schäden ersetzt, die anläßlich der Beschädigung oder Zerstörung entstanden sind (z.B. Gutachterkosten). Tiere sind zwar keine Sachen, auf sie sind aber die für Sachen geltenden Vorschriften entsprechend anzuwenden(§ 90 a BGB).
 - *Vermögensschaden:* Vermögensschäden sind keine Schäden, die direkt durch die Verletzung einer Person oder Beschädigung einer Sache entstehen. Unter den Begriff des Vermögensschadens fällt z.B. ein entgangener Gewinn oder Verdienstausfall (§5 252 BGB).
-- *Immaterielle Schäden:* Interessen ohne bestimmbaren Gegenwert im Wirtschaftsleben, z.B. reines Liebhaberinteresse oder persönlicher Erinnerungswert. *Nach $ 253 Abs. 2 BGB kann bei Verletzung des Körpers oder der Gesundheit eine Entschädigung in Geld gefordert werden (Schmerzensgeld);* der Schaden ist hier nicht materieller, sondern ideeller bzw. immaterieller Art.
+- *Immaterielle Schäden:* Interessen ohne bestimmbaren Gegenwert im Wirtschaftsleben, z.B. reines Liebhaberinteresse oder persönlicher Erinnerungswert. *Nach § 253 Abs. 2 BGB kann bei Verletzung des Körpers oder der Gesundheit eine Entschädigung in Geld gefordert werden (Schmerzensgeld);* der Schaden ist hier nicht materieller, sondern ideeller bzw. immaterieller Art.
 
 ### Unmittelbarer / Mittelbarer Schaden
 
@@ -48,7 +48,7 @@ Geschädigter ist der in seinen Rechten Verletzte. Dies kann auch ein Dritter se
 
 <YouTube videoid="xLQq5KRADQs" start="79" desc="Verschuldenshaftung"/>
 
-### Der Tatbestand des $ 823 I BGB
+### Der Tatbestand des § 823 I BGB
 
 Wer vorsätzlich oder fahrlässig
 
@@ -68,7 +68,7 @@ Schadensersatz ist entweder in Geld oder durch Wiederherstellung des ursprüngli
 
 *Schadensersatzpflichtig ist immer der Schädiger selbst.* Dies kann im Straßenverkehr der Fahrer eines Kfz, Fahrrades oder auch ein Fußgänger sein. Schädiger kann aber auch der Halter eines Kfz sein, der sein Fahrzeug nicht im verkehrssicheren Zustand gehalten hat oder der Meister einer Werkstatt, der eine Reparatur mangelhaft durchgeführt hat, so dass ein Unfall verursacht wird.
 
-### Mitverschulden ($ 254 BGB)
+### Mitverschulden (§ 254 BGB)
 
 Häufig ist fiir die Entstehung eines Schadens nicht eine Person allein verantwortlich. *Auch ein Fehlverhalten des Geschädigten kann zur Entstehung des Schadens beigetragen haben.*
 
@@ -83,7 +83,7 @@ Verjährung ein).
 
 *Bis zur Vollendung des 7. Lebensjahres ist ein Kind für einen Schaden, den es einem anderen zufügt, nicht verantwortlich (§ 828 I BGB).* Eventuell haftunen die Eltern und Erzieher wegen Verletzung der Aufsichtspflicht (§ 832 BGB).
 
-*Kinder zwischen 7 und 10 Jahren haften nicht für Unfälle mit Kfz, Schienenbahnen oder Schwebebahnen ($ 828 II BGB), unabhängig davon, ob das Kind Täter oder Opfer ist;* das Kind muss sich auch kein Mitverschulden (§ 254 BGB) anrechnen lassen.
+*Kinder zwischen 7 und 10 Jahren haften nicht für Unfälle mit Kfz, Schienenbahnen oder Schwebebahnen (§ 828 II BGB), unabhängig davon, ob das Kind Täter oder Opfer ist;* das Kind muss sich auch kein Mitverschulden (§ 254 BGB) anrechnen lassen.
 
 *Kinder und Jugendliche bis 18. Jahre haften, sofern die erforderliche Einsicht vorhanden ist,* d.h. nach Stand der Entwicklung die geistige Reife besteht, um das Unrecht der Tat einzusehen.
 Im Ergebnis wird die Einsichtsfähigkeit im Einzelfall zu prüfen sein, wobei der Annäherung an

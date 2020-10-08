@@ -67,7 +67,7 @@ Entsteht bis zur Ummeldung ein Schaden, kann der alte Halter unter Umständen mi
 
 "Der Käufer verpflichtet sich, das Fz unverzüglich umzumelden. Sollten sich aus einem Unfall bis dahin Nachteile für den Verkäufer ergeben (Verlust des Schadensfreiheitsrabattes), so wird der Käufer diese dem Verkäufer ersetzen."
 
-*Ein Verstoß gegen die Versicherungspflicht stellt eine Straftat dar und wird mit Geld- oder Freiheitsstrafe geahndet, $ 6 PflversG.*
+*Ein Verstoß gegen die Versicherungspflicht stellt eine Straftat dar und wird mit Geld- oder Freiheitsstrafe geahndet, § 6 PflversG.*
 
 </newSection>
 
@@ -124,7 +124,7 @@ Versicherrungsscheins, also mit der Zahlung der ersten Prämie. Eine vorläufige
 Umfang:
 
 - *Brand oder Explosion* (Voraussetzung: offene Flamme)
-- *Entwendung* (Diebstahl, Raub, Unterschlagung, unbefugter Gebrauch, $248 b StGB)
+- *Entwendung* (Diebstahl, Raub, Unterschlagung, unbefugter Gebrauch, § 248 b StGB)
 - *Sturm, Hagel, Blitzschlag, Überschwemmung;* eingeschlossen sind auch Schäden, die nicht unmittelbar durch die Naturgewalt entstanden sind.
 - *Haarwild* (jagdbares Wild, das kein Federkleid trägt)
 - *Maderbiß an Kabeln, Schläuchen*

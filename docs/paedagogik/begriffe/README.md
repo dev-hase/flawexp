@@ -13,11 +13,10 @@ pageClass: pädagogik
 
 ## Adoleszens
 
-Als Adoleszenz (lateinisch adolescere „heranwachsen“) wird in der *Entwicklung des Menschen der Zeitraum von der späten Kindheit über die Pubertät bis hin zum vollen Erwachsensein bezeichnet*. Die Adoleszenz unterscheidet sich also qualitativ sowohl von der Kindheit, als auch vom Erwachsenenalter (Wischmann, 2010. S. 32). *Der Begriff steht für den Zeitabschnitt, während dessen eine Person biologisch gesehen zeugungsfähig wird und an deren Ende sie körperlich nahezu ausgewachsen und emotional wie sozial weitgehend gereift ist*.
+Als Adoleszenz (lateinisch adolescere „heranwachsen“) wird in der *Entwicklung des Menschen der Zeitraum von der späten Kindheit über die Pubertät bis hin zum vollen Erwachsensein bezeichnet.* Die Adoleszenz unterscheidet sich also qualitativ sowohl von der Kindheit, als auch vom Erwachsenenalter (Wischmann, 2010. S. 32). *Der Begriff steht für den Zeitabschnitt, während dessen eine Person biologisch gesehen zeugungsfähig wird und an deren Ende sie körperlich nahezu ausgewachsen und emotional wie sozial weitgehend gereift ist*.
 
 ## Affektiv
-
-...bedeutet „den Affekt betreffend“. 
+ 
 *Als affektives Verhalten bezeichnet man ein Verhalten, das überwiegend von kurzen, impulsartigen Gefühlsregungen und nicht von kognitiven Prozessen bestimmt ist.*
 
 **Begriffserklärung**
@@ -39,17 +38,17 @@ Es handelt sich folglich immer um eine Dominanz von starken Emotionen. Diese Gef
 
 ## Antizipation
 
-...*ist in der Psychologie und Soziologie die vorwegnehmende gedankliche Erwartung oder Erwartungshaltung. Ein Ereignis zu antizipieren heißt, in Betracht zu ziehen, dass ein Ereignis eintreten kann*.
+...*ist in der Psychologie und Soziologie die vorwegnehmende gedankliche Erwartung oder Erwartungshaltung. Ein Ereignis zu antizipieren heißt, in Betracht zu ziehen, dass ein Ereignis eintreten kann.*
 
 Der US-amerikanische Soziologe Erving Goffman (1922–1982) vertrat die Auffassung, dass die Wahrnehmung anderer Menschen stets von positiven oder negativen Erwartungen über ihr Verhalten, ihre soziale Rolle und ihre äußere Erscheinung geprägt ist. Diese Erwartungen werden schon bei der ersten Begegnung wirksam. Ein Mensch mit einem Merkmal oder einem Verhalten, das der Antizipation (Erwartung) nicht entspricht, kann eine irritierte Reaktion auslösen. Goffman beschreibt dies wie folgt: „Ein Individuum hat ein Stigma, d. h., es ist in unerwünschter Weise anders, als wir es antizipiert hatten.
 
 ## Autodidakt
 
-...*eine Person, die selbstständig, ohne Lehrer lernt, sich etwas beibringt*
+*...eine Person, die selbstständig, ohne Lehrer lernt, sich etwas beibringt*
 
 ## Axiom
 
-...*unbeweisbare, aber in sich einsichtige Wahrheit, die daher nicht bewiesen werden muss und allgemein als gültig und richtig anerkannt wird*.
+*...unbeweisbare, aber in sich einsichtige Wahrheit, die daher nicht bewiesen werden muss und allgemein als gültig und richtig anerkannt wird.*
 
 ## deduktiv
 
@@ -62,7 +61,7 @@ Der US-amerikanische Soziologe Erving Goffman (1922–1982) vertrat die Auffassu
 
 ## Didaktik
 
-Die *Didaktik ist die „Kunst“ und die „Wissenschaft“ des Lehrens und Lernens.* Sie ist eine zentrale Disziplin der Pädagogik.
+*Die Didaktik ist die „Kunst“ und die „Wissenschaft“ des Lehrens und Lernens.* Sie ist eine zentrale Disziplin der Pädagogik.
 
 Didaktik im engeren Sinn beschäftigt sich mit der Theorie des Unterrichts, im weiteren Sinne mit der Theorie und Praxis des Lehrens und Lernens. Sie befasst sich mit den praktischen Verfahren des Lehrens und Lernens (dem Wie).
 
@@ -74,7 +73,7 @@ Beispiel: Wissenschaftliche Erkenntnisse werden in der Regel in einer systematis
 
 ## Ganzheitlichkeit
 
-Ganzheitlichkeit bezieht sich in der Pädagogik auf einen integrativen Bestandteil handlungsorientierter Konzepte. Erste Ansätze sind bereits mit Pestalozzis Idee der Elementarbildung, dem *Lernen mit Kopf, Herz und Hand* im Rahmen der damaligen Anschauungspädagogik zu verzeichnen. Ausgehend von der Reformpädagogik betont ganzheitliches Lernen neben den traditionell privilegierten **kognitiv-intellektuellen** Aspekten auch **körperliche** sowie **affektiv-emotionale** Aspekte: *Ganzheitliches Lernen ist Lernen mit allen Sinnen, Lernen mit Verstand, Gemüt und Körper*.
+Ganzheitlichkeit bezieht sich in der Pädagogik auf einen integrativen Bestandteil handlungsorientierter Konzepte. Erste Ansätze sind bereits mit Pestalozzis Idee der Elementarbildung, dem *Lernen mit Kopf, Herz und Hand* im Rahmen der damaligen Anschauungspädagogik zu verzeichnen. Ausgehend von der Reformpädagogik betont ganzheitliches Lernen neben den traditionell privilegierten **kognitiv-intellektuellen** Aspekten auch **körperliche** sowie **affektiv-emotionale** Aspekte: *Ganzheitliches Lernen ist Lernen mit allen Sinnen, Lernen mit Verstand, Gemüt und Körper.*
 
 ## induktiv
 
@@ -105,7 +104,22 @@ Beispiele für kognitive Prozesse sind nach Holzinger:
 
 ## Lernziele
 
-*Lernziele beschreiben den angestrebten Lerngewinn eines Lernenden, bezogen auf einen bestimmten Inhalt*. Lehrziele geben an, welche Ziele ein Lehrender mit Hilfe der Unterrichts­themen erreichen will. Die Kombination von Lehr- und Lernziel bezeichnet man als Unterrichtsziel.
+*Lernziele beschreiben den angestrebten Lerngewinn eines Lernenden, bezogen auf einen bestimmten Inhalt.* Lehrziele geben an, welche Ziele ein Lehrender mit Hilfe der Unterrichts­themen erreichen will. Die Kombination von Lehr- und Lernziel bezeichnet man als Unterrichtsziel.
+
+## Lernzielarten
+
+Die Lernziele werden hierarchisch nach ihrem Konkretisierungsgrad geordnet:
+
+- *Leitziel:* Das große Überziel, z.B. "ich möchte einen Führerschein machen"
+- *Richtziel:* Was muss ich tun, um das Leitziel zu erreichen; *Ziel der Ausbildung ist die Befähigung zum sicheren, verantwortungsvollen und umweltbewussten Verkehrsteilnehmer.* *Ziel der Ausbildung ist außerdem die Vorbereitung auf die Fahrerlaubnisprüfung.* (FarschülerAusbildungsordnung § 1 (1))
+- *Grobziel:* Einzelne Bestandteile des Richtziels, z.B. kennen von Verkehrszeichen
+- *Feinziel:* z.B. was genau bedeutet ein Verkehrszeichen, und was ist zu beachten; Feinziele lassen sich durch einfache Lernzielkontrollen oder Fragen kontrollieren!
+
+## Lernzielbereiche / Lernzieldimensionen
+
+- *Kognitiv:* Faktenwissen
+- *Affektiv:* Handlungen und Einstellungen
+- *Pscyhomotorisch:* Bewegungsmuster / -abläufe
 
 ## Lernzielkontrolle, Lernkontrolle, LZK
 
@@ -113,11 +127,29 @@ Lernkontrolle oder Lernerfolgskontrolle ist ein Fachbegriff der Unterrichtslehre
 
 ## Lernzieltaxonomie
 
-*In der Lerntheorie werden die Lernziele entsprechend ihrer intellektuellen Anforderungen an die Lernenden in verschiedene Taxonomiestufen eingeordnet*. Am bekanntesten sind die von Benjamin Bloom beschriebenen Lernzielstufen für den kognitiven, affektiven und psychomotorischen Bereich.
+*In der Lerntheorie werden die Lernziele entsprechend ihrer intellektuellen Anforderungen an die Lernenden in verschiedene Taxonomiestufen eingeordnet*. 
+
+Am bekanntesten sind die von Benjamin Bloom beschriebenen Lernzielstufen für den kognitiven, affektiven und psychomotorischen Bereich. Hier die Einordnung für kognitive Lernziele:
+
+- *Kennen*
+- *Verstehen*
+- *Anwenden*
+- *Analysieren*
+- *Zusammenführen (Synthese)*
+- *Beurteilen (Evaluation)*
+
+Ähnlich, aber nicht unmittelbar entsprechend hat der deutsche Psychologe Heinrich Roth im Strukturplan des Deutschen Bildungsrates 1970 vier Lernzielstufen unterschieden:
+
+- Reproduktion
+- Reorganisation
+- Transfer
+- Problemlösung/Reflexion
+
+Diese Stufen hat die deutsche Kultusministerkonferenz in die Einheitlichen Prüfungsanforderungen in der Abiturprüfung übernommen, aber zu nur noch drei Anforderungsbereichen zusammengefasst.
 
 ## Lernmethode
 
-*Lernmethoden sind didaktische Maßnahmen, das Lernen effizienter zu gestalten. Sie erleichtern es, Wissen und Können in Form von Fertigkeiten, d. h. neuen Kompetenzen, zu erlangen. Lernmethoden können Lernprozesse unterstützen, fördern und optimieren*. Hierbei gilt es, die durch Neugier gespeiste Motivation, Neues zu erfahren, durch die Verbindung unterschiedlicher Lernmethoden in der Form des mehrdimensionalen Lernens möglichst aufrechtzuerhalten und in den Dienst des Lernziels zu stellen.
+*Lernmethoden sind didaktische Maßnahmen, das Lernen effizienter zu gestalten. Sie erleichtern es, Wissen und Können in Form von Fertigkeiten, d. h. neuen Kompetenzen, zu erlangen. Lernmethoden können Lernprozesse unterstützen, fördern und optimieren.* Hierbei gilt es, die durch Neugier gespeiste Motivation, Neues zu erfahren, durch die Verbindung unterschiedlicher Lernmethoden in der Form des mehrdimensionalen Lernens möglichst aufrechtzuerhalten und in den Dienst des Lernziels zu stellen.
 
 Bei der Auswahl der geeigneten Lernmethoden ist es wichtig, vorher zu ermitteln, zu welchem Lerntyp der Lernende gehört und welche Lernziele erreicht werden sollen.
 
@@ -125,19 +157,19 @@ Wie die Lehrmethoden, sollten auch die gewählten Lernmethoden auf den Erkenntni
 
 ## Mehrdimensionales Lernen
 
-Als Mehrdimensionales Lernen bezeichnet man in der Unterrichtslehre seit Warwitz eine Methode des Lernens, die eine Reihe verschiedener Fähigkeiten für den Aneignungsprozess miteinander verknüpft und in unterschiedlichen Lernformen kombiniert. *Durch die Verbindung mehrerer Dimensionen des Lernvermögens und mehrerer Lernverfahren wird ein intensiveres und nachhaltigeres Verarbeiten des Lernstoffs möglich*.
+Als Mehrdimensionales Lernen bezeichnet man in der Unterrichtslehre seit Warwitz eine Methode des Lernens, die eine Reihe verschiedener Fähigkeiten für den Aneignungsprozess miteinander verknüpft und in unterschiedlichen Lernformen kombiniert. *Durch die Verbindung mehrerer Dimensionen des Lernvermögens und mehrerer Lernverfahren wird ein intensiveres und nachhaltigeres Verarbeiten des Lernstoffs möglich.*
 
 ## Methodik
 
-*Methodik handelt vom Wie*.
+*Methodik handelt vom Wie.*
 
 Die Methodik (von griechisch methodikè téchne = die Kunst des Weges zu etwas hin) im Fachgebiet Pädagogik ist die „Wissenschaft“, „Kunst“ bzw. „Lehre“ von den Wegen zu den Zielen, die speziell in der Pädagogik erreicht werden sollen.
 
-*Methodik ist eine Konzeption, Lehrinhalte so zu vermitteln, dass sie möglichst viele Eingangskanäle des Lerners ansprechen. Nur so lässt sich ein nachhaltiger Lerneffekt erzielen, der über eine kurzfristige Lernkontrolle hinaus haften bleibt*.
+*Methodik ist eine Konzeption, Lehrinhalte so zu vermitteln, dass sie möglichst viele Eingangskanäle des Lerners ansprechen. Nur so lässt sich ein nachhaltiger Lerneffekt erzielen, der über eine kurzfristige Lernkontrolle hinaus haften bleibt.*
 
 ## Pädagogik
 
-*Pädagogik und Erziehungswissenschaft sind Bezeichnungen für eine wissenschaftliche Disziplin, die sich mit der Theorie und Praxis von Bildung und Erziehung hauptsächlich von Kindern und Jugendlichen auseinandersetzt*.
+*Pädagogik und Erziehungswissenschaft sind Bezeichnungen für eine wissenschaftliche Disziplin, die sich mit der Theorie und Praxis von Bildung und Erziehung hauptsächlich von Kindern und Jugendlichen auseinandersetzt.*
 
 :::
 
