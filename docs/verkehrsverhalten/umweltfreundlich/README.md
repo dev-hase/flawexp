@@ -7,6 +7,8 @@ pageClass: verkehrsverhalten
 
 # Umweltfreundlich Autofahren
 
+![Umweltfreundlich Autofahren](/img/media/umwelt.jpg "Umweltfreundlich Autofahren")
+
 </infoBox>
 
 <newSection title="Maßnahmen zum umweltfreundlichen Autofahren" addClass="law">

@@ -43,9 +43,11 @@ Teilweise sind auch Kombinationen mehrerer Sensorsysteme (Sensordatenfusion) not
 
 <newSection title="Antiblockiersystem (ABS)">
 
-## Antiblockiersystem (ABS)
+## Antiblockiersystem (ABS/ABV)
 
 Wird seit 2004 serienmäßig in fast allen Pkw ausgeliefert. *Es verhindert das Blockieren einzelner Räder während des Bremsvorgangs und erhält so die Lenkfähigkeit bei Vollbremsung.*
+
+<YouTube videoid="HoWfmiQC58I" desc="Antiblockiersystem (ABS) verstehen"/>
 
 </newSection>
 
@@ -64,6 +66,8 @@ Wird seit 2004 serienmäßig in fast allen Pkw ausgeliefert. *Es verhindert das 
 ## Antriebsschlupfregelung (ASR)
 
 *Dient zur Verbesserung des Anfahrverhaltens und zum Beschleunigen*. Es verteilt das Antriebsmoment auf die Räder und *verhindert auf glattem Untergrund das Durchdrehen.*
+
+<YouTube videoid="LEHOTfJ7twM" desc="ASR - Antriebsschlupfregelung kurz erklärt"/>
 
 </newSection>
 
@@ -220,3 +224,13 @@ ADAC Einschätzung zur verpflichtenden Einführung: Aus ADAC Sicht lassen sich, 
 ADAC Einschätzung zur verpflichtenden Einführung: Eine vorbereitete Schnittstelle in allen Fahrzeugen kann die Montage eines Alkohol-Interlock-Systems im selten erforderlichen Anwendungsfall für den Betroffenen günstiger machen. 20 bis 28 Prozent aller Verkehrsunfälle, -toten und -verletzten in Europa sind auf Alkoholeinfluss zurückzuführen. 
 
 </newSection>
+
+<infoBox>
+
+## Volkswagen Assistenzsysteme 
+
+</infoBox>
+
+<YouTube videoid="Qhx8to12BNY" start="90" desc="Volkswagen Assistenzsysteme Teil 1 von A-L"/>
+
+<YouTube videoid="jR__aeqidHY" start="90" desc="Volkswagen Assistenzsysteme Teil 2 von M-V"/>

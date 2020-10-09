@@ -7,6 +7,8 @@ pageClass: technik
 
 # Viertaktmotor
 
+![Motor](/img/media/motor.jpg "Motor")
+
 *Ein Viertaktmotor ist eine Wärme-, genauer Verbrennungskraftmaschine, die thermische Leistung aus der Verbrennung von Kraftstoff in Drehmoment an einer rotierenden Welle, also rotatorische Leistung, umwandelt.*
 
 </infoBox>

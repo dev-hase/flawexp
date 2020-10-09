@@ -75,6 +75,8 @@ Eine weitere Voraussetzung für selbstfahrende Autos ohne Fahrer ist die fläche
 
 </newSection>
 
+<YouTube videoid="AcRJxP9pCFY" start="26" desc="Die fünf Level des autonomen Fahren"/>
+
 <infoBox>
 
 ## Sensoren für autonomes Fahren
@@ -92,3 +94,5 @@ Autonomes Fahren setzt den Einbau verschiedener Sensoren im Automobil voraus. Da
 - *Infrarot-Kamera:* Nachtsichtsysteme mit Personen- und Wildtiererkennung.
 
 </infoBox>
+
+
