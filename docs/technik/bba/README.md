@@ -45,6 +45,8 @@ Die Übertragung der Kraft von der Betätigungseinrichtung zu den eigentlichen R
 
 In Kraftfahrzeugen wurden Trommelbremsen von Scheibenbremsen abgelöst. Bei leistungsschwächeren Pkw werden sie noch an der Hinterachse eingesetzt; bei schweren Nutzfahrzeugen sowie Anhängern ist die Trommelbremse immer noch Stand der Technik.
 
+<YouTube videoid="5yZ-fbx2f_E" desc="Trommelbremse" />
+
 </newSection>
 
 <newSection title="Scheibenbremse">

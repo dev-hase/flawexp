@@ -23,6 +23,18 @@ Ein Getriebe (oder Umformerelement) ist ein Maschinenelement, mit dem Bewegungsg
 
 <YouTube videoid="0bq-WcRK1Bk" desc="Schaltgetriebe"/>
 
+<YouTube videoid="_-OgLg3IDu0" desc="Wie funktioniert das Schaltgetriebe"/>
+
+<YouTube videoid="3pI4o9J6Aag" desc="Die 5 Todsünden beim Schalten"/>
+
+</newSection>
+
+<newSection title="Doppelkupplungsgetriebe (DCT, DSG)">
+
+## Doppelkupplungsgetriebe (DCT, DSG)
+
+<YouTube videoid="WFvwWXw1qcg" desc="Doppelkupplungsgetriebe" />
+
 </newSection>
 
 <newSection title="Synchronisation beim KFZ-Getriebe">
@@ -62,5 +74,7 @@ Der Begriff Regelbereich entspricht der Spreizung beim Stufengetriebe, also dem 
 <YouTube videoid="KR-q0OKe5II" start="8" desc="CVT" />
 
 <YouTube videoid="Excnb3ELS2E" desc="CVT" />
+
+<YouTube videoid="VRdSpfwCOrI" desc="CVT" />
 
 </newSection>

@@ -33,6 +33,8 @@ Die 7-Grad-Empfehlung (und ebenso die „O-bis-O-Regel“ – „von Oktober bis
 
 <YouTube videoid="lDGGluOwDOw" start="17" end="327" desc="Kennungen und Maßeinheiten"/>
 
+<YouTube videoid="slKcEfEezgI" desc="Reifenkennzeichnung"/>
+
 In Mitteleuropa fahren Autos meist auf asphaltierten Straßen mit einer Oberflächentemperatur zwischen -15 °C und +60 °C. Die Straßen können verschiedene Feuchtigkeitsgrade aufweisen, im Winter können sie von Neuschnee, festgefahrenem Schnee und/oder Eis bedeckt sein. Theoretisch gäbe es für jede Fahrsituation einen eigenen optimierten Reifen. 
 
 Um unter den Randbedingungen Produktionskosten und Lebensdauer ein möglichst breites Spektrum abzudecken, werden die folgenden Reifenarten angeboten:

@@ -35,6 +35,8 @@ Mittlerweile werden zusätzlich zur Gleitlagerung ein oder zwei keramische Kugel
 
 <YouTube videoid="KMqv1G7Kt_I" start="8" desc="Funktionsweise"/>
 
+<YouTube videoid="R2i2RYXTAbU" desc="Wie funktioniert ein Turbolader"/>
+
 </newSection>
 
 <newSection title="Vor- und Nachteile">

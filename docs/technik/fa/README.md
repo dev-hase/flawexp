@@ -55,6 +55,8 @@ Wird seit 2004 serienmäßig in fast allen Pkw ausgeliefert. *Es verhindert das 
 
 *Wirkt durch gezieltes Abbremsen einzelner Räder und Eingriff in die Motorleistung jederzeit dem Ausbrechen und Schleudern des Wagens entgegen*. Die zweite Generation unterstützt dies auch durch elektrische Lenkeingriffe. Neuere Systeme integrieren zudem eine Gespannstabilisierung im Anhängerbetrieb.
 
+<YouTube videoid="gu0IDoq_yhw" desc="Wie funktioniert ESP / ESC?"/>
+
 </newSection>
 
 <newSection title="Antriebsschlupfregelung (ASR)">

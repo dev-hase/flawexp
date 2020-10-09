@@ -85,6 +85,7 @@ module.exports = {
                 ['/verkehrsverhalten/begriffe/', 'Begriffe'],
                 ['/verkehrsverhalten/unfall/', 'Verkersunfall'],
                 ['/verkehrsverhalten/bf17/', 'BF 17'],
+                ['/verkehrsverhalten/umweltfreundlich/', 'Umweltfreundlich Autofahren'],
                 ['/verkehrsverhalten/videos/', 'Videos'],
               ]
             },
@@ -103,6 +104,7 @@ module.exports = {
                 ['/technik/elektroauto/', 'Elektroauto'],
                 ['/technik/kinematische_kette/', 'Antriebsstrang, Kinematische Kette'],
                 ['/technik/viertaktmotor/', 'Viertaktmotor'],
+                ['/technik/abgasreinigung/', 'Abgasreinigung'],
                 ['/technik/kupplung/', 'Kupplung'],
                 ['/technik/getriebe/', 'Getriebe'],
                 ['/technik/reifen/', 'Autoreifen'],
@@ -112,6 +114,7 @@ module.exports = {
                 ['/technik/turbolader/', 'Turbolader'],
                 ['/technik/bba/', 'Betriebsbremsanlage (BBA)'],
                 ['/technik/fa/', 'Fahrassistenzsysteme'],
+                ['/technik/lenkung/', 'Lenkung'],
                 ['/technik/kammscher_kreis/', 'Kammscher Kreis'],
                 
               ]
