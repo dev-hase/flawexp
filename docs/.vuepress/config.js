@@ -84,6 +84,7 @@ module.exports = {
               children: [
                 ['/verkehrsverhalten/begriffe/', 'Begriffe'],
                 ['/verkehrsverhalten/unfall/', 'Verkersunfall'],
+                ['/verkehrsverhalten/kinder/', 'Kinder und Gefahrenwahrnehmung'],
                 ['/verkehrsverhalten/bf17/', 'BF 17'],
                 ['/verkehrsverhalten/umweltfreundlich/', 'Umweltfreundlich Autofahren'],
                 ['/verkehrsverhalten/videos/', 'Videos'],
