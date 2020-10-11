@@ -130,6 +130,7 @@ module.exports = {
                 ['/recht/straftaten_stv/', 'Straftaten im Straßenverkehr'],
                 ['/recht/haftung/', 'zivilrechtliche Schadenshaftung'],
                 ['/recht/versicherung/', 'Versicherung'],
+                ['/recht/punktsystem/', 'Punktsystem'],
               ]
             }
 

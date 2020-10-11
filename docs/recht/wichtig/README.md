@@ -535,3 +535,88 @@ Fahrschule bekannt zu geben.*
 		- Kurse zur umweltschonenden Fahrweise.
 
 </newSection>
+
+<infoBox>
+
+## Strafgesetzbuch (StGB)
+
+</infoBox>
+
+<newSection title='§ 315c Gefährdung des Straßenverkehrs (7 Todsünden)' addClass="law">	
+
+## § 315c Gefährdung des Straßenverkehrs (7 Todsünden)
+
+- (1) Wer im Straßenverkehr
+	1.
+		- ein Fahrzeug führt, obwohl er
+			- a)
+				infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel oder
+			- b)
+				infolge geistiger oder körperlicher Mängel nicht in der Lage ist, das Fahrzeug sicher zu führen, oder
+	2.
+		- *grob verkehrswidrig und rücksichtslos*
+			- a)
+				- *die Vorfahrt nicht beachtet,*
+			- b)
+				- *falsch überholt oder sonst bei Überholvorgängen falsch fährt,*
+			- c)
+				- *an Fußgängerüberwegen falsch fährt,*
+			- d)
+				- *an unübersichtlichen Stellen, an Straßenkreuzungen, Straßeneinmündungen oder Bahnübergängen zu schnell fährt,*
+			- e)
+				- *an unübersichtlichen Stellen nicht die rechte Seite der Fahrbahn einhält,*
+			- f)
+				- *auf Autobahnen oder Kraftfahrstraßen wendet, rückwärts oder entgegen der Fahrtrichtung fährt oder dies versucht oder*
+			- g)
+				- *haltende oder liegengebliebene Fahrzeuge nicht auf ausreichende Entfernung kenntlich macht,* obwohl das zur Sicherung des Verkehrs erforderlich ist, und dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+- (2) In den Fällen des Absatzes 1 Nr. 1 ist der Versuch strafbar.
+- (3) Wer in den Fällen des Absatzes 1
+	1. die Gefahr fahrlässig verursacht oder
+	2. fahrlässig handelt und die Gefahr fahrlässig verursacht,
+- wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+
+</newSection>
+
+<newSection title="§ 315d Verbotene Kraftfahrzeugrennen" addClass="law">	
+
+## § 315d Verbotene Kraftfahrzeugrennen
+
+- (1) Wer im Straßenverkehr
+	1. *ein nicht erlaubtes Kraftfahrzeugrennen ausrichtet oder durchführt,*
+	2. *als Kraftfahrzeugführer an einem nicht erlaubten Kraftfahrzeugrennen teilnimmt oder*
+	3. *sich als Kraftfahrzeugführer mit nicht angepasster Geschwindigkeit und grob verkehrswidrig und rücksichtslos fortbewegt, um eine höchstmögliche Geschwindigkeit zu erreichen,*
+- wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+- (2) Wer in den Fällen des Absatzes 1 Nummer 2 oder 3 Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+- (3) Der Versuch ist in den Fällen des Absatzes 1 Nummer 1 strafbar.
+- (4) Wer in den Fällen des Absatzes 2 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+- (5) Verursacht der Täter in den Fällen des Absatzes 2 durch die Tat den Tod oder eine schwere Gesundheitsschädigung eines anderen Menschen oder eine Gesundheitsschädigung einer großen Zahl von Menschen, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
+
+</newSection>
+
+<newSection title="§ 316 Trunkenheit im Verkehr" addClass="law">	
+
+## § 316 Trunkenheit im Verkehr
+
+- *(1) Wer im Verkehr (§§ 315 bis 315e) ein Fahrzeug führt, obwohl er infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel nicht in der Lage ist, das Fahrzeug sicher zu führen, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn die Tat nicht in § 315a oder § 315c mit Strafe bedroht ist.*
+- *(2) Nach Absatz 1 wird auch bestraft, wer die Tat fahrlässig begeht.*
+
+</newSection>
+
+<newSection title="§ 323a Vollrausch" addClass="law">	
+
+## § 323a Vollrausch
+
+- *(1) Wer sich vorsätzlich oder fahrlässig durch alkoholische Getränke oder andere berauschende Mittel in einen Rausch versetzt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft, wenn er in diesem Zustand eine rechtswidrige Tat begeht und ihretwegen nicht bestraft werden kann, weil er infolge des Rausches schuldunfähig war oder weil dies nicht auszuschließen ist.*
+- (2) Die Strafe darf nicht schwerer sein als die Strafe, die für die im Rausch begangene Tat angedroht ist.
+- (3) Die Tat wird nur auf Antrag, mit Ermächtigung oder auf Strafverlangen verfolgt, wenn die Rauschtat nur auf Antrag, mit Ermächtigung oder auf Strafverlangen verfolgt werden könnte.
+
+</newSection>
+
+<newSection title="§ 323c Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen" addClass="law">
+
+## § 323c Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen
+
+- *(1) Wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe leistet, obwohl dies erforderlich und ihm den Umständen nach zuzumuten, insbesondere ohne erhebliche eigene Gefahr und ohne Verletzung anderer wichtiger Pflichten möglich ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.*
+- *(2) Ebenso wird bestraft, wer in diesen Situationen eine Person behindert, die einem Dritten Hilfe leistet oder leisten will.*
+
+</newSection>

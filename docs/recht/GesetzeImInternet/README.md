@@ -14,6 +14,8 @@ title: 'Gesetze im Internet'
 
 - <a href="https://www.gesetze-im-internet.de/stvo_2013/StVO.pdf" target="_blank">StVO</a> - Straßenverkehrs-Ordnung
 
+- <a href="https://www.gesetze-im-internet.de/stvg/StVG.pdf" target="_blank">StVG</a> - Straßenverkehrsgesetz
+
 - <a href="https://www.gesetze-im-internet.de/babrigeschwv_1978/BABRiGeschwV_1978.pdf" target="_blank">AutobahnRichtgeschwindigkeits-V</a> - Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen
 
 - <a href="https://www.gesetze-im-internet.de/fahrschausbo_2012/FahrschAusbO_2012.pdf" target="_blank">FahrschAusbO</a> - Fahrschüler-Ausbildungsordnung
@@ -27,6 +29,8 @@ title: 'Gesetze im Internet'
 - <a href="https://www.gesetze-im-internet.de/bkatv_2013/BKatV.pdf" target="_blank">BKatV</a> - BußgeldkatalogVerordnung
 
 - <a href="https://www.gesetze-im-internet.de/stgb/StGB.pdf" target="_blank">StGB</a> - Strafgesetzbuch
+
+- <a href="https://www.gesetze-im-internet.de/bgb/BGB.pdf" target="_blank">BGB</a> - Bürgerliches Gesetzbuch
 
 
 ## Aktuell vom Bundesministerium für Justiz und Verbraucherschutz

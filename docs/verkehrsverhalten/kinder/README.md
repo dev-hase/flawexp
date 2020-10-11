@@ -30,6 +30,31 @@ pageClass: verkehrsverhalten
 
 </newSection>
 
+<newSection title="Gefahren im Straßenverkehr aus Kindersicht">
+
+## Gefahren im Straßenverkehr aus Kindersicht
+
+Die von den befragten Kindern am häufigsten genannten Gefahren auf ihren Schulwegen sind: 
+
+- zu schnell fahrende Autos
+- unvorsichtig abbiegende Fahrzeuge
+- parkende Autos auf Geh- und Radwegen
+- gefährliche Sichthindernisse im Bereich von Überwegen
+- fehlende oder zu schmale Gehwege
+- für Fußgänger ungünstige Ampelschaltungen (zu kurze Grünphasen, keine „grüne Welle“ für Fußgänger)
+- fehlende Überquerungshilfen
+- fehlende Radwege
+- „Rot-Fahrer“ an Ampeln
+- „Nicht-Anhalter“ an Zebrastreifen
+- rücksichtslose Kraftfahrer an Ein- und Ausfahrten 
+- mangelhafte Beleuchtung von Gefahrenpunkten
+- gefährliche Wege zu Bushaltestellen im ländlichen Raum
+- überfüllte Schulbusse
+- mangelhafte Ausstattung von Bushaltestellen
+- mangelhaftes Interesse der Behörden in Bezug auf Gefahren für Kinder im Verkehrsraum
+
+</newSection>
+
 <newSection title="Entfernungs- und Geschwindigkeitswahrnehmung">
 
 ## Entfernungs- und Geschwindigkeitswahrnehmung
