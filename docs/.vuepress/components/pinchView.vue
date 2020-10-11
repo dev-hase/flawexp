@@ -52,6 +52,7 @@ export default {
         mjx-container
             background $highlightB
             padding .2rem
+            max-width 100%
 
         ul
             position relative

@@ -13,11 +13,11 @@ pageClass: technik
 
 ## Ansprechzeit, Anlegedauer, Schlupfzeit
 
-*Die Ansprechzeit bezeichnet die Zeit von der Betätigung des Bremspedals bis zur ersten Berührung des Bremsbelages mit der Bremsscheibe bzw. -trommel. Während der Ansprechzeit fährt das Fahrzeug mit ungebremster Geschwindigkeit weiter*. Die Ansprechzeit kann durch Verringerung des Lüftspiels sowie durch elektronische Sensoren verkürzt werden. Sensor und Steuergerät können eine Notbremsung am schnellen Wechsel von Gas- zu Bremspedal und der hohen Geschwindigkeit der Bremsbetätigung erkennen. Die Bremsung wird durch diese Bremsassistenzsysteme automatisch eingeleitet, Ansprech- und Schwellzeit werden durch raschen Druckaufbau verkürzt.
+*Die Ansprechzeit bezeichnet die Zeit von der Betätigung des Bremspedals bis zur ersten Berührung des Bremsbelages mit der Bremsscheibe bzw. -trommel. Während der Ansprechzeit fährt das Fahrzeug mit ungebremster Geschwindigkeit weiter.* Die Ansprechzeit kann durch Verringerung des Lüftspiels sowie durch elektronische Sensoren verkürzt werden. Sensor und Steuergerät können eine Notbremsung am schnellen Wechsel von Gas- zu Bremspedal und der hohen Geschwindigkeit der Bremsbetätigung erkennen. Die Bremsung wird durch diese Bremsassistenzsysteme automatisch eingeleitet, Ansprech- und Schwellzeit werden durch raschen Druckaufbau verkürzt.
 
 ## Antriebsstrang
 
-*Unter dem Antriebsstrang eines Fahrzeuges werden in der Kraftfahrzeugtechnik alle Komponenten verstanden, die im Fahrzeug die Leistung für den Antrieb generieren und bis auf die Straße übertragen*.
+*Unter dem Antriebsstrang eines Fahrzeuges werden in der Kraftfahrzeugtechnik alle Komponenten verstanden, die im Fahrzeug die Leistung für den Antrieb generieren und bis auf die Straße übertragen.*
 
 Beim konventionellen Antriebsstrang, bei dem ein Verbrennungsmotor (Otto- oder Dieselmotor) eingesetzt wird, zählen dazu der Motor mit dem Schwungrad , die Kupplung mit dem Fahrzeuggetriebe, bei mehrspurigen Fahrzeugen das Differential, die Antriebswellen oder Steckachsen sowie die Räder. 
 
@@ -29,7 +29,7 @@ Ein Elektrofahrzeug verfügt nicht mehr über einen konventionellen Verbrennungs
 
 ![Antriebswelle](/img/media/kardanwelle.gif "Antriebswelle")
 
-*Die Antriebswelle ist ein Bauteil der Kraftfahrzeugtechnik und dient der Kraftübertragung zwischen dem Getriebe und dem angetriebenen Rad und ist ein Teil des Antriebsstrangs*.
+*Die Antriebswelle ist ein Bauteil der Kraftfahrzeugtechnik und dient der Kraftübertragung zwischen dem Getriebe und dem angetriebenen Rad und ist ein Teil des Antriebsstrangs.*
 
 Um den Einfederungsbewegungen und dem Lenkeinschlag folgen zu können, sind Gelenke vorhanden, weshalb auch der Oberbegriff Gelenkwelle verwendet wird. Zum Schutz der Gelenke werden Manschetten aus Gummi über die Gelenke gezogen und mit Fett gefüllt.
 
@@ -41,7 +41,7 @@ Gelenkwellen dienen:
 
 ## AdBlue
 
-Das SCR-Verfahren nutzt Ammoniak, welches an Bord des Fahrzeugs aus Harnstoff gewonnen wird. *Die in einem separaten Tank liegende Harnstofflösung wird z. B. mittels Dosierpumpe oder Injektor dosiert in den Abgasstrom eingespritzt und sorgt im SCR-Katalysator für eine chemische Reaktion. Hierbei werden nur die Stickoxide in Stickstoff und Wasserdampf umgewandelt*. Das Verhältnis von Harnstofflösung zu Dieselkraftstoff beträgt etwa 1:20 bis 1:30.
+Das SCR-Verfahren nutzt Ammoniak, welches an Bord des Fahrzeugs aus Harnstoff gewonnen wird. *Die in einem separaten Tank liegende Harnstofflösung wird z. B. mittels Dosierpumpe oder Injektor dosiert in den Abgasstrom eingespritzt und sorgt im SCR-Katalysator für eine chemische Reaktion. Hierbei werden nur die Stickoxide in Stickstoff und Wasserdampf umgewandelt.* Das Verhältnis von Harnstofflösung zu Dieselkraftstoff beträgt etwa 1:20 bis 1:30.
 
 *Vorteile*
 
@@ -63,27 +63,27 @@ Wassergefährdungsklasse 1 (schwach)
 
 ## Arbeit
 
-*Physikalische Arbeit (W) wird geleistet, wenn ein Körper durch Krafteinwirkung (F) einen bestimmten Weg (s) zurücklegt*. Energie ist gespeicherte Arbeit (mit der gleichen Einheit). Sie kann weder erzeugt noch vernichtet, nur umgewandelt werden. Eine Form der Energie ist z.B. die Wärme. 
+*Physikalische Arbeit (W) wird geleistet, wenn ein Körper durch Krafteinwirkung (F) einen bestimmten Weg (s) zurücklegt.* Energie ist gespeicherte Arbeit (mit der gleichen Einheit). Sie kann weder erzeugt noch vernichtet, nur umgewandelt werden. Eine Form der Energie ist z.B. die Wärme. 
 
 In der Physik bzw. Mechanik unterscheidet man verschiedene Arten der mechanischen Arbeit:
 
-- *Hubarbeit*:  Wird ein Körper angehoben, so wird Hubarbeit verrichtet. Ein Beispiel dafür wäre ein Kran auf einer Baustelle: Dieser hebt Baumaterial vom Boden der Baustelle auf eine höhere Stelle. 
-- *Verformungsarbeit*: Wird ein Körper verformt, so wird Verformungsarbeit verrichtet. Beispiel: Eine Feder, die auseinander gezogen wird.
-- *Beschleunigungsarbeit*: Wird ein Körper beschleunigt, so wird Beschleunigungsarbeit verrichtet. Beispiel: Ein stehendes Auto wird in Bewegung gesetzt um los zu fahren.
-- *Reibungsarbeit*: Wirken Reibungskräfte auf einen Körper und behindern diesen bei einer Bewegung, so sprich man von Reibungsarbeit. Beispiel: Ein Holzklotz liegt auf einem Tisch. Um diesen auf dem Tisch weiter zu schieben, muss genügend Kraft aufgewendet werden. 
+- *Hubarbeit:*  Wird ein Körper angehoben, so wird Hubarbeit verrichtet. Ein Beispiel dafür wäre ein Kran auf einer Baustelle: Dieser hebt Baumaterial vom Boden der Baustelle auf eine höhere Stelle. 
+- *Verformungsarbeit:* Wird ein Körper verformt, so wird Verformungsarbeit verrichtet. Beispiel: Eine Feder, die auseinander gezogen wird.
+- *Beschleunigungsarbeit:* Wird ein Körper beschleunigt, so wird Beschleunigungsarbeit verrichtet. Beispiel: Ein stehendes Auto wird in Bewegung gesetzt um los zu fahren.
+- *Reibungsarbeit:* Wirken Reibungskräfte auf einen Körper und behindern diesen bei einer Bewegung, so sprich man von Reibungsarbeit. Beispiel: Ein Holzklotz liegt auf einem Tisch. Um diesen auf dem Tisch weiter zu schieben, muss genügend Kraft aufgewendet werden. 
 
 ## Differential, Differentialgetriebe, Ausgleichsgetriebe
 
 ![Differential](/img/media/differential.gif "Differential")
 
-*Das Ausgleichsgetriebe soll bei mehrspurigen Fahrzeugen mit zwei Antriebsrädern oder Allradantrieb das Drehmoment verteilen und gleichzeitig Drehzahlunterschiede z.B. bei Kurvenfahrt ausgleichen*. Es reduziert damit den Verschleiß möglicherweise radierender Reifen. 
+*Das Ausgleichsgetriebe soll bei mehrspurigen Fahrzeugen mit zwei Antriebsrädern oder Allradantrieb das Drehmoment verteilen und gleichzeitig Drehzahlunterschiede z.B. bei Kurvenfahrt ausgleichen.* Es reduziert damit den Verschleiß möglicherweise radierender Reifen. 
 
 Erst bei Drehzahlunterschieden (z.B. bei Kurvenfahrt) zwischen den beiden Achswellenrädern drehen sich die beiden Ausgleichskegelräder entgegengesetzt auf ihren Wellen im Gehäuse. Das Drehmoment wird grundsätzlich gleichmäßig auf beide Antriebsräder verteilt. Das Rad mit dem größten Schlupf bestimmt das übertragbare Drehmoment. Es ist am größten, wenn der Schlupf beider Räder etwa 0% beträgt - exakt 0% sind bei Vortrieb unmöglich. Um ein Durchdrehen eines Antriebsrades zu verhindern und das übertragbare Drehmoment zu erhalten, ist eine Ausgleichssperre nötig. 
 Ausgleichsgetriebe kommen auch zwischen den Achsen eines permanenten Allradantriebs vor. 
 
 ## Downsizing
 
-*Das bekannteste Downsizing in der Automobilindustrie besteht darin, den Hubraum der Motoren so weit zu verkleinern, dass diese nach einer Effizienzsteigerung in etwa die gleiche Leistung haben wie die größeren Motoren zuvor*. Die Effizienz wird meist durch mehrere Maßnahmen gesteigert, zum Beispiel:
+*Das bekannteste Downsizing in der Automobilindustrie besteht darin, den Hubraum der Motoren so weit zu verkleinern, dass diese nach einer Effizienzsteigerung in etwa die gleiche Leistung haben wie die größeren Motoren zuvor.* Die Effizienz wird meist durch mehrere Maßnahmen gesteigert, zum Beispiel:
 
 - Verbesserungen der Motorsteuerung
 - Verringerung der inneren Reibung durch glattere Werkstoffe
@@ -92,36 +92,38 @@ Ausgleichsgetriebe kommen auch zwischen den Achsen eines permanenten Allradantri
 - Verwendung eines besseren Turboladers (zum Beispiel mit verstellbaren Leitschaufeln an der Turbine)
 - Reduktion der Zylinderanzahl
 
-Der Verbrauch eines Verbrennungsmotors hängt bei gleicher Belastung weit überwiegend von seinem Hubraum ab. Ein kleinerer Hubraum hat eine kleinere Oberfläche, über die geringere Energieverluste durch Abwärme entstehen. Ebenso sinken die Reibungsverluste mit sinkendem Hubraum. *Wenn im Teillastbetrieb Zylinder abgeschaltet werden, spricht man von dynamischem Downsizing*. Darüber hinaus ist ein kleinerer Motor zumeist auch leichter. Da sich folglich das Gesamtgewicht des Fahrzeugs entsprechend verringert, sinkt die Belastung des Motors; das Fahrzeug kommt mit weniger Motorleistung auf vergleichbare Geschwindigkeiten/Beschleunigung.
+Der Verbrauch eines Verbrennungsmotors hängt bei gleicher Belastung weit überwiegend von seinem Hubraum ab. Ein kleinerer Hubraum hat eine kleinere Oberfläche, über die geringere Energieverluste durch Abwärme entstehen. Ebenso sinken die Reibungsverluste mit sinkendem Hubraum. *Wenn im Teillastbetrieb Zylinder abgeschaltet werden, spricht man von dynamischem Downsizing.* Darüber hinaus ist ein kleinerer Motor zumeist auch leichter. Da sich folglich das Gesamtgewicht des Fahrzeugs entsprechend verringert, sinkt die Belastung des Motors; das Fahrzeug kommt mit weniger Motorleistung auf vergleichbare Geschwindigkeiten/Beschleunigung.
 
 Die Verkleinerung soll vor allem zu Effizienzsteigerungen im Teillastbetrieb führen. Unter Volllast wird oft keine Verbesserung erreicht; gelegentlich ergibt sich sogar ein höherer Kraftstoffverbrauch.
 
 ## Kinetische Energie
 
-*Kinetische Energie (Energie der Bewegung) ist die Fähigkeit eines Körpers, aufgrund seiner Bewegung mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben oder Licht auszusenden*.
+*Kinetische Energie (Energie der Bewegung) ist die Fähigkeit eines Körpers, aufgrund seiner Bewegung mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben oder Licht auszusenden.*
 
 ## Lidar, Ladar
 
-Lidar (Abkürzung für englisch light detection and ranging), auch Ladar (laser detection and ranging), *ist eine dem Radar verwandte Methode zur optischen Abstands- und Geschwindigkeitsmessung sowie zur Fernmessung atmosphärischer Parameter. Statt der Radiowellen wie beim Radar werden Laserstrahlen verwendet*.
+Lidar (Abkürzung für englisch light detection and ranging), auch Ladar (laser detection and ranging), *ist eine dem Radar verwandte Methode zur optischen Abstands- und Geschwindigkeitsmessung sowie zur Fernmessung atmosphärischer Parameter. Statt der Radiowellen wie beim Radar werden Laserstrahlen verwendet.*
 
 ## Plug-in-Hybrid, PHEV
 
-*Ein Plug-in-Hybrid, auch Steckdosenhybrid genannt, ist ein Kraftfahrzeug mit Hybridantrieb, dessen Akkumulator sowohl über den Verbrennungsmotor als auch am Stromnetz geladen werden kann. Meist hat er einen größeren Akkumulator als ein reiner Hybrid (Vollhybrid) und stellt so eine Mischform zwischen letzterem und einem Elektroauto dar*.
-Eine häufig verwendete Abkürzung ist PHEV (für englisch plug-in hybrid electric vehicle).
+*Ein Plug-in-Hybrid, auch Steckdosenhybrid genannt, ist ein Kraftfahrzeug mit Hybridantrieb, dessen Akkumulator sowohl über den Verbrennungsmotor als auch am Stromnetz geladen werden kann. Meist hat er einen größeren Akkumulator als ein reiner Hybrid (Vollhybrid) und stellt so eine Mischform zwischen letzterem und einem Elektroauto dar.*
+*Eine häufig verwendete Abkürzung ist PHEV (für englisch plug-in hybrid electric vehicle).*
+
+<YouTube videoid="hb7VP1LnjRc" start="10" desc="Die 6 größten Irrtümer zum Plug-In-Hybrid"/>
 
 ## Potentielle Energie
 
-*Potenzielle Energie (Energie der Lage) ist die Fähigkeit eines Körpers, aufgrund seiner Lage mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben*.
+*Potenzielle Energie (Energie der Lage) ist die Fähigkeit eines Körpers, aufgrund seiner Lage mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben.*
 
 ## Rekuperation, Rekuperationsbremse, Nutzbremse
 
-*In der Technik wird der Ausdruck Rekuperation für technische Verfahren zur Rückgewinnung von Energie verwendet*.
+*In der Technik wird der Ausdruck Rekuperation für technische Verfahren zur Rückgewinnung von Energie verwendet.*
 
-*In Elektro- und Hybridautos speist die Nutzbremse elektrische Energie in den Akkumulator, einen Speicherkondensator oder Schwungradspeicher zurück*, die ursprünglich sowohl aus der mechanischen Energie des Verbrennungsmotors als auch aus derjenigen des Elektromotors stammt (Elektromotorische Bremse).
+*In Elektro- und Hybridautos speist die Nutzbremse elektrische Energie in den Akkumulator, einen Speicherkondensator oder Schwungradspeicher zurück,* die ursprünglich sowohl aus der mechanischen Energie des Verbrennungsmotors als auch aus derjenigen des Elektromotors stammt (Elektromotorische Bremse).
 
 ## Rollwiderstand
 
-*Der Rollwiderstand (auch: Rollreibung oder rollende Reibung) ist die Kraft, die beim Abrollen eines Rades oder Wälzkörpers entsteht und der Bewegung entgegengerichtet ist*. 
+*Der Rollwiderstand (auch: Rollreibung oder rollende Reibung) ist die Kraft, die beim Abrollen eines Rades oder Wälzkörpers entsteht und der Bewegung entgegengerichtet ist.* 
 
 Da der Rollwiderstand etwa proportional zur Normalkraft ist, wird als Kennwert der Rollwiderstandskoeffizient C<sub>R</sub> (auch: Rollwiderstandsbeiwert, Rollreibungsbeiwert usw.) gebildet.
 
@@ -133,7 +135,7 @@ Die Kraft, die überwunden werden muss, um einen Körper (beispielsweise ein Rad
 
 ## Schwellzeit
 
-*Die Schwellzeit (d. h. die effektive Bremszeit) ist die Zeit, die die Bremsen benötigen, um die maximale Bremswirkung zu entfalten*. Bei einer hydraulischen Bremsanlage liegt die Zeit zwischen 0,1 und 0,2 Sekunden, bei der Druckluftbremsanlage zwischen 0,2 und 0,4 Sekunden. Um die Schwellzeit in Druckluftbremsanlagen zu verringern, werden bremsnah Relaisventile verbaut.
+*Die Schwellzeit (d. h. die effektive Bremszeit) ist die Zeit, die die Bremsen benötigen, um die maximale Bremswirkung zu entfalten.* Bei einer hydraulischen Bremsanlage liegt die Zeit zwischen 0,1 und 0,2 Sekunden, bei der Druckluftbremsanlage zwischen 0,2 und 0,4 Sekunden. Um die Schwellzeit in Druckluftbremsanlagen zu verringern, werden bremsnah Relaisventile verbaut.
 
 :::
 
