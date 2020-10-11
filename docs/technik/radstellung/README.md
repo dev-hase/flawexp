@@ -11,6 +11,8 @@ Die fahrdynamischen Eigenschaften der Radaufhängung sind von der Fahrwerksgeome
 
 </infoBox>
 
+<YouTube videoid="EK1wjCeZzMY" desc="Die Achseinstellung verstehen" />
+
 <newSection title="Spurweite">
 
 ## Spurweite
@@ -62,6 +64,8 @@ Die Schwenkachsen der Räder sind leicht nach innen geneigt, so dass sich die Ve
 ## Nachlauf / Nachlaufstrecke
 
 Das auf das Lenkrad wirkende Rückstellmoment bei Kurvenfahrt entsteht im Wesentlichen durch das Reifenrückstellmoment und durch das Moment von Seitenkraft und Nachlaufstrecke der Räder. Diese entsteht durch leichte Neigung (Nachlaufwinkel) der Schwenkachsen (Spreizachsen) der Räder nach hinten und den Nachlaufversatz. Die Nachlaufstrecke ist definiert als Abstand zwischen dem Durchstoßpunkt der Spreizachse auf der Fahrbahn und dem Radaufstandspunkt in einer Ansicht seitlich auf das Rad.
+
+<YouTube videoid="DC6Opx_3EUo" start="9" desc="Wie kehrt das Lenkrad automatisch zur Mitte zurück" />
 
 <YouTube videoid="IkGsruoOTbk" start="9" desc="Nachlauf" />
 
