@@ -96,6 +96,14 @@ Der Verbrauch eines Verbrennungsmotors hängt bei gleicher Belastung weit überw
 
 Die Verkleinerung soll vor allem zu Effizienzsteigerungen im Teillastbetrieb führen. Unter Volllast wird oft keine Verbesserung erreicht; gelegentlich ergibt sich sogar ein höherer Kraftstoffverbrauch.
 
+## Hybrid-Elektro-Fahrzeug
+
+<YouTube videoid="aA0a1Imknqg" start="10" desc="Hybrid-Elektro-Fahrzeug - Aufbau und Funktion"/>
+
+## Kleiner und großer Kühlkreislauf
+
+<YouTube videoid="prG31i0w960" start="10" desc="Kleiner und großer Kühlkreislauf"/>
+
 ## Kinetische Energie
 
 *Kinetische Energie (Energie der Bewegung) ist die Fähigkeit eines Körpers, aufgrund seiner Bewegung mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben oder Licht auszusenden.*
@@ -136,6 +144,10 @@ Die Kraft, die überwunden werden muss, um einen Körper (beispielsweise ein Rad
 ## Schwellzeit
 
 *Die Schwellzeit (d. h. die effektive Bremszeit) ist die Zeit, die die Bremsen benötigen, um die maximale Bremswirkung zu entfalten.* Bei einer hydraulischen Bremsanlage liegt die Zeit zwischen 0,1 und 0,2 Sekunden, bei der Druckluftbremsanlage zwischen 0,2 und 0,4 Sekunden. Um die Schwellzeit in Druckluftbremsanlagen zu verringern, werden bremsnah Relaisventile verbaut.
+
+## Strömungswiderstandskoeffizient / c<sub>W</sub>-Wert
+
+*Umgangssprachlich ausgedrückt ist der c<sub>W</sub>-Wert ein Maß für die „Windschlüpfigkeit“ eines Körpers.* Aus dem Strömungswiderstandskoeffizienten lässt sich bei zusätzlicher Kenntnis von Geschwindigkeit, Stirnfläche, Flügelfläche etc. und Dichte des Fluids (z. B. der Luft) die Kraft des Strömungswiderstands berechnen.
 
 :::
 

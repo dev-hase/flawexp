@@ -47,3 +47,8 @@ pageClass: verkehrsverhalten
 
 </newSection>
 
+![Fehlverhalten](/img/media/verkehrsunfaelle-fehlverhalten.svg "Fehlverhalten")
+
+![Verunglückte](/img/media/verkehrsunfaelle-verunglueckte.png "Verunglückte")
+
+<a href="https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Verkehrsunfaelle/_inhalt.html" target="_blank">...mehr zu Unfallstatistiken vom Statistischen Bundesamt</a>

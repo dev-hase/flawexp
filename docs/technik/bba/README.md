@@ -69,6 +69,16 @@ In Kraftfahrzeugen wurden Trommelbremsen von Scheibenbremsen abgelöst. Bei leis
 
 </infoBox>
 
+<newSection title="Hauptbremszylinder">
+
+## Hauptbremszylinder
+
+Als Hauptbremszylinder bezeichnet man in der hydraulischen Bremsanlage den druckerzeugenden Zylinder. Er wird zum Beispiel in Kraftfahrzeugen vom Bremspedal oder Bremshebel über eine Kolbenstange betätigt. *In heutigen Pkw wird ein Tandemhauptbremszylinder verwendet, in dessen Gehäuse zwei Bremszylinder hintereinander angeordnet sind. Damit wird eine Zweikreisbremsanlage betätigt, so wie es vom Gesetzgeber gefordert ist.*
+
+<YouTube videoid="JsQ6SDWAst0" start="6" desc="Hauptbremszylinder - Aubbau und Funktion" />
+
+</newSection>
+
 <newSection title="TT-Aufteilung (Schwarz-Weiß-Aufteilung)">
 
 ## TT-Aufteilung (Schwarz-Weiß-Aufteilung)
