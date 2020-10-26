@@ -105,7 +105,7 @@ export default {
         top 0
         left 0
         right 0
-        font-size 1rem
+        font-size .8rem
         font-weight bold
         margin .25rem
         position absolute
@@ -113,6 +113,10 @@ export default {
         min-width 75%
         padding .25rem
         background none
+
+    @media (min-width $MQNarrow)
+        .youtube:after
+            font-size 1.25rem
 
 
     .youtube 
@@ -135,7 +139,7 @@ export default {
         background-size 10% !important
 
     .youtube:after
-        font-size .8rem !important
+        
         max-width 70%
         min-width 70% !important
 

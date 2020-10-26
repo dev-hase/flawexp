@@ -18,3 +18,5 @@ pageClass: technik
 Die inneren Vorgänge lassen sich als rechtslaufender Thermodynamischen Kreisprozess beschreiben (Otto- oder Diesel-Kreisprozess). Für einen Kreisprozess-Umlauf (ein „Arbeitsspiel“) benötigt die Maschine vier „Takte“ genannte Arbeitsschritte. Bei einem Hubkolbenmotor ist ein Takt die Bewegung des Kolbens von einem Endpunkt des Hubes zum anderen. Die Kurbelwelle vollführt daher während eines Taktes eine halbe Umdrehung.
 
 <YouTube videoid="RuRC4qbnW7I" desc="Vergleich Otto- Dieselmotor"/>
+
+<YouTube videoid="wIm8bR2B3zc" desc="Die 8 größten Sprit-Irrtümer"/>
