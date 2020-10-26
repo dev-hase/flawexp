@@ -123,11 +123,13 @@ module.exports = {
             {
               title: 'Recht',
               children: [
+                ['/recht/begriffe/', 'rechtlich relevante Begriffe'], 
                 ['/recht/wichtig/', 'Wichtiges auf einen Blick'],      
                 ['/recht/GesetzeImInternet/', 'Gesetze im Internet'],
                 ['/recht/strassen_wegerecht/', 'Straßen- und Wegerecht'],
                 ['/recht/strafrecht/', 'Strafrecht'],
                 ['/recht/straftaten_stv/', 'Straftaten im Straßenverkehr'],
+                ['/recht/owig/', 'Das Ordnungswidrigkeiten-Verfahren'],
                 ['/recht/haftung/', 'zivilrechtliche Schadenshaftung'],
                 ['/recht/versicherung/', 'Versicherung'],
                 ['/recht/punktsystem/', 'Punktsystem'],

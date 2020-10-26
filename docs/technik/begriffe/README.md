@@ -72,6 +72,26 @@ In der Physik bzw. Mechanik unterscheidet man verschiedene Arten der mechanische
 - *Beschleunigungsarbeit:* Wird ein Körper beschleunigt, so wird Beschleunigungsarbeit verrichtet. Beispiel: Ein stehendes Auto wird in Bewegung gesetzt um los zu fahren.
 - *Reibungsarbeit:* Wirken Reibungskräfte auf einen Körper und behindern diesen bei einer Bewegung, so sprich man von Reibungsarbeit. Beispiel: Ein Holzklotz liegt auf einem Tisch. Um diesen auf dem Tisch weiter zu schieben, muss genügend Kraft aufgewendet werden. 
 
+## Autobatterie
+
+*Die Starterbatterie, beim Kraftfahrzeug auch als Autobatterie oder als Fahrzeugbatterie bezeichnet, ist ein Akkumulator, der unter anderem die elektrische Energie für den Anlasser eines Verbrennungsmotors liefert.* *Starterbatterien enthalten eine Reihenschaltung von Bleiakkumulator-Zellen, die jeweils eine Nennspannung von 2 V aufweisen. Um eine Nennspannung von 12 V zu erreichen, werden sechs Zellen hintereinander geschaltet.*
+
+Die Starterbatterie erfüllt im Kraftfahrzeug verschiedenen Aufgaben:
+
+- Sie versorgt relevante Baugruppen vor dem Startvorgang mit Spannung (Steuergeräte, Einspritzanlage, Zündspule, Vorglühanlage).
+- Sie versorgt den Anlassmotor (Anlasser) mit Energie.
+- Sie versorgt auch bei stehendem Motor die Notbeleuchtung (Licht, Warnblinkanlage) des Fahrzeugs.
+- Sie glättet die Lichtmaschinenspannung und mindert Spannungsspitzen im regulären Fahrbetrieb.
+- Sie versorgt im Standbetrieb des Fahrzeugs diverse Abnehmer mit Energie (Uhr, Radio, Steuergerät)
+
+<YouTube videoid="qaP69_oU9qc" start="14" end="164" desc="Die Autobatterie - Wie funktioniert sie?"/>
+
+## Brennstoffzelle
+
+*Eine Brennstoffzelle ist eine galvanische Zelle, die die chemische Reaktionsenergie eines kontinuierlich zugeführten Brennstoffes und eines Oxidationsmittels in elektrische Energie wandelt.* Wenn auch mit Brennstoffzelle oft eine Wasserstoff-Sauerstoff-Brennstoffzelle gemeint ist, können je nach Brennstoffzellentyp außer Wasserstoff auch viele andere Brennstoffe genutzt werden, insbesondere Methanol, Butan oder Erdgas. *Brennstoffzellen alleine sind keine Energiespeicher, sondern Energiewandler, denen Energie in chemisch gebundener Form mit den Brennstoffen zugeführt wird.*
+
+<YouTube videoid="8ElTJNCDsTY" start="24" end="262" desc="Wie funktioniert die Brennstoffzelle?"/>
+
 ## Differential, Differentialgetriebe, Ausgleichsgetriebe
 
 ![Differential](/img/media/differential.gif "Differential")
@@ -95,6 +115,14 @@ Ausgleichsgetriebe kommen auch zwischen den Achsen eines permanenten Allradantri
 Der Verbrauch eines Verbrennungsmotors hängt bei gleicher Belastung weit überwiegend von seinem Hubraum ab. Ein kleinerer Hubraum hat eine kleinere Oberfläche, über die geringere Energieverluste durch Abwärme entstehen. Ebenso sinken die Reibungsverluste mit sinkendem Hubraum. *Wenn im Teillastbetrieb Zylinder abgeschaltet werden, spricht man von dynamischem Downsizing.* Darüber hinaus ist ein kleinerer Motor zumeist auch leichter. Da sich folglich das Gesamtgewicht des Fahrzeugs entsprechend verringert, sinkt die Belastung des Motors; das Fahrzeug kommt mit weniger Motorleistung auf vergleichbare Geschwindigkeiten/Beschleunigung.
 
 Die Verkleinerung soll vor allem zu Effizienzsteigerungen im Teillastbetrieb führen. Unter Volllast wird oft keine Verbesserung erreicht; gelegentlich ergibt sich sogar ein höherer Kraftstoffverbrauch.
+
+## Galvanische Zelle
+
+*Eine galvanische Zelle ist eine Vorrichtung zur spontanen Umwandlung von chemischer in elektrische Energie.* *Jede Kombination von zwei verschiedenen Elektroden und einem Elektrolyten bezeichnet man als galvanisches Element, und sie dienen als Gleichspannungsquellen.* *Der charakteristische Wert ist die eingeprägte Spannung. Unter der Kapazität eines galvanischen Elements versteht man das Produkt aus Entladungsstromstärke mal Zeit.*
+
+*Die Funktion der galvanischen Zellen beruht auf einer Redoxreaktion.* Reduktion und Oxidation laufen räumlich getrennt in je einer Halbzelle (Halbelement) ab. Durch Verbinden der beiden Halbzellen mit einem Elektronenleiter und einem Ionenleiter wird der Stromkreis geschlossen.
+
+*Beim Entladen von galvanischen Zellen ist der Minuspol immer die Anode (= Pol, an dem die Oxidation stattfindet), der Pluspol immer die Kathode (= Pol, an dem die Reduktion stattfindet).* Eine Eselsbrücke hierfür lautet „OMA (Oxidation, Minuspol und Anode)“. *Während des Ladevorgangs von Sekundärzellen sind die chemischen Reaktionen an den Polen vertauscht:* Die Oxidation findet am Pluspol statt, weswegen er dann abweichend als Anode fungiert – entsprechend ist dann der Minuspol der Ort der Reduktion und damit die Kathode. Die Eselsbrücke für die Reaktion beim Ladevorgang lautet dementsprechend: „OPA (Oxidation, Pluspol und Anode)“.
 
 ## Hybrid-Elektro-Fahrzeug
 

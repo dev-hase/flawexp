@@ -26,10 +26,6 @@ Parken ist zulässiger „Gemeingebrauch“, *Abstellen ist unzulässige „Sond
 
 Abgestellt sind Fz, die aus dem Verkehr gezogen sind und daher aus der Geltung des Straßenverkehrsrechts herausfallen, entweder weil sie nicht zugelassen oder nicht fahrbereit sind oder praktisch nicht als Verkehrsmittel benutzt werden.
 
-## Anderer
-
-*...ist jeder beliebige Mensch mit Ausnahme des Täters selbst oder eines an der Tat Beteiligten (Anstifter oder Gehilfe);* auch der Mitfahrer (Soziusfahrer) oder Insasse eines Kfz ist „anderer“. Es ist unerheblich, ob der andere sich im öffentlichen Verkehrsraum aufhält oder sich zum Zeitpunkt des Erfolgseintritts auf privatem Grundstück befindet.
-
 ## Anhalteweg
 
 Der Anhalteweg setzt sich aus *Reaktionsweg und Bremsweg* zusammen.
@@ -50,34 +46,6 @@ $({V \over 10} \times 3) + ({V \over 10} \times {V \over 10})$
 
 *...sind Flächen, die nicht zur Fahrbahn gehören, wie Seitenstreifen, Sonderwege, Parkplätze, Mittel- oder Schutzstreifen, Grundstückszufahrten über Gehwege, auch für den Verkehr noch nicht freigegebene Flächen, die als Baustellenzufahrten dienen.* Grünflächen sind dann öffentlich, wenn sie allgemein zugänglich sind. Sind sie infolge des Bewuchses tatsächlich nichtnutzbar, gelten sie als Privatflächen, selbst wenn sie im Eigentum der öffentlichen Hand stehen (z.B. dicht mit Büschen oder Bäumen bewachsene Mittelstreifen). Wird dort unzulässig geparkt, liegt kein Verstoß nach § 12(4) vor, wohl aber eine Zuwiderhandlung nach den Straßengesetzen oder Landschaftsschutzverordnungen.
 
-## Behinderung
-*...ist die unzulässige und mehr als verkehrsübliche Beeinträchtigung der Verkehrsteilnahme eines anderen, der sich ordnungsgemäß verhält.*
-
-...ist die im Einzelnen festzustellende Beeinträchtigung des zulässigen, beabsichtigten Verhaltens eines anderen, ohne diesen zu gefährden oder zu schädigen. Dies setzt voraus, dass der andere Verkehrsteilnehmer zu einem nicht von ihm beabsichtigten Verkehrsverhalten gezwungen wird. Es recht aus, dass der Andere dadurch unsicher wird.
-
-...ist das Beeinträchtigen der Bewegungsfreiheit oder das Fortkommens im Straßenverkehr.
-unvermeidbar: z.B. durch Stau, Gegenverkehr, Zugmaschine
-vermeidbar: z.B. durch Einklemmen in Parklücken, Parken vor endenden Radwegen oder gegenüber Straßeneinmündungen, langsames Fahren bei Sehenswürdigkeiten
-
-
-**Begriff:**
-
-Eine Lage herbeiführen, durch die ein fremdes Verkehrsverhalten nachhaltig beeinträchtigt oder verhindert wird. Jemand wird zu einer anderen Verhaltensweise veranlasst, als die, die er geplant hatte (BGHST 34,238.)
-In Zusammenhang mit §1 (2) StVO ist dann zu prüfen, ob es sich um eine vermeidbare oder unvermeidbare Behinderung handelt.
-
-Der Rechtsbegriff „Behinderung ausgeschlossen“ wird als härteste juristische Forderung in der StVO nur einmal verwendet. Wer überholen möchte, darf dies nur tun, wenn der Gegenverkehr absolut behinderungsfrei weiterfahren kann (§ 5 (2)).
-
-## Belästigung
-
-*...ist die Verursachung körperlichen oder seelischen Unbehagens.
-Die Beeinträchtigung muss nach Art und Maß das Verkehrsbedürfnis übersteigen und nach allgemeiner Anschauung als konkret störend empfunden werden.* 
-Die Behinderung oder Belästigung muss vermeidbar sein. Das ist der Fall, wenn dem Verkehrsteilnehmer ein anderes Verhalten zugemutet werden kann.
-unvermeidbar: z.B. durch Hupen bei Gefahr, Polizei im Einsatz
-vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten, Begrüßen mit Lichthupe, schnelles Fahren auf staubigen Wegen, laute Radiomusik, klappernde Ladung.
-
-...bedeutet das Zufügen eines körperlichen oder geistigen Unbehagens (z.B. provozierenden Hupen, blinken; rücksichtsloses Durchfahren von Pfützen, Störungen der Nachtruhe; nicht dagegen warmlaufenlassen des Motors, hier geht § 30 (1) StVO dagegen vor). Notwendig ist eine objektive, nicht jedoch die bloße subjektiv empfundene Belästigung (z.B. bei Überempfindlichkeit). Folglich sind nur solche Behinderungen oder Belästigungen verboten, die nach dem konkreten Umständen bzw. der Systematik der StVO vermeidbar sind
-
-
 ## Besondere Fortbewegungsmittel
 
 *...sind keine Fz (somit gibt es keinen Fahrzeugführer) und dürfen nicht auf der Fahrbahn betrieben werden (§ 24). Da sie den Regeln für Fußgänger unterliegen (§ 25), müssen Gehwege benutzt werden, wenn der Fußgängerverkehr weder behindert noch gefährdet wird, in der Regel nur mit Schrittgeschwindigkeit.* Zu den Fortbewegungsmitteln gehören solche Geräte, die wegen ihrer geringen Größe oder ihrer Bauart nicht in erster Linie dem Transport dienen. Infolgedessen dürfen sie auch nicht mit Motorkraft betrieben werden (§ 24(1)). Zu den Fortbewegungsmitteln gehören
@@ -92,6 +60,22 @@ vermeidbar: z.B. Hupen beim Ankommen, Verabschieden oder Erkennen von Bekannten,
 - Schub- oder Handkarren
 - Kofferroller
 - Bewegungsgeräte, meist im Zuge modischer Trends, wie Trailskater, Kick-Boards, nicht aber Segway.
+
+## Blickfeld / Fixierfeld
+
+*Das Blickfeld bezeichnet den Sehbereich, den man scharf erkennenkann. Es schließt alle Objekte ein, die man mit den Augen fixieren kann. Der Kopf bleibt dabei statisch, die Augen können von links nach rechts und von oben nach unten wandern.* Man nennt das Blickfeld auch Fixierfeld; es wird klassifiziert nach:
+
+- Richtung (horizontal, vertikal),
+- Augenanzahl (monokular, binokular und multiokular bei einigen Tieren und Maschinen),
+- ergonomischer Qualität (optimal, maximal)
+
+Beim Menschen unterscheidet man folgende Arten von Blickfeldern:
+
+- *das monokulare Blickfeld,* das sich bei ruhiger Kopf- und Körperhaltung aus der Exkursionsfähigkeit (maximale Beweglichkeit) des jeweils rechten und linken Auges ergibt; eine Adduktion und Abduktion ist in der Regel um ca. 50° möglich eine Depression kann bis zu 60° betragen, eine Elevation selten mehr als 45°.
+- *das binokulare Blickfeld,* der Bereich, in dem bei ruhiger Kopf- und Körperhaltung beide Augen gemeinsam foveolar fixieren können
+- *das Fusionsblickfeld,* in dem bei ruhiger Kopf- und Körperhaltung binokulares Einfachsehen möglich ist.
+- *das Umblickfeld,* das die Summe der Wahrnehmungen ergibt, die bei unveränderter Standposition mit allen Blickbewegungen und maximalen Kopf- und Körperdrehungen erzielt werden können.
+- *das Gebrauchsblickfeld,* das aus Augenbewegungen von lediglich etwa 20° besteht und durch zusätzliche Kopfbewegungen unterstützt wird.
 
 ## Bremsweg
 
@@ -196,15 +180,6 @@ Neben dem Halter ist für das Fahrzeug verantwortlich der beauftragte Fuhrparkle
 
 (2) Als Fahrrad gilt auch ein Fz i.S. Abs. 1, das mit einer elektrischen Trethilfe ausgerüstet ist, die mit einem elektromotorischen Hilfsantrieb mit einer größten Nenndauerleistung von 0,25 kW ausgestattet ist, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder wenn der Fahrer mit dem Treten oder Kurbeln einhält, unterbrochen wird. Die Anforderungen des Satzes 1 sind auch dann erfüllt, wenn das Fahrrad über einen Hilfsantrieb im Sinne des Satzes 1 verfügt, der eine Beschleunigung des Fahrzeugs auf eine Geschwindigkeit von bis zu 6 km/h, auch ohne gleichzeitiges Treten oder Kurbeln des Fahrers, ermöglicht (Anfahr- oder Schiebehilfe).
 
-## Gefährdung
-
-...ist ein Zustand, der die Besorgnis begründet, dass ein schädigendes Ereignis unmittelbar bevorsteht, das aber nur durch situationsgerechtes Handeln oder durch Zufall nicht eintritt.
-
-*...bedeutet das Herbeiführen einer Verkehrslage, die eine Schädigung wahrscheinlich macht, also bereits eine konkrete Gefahr für Leben, Gesundheit und Sachwerte enthält.*
-Sie liegt auch dann vor, wenn der Schaden letztendlich durch das Verhalten eines Anderen verhindert worden ist.
-
-...ist die Herbeiführung einer Lage, in der Leib oder Leben eines anderen wahrscheinlich zu Schaden kommt.
-
 ## Gegenseitige Rücksicht
 
 *Das Verhalten des Verkehrsteilnehmers soll nicht allein darauf abgestellt sein, selbst schneller voranzukommen, sondern mehr die jeweilige Verkehrssituation berücksichtigen (amtl. Begründung).* Sicherheit geht immer vor, eigene Wünsche und Bedürfnisse müssen ihr gegenüber zurückstehen.
@@ -221,6 +196,10 @@ Die Partnerschaft im Verkehr gebietet es weiterhin, auf schwächere Verkehrsteil
 ## Gehweg
 
 *Gehweg ist der deutlich von der Fahrbahn getrennte für den Fußgänger bestimmte Teil der Straße.*
+
+## Gesichtsfeld / Sichtfeld
+
+*Das Gesichtsfeld stellt den Gesamtbereich dar, in dem (ohne Zuhilfenahme von Augenbewegungen) visuelle Wahrnehmung möglich ist.* Nur innerhalb des zentralen Bereichs der Fovea ist aber ein klares Erkennen möglich; die Wahrnehmungsqualität hinsichtlich Sehschärfe, Mustererkennung und Farbsehen sinkt, je peripherer die visuellen Reize liegen. Die Empfindlichkeit für bewegte Objekte nimmt zwar peripher ebenfalls ab, dies aber weniger als andere Sehfunktionen, so dass sich im peripheren Sehen gegenüber anderen Sehfunktionen eine relative Überlegenheit des Bewegungssehens ergibt. *Zum Erkennen von Gefahrensituationen ist die Gesichtsfeldperipherie daher besonders wichtig.* Das Dämmerungssehen hat ein Optimum bei etwa 20° Exzentrizität, weshalb man schwach leuchtende Sterne am besten sieht, wenn man an ihnen vorbei schaut. *Binokulares Gesichtsfeld bei einem Erwachsenen etwa 180° horizontal (120° monokular), 60° vertikal nach oben und 70° nach vertikal nach unten.*
 
 ## Grundsatz der Verkehrsfreiheit
 
@@ -326,13 +305,6 @@ Eine Faustformel für den Reaktionsweg: ${V \over 10} \times 3$
 ## Reaktionszeit
 
 *Die Reaktionszeit ist die Zeitspanne zwischen dem Erkennen eines bestimmten Reaktionsanlasses und dem Beginn der darauf gerichteten (Abwehr-)Handlung.* Sie ist psychologisch und physiologisch bestimmt und liegt bei visuellen Reizen, d. h. 80 % unserer Wahrnehmungsinhalte, zwischen ca. 0,2 und 0,3 Sekunden. Ist eine Blickzuwendung (Saccade) erforderlich, benötigt diese allein weitere ca. 0,35 Sekunden. Die Reaktionszeit ist für visuelle, akustische und taktile Reize verschieden lang. *Fälschlicherweise wird die Reaktionszeit oft mit der Vorbremszeit verwechselt, welche sich aus Reaktionszeit, Fußumsetzzeit, Ansprechzeit und halber Schwellzeit der Bremsanlage zusammensetzt und für die eine Dauer von ca. 0.8 bis zu 1 Sekunde angenommen wird.*
-
-## Schädigung
-
-*...ist die Zufügung eines wirtschaftlichen, vermögensrechtlich wägbaren Nachteils (OLG Hamburg DAR 65,329). Darunter fallen sowohl Körper- als auch Sachschäden*.
-
-Unter Schädigung ist die Zufügung eines wirtschaftlichen, d. h. vermögensrechtlich messbaren (wägbaren) Nachteils zu verstehen. Darunter fallen sowohl Körper- als auch Sachschäden. 
-
 
 ## Schienenfahrzeuge
 
