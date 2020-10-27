@@ -34,3 +34,5 @@ pageClass: technik
 - *Elektroautos als Umrüstung von Serienfahrzeugen* wie Stromos und Citysax ermöglichen kleinen Herstellern die Fertigung von Elektroautos. Dabei wird ein in Serie gefertigter neuer Antriebsstrang eingebaut, oder der Elektromotor wird an das serienmäßige Schaltgetriebe angeflanscht. Fahrleistungen, Reichweite und Verbrauch ähneln jenen aus Anpassungen von konventionellen Serienautos großer Hersteller. Höheren Fertigungskosten durch Kleinserienfertigung stehen flexible Anpassungsmöglichkeiten an Kundenwünsche und die Nutzung von nicht als Elektroversion erhältlichen oder Gebrauchtfahrzeugen als Basis gegenüber.
 
 </newSection>
+
+<YouTube videoid="33c9uY6SFmg" desc="9 Dinge, die jedes gute E-Auto haben muss"/>
