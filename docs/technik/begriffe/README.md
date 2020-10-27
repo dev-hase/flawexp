@@ -136,6 +136,17 @@ Die Verkleinerung soll vor allem zu Effizienzsteigerungen im Teillastbetrieb fü
 
 *Kinetische Energie (Energie der Bewegung) ist die Fähigkeit eines Körpers, aufgrund seiner Bewegung mechanische [Arbeit](#arbeit) zu verrichten, Wärme abzugeben oder Licht auszusenden.*
 
+## Kraftstoffe
+
+- *Benzin*
+- *Diesel*
+- *Erdgas*
+- *Wasserstoff*
+- *Batteriestrom*
+- *Pflanzenöl*
+- *RME* (Rapsmethylester / "Rapsdiesel")
+- *Ethanol*
+
 ## Lidar, Ladar
 
 Lidar (Abkürzung für englisch light detection and ranging), auch Ladar (laser detection and ranging), *ist eine dem Radar verwandte Methode zur optischen Abstands- und Geschwindigkeitsmessung sowie zur Fernmessung atmosphärischer Parameter. Statt der Radiowellen wie beim Radar werden Laserstrahlen verwendet.*

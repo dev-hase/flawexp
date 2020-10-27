@@ -1,13 +1,13 @@
 ---
-title: 'Unterrichtstechniken'
+title: 'Unterrichtsmethoden, Unterrichtstechniken'
 pageClass: pädagogik
 ---
 
 <infoBox>
 
-# Unterrichtstechniken
+# Unterrichtsmethoden
 
-*Unterrichtstechniken dienen dazu, unterrichtliche Prinzipien in der Realität umzusetzen.*
+*Unterrichtsmethoden strukturieren ein Thema oder eine Unterrichtseinheit, um ideale Bedingungen zum Lernen zu bieten.* Sie sind also der Unterrichtsweg und durch sie wird die Aufbereitung des Lernweges bestimmt. Beispiele sind:
 
 </infoBox>
 
@@ -296,7 +296,30 @@ Dabei sind unterschiedliche Ausmaße der Lenkung durchaus möglich und sinnvoll,
 
 </newSection>
 
-## weitere Techniken
+## weitere Methoden
 
 ...eine <a href="https://de.wikipedia.org/wiki/Liste_der_Unterrichtsmethoden#Unterrichtstechniken" target="_blank">Liste verschiedener Techniken</a> (Wikipedia)
 
+<infoBox>
+
+# Unterrichtstechniken
+
+*Unterrichtstechniken eignen sich besonders für den praktischen Unterricht*. Beispiele dafür sind:
+
+- Veranschaulichen
+- Demonstrieren
+- Anleiten
+- Erklären
+- Erzählen
+- Impulse geben
+- entscheiden lassen
+- entdecken lassen
+- fragend entwickeln
+- Kommentiertes Fahren (Feedback)
+- Korrigieren
+- Wiederholen
+- Kritisieren
+- Selbstbeurteilung
+- Bekräftigen / Loben
+
+</infoBox>

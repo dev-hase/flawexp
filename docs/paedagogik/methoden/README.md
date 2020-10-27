@@ -1,11 +1,11 @@
 ---
-title: 'Unterrichtsmethoden'
+title: 'Lernmethoden'
 pageClass: pädagogik
 ---
 
 <infoBox>
 
-# Unterrichtsmethoden / Lernmethoden
+# Lernmethoden
 
 Lernmethoden sind didaktische Maßnahmen, um das Lernen effizienter zu gestalten. Sie erleichtern es, Wissen und Können in Form von Fertigkeiten, d. h. neuen Kompetenzen, zu erlangen. Lernmethoden können Lernprozesse unterstützen, fördern und optimieren. Hierbei gilt es, die durch Neugier gespeiste Motivation, Neues zu erfahren, durch die Verbindung unterschiedlicher Lernmethoden in der Form des mehrdimensionalen Lernens möglichst aufrechtzuerhalten und in den Dienst des Lernziels zu stellen.
 
