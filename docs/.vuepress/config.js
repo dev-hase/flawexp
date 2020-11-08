@@ -74,6 +74,8 @@ module.exports = {
               children: [
                 ['/psychologie/begriffe/', 'Begriffe'],
                 ['/psychologie/bigFive/', 'Big Five'],
+                ['/psychologie/motivation/', 'Motivation'],
+                ['/psychologie/emotionen/', 'Emotionen'],
                 ['/psychologie/gedächtnis/', 'Gedächtnis'],
                 ['/psychologie/stress/', 'Stress'],
                 ['/psychologie/pruefungsangst/', 'Prüfungsangst'],

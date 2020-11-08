@@ -17,6 +17,8 @@ Diese Ebenen werden auch als „vier Seiten einer Nachricht“ bezeichnet. Das M
 
 <YouTube videoid="9VJn1cPbf1A" desc="Vier-Seiten-Modell"/>
 
+<YouTube videoid="9SmiK0hSLw8" start="43" end="431" desc="4 Ohren Modell nach Schulz von Thun"/>
+
 Mit dem Vier-Seiten-Modell kombiniert Schulz von Thun zwei psychologische und sprachtheoretische Analysen. Paul Watzlawick postulierte, dass jede Aussage unter einem Inhaltsaspekt und einem Beziehungsaspekt verstanden werden könne (zweites Axiom). Der Sprachtheoretiker Karl Bühler beschrieb im Organon-Modell sprachliche Zeichen anhand dreier semantischer Funktionen: Ausdruck, Appell und Darstellung. Solche Modelle sind in der Linguistik auch als Modelle der Sprachfunktionen geläufig.
 
 <newSection title="Die vier Seiten einer Nachricht">

@@ -100,6 +100,12 @@ Resilienz (von lateinisch resilire ‚zurückspringen‘ ‚abprallen‘) oder p
 
 *In der heutigen Persönlichkeitspsychologie werden auch Menschen als resilient bezeichnet, die eines der drei häufigsten [Big-Five-Persönlichkeitsprofile](/psychologie/bigFive/#big-five) aufweisen, mit niedrigem Neurotizismus-Wert und leicht überdurchschnittlichen Werten in den vier übrigen Dimensionen.* In der Längsschnittstudie von Asendorpf und van Aken wurden resiliente Kinder von ihren Erzieherinnen als anpassungsfähig, belastbar, aufmerksam, tüchtig, gescheit, neugierig und voller Selbstvertrauen beschrieben.
 
+<YouTube videoid="MtPcpm_-2lM" start="48" end="244" desc="Als Erzieher die Resilienz stärken beim Kind"/>
+
+## Volition
+
+*Volition bezeichnet die bewusste, willentliche Umsetzung von Zielen und Motiven in Resultate (Ergebnisse) durch zielgerichtete Steuerung von Gedanken, Emotionen, Motiven und Handlungen.* *Dieser Prozess der Selbststeuerung erfordert die Überwindung von inneren und äußeren Widerständen wie zum Beispiel Unlustgefühlen oder Ablenkungen durch Willenskraft.*
+
 :::
 
 <pinchView />

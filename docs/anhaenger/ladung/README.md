@@ -76,7 +76,7 @@ Die kraftschlüssige Ladungssicherung wird durch Niederzurren gewährleistet. Hi
 
 ## Formschlüssige Ladungssicherung
 
-Bei der formschlüssigen Ladungssicherung wird die Ladung entweder durch bündiges, lückenloses Verladen, oder mittels Direktzurren gesichert. Eine alleinige Ladungssicherung durch Formschluss ohne weiteres Niederzurren ist nur dann zulässig, wenn der Fahrzeugaufbau eine entsprechende Stabilität aufweist, um die auftretenden Kräfte aufzunehmen. Nach VDI 2700 sind 80 % des Ladungsgewichtes nach vorn zu sichern. Hierbei kommt der Stirnwand des Fahrzeugaufbaus eine besondere Bedeutung zu, aber auch die Seitenwände des Aufbaus dürfen bei der formschlüssigen Ladungssicherung nicht außer Acht gelassen werden. Eine einfache Schiebeplane ohne zusätzliche stabile Bordwände, wie beim sog. 
+Bei der formschlüssigen Ladungssicherung wird die Ladung entweder durch bündiges, lückenloses Verladen, oder mittels Direktzurren gesichert. Eine alleinige Ladungssicherung durch Formschluss ohne weiteres Niederzurren ist nur dann zulässig, wenn der Fahrzeugaufbau eine entsprechende Stabilität aufweist, um die auftretenden Kräfte aufzunehmen. Nach VDI 2700 sind 80 % des Ladungsgewichtes nach vorn zu sichern. Hierbei kommt der Stirnwand des Fahrzeugaufbaus eine besondere Bedeutung zu, aber auch die Seitenwände des Aufbaus dürfen bei der formschlüssigen Ladungssicherung nicht außer Acht gelassen werden. Eine einfache Schiebeplane ohne zusätzliche stabile Bordwände, wie beim sog. Tautliner oder Curtainsider üblich, reicht hierfür nicht aus.
 
 ### Lückenlose Verstauung
 

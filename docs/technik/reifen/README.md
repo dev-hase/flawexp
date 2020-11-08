@@ -102,11 +102,9 @@ Seit den 2000er Jahren gibt es Reifen mit Notlaufeigenschaft. *Diese ermögliche
 
 ## Reifenaufbau
 
-![Radialreifen](/img/media/radialreifen.png)
-
-Im Gegensatz zu Fahrradreifen sind Autoreifen in der Regel schlauchlos.
-
 </infoBox>
+
+![Radialreifen](/img/media/radialreifen.png)
 
 <newSection title="Laufstreifen/Lauffläche">
 
