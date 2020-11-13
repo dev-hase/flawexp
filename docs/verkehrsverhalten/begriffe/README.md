@@ -361,9 +361,51 @@ Im heutigen Straßenverkehr ist es also notwendig, ein Gespür für bestimmte Pr
 *...sind alle für Verkehrsteilnehmer bestimmte Flächen, unabhängig von den Eigentumsverhältnissen oder einer straßenrechtlichen Widmung.
 Soweit die StVO den Begriff „Straße“ verwendet, ist darunter nicht nur die Fahrbahn, sondern jeder öffentlich benutzbare Verkehrsraum zu verstehen, auch Parkflächen, Brücken, Tunnel, Dämme, Böschungen.*
 
-## Sonstige Straßenteile
+## Straßen
+
+*Straßen sind alle öffentlich gewidmeten und faktisch öffentliche Flächen.* Unterscheiden kann man:
+
+*Fahrbahen* (auch Richtungsfahrbahnen)
+
+- durchgehende Fahrbahnen der BAB oder Kraftfahrstraßen (§18 Absatz 3 StVO)
+- Parallel- und sonstige Fahrbahnen
+
+*Fahrstreifen* (§7 Absatz 1 StVO)
+
+- Einfädelungsstreifen
+- Ausfädelungsstreifen
+- Kriechstreifen
+- Sonderfahrsteifen (Busspuren)
+- Radfahrstreifen
+
+## Sonstige / Andere Straßenteile
 
 *„Andere“ Straßenteile (§ 10 S.1) sind Flächen, die nicht zur Fahrbahn gehören, wie Seitenstreifen, Sonderwege, Parkplätze, Mittel- oder Schutzstreifen, Grundstückszufahrten über Gehwege, auch für den Verkehr noch nicht freigegebene Flächen, die als Baustellenzufahrten dienen.* Grünflächen sind dann öffentlich, wenn sie allgemein zugänglich sind. Sind sie infolge des Bewuchses tatsächlich nichtnutzbar, gelten sie als Privatflächen, selbst wenn sie im Eigentum der öffentlichen Hand stehen (z.B. dicht mit Büschen oder Bäumen bewachsene Mittelstreifen). Wird dort unzulässig geparkt, liegt kein Verstoß nach § 12(4) vor, wohl aber eine Zuwiderhandlung nach den Straßengesetzen oder Landschaftsschutzverordnungen.
+
+*Sonderwege*
+
+- Gehwege
+- Reitwege
+- Radwege
+- Feldwege
+- Forstwege
+
+*Sonstige Flächen*
+
+- Parkplätze
+- Seitenstreifen
+- Mittelinseln
+- Fußgängerzonen
+- Bahnübergänge
+- Haltestelleninseln
+- gekennzeichnete Parkflächen
+- Fußgängerüber- / unterführungen
+- Grundstückzufahrten
+- Mittelstreifen
+- benutzbare Grünflächen
+- Brücken
+- Tunnel
+- Treppen
 
 ## Toter Winkel
 

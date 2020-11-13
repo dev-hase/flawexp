@@ -85,6 +85,7 @@ module.exports = {
               title: 'Verkehrsverhalten',
               children: [
                 ['/verkehrsverhalten/begriffe/', 'Begriffe'],
+                ['/verkehrsverhalten/stvo/', 'StVO Spickzettel'],
                 ['/verkehrsverhalten/unfall/', 'Verkersunfall'],
                 ['/verkehrsverhalten/kinder/', 'Kinder und Gefahrenwahrnehmung'],
                 ['/verkehrsverhalten/bf17/', 'BF 17'],
