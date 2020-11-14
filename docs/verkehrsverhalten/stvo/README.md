@@ -197,3 +197,64 @@ pageClass: verkehrsverhalten
 - beim Abbiegen, Wenden oder Rückwärtsfahren muss eine Gefährdung anderer ausgeschlossen sein, wenn erforderlich, muss man sich einweisen lassen
 
 </newSection>
+
+<newSection title="§ 10 Einfahren und Anfahren">
+
+## § 10 Einfahren und Anfahren
+
+- Wer aus einem Grundstück, aus einer Fußgängerzone, aus einem verkehrsberuhigten Bereich auf die Straße oder von anderen Straßenteilen oder über einen abgesenkten Bordstein hinweg auf die Fahrbahn einfahren oder vom Fahrbahnrand anfahren will, hat sich dabei so zu verhalten, dass eine Gefährdung anderer Verkehrsteilnehmer ausgeschlossen ist; erforderlichenfalls muss man sich einweisen lassen
+- Die Absicht einzufahren oder anzufahren ist rechtzeitig und deutlich durch Blinken anzukündigen
+- Dort, wo eine Klarstellung notwendig ist, kann Zeichen 205 stehen
+
+</newSection>
+
+<newSection title="§ 11 Besondere Verkehrslagen">
+
+## § 11 Besondere Verkehrslagen
+
+- Stockt der Verkehr, darf trotz Vorfahrt oder grünem Lichtzeichen nicht in die Kreuzung oder Einmündung eingefahren werden, wenn auf ihr gewartet werden müsste.
+- Sobald Fahrzeuge auf Autobahnen sowie auf Außerortsstraßen mit mindestens zwei Fahrstreifen für eine Richtung mit Schrittgeschwindigkeit fahren oder sich die Fahrzeuge im Stillstand befinden, müssen diese Fahrzeuge für die Durchfahrt von Polizei- und Hilfsfahrzeugen zwischen dem äußerst linken und dem unmittelbar rechts daneben liegenden Fahrstreifen für eine Richtung eine freie Gasse bilden.
+- Auch wer sonst nach den Verkehrsregeln weiterfahren darf oder anderweitig Vorrang hat, muss darauf verzichten, wenn die Verkehrslage es erfordert; auf einen Verzicht darf man nur vertrauen, wenn man sich mit dem oder der Verzichtenden verständigt hat.
+
+</newSection>
+
+<newSection title="§ 12 Halten und Parken">
+
+## § 12 Halten und Parken
+
+*uneingeschränktes Halteverbot / kein Halten*
+
+- an engen und an unübersichtlichen Straßenstellen
+- im Bereich von scharfen Kurven
+- auf Einfädelungs- und auf Ausfädelungsstreifen
+- auf Bahnübergängen
+- vor und in amtlich gekennzeichneten Feuerwehrzufahrten
+
+*eingeschränktes Halteverbot / kein Parken*
+
+- vor und hinter Kreuzungen und Einmündungen bis zu je 5 m von den Schnittpunkten der Fahrbahnkanten...
+- ...soweit in Fahrtrichtung rechts neben der Fahrbahn ein Radweg baulich angelegt ist, vor Kreuzungen und Einmündungen bis zu je 8 m von den Schnittpunkten der Fahrbahnkanten
+- wenn es die Benutzung gekennzeichneter Parkflächen verhindert
+- vor Grundstücksein- und -ausfahrten, auf schmalen Fahrbahnen auch ihnen gegenüber,
+- über Schachtdeckeln und anderen Verschlüssen, wo durch Zeichen 315 oder eine Parkflächenmarkierung das Parken auf Gehwegen erlaubt ist
+- vor Bordsteinabsenkungen
+
+*Regelmäßige Parken mit Kraftfahrzeugen über 7.5t sowie mit Kraftfahrzeuganhängern über 2t ist innerhalb geschlossener Ortschaften in der Zeit von 22.00 bis 06.00 Uhr sowie an Sonn- und Feiertagen*
+
+- in reinen und allgemeinen Wohngebieten,
+- in Sondergebieten, die der Erholung dienen,
+- in Kurgebieten und
+- in Klinikgebieten
+
+*Anhänger*
+
+- mit Kraftfahrzeuganhängern ohne Zugfahrzeug darf nicht länger als zwei Wochen geparkt werden
+
+*Verhalten*
+
+- Zum Parken ist der rechte Seitenstreifen, dazu gehören auch entlang der Fahrbahn angelegte Parkstreifen, zu benutzen, wenn er dazu ausreichend befestigt ist, sonst ist an den rechten Fahrbahnrand heranzufahren. Das gilt in der Regel auch, wenn man nur halten will; jedenfalls muss man auch dazu auf der rechten Fahrbahnseite rechts bleiben.
+- Ist das Parken auf dem Gehweg erlaubt, ist hierzu nur der rechte Gehweg, in Einbahnstraßen der rechte oder linke Gehweg, zu benutzen
+- An einer Parklücke hat Vorrang, wer sie zuerst unmittelbar erreicht (oder dran vorbeifährt um einzuparken oder drauf wartet)
+- Es ist platzsparend zu parken; das gilt in der Regel auch für das Halten
+
+</newSection>

@@ -12,25 +12,25 @@ title: 'Gesetze im Internet'
 
 ## Die Klassiker für Fahrlehreranwärter
 
-- <a href="https://www.gesetze-im-internet.de/stvo_2013/StVO.pdf" target="_blank">StVO</a> - Straßenverkehrs-Ordnung
+- *StVO* - Straßenverkehrs-Ordnung <a href="https://www.gesetze-im-internet.de/stvo_2013/StVO.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/stvo_2013/" target="_blank">(HTML)</a>  
 
-- <a href="https://www.gesetze-im-internet.de/stvg/StVG.pdf" target="_blank">StVG</a> - Straßenverkehrsgesetz
+- *StVG* - Straßenverkehrsgesetz <a href="https://www.gesetze-im-internet.de/stvg/StVG.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/stvg/" target="_blank">(HTML)</a> 
 
-- <a href="https://www.gesetze-im-internet.de/babrigeschwv_1978/BABRiGeschwV_1978.pdf" target="_blank">AutobahnRichtgeschwindigkeits-V</a> - Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen
+- *AutobahnRichtgeschwindigkeits-V* - Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen <a href="https://www.gesetze-im-internet.de/babrigeschwv_1978/BABRiGeschwV_1978.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/babrigeschwv_1978/" target="_blank">(HTML)</a> 
 
-- <a href="https://www.gesetze-im-internet.de/fahrschausbo_2012/FahrschAusbO_2012.pdf" target="_blank">FahrschAusbO</a> - Fahrschüler-Ausbildungsordnung
+- *FahrschAusbO* - Fahrschüler-Ausbildungsordnung <a href="https://www.gesetze-im-internet.de/fahrschausbo_2012/FahrschAusbO_2012.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/fahrschausbo_2012/" target="_blank">(HTML)</a> 
 
-- <a href="https://www.gesetze-im-internet.de/fahrlausbv/FahrlAusbV.pdf" target="_blank">FahrlAusbV</a> - Fahrlehrer-Ausbildungsverordnung
+- *FahrlAusbV* - Fahrlehrer-Ausbildungsverordnung <a href="https://www.gesetze-im-internet.de/fahrlausbv/FahrlAusbV.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/fahrlausbv/" target="_blank">(HTML)</a> 
 
-- <a href="https://www.gesetze-im-internet.de/fahrlpr_fv/FahrlPr%C3%BCfV.pdf" target="_blank">FahrlPrüfV</a> - Fahrlehrer-Prüfungsverordnung
+- *FahrlPrüfV* - Fahrlehrer-Prüfungsverordnung <a href="https://www.gesetze-im-internet.de/fahrlpr_fv/FahrlPr%C3%BCfV.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/fahrlpr_fv/" target="_blank">(HTML)</a>
 
-- <a href="https://www.gesetze-im-internet.de/fev_2010/FeV.pdf" target="_blank">FeV</a> - Fahrerlaubnis-Verordnung
+- *FeV* - Fahrerlaubnis-Verordnung <a href="https://www.gesetze-im-internet.de/fev_2010/FeV.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/fev_2010/" target="_blank">(HTML)</a> 
 
-- <a href="https://www.gesetze-im-internet.de/bkatv_2013/BKatV.pdf" target="_blank">BKatV</a> - BußgeldkatalogVerordnung
+- *BKatV* - BußgeldkatalogVerordnung <a href="https://www.gesetze-im-internet.de/bkatv_2013/BKatV.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/bkatv_2013/" target="_blank">(HTML)</a> 
 
-- <a href="https://www.gesetze-im-internet.de/stgb/StGB.pdf" target="_blank">StGB</a> - Strafgesetzbuch
+- *StGB* - Strafgesetzbuch <a href="https://www.gesetze-im-internet.de/stgb/StGB.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/stgb/" target="_blank">(HTML)</a> 
 
-- <a href="https://www.gesetze-im-internet.de/bgb/BGB.pdf" target="_blank">BGB</a> - Bürgerliches Gesetzbuch
+- *BGB* - Bürgerliches Gesetzbuch <a href="https://www.gesetze-im-internet.de/bgb/BGB.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/bgb/" target="_blank">(HTML)</a> 
 
 
 ## Aktuell vom Bundesministerium für Justiz und Verbraucherschutz

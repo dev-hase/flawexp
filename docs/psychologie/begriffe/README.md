@@ -11,12 +11,6 @@ pageClass: psychologie
 
 </infoBox>
 
-## Aggression
-
-Aggression (lateinisch aggressiō vom Deponens aggredī sich zubewegen auf etw./jdn.; heranschreiten; sich nähern; angreifen) ist eine feindselig angreifende Verhaltensweise eines Organismus. Sie *ist ein biologisch in Tieren und Menschen verankertes Verhaltensmuster zur Verteidigung oder Gewinnung von Ressourcen und zur Bewältigung potenziell gefährlicher Situationen*. Diese ultimaten Ursachen werden beim Menschen durch proximate Ursachen in der Persönlichkeit oder der Umwelt ausgelöst, aktiviert oder gehemmt und durch verschiedene Emotionen motiviert.
-
-Zur Auslösung von Aggression bedarf es spezifischer Situationen und Reize. *Bei Menschen wird emotionale Aggression häufig durch negative Gefühle hervorgerufen, also als Reaktion zum Beispiel auf Frustration, Hitze, Kälte, Schmerz, Furcht oder Hunger*. Ob und wie Aggressionen im Verhalten zum Ausdruck gebracht werden, unterliegt in hohem Maße den jeweiligen sozialen Normen.
-
 ## Angststörung
 
 *Angststörung ist ein Sammelbegriff für mit Angst verbundene psychische Störungen, deren gemeinsames Merkmal exzessive, übertriebene Angstreaktionen beim Fehlen einer wirklichen äußeren Bedrohung sind*.

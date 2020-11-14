@@ -250,7 +250,7 @@ Dreirädrige Krafträder („Trikes") mit symmetrisch angeordneten Rädern werde
 
 *...ist Stillstand eines fahruntüchtigen Kfz aus technischen Gründen (z.B. Panne) oder aus einem anderen Anlass (z.B. Unfall, Schwächeanfall des Fahrers).* Liegen bleibt ein Fz, dass sich, gleichgültig weshalb, OLG Düsseldorf VM 74 87, nicht aus eigener Kraft fort- oder aus dem Verkehrsbereich wegbewegen kann.
 
-Unfreiwillige Fahrtunterbrechung. Gehört weder zum ruhenden, noch dem fließenden Verkehr.
+*Unfreiwillige Fahrtunterbrechung. Gehört weder zum ruhenden, noch dem fließenden Verkehr.*
 
 ## Mehrzweckstreifen
 
@@ -488,6 +488,10 @@ Wer sich selbst verkehrsgerecht verhält, darf bei normalem Verkehrsablauf darau
 ## Vorbremszeit
 
 *...setzt sich aus Reaktionszeit, Fußumsetzzeit, Ansprechzeit und halber Schwellzeit der Bremsanlage zusammen. Sie dauert ca. 0,8 bis 1 Sekunde und wird umgangssprachlich oft – fälschlich – als Reaktionszeit bezeichnet.*
+
+## Warten
+
+*Wer wartet, wird durch eine ungewollte Fahrtunterbrechung zum Anhalten gezwungen und befindet sich im fließenden Verkehr.*
 
 ## Warnzeichen
 

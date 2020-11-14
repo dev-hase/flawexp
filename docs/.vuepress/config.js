@@ -78,6 +78,7 @@ module.exports = {
                 ['/psychologie/emotionen/', 'Emotionen'],
                 ['/psychologie/gedächtnis/', 'Gedächtnis'],
                 ['/psychologie/stress/', 'Stress'],
+                ['/psychologie/aggression/', 'Aggressionen'],
                 ['/psychologie/pruefungsangst/', 'Prüfungsangst'],
               ]
             },
@@ -86,6 +87,7 @@ module.exports = {
               children: [
                 ['/verkehrsverhalten/begriffe/', 'Begriffe'],
                 ['/verkehrsverhalten/stvo/', 'StVO Spickzettel'],
+                ['/verkehrsverhalten/fahrerlaubnis/', 'Fahrerlaubnisklassen'],
                 ['/verkehrsverhalten/unfall/', 'Verkersunfall'],
                 ['/verkehrsverhalten/kinder/', 'Kinder und Gefahrenwahrnehmung'],
                 ['/verkehrsverhalten/bf17/', 'BF 17'],
