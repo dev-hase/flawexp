@@ -60,6 +60,10 @@ Unter Schädigung ist die Zufügung eines wirtschaftlichen, d. h. vermögensrech
 
 *Nötigung bezeichnet allgemein eine unzulässige Gewaltanwendung oder Drohung, die das Opfer zu einer Handlung zwingt, die dieses nicht wünscht.* Der Begriff ist in Bezug auf die Begriffe Zwang und Gewalt, rechtssprachlich die Vis absoluta („überwältigende Gewalt“, insbesondere körperlich) und die Vis compulsiva („beugende Gewalt“, die in die Richtung eines psychischen Zwanges geht), durchaus kritisch zu sehen, und wird in den Rechtsprechungen sehr diffizil beurteilt.
 
+## Verwaltungsakt
+
+*Bei einem Verwaltungsakt, oft als Bescheid bezeichnet, handelt es sich um eine hoheitliche Maßnahme einer Behörde auf dem Gebiet des öffentlichen Rechts zur Regelung eines Einzelfalls mit Außenwirkung.* Durch ihn werden abstrakt-generelle Gesetze im Einzelfall vollzogen. *Um Verwaltungsakte handelt es sich beispielsweise bei einer Baugenehmigung, einem polizeilichen Platzverweis oder einem Steuerbescheid.*
+
 :::
 
 <pinchView />

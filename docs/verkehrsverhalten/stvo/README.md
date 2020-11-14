@@ -12,9 +12,9 @@ pageClass: verkehrsverhalten
 
 </infoBox>
 
-<newSection title="§1 Grundregeln">
+<newSection title="§ 1 Grundregeln">
 
-## §1 Grundregeln
+## § 1 Grundregeln
 
 - *Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige Rücksicht,*
 - *Wer am Verkehr teilnimmt hat sich so zu verhalten, dass kein Anderer geschädigt, gefährdet oder mehr als nach den Umständen unvermeidbar, behindert oder belästigt wird.*
@@ -23,9 +23,9 @@ pageClass: verkehrsverhalten
 
 </newSection>
 
-<newSection title="§2 Straßenbenutzung durch Fahrzeuge">
+<newSection title="§ 2 Straßenbenutzung durch Fahrzeuge">
 
-## §2 Straßenbenutzung durch Fahrzeuge
+## § 2 Straßenbenutzung durch Fahrzeuge
 
 - *Rechtsfahrgebot*
 - *auf der eigenen Spur möglichst weit rechts fahren*
@@ -33,7 +33,6 @@ pageClass: verkehrsverhalten
 - *Bereifung ist den Wetterverhältnissen anzupassen*
 
 *Radfahrer*
-
 - Mit Fahrrädern nur hintereindander fahren, es sei denn, niemand wird behindert
 - Schilder zur Pflicht der Radwegnutzung in Fahrtrichtung
 - rechte Radwege ohne Zeichen dürfen genutzt werden
@@ -44,9 +43,9 @@ pageClass: verkehrsverhalten
 
 </newSection>
 
-<newSection title="§3 Geschwindigkeit">
+<newSection title="§ 3 Geschwindigkeit">
 
-## §3 Geschwindigkeit
+## § 3 Geschwindigkeit
 
 - Das Fahrzeug muss ständig beherrscht werden
 - an folgende Bedingungen angepasst: *Straßenbeschaffenheit,* *Verkehr,* *Sicht,* *Wetter,* *persönliche Fähigkeiten,* *Fahrzeug,* *Ladung*
@@ -89,9 +88,9 @@ pageClass: verkehrsverhalten
 
 </newSection>
 
-<newSection title="§4 Abstand">
+<newSection title="§ 4 Abstand">
 
-## §4 Abstand
+## § 4 Abstand
 
 - der Abstand zum Vorrausfahrenden muss so groß sein, dass man auch bei plötzlichen Bremsen noch anhalten kann
 - kein starkes Bremsen ohne zwingenden Grund
@@ -102,9 +101,9 @@ pageClass: verkehrsverhalten
 
 </newSection>
 
-<newSection title="§5 Überholen">
+<newSection title="§ 5 Überholen">
 
-## §5 Überholen
+## § 5 Überholen
 
 - nur links überholen
 - keine Gefährdung oder Behinderung
@@ -127,9 +126,9 @@ pageClass: verkehrsverhalten
 
 </newSection>
 
-<newSection title="§6 Vorbeifahren">
+<newSection title="§ 6 Vorbeifahren">
 
-## §6 Vorbeifahren
+## § 6 Vorbeifahren
 
 - der Vorbeifahrende muss den entegenkommenden Verkehr durchfahren lassen...
 - ...es sei denn, es wird durch Verkehrszeichen anders geregelt
@@ -137,13 +136,64 @@ pageClass: verkehrsverhalten
 
 </newSection>
 
-<newSection title="§7 Abgehende Fahrstreifen, Einfädelungs- und Ausfädelungsstreifen">
+<newSection title="§ 7 Abgehende Fahrstreifen, Einfädelungs- und Ausfädelungsstreifen">
 
-## §7 Abgehende Fahrstreifen, Einfädelungs- und Ausfädelungsstreifen
+## § 7 Abgehende Fahrstreifen, Einfädelungs- und Ausfädelungsstreifen
 
 - gehen Fahrstreifen von der Fahrbahn ab, die mit einer breiten Leitlinie getrennt sind, darf rechts von dieser schneller als links gefahren werden
 - außerorts und auf Autobahnen darf auf Einfädelungsstreifen schneller gefahren werden als auf den durchgehenden Fahrstreifen
 - auf Ausfädelungsstreifen darf nicht schneller gefahren werden als auf den durchgehenden Fahrstreifen...
-- ... jedoch darf bei stockendem Verkehr vorsichtig und mit mäßiger Geschwindigkeit überholt werden
+- ...jedoch darf bei stockendem Verkehr vorsichtig und mit mäßiger Geschwindigkeit überholt werden
+
+</newSection>
+
+<newSection title="§ 8 Vorfahrt">
+
+## § 8 Vorfahrt
+
+- generell gilt immer rechts vor links...
+- ...außer die Vorfahrt ist durch andere Verkehrszeichen geregelt...
+- ...oder für Fahrzeuge, die aus einem Feld- oder Waldweg kommen
+- sind vor einem Kreisverkehr die Zeichen 205 und 215 in Kombination aufgestellt, hat der Verkehr im Kreisverkehr Vorfahrt und...
+- ...bei der Einfahrt in den Kreisverkehr ist nicht zu blinken
+
+*Verhalten*
+
+- durch mäßige Geschwindigkeit Wartebereitschaft anzeigen
+- nur weiterfahren, wenn klar ist, wer Vorfahrt hat
+- wenn unübersichtlich, dann darf man sich in die Kreuzung hineintasten, um Übersicht zu bekommen
+- wer Vorfahrt hat, darf auch beim Abbiegen nicht wesentlich durch Wartende behindert werden
+
+</newSection>
+
+<newSection title="§ 9 Abbiegen, Wenden und Rückwärtsfahren">
+
+## § 9 Abbiegen, Wenden und Rückwärtsfahren
+
+- rechtzeitig und deutlich durch Blinken anzeigen
+- Rechtsabbieger müssen sich äußerst rechts, Linksabbieger äußerst links einordnen
+- auf längs verlegten Schienen dürfen sich Linksabbieger nur einordnen, wenn kein Schienenfahrzeug behindert wird
+- vor dem Einordnen nochmals auf den nachfolgenden Verkehr achten
+
+*Abbiegen mit Fahrrädern*
+
+- ein linksabbiegender Radfahrer braucht sich nicht links einordnen, wenn er die Fahrbahn hinter der Kreuzung überqueren will
+- beim Überqueren ist der Verkehr aus beiden Richtungen zu beachten
+- beim Nutzen eines Radweges, muss diesem im Kreuzungs- oder Einmündungsbereich gefolgt werden
+
+*Worauf ist Rücksicht zu nehmen?*
+
+- beim Abbiegen muss der entgegenkommende und der in gleicher Richtung fahrende Verkehr ( Schienenfahrzeuge, Fahrräder, Elektrokleinstfahrzeuge) durchgelassen werden
+- dies gilt auch für Fahrzeuge auf gekennzeichneten Sonderfahrstreifen
+- auf Fußgänger ist besondere Rücksicht zu nehmen, wenn nötig, ist zu warten
+
+*Besonderheiten beim links Abbiegen*
+
+- entgegenkommende Fahrzeuge, die ihrerseits rechts abbiegen wollen, müssen durchgelassen werden
+- entgegenkommende Fahrzeuge, die beide links abbiegen wollen, müssen voreinander abbiegen, es sei denn die Kreuzung ist so beschaffen, dass sie erst an eineander vorbeifahren müssen
+
+*Abbiegen, Wenden, Rückwärtsfahren*
+
+- beim Abbiegen, Wenden oder Rückwärtsfahren muss eine Gefährdung anderer ausgeschlossen sein, wenn erforderlich, muss man sich einweisen lassen
 
 </newSection>

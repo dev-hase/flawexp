@@ -10,10 +10,10 @@ mjx-container
 mjx-container > svg
     max-width 95% 
 
+
 body, html
-    //background-image url('/img/grunge.png')
-    background #eee
-    font-size .9rem !important
+    background #c6c6c6
+    font-size .95rem !important
     @media (max-width $MQMobile)
         letter-spacing -1px
         font-size .85rem !important
@@ -245,6 +245,7 @@ img
     
 
 .sidebar
+    border-right none
     background-color #222 !important
     // background linear-gradient(135deg, #222 36%, #444 100%) !important
     background-image url('/img/chess.png'), linear-gradient(135deg, #222 36%, #444 100%) !important
@@ -335,3 +336,46 @@ iframe
     min-height 200px
     @media (max-width $MQMobile)
         height 35vh
+
+
+.verkehrsverhalten
+    background tint($C-verkehrsverhalten, 80%)
+
+.pädagogik
+    background tint($C-paedagogik, 80%)
+
+.kommunikation
+    background tint($C-kommunikation, 80%)
+
+.psychologie
+    background tint($C-psychologie, 80%)
+
+.anhänger
+    background tint($C-anhaenger, 80%)
+
+.technik
+    background tint($C-technik, 80%)
+
+
+
+.sidebar::-webkit-scrollbar 
+    width .25em
+
+.sidebar::-webkit-scrollbar-thumb 
+    background-color $highlight
+
+.sidebar::-webkit-scrollbar-track 
+    background-color none
+
+
+body::-webkit-scrollbar 
+    width .75em
+
+body::-webkit-scrollbar-track 
+    background-color #444
+
+body::-webkit-scrollbar-thumb 
+  background-color $highlight
+
+div.page-nav .inner
+    border-top none
