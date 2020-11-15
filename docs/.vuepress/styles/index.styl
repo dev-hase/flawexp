@@ -14,13 +14,17 @@ mjx-container > svg
 body, html
     background #c6c6c6
     font-size .95rem !important
+    
     @media (max-width $MQMobile)
         letter-spacing -1px
         font-size .85rem !important
         overflow-wrap: break-word
 
+.theme-default-content:after
+    filter sepia(30%) saturate(97%) contrast(97%)
 
 .theme-default-content
+
     a
         outline none
         
@@ -103,7 +107,7 @@ em
             position relative
             margin-left 1.5rem
             padding .35rem 0
-            border-bottom 1px solid #bbb
+            border-bottom 1px solid #444
             color $textColor
             @media (max-width $MQMobile)
                 font-size .9rem
@@ -339,22 +343,22 @@ iframe
 
 
 .verkehrsverhalten
-    background tint($C-verkehrsverhalten, 85%)
+    background tint($C-verkehrsverhalten, 45%)
 
 .pädagogik
-    background tint($C-paedagogik, 85%)
+    background tint($C-paedagogik, 65%)
 
 .kommunikation
-    background tint($C-kommunikation, 85%)
+    background tint($C-kommunikation, 65%)
 
 .psychologie
-    background tint($C-psychologie, 85%)
+    background tint($C-psychologie, 55%)
 
 .anhänger
-    background tint($C-anhaenger, 85%)
+    background tint($C-anhaenger, 30%)
 
 .technik
-    background tint($C-technik, 85%)
+    background tint($C-technik, 35%)
 
 
 

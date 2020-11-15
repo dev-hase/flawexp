@@ -24,7 +24,7 @@ Die Stufenausbildung ist auf Grundlage der lernpsychologischer und pädagogische
 
 </infoBox>
 
-<newSection title="Gliederung der praktischen Ausbildung" addClass="law">
+<newSection title="Gliederung der praktischen Ausbildung ADK" addClass="law">
 
 ## Gliederung der praktischen Ausbildung
 
@@ -53,6 +53,34 @@ Die Stufenausbildung ist auf Grundlage der lernpsychologischer und pädagogische
 
 ![ADK](/img/media/adk.jpg "ADK")
 
+</newSection>
+
+<newSection title="Eine Stufenfolge der Ausbildungsziele nach Bruno Heilig" addClass="law">
+
+## Eine Stufenfolge der Ausbildungsziele nach Bruno Heilig
+
+Eine Konkretisierung und Stufung der Ausbildungsziele in der Fahrschüler-Ausbildungsordnung
+
+- *erste Stufe - Der geübte Fahrer*
+	- *Fahrfähigkeiten, Fahrfertigkeiten, Handling*
+	- Psychomotorische Fähigkeiten und Fertigkeiten der Kfz-Bedienung und -Beherrschung in unterschiedlichen Verkehrssituationen; Fertigkeiten der Funktionskontrolle, Fahrzeugwartung und -pflege
+
+- *zweite Stufe - Der regelkonforme Fahrer*
+	- *Legalität*
+	- Kenntnis der Verkehrsregeln und -zeichen, Akzeptanz, regelkonformes Fahrverhalten, Folgen von Regelverstößen, Versicherungsschutz
+
+- *dritte Stufe - Der sicherheitsbewusste Fahrer*
+	- *Sicherheitsbewusstsein*
+	- Wissen um Gefahren und Fahrfehler, Gefahrenkontrolle und -abwehr, niedrige Risikoakzeptanz und defensives Fahren, realistische Einschätzung der eigenen Fähig- und Fertigkeiten, Gefühle und Verkehrssicherheit
+
+- *vierte Stufe - Der partnerschaftliche Fahrer*
+	- *Kommunikation und Solidarität*
+	- Verständigung (Kommunikation) und Verständnis (Empathie), Höflichkeit, Rücksicht, Hilfe, Frustrationstoleranz
+
+- *fünfte Stufe - Der verantwortungsvolle Fahrer*
+	- *Verantwortungsbewusstsein*
+	- Leben und Gesundheit, Umwelt, Eigentum, Freiheit, Mobilität, verkehrsmoralisches Urteilen und Handeln, Selbstbeherrschung und Gefühle kontrollieren
+	
 </newSection>
 
 <newSection title="§ 5 Praktischer Unterricht (Fahrschüler-Ausbildungsordnung)" addClass="law">

@@ -36,9 +36,9 @@ Die fünf Motivationsquellen nach Barbuto und Scholl lassen sich wie folgt besch
 
 </newSection>
 
-<newSection title="Motive">
+<newSection title="Motive (allgemein)">
 
-## Motive
+## Motive (allgemein)
 
 *Als Motiv wird in der Psychologie eine relativ stabile Persönlichkeitseigenschaft bezeichnet, die beschreibt, wie wichtig einer Person eine bestimmte Art von Zielen ist.*
 
@@ -51,5 +51,27 @@ Eine weit verbreitete Ansicht im Diskurs hinsichtlich der Anzahl von Motiven bei
 - *Das Anschlussmotiv (Zugehörigkeit)* ist von dem Bedürfnis geprägt, positive Beziehungen mit anderen Menschen zu führen. Das häufige Aufsuchen von vertrautem Kontakt mit anderen Menschen, die Einfühlsamkeit für die Gefühle anderer und Warmherzigkeit sind Beispiele für Eigenschaften von Menschen mit einem ausgeprägten Anschlussmotiv.
 
 Abgesehen von diesen drei Basismotiven werden in der Forschung noch viele weitere Motive diskutiert, zum Beispiel das Geldmotiv, das Sicherheitsmotiv oder das Kompetenzmotiv. 
+
+</newSection>
+
+<newSection title="Motive / Extramotive (Verkehrspsychologie)">
+
+## Motive / Extramotive (Verkehrspsychologie)
+
+### intrumentelle / funktionalte Motive
+
+Z.B. ein Zielt möglichst schnell und reibungslos erreichen; etwas transportieren; *hier ist nicht das Autofahren an sich das Ziel, sondern dient dem Erreichen anderer Ziele.*
+
+### Extramotive
+
+*Motive, die über die instrumentelle Funktion des Fahrzeugs hinausgehen, z.B.:*
+
+- Stolz, ein schönes und leistungsstarkes Auto zu haben
+- wegen des Autos bewundert zu werdenv / anderen imponieren
+- Freude beim Fahren, Gefühle der Euphorie
+- sich als kompetenten Fahrer erleben
+- das Hochgefühl von Macht durch den Druck auf das Gaspedal
+- druch das Fahren Spannungen und Frustration abbauen
+- sich in das Auto zurückziehen / von Problemen wegfahren
 
 </newSection>

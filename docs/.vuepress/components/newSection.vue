@@ -54,10 +54,13 @@ export default {
             word-break break-word
 
         article
-            border 1px solid #333
-            padding 0 .5rem
-            box-shadow 4px 3px 5px #aaa
+            //border 1px solid #333
+            padding 0
+            box-shadow 4px 3px 5px #666
             background #fff
+
+            p, h1, h2, h3
+                padding 0 .5rem
 
         .law 
             ul
@@ -116,7 +119,7 @@ export default {
             color #eee
             margin-left 0 !important
             z-index 100
-            box-shadow 4px 3px 5px #aaa
+            box-shadow 4px 3px 5px #555
             cursor pointer
 
             font-size 1.4rem 
@@ -157,7 +160,7 @@ export default {
         em
             background tint($C-verkehrsverhalten, 15%)
         li:before
-            filter invert(60%) 
+            filter invert(25%) 
 
     .psychologie .newSectionHeader
         background $C-psychologie
@@ -170,7 +173,7 @@ export default {
         em
             background tint($C-psychologie, 15%)
         li:before
-            filter invert(60%) 
+            filter invert(25%) 
 
 
     .kommunikation .newSectionHeader
@@ -184,7 +187,7 @@ export default {
         em
             background tint($C-kommunikation, 15%)
         li:before
-            filter invert(60%) 
+            filter invert(25%) 
   
     .pädagogik .newSectionHeader
         background $C-paedagogik
@@ -197,7 +200,7 @@ export default {
         em
             background tint($C-paedagogik, 15%)
         li:before
-            filter invert(60%) 
+            filter invert(25%) 
 
     .anhänger .newSectionHeader
         background $C-anhaenger
@@ -210,7 +213,7 @@ export default {
         em
             background tint($C-anhaenger, 15%)
         li:before
-            filter invert(60%) 
+            filter invert(25%) 
 
     .technik .newSectionHeader
         background $C-technik
@@ -224,6 +227,6 @@ export default {
         em
             background tint($C-technik, 15%) 
         li:before
-            filter invert(60%) 
+            filter invert(25%) 
 
 </style>

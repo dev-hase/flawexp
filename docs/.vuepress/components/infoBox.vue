@@ -18,7 +18,7 @@ export default {
 
     .infoBox
         border 1px solid #333
-        box-shadow 4px 3px 5px #aaa
+        box-shadow 4px 3px 5px #555
         background-color #444
         color #eee
 

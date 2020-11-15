@@ -56,7 +56,7 @@ export default {
         ul
             position relative
             margin .25rem 0
-            background #c5c5c5
+            background #eee
             color #eee
             padding .5rem 1.5rem
             margin .75rem 0
