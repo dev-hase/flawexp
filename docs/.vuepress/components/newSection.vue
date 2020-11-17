@@ -56,7 +56,7 @@ export default {
         article
             //border 1px solid #333
             padding 0
-            box-shadow 4px 3px 5px #666
+            //box-shadow 4px 3px 4px #444
             background #fff
 
             p, h1, h2, h3
@@ -119,7 +119,7 @@ export default {
             color #eee
             margin-left 0 !important
             z-index 100
-            box-shadow 4px 3px 5px #555
+            //box-shadow 4px 0px 3px #444
             cursor pointer
 
             font-size 1.4rem 

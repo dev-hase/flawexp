@@ -54,7 +54,10 @@ export default {
             background-position center
 
     .theme-default-content:not(.newSection) > .video-box
-        box-shadow 4px 3px 5px #333
+        //box-shadow 4px 3px 4px #333
+
+    .theme-default-content:not(.newSection) > .video-box:first-of-type
+        margin-top .75rem !important
 
 
     .youtube:before
@@ -146,12 +149,12 @@ export default {
         min-width 70% !important
 
     .video-box 
-        margin 1rem 0 !important
+        margin 0 !important
 
     @media (min-width 1200px)
         .video-box 
             max-width 75% !important
-            margin 2rem 0 !important
+            // margin 0 !important
 
         iframe
             min-height 35vh
