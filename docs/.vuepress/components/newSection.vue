@@ -108,7 +108,7 @@ export default {
         .newSectionHeader
             position relative
             top 1.5rem
-            margin-bottom -2.5rem
+            margin-bottom -2.55rem
             display flex
             padding-top 1.75rem !important
             padding-bottom 1.75rem !important
