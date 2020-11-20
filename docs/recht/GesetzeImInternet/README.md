@@ -26,6 +26,8 @@ title: 'Gesetze im Internet'
 
 - *FeV* - Fahrerlaubnis-Verordnung <a href="https://www.gesetze-im-internet.de/fev_2010/FeV.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/fev_2010/" target="_blank">(HTML)</a> 
 
+- *StVZO* - Straßenverkehrs-Zulassungs-Ordnung <a href="https://www.gesetze-im-internet.de/stvzo_2012/StVZO.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/stvzo_2012/" target="_blank">(HTML)</a> 
+
 - *BKatV* - BußgeldkatalogVerordnung <a href="https://www.gesetze-im-internet.de/bkatv_2013/BKatV.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/bkatv_2013/" target="_blank">(HTML)</a> 
 
 - *StGB* - Strafgesetzbuch <a href="https://www.gesetze-im-internet.de/stgb/StGB.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/stgb/" target="_blank">(HTML)</a> 

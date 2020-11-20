@@ -50,6 +50,43 @@ Sie liegt auch dann vor, wenn der Schaden letztendlich durch das Verhalten eines
 
 ...ist die Herbeiführung einer Lage, in der Leib oder Leben eines anderen wahrscheinlich zu Schaden kommt.
 
+## Gewaltentrennung
+
+- *Legislative* - Der Bundestag und die Länderparlamente beschließen über Gesetze. Daher auch *"gesetzgebende Gewalt"*
+- *Exekutive* - Regierung, Verwaltung, Plizei; Die *"ausführende Gewalt"* darf nur im Rahmen der Gesetze tätig werden. Bestehen aber Gesetze, so müssen diese angewendet werden. Zudem erlässt die Exekutive *Verordnungen, Verwaltungsvorschriften, Richtlinien, Dienstanweisungen und Einzelanweisungen*
+- *Judikative* - Gerichte kontrollieren, ob sich die Legislative and die Verfassung hält und ob sich die Exekutive an die gesetzliche Ordnung hält; "rechtsprechende Gewalt"
+
+## fiskalisches Handeln
+
+*...wenn der Staat im Zivilrecht tätig wird*
+
+## ordentliche Gerichte
+
+- Bundesgerichtshof (Karlsruhe)
+- Oberlandesgericht
+- Landgericht
+- Amtsgericht
+
+## Öffentliches Recht
+
+Das öffentliche Recht regelt Sachverhalte, die unmittelbar *das Interesse der Allgemeinheit* und damit des Staates berühren. Der Staat handelt hier *einseitig* auf Grund von Gesetzen, die ihm das Recht dazu einräumen. Der Staat geht *hoheitlich* vor. Zum öffentlichen Recht gehören:
+
+- Staats- und Verfassungsrecht
+- Verwaltungsrecht
+- Strafrecht
+
+## Privatrecht
+
+Im Privatrecht werden vor allem *Beziehungen von Bürgern untereinander* geregelt. Die Betroffenen stehen sich gleichberechtigt gegenüber.
+
+## Schaden
+
+*...ist jeder Nachteil, den man in seinen Rechtsgütern erleidet;* dabei geht es vor allem um:
+
+- *Leib, Leben, Gesundheit*
+- *Eigentum*
+- *Freiheit*
+
 ## Schädigung
 
 *...ist die Zufügung eines wirtschaftlichen, vermögensrechtlich wägbaren Nachteils (OLG Hamburg DAR 65,329). Darunter fallen sowohl Körper- als auch Sachschäden*.
@@ -62,7 +99,13 @@ Unter Schädigung ist die Zufügung eines wirtschaftlichen, d. h. vermögensrech
 
 ## Verwaltungsakt
 
-*Bei einem Verwaltungsakt, oft als Bescheid bezeichnet, handelt es sich um eine hoheitliche Maßnahme einer Behörde auf dem Gebiet des öffentlichen Rechts zur Regelung eines Einzelfalls mit Außenwirkung.* Durch ihn werden abstrakt-generelle Gesetze im Einzelfall vollzogen. *Um Verwaltungsakte handelt es sich beispielsweise bei einer Baugenehmigung, einem polizeilichen Platzverweis oder einem Steuerbescheid.*
+*Bei einem Verwaltungsakt, oft als Bescheid bezeichnet, handelt es sich um eine hoheitliche Maßnahme einer Behörde auf dem Gebiet des öffentlichen Rechts zur Regelung eines Einzelfalls mit Außenwirkung.* Durch ihn werden abstrakt-generelle Gesetze im Einzelfall vollzogen. *Um Verwaltungsakte handelt es sich beispielsweise bei einer Baugenehmigung, einem polizeilichen Platzverweis oder einem Steuerbescheid.* Formen:
+
+- Schriftlich
+- Mündlich
+- Durch Zeichen und Weisungen
+
+Das förmliche Rechtsmittel gegen einen Verwaltungsakt ist der Widerspruch (innerhalb eines Monats)
 
 :::
 

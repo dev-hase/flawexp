@@ -36,17 +36,27 @@ Bei Ordnungswidrigkeiten nach § 23 StVG (Feilbieten nicht genehmigter Fz-teile)
 
 ## Zusammentreffen mehrerer Zuwiderhandlungen
 
-- *Tateinheit § 19 OwiG*
+### Tateinheit § 19 OwiG
 
-	- *Von Tateinheit spricht man, wenn durch ein und dieselbe Handlung mehrere Gesetze
-	gleichzeitig verletzt wurden.* *Es wird nur ein Bußgeld festgesetzt. Die Strafe bestimmt sich nach der schwersten Ordnungswidrigkeit.*
+*Von Tateinheit spricht man, wenn durch ein und dieselbe Handlung mehrere Gesetze
+gleichzeitig verletzt wurden.* *Es wird nur ein Bußgeld festgesetzt. Die Strafe bestimmt sich nach der schwersten Ordnungswidrigkeit.*
 
-	- Verletzt ein und dieselbe Handlung gleichzeitig eine OwiG und ein Strafgesetz, so wird nur das Strafgesetz angewendet (§ 21 OwiG); erfolgt keine Verurteilung, so kann dann doch die Owi geahndet werden!
+Verletzt ein und dieselbe Handlung gleichzeitig eine OwiG und ein Strafgesetz, so wird nur das Strafgesetz angewendet (§ 21 OwiG); erfolgt keine Verurteilung, so kann dann doch die Owi geahndet werden!
 
-- *Tatmehrheit § 20 OwiG*
+Beispiele:
 
-	- *Tatmehrheit liegt dann vor, wenn jemand durch mehrere Taten, die nicht im Zusammenhang miteinander stehen, jedesmal andere oder dasselbe Gesetz verletzt hat.* Der Täter faßt vor
-	jeder Tat einen neuen Entschluß; *sind mehrere Owi-Gesetze verletzt, so wird für jede Tat ein Bußgeld festgesetzt.*
+- Überschreiten der zulässigen Gewschwindigkeit und dabei Überholen im Überholverbot;
+- Rotlichtverstoß und dabei Sicherheitsgurt nicht angelegt;
+
+### Tatmehrheit § 20 OwiG
+
+*Tatmehrheit liegt dann vor, wenn jemand durch mehrere Taten, die nicht im Zusammenhang miteinander stehen, jedesmal andere oder dasselbe Gesetz verletzt hat.* Der Täter faßt vor
+jeder Tat einen neuen Entschluß; *sind mehrere Owi-Gesetze verletzt, so wird für jede Tat ein Bußgeld festgesetzt.*
+
+Beispiele:
+
+- Mehrere Geschwindigkeitsüberschreitungen, die mindestens 30 Minuten auseinander liegen;
+- Verkerhsdelikte auf der Autobahn einerseits und auf anderen Straßen andererseits;
 
 </newSection>
 

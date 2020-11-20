@@ -239,7 +239,7 @@ pageClass: verkehrsverhalten
 - über Schachtdeckeln und anderen Verschlüssen, wo durch Zeichen 315 oder eine Parkflächenmarkierung das Parken auf Gehwegen erlaubt ist
 - vor Bordsteinabsenkungen
 
-*Regelmäßige Parken mit Kraftfahrzeugen über 7.5t sowie mit Kraftfahrzeuganhängern über 2t ist innerhalb geschlossener Ortschaften in der Zeit von 22.00 bis 06.00 Uhr sowie an Sonn- und Feiertagen*
+*Regelmäßiges Parken mit Kraftfahrzeugen über 7.5t sowie mit Kraftfahrzeuganhängern über 2t ist innerhalb geschlossener Ortschaften in der Zeit von 22.00 bis 06.00 Uhr sowie an Sonn- und Feiertagen unzulässig...*
 
 - in reinen und allgemeinen Wohngebieten,
 - in Sondergebieten, die der Erholung dienen,
