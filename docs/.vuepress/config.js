@@ -91,6 +91,7 @@ module.exports = {
                 ['/verkehrsverhalten/unfall/', 'Verkersunfall'],
                 ['/verkehrsverhalten/kinder/', 'Kinder und Gefahrenwahrnehmung'],
                 ['/verkehrsverhalten/bf17/', 'BF 17'],
+                ['/verkehrsverhalten/probezeit/', 'Probezeit'],
                 ['/verkehrsverhalten/umweltfreundlich/', 'Umweltfreundlich Autofahren'],
                 ['/verkehrsverhalten/videos/', 'Videos'],
               ]

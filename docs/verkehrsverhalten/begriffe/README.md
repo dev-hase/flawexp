@@ -26,6 +26,25 @@ Parken ist zulässiger „Gemeingebrauch“, *Abstellen ist unzulässige „Sond
 
 Abgestellt sind Fz, die aus dem Verkehr gezogen sind und daher aus der Geltung des Straßenverkehrsrechts herausfallen, entweder weil sie nicht zugelassen oder nicht fahrbereit sind oder praktisch nicht als Verkehrsmittel benutzt werden.
 
+## ASF / Aufbauseminar für Fahranfänger
+
+*Wer in der Probezeit das erste Mal auffällig wird, bei dem verlängert sich diese auf 4 Jahre.* *Zusätzlich wird die Teilnahme an einem Aufbauseminar für Fahranfänger (ASF) angeordnet.* Es muss verpflichtend an diesem Seminar teilgenommen werden. *Wird nicht teilgenommen oder werden Teile des Seminars versäumt, wird die Fahrerlaubnis entzogen.*
+
+Ein solches Aufbauseminar findet in Fahrschulen mit besonderer Erlaubnis statt. Es gibt einen festen Ablaufplan, im Rahmen dessen ein Fahrlehrer eine Gruppe von Teilnehmern durch eine Art Erfahrungsaustausch zwischen Fahranfängern führt. *Die Teilnahmebescheinigung des ASF muss innerhalb der gesetzten Frist bei der Führerscheinstelle vorliegen.* Eine Anmeldung innerhalb der Frist reicht nicht aus.
+
+Ziele des ASF sind unter anderem:
+
+- Fahrzeugbeherrschung
+- Regelkenntnis und -beachtung
+- Gefahrenwahrnehmung
+- Einschätzung der eigenen Fähigkeiten
+- Kontrolle der eigenen Emotionen
+- Verantwortungsbewusstsein
+- Risikobewusstsein
+- Rücksichtnahme gegenüber anderen Verkehrsteilnehmern
+
+*Wird jemand das zweite Mal auffällig, bekommt er eine Verwarnung und die Möglichkeit zur Teilnahme an einer verkehrspsychologischen Beratung.* *Bei der dritten Auffälligkeit folgt der Entzug der Fahrerlaubnis.* Eine Wiedererteilung der Fahrerlaubnis ist frühestens nach 3 Monaten möglich. Unter welchen Bedingungen dir die Fahrerlaubnis erneut erteilt werden kann, wird durch die Führerscheinstelle festgelegt.
+
 ## Anhalteweg
 
 Der Anhalteweg setzt sich aus *Reaktionsweg und Bremsweg* zusammen.
