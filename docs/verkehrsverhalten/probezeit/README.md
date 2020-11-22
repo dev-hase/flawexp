@@ -7,6 +7,8 @@ pageClass: verkehrsverhalten
 
 # Probezeit
 
+![Probezeit](/img/media/probezeit.jpg "Probezeit")
+
 Um die Zahl der Unfälle bei jungen Fahrern möglichst gering zu halten, hat der Gesetzgeber einige Maßnahmen ergriffen. Eine davon ist die Probezeit beim Führerschein. Sie gilt für Fahranfänger der Fahrerlaubnisklassen A1, A2, A oder B. *Die Führerschein-Probezeit beginnt an dem Tag, an dem erstmals eine Fahrerlaubnis für eine der genannten Klassen erteilt wird und endet nach 2 Jahren, falls man in diesem Zeitraum nicht auffällig wird.* *Auffälligkeiten sind entweder einen Verstoß nach Katalog A (schwerwiegende Zuwiderhandlungen) oder 2 Verstöße nach Katalog B, also alle Verstöße, die ins Fahreignungsregister eingetragen werden.* Verwarnungen, z. B. wegen Falschparkens, führen nicht zu einer Probezeitverlängerung.
 
 <a href="https://www.gesetze-im-internet.de/stvg/__2a.html" target="_blank">(StVG) - § 2a Fahrerlaubnis auf Probe</a> 
@@ -69,4 +71,25 @@ Um die Zahl der Unfälle bei jungen Fahrern möglichst gering zu halten, hat der
 
 </newSection>
 
+<newSection title="ASF / Aufbauseminar für Fahranfänger">
 
+## ASF / Aufbauseminar für Fahranfänger
+
+*Wer in der Probezeit das erste Mal auffällig wird, bei dem verlängert sich diese auf 4 Jahre.* *Zusätzlich wird die Teilnahme an einem Aufbauseminar für Fahranfänger (ASF) angeordnet.* Es muss verpflichtend an diesem Seminar teilgenommen werden. *Wird nicht teilgenommen oder werden Teile des Seminars versäumt, wird die Fahrerlaubnis entzogen.*
+
+Ein solches Aufbauseminar findet in Fahrschulen mit besonderer Erlaubnis statt. Es gibt einen festen Ablaufplan, im Rahmen dessen ein Fahrlehrer eine Gruppe von Teilnehmern durch eine Art Erfahrungsaustausch zwischen Fahranfängern führt. *Die Teilnahmebescheinigung des ASF muss innerhalb der gesetzten Frist bei der Führerscheinstelle vorliegen.* Eine Anmeldung innerhalb der Frist reicht nicht aus.
+
+Ziele des ASF sind unter anderem:
+
+- Fahrzeugbeherrschung
+- Regelkenntnis und -beachtung
+- Gefahrenwahrnehmung
+- Einschätzung der eigenen Fähigkeiten
+- Kontrolle der eigenen Emotionen
+- Verantwortungsbewusstsein
+- Risikobewusstsein
+- Rücksichtnahme gegenüber anderen Verkehrsteilnehmern
+
+*Wird jemand das zweite Mal auffällig, bekommt er eine Verwarnung und die Möglichkeit zur Teilnahme an einer verkehrspsychologischen Beratung.* *Bei der dritten Auffälligkeit folgt der Entzug der Fahrerlaubnis.* Eine Wiedererteilung der Fahrerlaubnis ist frühestens nach 3 Monaten möglich. Unter welchen Bedingungen dir die Fahrerlaubnis erneut erteilt werden kann, wird durch die Führerscheinstelle festgelegt. 
+
+</newSection>

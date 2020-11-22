@@ -52,6 +52,18 @@ Dazu wurden verschiedene Modelle entwickelt. Die vier bekanntesten sind der soge
 - *Struktur des didaktisch reduzierten Lerngegenstandes* (formal und inhaltlich)
 - *Definition der Lernziele*, differenziert nach Reichweite, geistig-seelischer Dimension und Komplexität
 
+### Fünf didaktische Grundfragen nach Klafki
+
+*Klafki verlangt vom Lehrer in der Vorbereitung des Unterrichts unter anderem die Beantwortung der Frage, welchen Wert der geplante Unterrichtsinhalt für die Schüler hat.* Hierzu hat Klafki fünf Leitlinien definiert:
+
+- *Exemplarische Bedeutung* des Inhalts *(„Was können die Schüler mit dem heute Gelernten anfangen?“):* Auf welchen allgemeinen Sachverhalt, welches allgemeine Problem lässt der spezifische Inhalt schließen?
+- *Gegenwartsbedeutung* des Inhalts für die Lernenden *(„Was bedeutet es für die Schüler heute?“):* Welche Bedeutung hat der betreffende Inhalt im Leben der Schüler, welche Bedeutung soll er – vom pädagogischen Gesichtspunkt aus gesehen – darin haben?
+- *Zukunftsbedeutung* des Inhalts für die Lernenden *(„Was wird der Inhalt für die Schüler morgen bedeuten?“):* Worin liegt die Bedeutung des Themas für die Zukunft der Schüler?
+- Struktur des Inhalts („Was ist die Struktur meines Inhalts?“): Welches ist die Struktur des (durch Frage 2 und 3 in die spezifisch pädagogische Sicht gerückten) Inhalts?
+- *Zugänglichkeit auf Schülerseite bzw. der Darstellbarkeit des Inhalts auf der Lehrerseite* *(„Wie bringe ich es bei, welche Eselsbrücken gibt es?“):* Welches sind die besonderen Fälle, Phänomene, Situationen, Versuche, in oder an denen die Struktur des jeweiligen Inhalts den Kindern dieser Bildungsstufen, dieser Klasse interessant, fragwürdig, zugänglich, begreiflich, anschaulich werden kann?
+
+1985 wurde von Klafki selbst noch ein sechster Punkt hinzugefügt: „Erweisbarkeit und Überprüfbarkeit“, und zwar mit der Anmerkung, dass Schülerleistungskontrollen nur eine gesondert zu rechtfertigende Form der Überprüfung darstellten.
+
 </newSection>
 
 <newSection title="Methodische Analyse">

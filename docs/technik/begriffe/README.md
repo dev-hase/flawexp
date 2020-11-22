@@ -94,7 +94,7 @@ Die Starterbatterie erfüllt im Kraftfahrzeug verschiedenen Aufgaben:
 
 ## daN / Dekanewton
 
-Dekanewton (10 Newton) ist eine Einheit, die z. B. in der Hebetechnik wie auch bei Ladungssicherung zur Angabe der Tragfähigkeit oder der Bruchfestigkeit von Seilen oder Gurten verwendet wird und entspricht etwa der Gewichtskraft, die auf eine Masse von 1 kg wirkt. *Ein Seil mit einer Bruchlast von 1000 daN kann daher ungefähr 1000 kg tragen.*
+*Dekanewton (10 Newton) ist eine Einheit, die z. B. in der Hebetechnik wie auch bei Ladungssicherung zur Angabe der Tragfähigkeit oder der Bruchfestigkeit von Seilen oder Gurten verwendet wird und entspricht etwa der Gewichtskraft, die auf eine Masse von 1 kg wirkt.* *Ein Seil mit einer Bruchlast von 1000 daN kann daher ungefähr 1000 kg tragen.*
 
 ## Differential, Differentialgetriebe, Ausgleichsgetriebe
 

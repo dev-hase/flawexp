@@ -7,6 +7,8 @@ pageClass: verkehrsverhalten
 
 # Begleitetes Fahren (BF 17)
 
+![bf17](/img/media/bf17.jpg "bf17")
+
 *Begleitetes Fahren (BF 17), umgangssprachlich auch Führerschein ab 17 oder Führerschein mit 17, ist eine Sonderregelung in Deutschland bei der Zulassung von Personen zum Straßenverkehr. Dabei wird es Jugendlichen bereits mit 17 Jahren ermöglicht, eine Fahrerlaubnis der Klasse B oder BE zu erwerben.*
 
  *Ziel der Regelung ist es, die hohen Unfallquoten bei Fahranfängern zu senken, da diese häufig noch nicht über die notwendige Erfahrung, jedoch über eine hohe Risikobereitschaft verfügen.*
