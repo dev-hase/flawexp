@@ -7,6 +7,8 @@ pageClass: technik
 
 # Betriebsbremsanlage (BBA)
 
+![BBA](/img/media/bba.jpg "BBA")
+
 *Die Betriebsbremsanlage dient dazu, das Fahrzeug im normalen Betrieb zu verlangsamen und zum Stillstand zu bringen. Sie muss abstufbar sein und auf alle Räder des Fahrzeugs wirken.*
 
 Der Fahrer betätigt die Betriebsbremse bei nahezu allen mehrspurigen Kraftfahrzeugen über ein mit dem rechten Fuß zu betätigendes Pedal. Bei Krafträdern erfolgt die Betätigung der Betriebsbremse des Vorderrades über einen Handhebel rechts am Lenker und die Betätigung des Betriebsbremse des Hinterrades meist über ein mit dem rechten Fuß zu betätigendes Pedal oder (seltener, z. B. bei Motorrollern) über einen Handhebel links am Lenker.
@@ -83,7 +85,7 @@ Als Hauptbremszylinder bezeichnet man in der hydraulischen Bremsanlage den druck
 
 ## TT-Aufteilung (Schwarz-Weiß-Aufteilung)
 
-Dabei werden die Räder einer Achse durch jeweils einen Kreis angesteuert. Beim Ausfall eines Kreises stehen damit die Bremsen an den Rädern einer Achse zur Verfügung. Da bei einem Bremsvorgang die Bremsen an der Vorderachse den größeren Anteil der Bremsleistung erbringen, kann es zu einem verlängerten Bremsweg bei deren Ausfall kommen. In Kurven besteht die Gefahr des Ausbrechens. Bei Bremsungen entsteht allerdings kein Giermoment um die Fahrzeughochachse, sodass nicht zwingend ein negativer Lenkrollradius verwendet werden muss. Die TT-Aufteilung hat sich bei Nutzfahrzeugen als zweckmäßig erwiesen. Bei Rennfahrzeugen wird diese Art eingesetzt, weil damit auf einfache Weise die Bremskräfte auf Vorder- und Hinterachse verstellt werden können, bei der Formel 1 ist sie vorgeschrieben.
+*Dabei werden die Räder einer Achse durch jeweils einen Kreis angesteuert.* *Beim Ausfall eines Kreises stehen damit die Bremsen an den Rädern einer Achse zur Verfügung.* Da bei einem Bremsvorgang die Bremsen an der Vorderachse den größeren Anteil der Bremsleistung erbringen, kann es zu einem verlängerten Bremsweg bei deren Ausfall kommen. *In Kurven besteht die Gefahr des Ausbrechens.* Bei Bremsungen entsteht allerdings kein Giermoment um die Fahrzeughochachse, sodass nicht zwingend ein negativer Lenkrollradius verwendet werden muss. Die TT-Aufteilung hat sich bei Nutzfahrzeugen als zweckmäßig erwiesen. Bei Rennfahrzeugen wird diese Art eingesetzt, weil damit auf einfache Weise die Bremskräfte auf Vorder- und Hinterachse verstellt werden können, bei der Formel 1 ist sie vorgeschrieben.
 
 </newSection>
 
@@ -91,7 +93,7 @@ Dabei werden die Räder einer Achse durch jeweils einen Kreis angesteuert. Beim 
 
 ## K-Aufteilung (Diagonal-Zweikreisbremse)
 
-Bei der Diagonal-Aufteilung (auch X-Aufteilung) wird jeweils eines der diagonal gegenüber liegenden Räder der Vorder- und Hinterachse von einem Kreis versorgt. Im Falle des Ausfalls eines Kreises steht damit immer ein Rad an der Vorderachse zur Verfügung. Allerdings entsteht bei Bremsungen mit nur einem Bremskreis ein Giermoment um die Fahrzeughochachse, weil das eine gebremste Vorderrad wesentlich höhere Bremskräfte überträgt als das auf der anderen Fahrzeugseite liegende gebremste Hinterrad. Um eine ausreichende Fahrstabilität zu gewährleisten, ist deshalb ein negativer Lenkrollradius fast unausweichlich. Nachteilig ist auch, dass bei zu hoher thermischer Belastung der Bremsen an der Vorderachse beide Bremskreise gleichzeitig ausfallen können.
+*Bei der Diagonal-Aufteilung (auch X-Aufteilung) wird jeweils eines der diagonal gegenüber liegenden Räder der Vorder- und Hinterachse von einem Kreis versorgt.* *Im Falle des Ausfalls eines Kreises steht damit immer ein Rad an der Vorderachse zur Verfügung.* *Allerdings entsteht bei Bremsungen mit nur einem Bremskreis ein Giermoment um die Fahrzeughochachse, weil das eine gebremste Vorderrad wesentlich höhere Bremskräfte überträgt als das auf der anderen Fahrzeugseite liegende gebremste Hinterrad.* Um eine ausreichende Fahrstabilität zu gewährleisten, ist deshalb ein negativer Lenkrollradius fast unausweichlich. *Nachteilig ist auch, dass bei zu hoher thermischer Belastung der Bremsen an der Vorderachse beide Bremskreise gleichzeitig ausfallen können.*
 
 Diese Bauform wird vor allem bei frontgetriebenen Fahrzeugen verwendet, weil sie wegen der geringen Hinterachslast zumindest ein gebremstes Vorderrad benötigen, um die gesetzlichen Vorschriften für die Mindestverzögerung bei Ausfall eines Bremskreises erfüllen zu können.
 
@@ -101,7 +103,7 @@ Diese Bauform wird vor allem bei frontgetriebenen Fahrzeugen verwendet, weil sie
 
 ## LL-Aufteilung
 
-Dabei versorgt jeweils ein Kreis beide Räder der Vorderachse und jeweils ein Rad der Hinterachse. Die Scheibenbremsen der Vorderachse haben doppelte Bremskolben, die unabhängig voneinander angesteuert werden. Bei Ausfall eines Kreises stehen noch 80 Prozent der Bremsleistung zur Verfügung, da weiterhin beide Vorderräder und ein Rad der Hinterachse gebremst werden. 
+*Dabei versorgt jeweils ein Kreis beide Räder der Vorderachse und jeweils ein Rad der Hinterachse.* *Die Scheibenbremsen der Vorderachse haben doppelte Bremskolben, die unabhängig voneinander angesteuert werden.* *Bei Ausfall eines Kreises stehen noch 80 Prozent der Bremsleistung zur Verfügung,* da weiterhin beide Vorderräder und ein Rad der Hinterachse gebremst werden. 
 
 </newSection>
 
@@ -109,7 +111,7 @@ Dabei versorgt jeweils ein Kreis beide Räder der Vorderachse und jeweils ein Ra
 
 ## HT-Aufteilung
 
-Ein Kreis bremst alle Räder ab, der zweite Kreis steuert nur die Vorderachse an. Im Falle des Ausfalls eines Kreises steht zumindest die Vorderachsbremse zur Verfügung.
+*Ein Kreis bremst alle Räder ab, der zweite Kreis steuert nur die Vorderachse an.* *Im Falle des Ausfalls eines Kreises steht zumindest die Vorderachsbremse zur Verfügung.*
 
 </newSection>
 
@@ -117,6 +119,60 @@ Ein Kreis bremst alle Räder ab, der zweite Kreis steuert nur die Vorderachse an
 
 ## HH-Aufteilung
 
-Jeder Bremskreis versorgt alle Räder. Alle Bremsen haben doppelte Bremszylinder, die unabhängig voneinander angesteuert werden. Beim Ausfall eines Kreises steht trotzdem die volle Bremsleistung zur Verfügung.
+*Jeder Bremskreis versorgt alle Räder.* *Alle Bremsen haben doppelte Bremszylinder, die unabhängig voneinander angesteuert werden.* *Beim Ausfall eines Kreises steht trotzdem die volle Bremsleistung zur Verfügung.*
+
+</newSection>
+
+<infoBox>
+
+## Bremsflüssigkeit
+
+![Bremsflüssigkeit](/img/media/bremsfluessigkeit.jpg "Bremsflüssigkeit")
+
+*Bremsflüssigkeiten bestehen in der Regel hauptsächlich aus Polyglykolverbindungen sowie weiteren Bestandteilen (Korrosionsschutzmittel und Entschäumer) in geringerer Konzentration.* Seltener und in Spezialfällen (Oldtimer, Armee, Fahrräder usw.) kommen Silikonflüssigkeiten und Mineralöle zum Einsatz.
+
+</infoBox>
+
+<newSection title="Bremsflüssigkeit - Überblick">
+
+## Bremsflüssigkeit - Überblick
+
+*Neue, versiegelte Bremsflüssigkeit ist durch ihren Siedepunkt spezifiziert.* *Der Nasssiedepunkt wird nach Zumischung von ca. 3,5 % Wasser gemessen und beschreibt die Eigenschaft der auf Polyglykolen basierenden Bremsflüssigkeiten am Ende des Lebenszyklus.* Während der Benutzung wird der beschriebene Temperaturbereich vom Siedepunkt bis zum Nasssiedepunkt beschritten.
+
+*Bremsflüssigkeit ist hygroskopisch, das heißt, sie nimmt Wasser auf* – beispielsweise aus der Luft (Luftfeuchtigkeit). *Die Mischbarkeit mit Wasser ist erwünscht, um sicherzustellen, dass kein reines Wasser im Bremssystem auftreten kann: Das aufgenommene Wasser wird vollständig gelöst und eine Tropfenbildung verhindert.* *Freie Wassertropfen führen zu örtlicher Korrosion.* *Insbesondere könnte sich das schwerere Wasser im Bremszylinder sammeln und bei Erhitzung der Bremse auf etwa 100 °C verdampfen. Die entstehenden Dampfblasen können in ausreichender Menge einen sofortigen Ausfall der Bremsanlage zur Folge haben, da sie kompressibel sind.* *Zudem würden Wassertropfen bei Temperaturen unter dem Gefrierpunkt zu Eis erstarren und gegebenenfalls den Fluss der Bremsflüssigkeit behindern.*
+
+Wird im hydraulischen System Mineralöl anstelle von Bremsflüssigkeit verwendet, muss konstruktiv dafür gesorgt werden, dass entweder kein Wasser in den Bremskreislauf eintreten kann oder dass sich das Wasser an Stellen sammelt, die sich nicht über 100 °C erhitzen.
+
+</newSection>
+
+<newSection title="Bremsflüssigkeit - Bremsversagen">
+
+## Bremsflüssigkeit - Bremsversagen 
+
+Der Siedepunkt der Bremsflüssigkeit muss stets ausreichend hoch sein, um Blasenbildung bei Erhitzung zu vermeiden. Aufgenommenes Wasser senkt den Siedepunkt der Bremsflüssigkeit.
+
+*Ein Wasseranteil von über 3 % kann bei starker Erhitzung der Bremsflüssigkeit zum Ausfall der Bremsanlage führen.* Wenn der Siedepunkt erreicht ist und das Bremspedal kurz losgelassen wird, bilden sich Dampfblasen, welche die Bremsflüssigkeit aus den Leitungen zurück in den Ausgleichsbehälter drücken. Beim nächsten Betätigen des Pedals wird dann zuerst die Dampfblase im System komprimiert, ohne Bremsdruck und damit Bremswirkung zu erzeugen, was sich in einem „Durchfallen“ des Bremspedals äußert (das Bremspedal kann schlimmstenfalls bis zum Bodenblech durchgetreten werden).
+
+*Durch wiederholtes und schnelles Nachtreten des Pedals kann die Bremswirkung zumindest teilweise wiederhergestellt werden.* Ein Tandem-Hauptbremszylinder, der in sehr vielen handelsüblichen Fahrzeugen verbaut wird, ist konstruktiv so gestaltet, dass durch die Nachlaufbohrung eine Umströmung der Manschette ermöglicht wird und somit die Bremsflüssigkeit aus dem Ausgleichsbehälter nachgepumpt werden kann. Infolgedessen wird der Expansionsraum der Dampfblasen wieder verringert und die notwendige Bremskraft zur Verzögerung kann sukzessive wieder aufgebaut werden.
+
+</newSection>
+
+<newSection title="Bremsflüssigkeit - Korrosion">
+
+## Bremsflüssigkeit - Korrosion 
+
+*In der Bremsflüssigkeit gelöstes Wasser fördert die Korrosion innerhalb der Bremsanlage.* *Durch Lochfraß wird je nach Aufbau des Bremssystems meist die Oberfläche des Bremskolbens beschädigt, so dass die Dichtmanschetten in den Radbremszylindern nicht mehr 100 % abdichten können.* *Gleiches gilt für die Nut im Radbremszylinder, in der die Dichtmanschette sitzt.* *Austretende Bremsflüssigkeit kann so auf die Bremsbeläge gelangen und einen Verlust der Bremswirkung verursachen.* Im Endstadium klemmen die betroffenen Bremskolben in den Zylindern und die Bremse geht fest. Im Tandem-Hauptbremszylinder ist das umgekehrt: Hier sitzen die Manschetten auf den Kolben und laufen auf den Zylinderoberflächen. Korrodieren diese, tritt Bremsflüssigkeit aus und kann über den Bremsenservo nach unten laufen, nach einiger Zeit sichtbar an einer Rostspur, da Bremsflüssigkeit auf Glycolbasis dessen Beschichtung beschädigt und das Material angreift.
+
+Bremsflüssigkeiten werden den Normen entsprechend Korrosionsschutzmittel zugesetzt, die jedoch bei einem Wasseranteil von über 3 % in der Wirkung nachlassen.
+
+</newSection>
+
+<newSection title="Bremsflüssigkeit - Wartung">
+
+## Bremsflüssigkeit - Wartung 
+
+*Die Siedetemperatur von Bremsflüssigkeiten kann in Werkstätten gemessen werden.* *Da der Wasseranteil aufgrund der Hygroskopie mit der Zeit steigt, sehen viele Wartungspläne aus Sicherheitsgründen alle zwei Jahre den kompletten Austausch der Bremsflüssigkeit vor, unabhängig von der Benutzung des Fahrzeugs und dem tatsächlichen Wasseranteil.*
+
+Unproblematisch ist Bremsflüssigkeit nach DOT 5 auf Silikonbasis. Diese ist besonders für Oldtimer von Vorteil, die nicht dauernd bewegt werden und im Winter längere Standzeiten haben. Korrosion kann aufgrund der stark hydrophoben (wasserabstoßenden) Beschaffenheit von Silikon innerhalb des Bremssystems praktisch nicht mehr auftreten. Auch eine Herabsetzung des Siedepunktes durch Wasseraufnahme findet nicht mehr statt, so dass mit DOT 5 befüllte Bremsanlagen weniger Wartung benötigen.
 
 </newSection>
