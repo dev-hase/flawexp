@@ -71,6 +71,34 @@ Bei zwei Jahren Vorbesitz A1 lediglich praktische Prüfung
 
 </newSection>
 
+<newSection title="A" addClass="law">
+
+## A
+
+*Fahrzeugart*
+
+1. Krafträder (auch mit Beiwagen)
+	- über 45 km/h
+	- über 50 cm<sup>3</sup>
+
+
+2. dreirädrige Kraftfahrzeuge
+	- über 45 km/h
+	- über 50 cm<sup>3</sup>
+	- über 15 kW
+
+*Mindestalter:* 
+
+- *24 Jahre (Krafträder bei Direktzugang)*
+- *21 Jahre (dreirädrige Kraftfahrzeuge über 15 kW)*
+- *20 Jahre (Krafträder bei mindestens zwei Jahren Vorbesitz A2)*
+
+*Eingeschlossen:* *AM* *A1* *A2*
+
+Bei zwei Jahren Vorbesitz A2 lediglich praktische Prüfung
+
+</newSection>
+
 <newSection title="B" addClass="law">
 
 ## B
@@ -120,5 +148,23 @@ Unter 18 Jahren nur Fahrten im Inland bzw. nur Fahrten im Rahmen der Ausbildung
 *Eingeschlossen:* *AM* *L*
 
 Erwerb durch praktische Prüfung
+
+</newSection>
+
+<newSection title="L" addClass="law">
+
+## L
+
+*Fahrzeugart*
+
+1. Land- und forstwirtschaftliche Zugmaschinen
+	- bis 40 km/h
+	- auch mit Anhängern (bis 25 km/h)
+
+2. selbstfahrende Arbeitsmaschinen, slebstfahrende Futtermischwägen, Stapler und andere Flurförderfahrzeuge
+	- bis 25 km/h
+	- auch mit Anhängern
+
+*Mindestalter:* *16 Jahre*
 
 </newSection>

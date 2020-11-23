@@ -24,6 +24,8 @@ title: 'Gesetze im Internet'
 
 - *FahrlPrüfV* - Fahrlehrer-Prüfungsverordnung <a href="https://www.gesetze-im-internet.de/fahrlpr_fv/FahrlPr%C3%BCfV.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/fahrlpr_fv/" target="_blank">(HTML)</a>
 
+- *FahrlG* - Fahrlehrergesetz <a href="https://www.gesetze-im-internet.de/fahrlg_2018/FahrlG.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/fahrlg_2018/" target="_blank">(HTML)</a>
+
 - *FeV* - Fahrerlaubnis-Verordnung <a href="https://www.gesetze-im-internet.de/fev_2010/FeV.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/fev_2010/" target="_blank">(HTML)</a> 
 
 - *StVZO* - Straßenverkehrs-Zulassungs-Ordnung <a href="https://www.gesetze-im-internet.de/stvzo_2012/StVZO.pdf" target="_blank">(PDF)</a> <a href="https://www.gesetze-im-internet.de/stvzo_2012/" target="_blank">(HTML)</a> 
